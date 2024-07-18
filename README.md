@@ -14,4 +14,8 @@ ran the download episodes program courtesy of chat-GPT
 `node download-episodes.js` 
 
 
+## example whisper command for reference
 whisper downloads/Pro-Crastinators-Podcast-0001.mp3 --language English --output_dir whisper_output --initial_prompt "This is a podcast called The Pro Crastinators Podcast. A variety podcast running since 2015. Currently hosted by are Ben Saint and Gibbontake(or Hippocrit). Members have included Nate Bestman, Endless Jess, Digibro, Mumkey Jones, Geoff Thew, Tom Oliver, The Davoo, Mage, and Munchy."
+
+to run whisper on all the downloaded files
+`node batch-run-whisper.js` 

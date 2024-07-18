@@ -31,8 +31,13 @@ const main = async () => {
             input: fileStream,
             crlfDelay: Infinity
         });
-
+        let lineNum = 0;
         for await (const line of rl) {
+            lineNum++;
+            if (lineNum < 349) { // starting from this line in the list of downloads
+                continue;
+            }
+    
             const urlMatch = line.match(/href="(mp3s\/[^"]+)"/);
             if (urlMatch && urlMatch[1]) {
                 const fileUrl = urlMatch[1];
