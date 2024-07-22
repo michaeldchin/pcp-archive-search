@@ -1,0 +1,4432 @@
+1
+00:00:00,000 --> 00:00:05,000
+This episode of The Pro Crastinators Podcast was bought to you by our bonus episode.
+
+2
+00:00:05,000 --> 00:00:11,000
+Go to patreon.com slash The Pro Crastinators and pledge five dollars or more to get access to all our bonus monthly episodes.
+
+3
+00:00:11,000 --> 00:00:16,000
+Last month's episode was Gamergate vs. the 2016 presidential election.
+
+4
+00:00:16,000 --> 00:00:22,000
+Donald and Hillary, the original Goku and Vegeta will unite when the world needs them most.
+
+5
+00:00:22,000 --> 00:00:25,000
+It is the Gurren Lagann to the elections Kill La Kill.
+
+6
+00:00:25,000 --> 00:00:30,000
+All of these fucking psychopathic, Ben-Saintian, blue-pilled motherfuckers.
+
+7
+00:00:30,000 --> 00:00:34,000
+A depression quest. The greatest indie game in ever made.
+
+8
+00:00:34,000 --> 00:00:37,000
+Jeb was a fantastic character. I want his narrative to keep going.
+
+9
+00:00:37,000 --> 00:00:41,000
+God-tier Dorito, Dustin, Crustin, red-pilled motherfuckers who said,
+
+10
+00:00:41,000 --> 00:00:43,000
+No, not our video games.
+
+11
+00:00:43,000 --> 00:00:47,000
+You don't give a fuck about Gamergate, but Donald Trump, he's my dad.
+
+12
+00:00:47,000 --> 00:00:51,000
+You don't know shit until you hear about my boy, Ted Cruz.
+
+13
+00:00:51,000 --> 00:01:00,000
+That's patreon.com slash The Pro Crastinators, making bonus episodes great again, every single time.
+
+14
+00:01:22,000 --> 00:01:31,000
+Hello everyone, and welcome to another episode of The Pro Crastinators podcast.
+
+15
+00:01:31,000 --> 00:01:34,000
+It's me, your host, and your boy, Ben-Saint here.
+
+16
+00:01:34,000 --> 00:01:38,000
+And I'm here with Munchywares Tiny Hats.
+
+17
+00:01:38,000 --> 00:01:40,000
+Hey everyone, welcome to my Photoshop tutorial.
+
+18
+00:01:40,000 --> 00:01:42,000
+I'm going to be teaching you how to make a gradient transparent.
+
+19
+00:01:42,000 --> 00:01:44,000
+Let's start with the break-up of the Ottoman Empire.
+
+20
+00:01:44,000 --> 00:01:46,000
+It's going to be a really easy Photoshop tutorial.
+
+21
+00:01:46,000 --> 00:01:48,000
+I have to explain the entire history of the Middle East first, though.
+
+22
+00:01:48,000 --> 00:01:52,000
+What the fuck, and we're here with Tom Oliver.
+
+23
+00:01:52,000 --> 00:01:55,000
+I'm here talking about the topic.
+
+24
+00:01:55,000 --> 00:01:58,000
+I also, I had Zabram earlier, so I'm going to be silly today.
+
+25
+00:01:58,000 --> 00:01:59,000
+Let's do it.
+
+26
+00:01:59,000 --> 00:02:03,000
+Whoa, and there's also the best guy ever.
+
+27
+00:02:03,000 --> 00:02:05,000
+I did the mash.
+
+28
+00:02:05,000 --> 00:02:08,000
+I did the race war mash.
+
+29
+00:02:08,000 --> 00:02:10,000
+What? What is going on?
+
+30
+00:02:10,000 --> 00:02:13,000
+What were you doing earlier, and why didn't you invite me?
+
+31
+00:02:14,000 --> 00:02:19,000
+And in a rare twist of fate, we've got Lethal Aurora Mage.
+
+32
+00:02:19,000 --> 00:02:23,000
+Can this mean that I'm not on the podcast die already?
+
+33
+00:02:23,000 --> 00:02:26,000
+You have to fix it. You're the master of your own main destiny.
+
+34
+00:02:26,000 --> 00:02:30,000
+I was on the podcast like a month ago for the whole month.
+
+35
+00:02:30,000 --> 00:02:32,000
+Mage, you're the only female member of the PCP,
+
+36
+00:02:32,000 --> 00:02:36,000
+which means you have to be here five times as often to count for anything.
+
+37
+00:02:36,000 --> 00:02:39,000
+I haven't seen you been Lethal once.
+
+38
+00:02:39,000 --> 00:02:42,000
+You're a representative for your entire gender.
+
+39
+00:02:42,000 --> 00:02:44,000
+It's all writing on you.
+
+40
+00:02:44,000 --> 00:02:46,000
+My gender is purple. Excuse you.
+
+41
+00:02:46,000 --> 00:02:49,000
+You're the only purple gender on the podcast.
+
+42
+00:02:49,000 --> 00:02:53,000
+The PCP is the most gender-realist podcast on the net,
+
+43
+00:02:53,000 --> 00:02:56,000
+and we need the other side to be there as a strawman
+
+44
+00:02:56,000 --> 00:02:59,000
+that we can defeat week after week after week.
+
+45
+00:02:59,000 --> 00:03:01,000
+I personally find this very vivid aquamarine.
+
+46
+00:03:01,000 --> 00:03:03,000
+That's true. That's true.
+
+47
+00:03:03,000 --> 00:03:09,000
+Ben, why don't you tell us what the fuck we're doing, you baby boy?
+
+48
+00:03:09,000 --> 00:03:12,000
+We're talking about monsters,
+
+49
+00:03:12,000 --> 00:03:15,000
+which we thoroughly, thoroughly covered,
+
+50
+00:03:15,000 --> 00:03:18,000
+and pretty much said all there is to say about on the drawcast,
+
+51
+00:03:18,000 --> 00:03:21,000
+the ultimate PCP content.
+
+52
+00:03:21,000 --> 00:03:27,000
+They say a picture's worth a thousand words,
+
+53
+00:03:27,000 --> 00:03:29,000
+but if all those words are fucking bullshit,
+
+54
+00:03:29,000 --> 00:03:31,000
+you've got to come in with some real words that are targeted.
+
+55
+00:03:31,000 --> 00:03:36,000
+All we have to do is increase the number of word count in this episode
+
+56
+00:03:36,000 --> 00:03:38,000
+by number of pictures produced in that podcast,
+
+57
+00:03:38,000 --> 00:03:40,000
+multiplied by a thousand.
+
+58
+00:03:40,000 --> 00:03:42,000
+We just have to talk more than that,
+
+59
+00:03:42,000 --> 00:03:44,000
+which I think is an easily attainable goal.
+
+60
+00:03:44,000 --> 00:03:46,000
+One of these Superfans, Denix Jack,
+
+61
+00:03:46,000 --> 00:03:48,000
+count the number of words that are in this podcast
+
+62
+00:03:48,000 --> 00:03:50,000
+and tell us if we meet it.
+
+63
+00:03:50,000 --> 00:03:54,000
+What happened was me, Ben, and Major were all squibbling
+
+64
+00:03:54,000 --> 00:03:58,000
+in our scribed in, in the inner walls of Jericho,
+
+65
+00:03:58,000 --> 00:04:02,000
+and the villain thief, Nate, was peering over the palace walls,
+
+66
+00:04:02,000 --> 00:04:04,000
+trying to learn our trade secrets,
+
+67
+00:04:04,000 --> 00:04:07,000
+and so he banished forever from the garden of even
+
+68
+00:04:07,000 --> 00:04:09,000
+that is the PCP drawcast.
+
+69
+00:04:09,000 --> 00:04:12,000
+Like Adam before, cast Wrout into your drawcast.
+
+70
+00:04:12,000 --> 00:04:15,000
+He has to reverse this podcast, this drawcast topic,
+
+71
+00:04:15,000 --> 00:04:17,000
+so he can get his grubby fucking hands on it.
+
+72
+00:04:17,000 --> 00:04:19,000
+That's what's happened here today.
+
+73
+00:04:19,000 --> 00:04:22,000
+There was just too much, too much delicious, rich content
+
+74
+00:04:22,000 --> 00:04:25,000
+within the subject of monsters to just be left there
+
+75
+00:04:25,000 --> 00:04:30,000
+in the festering dirty floor of the drawcast.
+
+76
+00:04:30,000 --> 00:04:33,000
+There's never enough monsters if you ask me, so I'm here.
+
+77
+00:04:33,000 --> 00:04:36,000
+I don't know, I don't even think monsters are real guys.
+
+78
+00:04:36,000 --> 00:04:38,000
+Ben, I don't know what a monster is.
+
+79
+00:04:38,000 --> 00:04:41,000
+I've never had that explained to me before.
+
+80
+00:04:41,000 --> 00:04:43,000
+Can I, can I cut in here for a moment?
+
+81
+00:04:43,000 --> 00:04:45,000
+I would like to describe to everyone what exactly
+
+82
+00:04:45,000 --> 00:04:47,000
+a monster is that we're talking about.
+
+83
+00:04:47,000 --> 00:04:48,000
+Okay, so here we go.
+
+84
+00:04:48,000 --> 00:04:50,000
+Urban Dictionary, our old buddy, tells us
+
+85
+00:04:50,000 --> 00:04:53,000
+that a monster is nuclear horse piss
+
+86
+00:04:53,000 --> 00:04:56,000
+sold as a disgusting energy drink.
+
+87
+00:04:56,000 --> 00:04:57,000
+Oh shit!
+
+88
+00:04:57,000 --> 00:04:59,000
+What a monster is, yep.
+
+89
+00:04:59,000 --> 00:05:01,000
+Let's see what else we got here.
+
+90
+00:05:01,000 --> 00:05:03,000
+Describing anything that is large,
+
+91
+00:05:03,000 --> 00:05:06,000
+these are all part of one definition apparently.
+
+92
+00:05:06,000 --> 00:05:09,000
+The creature that lives in your closet and under your bed,
+
+93
+00:05:09,000 --> 00:05:11,000
+okay, and then one last one,
+
+94
+00:05:11,000 --> 00:05:15,000
+a sadistic pedophile who molests and rapes children he abducts.
+
+95
+00:05:15,000 --> 00:05:17,000
+Whoa, I didn't know Nick was a monster.
+
+96
+00:05:17,000 --> 00:05:21,000
+None of these descriptions describe monsters
+
+97
+00:05:21,000 --> 00:05:22,000
+that we're talking about.
+
+98
+00:05:22,000 --> 00:05:26,000
+Monsters are scary, mostly fuzzy things that go brar
+
+99
+00:05:26,000 --> 00:05:28,000
+and I go, ah!
+
+100
+00:05:28,000 --> 00:05:30,000
+I know about monsters.
+
+101
+00:05:30,000 --> 00:05:32,000
+I imagine monsters are like creatures that don't exist.
+
+102
+00:05:32,000 --> 00:05:35,000
+Monsters are like big men with rubber on their face.
+
+103
+00:05:35,000 --> 00:05:38,000
+All I know about monsters is that they're incorporated
+
+104
+00:05:38,000 --> 00:05:40,000
+and they're great people.
+
+105
+00:05:40,000 --> 00:05:45,000
+Monsters are usually fuzzy fucking government fat cats
+
+106
+00:05:45,000 --> 00:05:47,000
+who just want to subjugate the weak.
+
+107
+00:05:47,000 --> 00:05:49,000
+Alright, listen to this one more definition of monster.
+
+108
+00:05:49,000 --> 00:05:51,000
+This one is like the third most popular.
+
+109
+00:05:51,000 --> 00:05:54,000
+It's what you become when you break up with a girl.
+
+110
+00:05:54,000 --> 00:05:57,000
+What the hell is this?
+
+111
+00:05:57,000 --> 00:05:59,000
+Man, listen to this quote.
+
+112
+00:05:59,000 --> 00:06:00,000
+Man, we need to talk.
+
+113
+00:06:00,000 --> 00:06:02,000
+Woman, you're a monster.
+
+114
+00:06:02,000 --> 00:06:07,000
+Dude, that's some real shit, man.
+
+115
+00:06:07,000 --> 00:06:08,000
+That's fantastic.
+
+116
+00:06:08,000 --> 00:06:10,000
+Monsters are fake things that scare me.
+
+117
+00:06:10,000 --> 00:06:11,000
+I know.
+
+118
+00:06:11,000 --> 00:06:13,000
+Much like all fake things.
+
+119
+00:06:13,000 --> 00:06:17,000
+As I exist only and completely within the realm of reality.
+
+120
+00:06:17,000 --> 00:06:20,000
+Whenever I'm confronted with things that are not in fact real,
+
+121
+00:06:20,000 --> 00:06:22,000
+I can't contain my emotions
+
+122
+00:06:22,000 --> 00:06:26,000
+and all my anger and sadness flows out of my body
+
+123
+00:06:26,000 --> 00:06:29,000
+when I'm confronted with a fictional being.
+
+124
+00:06:29,000 --> 00:06:31,000
+Alright, let's go around real quick
+
+125
+00:06:31,000 --> 00:06:33,000
+and everybody talk about either your favorite
+
+126
+00:06:33,000 --> 00:06:35,000
+or a favorite monster of yours.
+
+127
+00:06:35,000 --> 00:06:38,000
+The Slender Man is a monster who has tentacles
+
+128
+00:06:38,000 --> 00:06:40,000
+and he's really tall and he is a black suit.
+
+129
+00:06:40,000 --> 00:06:41,000
+Dude.
+
+130
+00:06:41,000 --> 00:06:42,000
+And all the fucking other ones,
+
+131
+00:06:42,000 --> 00:06:47,000
+okay, Marble Hornets is the best fucking creepy ARG on the planet.
+
+132
+00:06:47,000 --> 00:06:50,000
+And all the bullshit, like Tribe 12 and fucking Everyman Hybrid,
+
+133
+00:06:50,000 --> 00:06:51,000
+all that shit is horrible.
+
+134
+00:06:51,000 --> 00:06:54,000
+I tried watching Everyman Hybrid and it fucking sucked shit.
+
+135
+00:06:54,000 --> 00:06:55,000
+It made no sense.
+
+136
+00:06:55,000 --> 00:06:57,000
+It was purposely just trying to be like a weird meta.
+
+137
+00:06:57,000 --> 00:06:59,000
+It was fucking like the reluctant YouTuber,
+
+138
+00:06:59,000 --> 00:07:01,000
+but if it was a Slender Man ARG,
+
+139
+00:07:01,000 --> 00:07:03,000
+that's what Everyman Hybrid is.
+
+140
+00:07:03,000 --> 00:07:05,000
+Marble Hornets was OG shit.
+
+141
+00:07:05,000 --> 00:07:07,000
+Marble Hornets is fucking,
+
+142
+00:07:07,000 --> 00:07:11,000
+what does Alicorn Twilight Princess Sparkle mean to you?
+
+143
+00:07:11,000 --> 00:07:12,000
+That's what fucking Marble Hornets is.
+
+144
+00:07:12,000 --> 00:07:14,000
+That's the real shit.
+
+145
+00:07:14,000 --> 00:07:15,000
+I love Marble Hornets.
+
+146
+00:07:15,000 --> 00:07:17,000
+Slender Man, he's not even called Slender Man that way.
+
+147
+00:07:17,000 --> 00:07:18,000
+He's called the operator.
+
+148
+00:07:18,000 --> 00:07:20,000
+You can operate your sickness if you look at him.
+
+149
+00:07:20,000 --> 00:07:21,000
+The screen shakes.
+
+150
+00:07:21,000 --> 00:07:23,000
+I have operate your sickness whenever I get on the PCP
+
+151
+00:07:23,000 --> 00:07:25,000
+because the PCP is just too powerful
+
+152
+00:07:25,000 --> 00:07:27,000
+and it reminds me too much of Slender Man.
+
+153
+00:07:27,000 --> 00:07:31,000
+Slender Man used to be my waifu before it was cool.
+
+154
+00:07:31,000 --> 00:07:32,000
+Really? Is that true?
+
+155
+00:07:32,000 --> 00:07:36,000
+Has anyone else seen Everyman Hybrid and Marble Hornets?
+
+156
+00:07:36,000 --> 00:07:37,000
+Because I actually have.
+
+157
+00:07:37,000 --> 00:07:39,000
+I have seen Marble Hornets.
+
+158
+00:07:39,000 --> 00:07:41,000
+No, I've never seen them been.
+
+159
+00:07:41,000 --> 00:07:43,000
+Well, I mean, besides you.
+
+160
+00:07:43,000 --> 00:07:46,000
+See, I saw them thinking that probably nobody else
+
+161
+00:07:46,000 --> 00:07:48,000
+on this podcast would have ever seen them.
+
+162
+00:07:48,000 --> 00:07:49,000
+I saw Marble Hornets.
+
+163
+00:07:49,000 --> 00:07:50,000
+Guys, guys, guys.
+
+164
+00:07:50,000 --> 00:07:53,000
+I knew about Slender Man before it became popular.
+
+165
+00:07:53,000 --> 00:07:57,000
+It was just around the time, just before it became mainstream.
+
+166
+00:07:57,000 --> 00:08:01,000
+I was fucking post about it on Reddit.
+
+167
+00:08:01,000 --> 00:08:03,000
+So I can upvote you then, god damn it.
+
+168
+00:08:03,000 --> 00:08:05,000
+I was fucking Marble Hornets before it was even done.
+
+169
+00:08:05,000 --> 00:08:08,000
+I was Marble Hornets before they even found out
+
+170
+00:08:08,000 --> 00:08:10,000
+that Tim was the mascot.
+
+171
+00:08:10,000 --> 00:08:11,000
+I'm fucking day one.
+
+172
+00:08:11,000 --> 00:08:13,000
+I'm fucking day fucking one.
+
+173
+00:08:13,000 --> 00:08:15,000
+Pulls off mask.
+
+174
+00:08:15,000 --> 00:08:18,000
+My face is revealed to be a hornet made of marble.
+
+175
+00:08:18,000 --> 00:08:19,000
+That's me.
+
+176
+00:08:19,000 --> 00:08:20,000
+I did it.
+
+177
+00:08:20,000 --> 00:08:22,000
+Am I the joke, guys?
+
+178
+00:08:22,000 --> 00:08:23,000
+That's good, right?
+
+179
+00:08:23,000 --> 00:08:24,000
+You would like Marble Hornets.
+
+180
+00:08:24,000 --> 00:08:25,000
+You would like it.
+
+181
+00:08:25,000 --> 00:08:26,000
+Because there's a bunch of fucking...
+
+182
+00:08:26,000 --> 00:08:27,000
+I'm googling it right now.
+
+183
+00:08:27,000 --> 00:08:29,000
+I'm looking at the weird spooky shit here.
+
+184
+00:08:29,000 --> 00:08:30,000
+There's a bunch of shit.
+
+185
+00:08:30,000 --> 00:08:32,000
+Oh, I think someone beats a woman in it one time.
+
+186
+00:08:32,000 --> 00:08:33,000
+Oh, hell yeah.
+
+187
+00:08:33,000 --> 00:08:34,000
+Me?
+
+188
+00:08:34,000 --> 00:08:35,000
+I watched the video.
+
+189
+00:08:35,000 --> 00:08:36,000
+It's me.
+
+190
+00:08:36,000 --> 00:08:37,000
+Yes.
+
+191
+00:08:37,000 --> 00:08:39,000
+How many episodes are there out there right now?
+
+192
+00:08:39,000 --> 00:08:40,000
+Marble Hornets just recording me.
+
+193
+00:08:40,000 --> 00:08:41,000
+It's like 107 or something, I think.
+
+194
+00:08:41,000 --> 00:08:42,000
+Oh, okay.
+
+195
+00:08:42,000 --> 00:08:44,000
+It's me in my daily life.
+
+196
+00:08:44,000 --> 00:08:46,000
+It's just what it is.
+
+197
+00:08:46,000 --> 00:08:49,000
+I caught up with Marble Hornets in one night.
+
+198
+00:08:49,000 --> 00:08:52,000
+Like procrastinating, going to sleep for like my first day of sixth grade.
+
+199
+00:08:52,000 --> 00:08:53,000
+Oh, this is a show.
+
+200
+00:08:53,000 --> 00:08:54,000
+Is this like a TV show?
+
+201
+00:08:54,000 --> 00:08:55,000
+No, it's a YouTube show.
+
+202
+00:08:55,000 --> 00:08:56,000
+It's like a webtoon.
+
+203
+00:08:56,000 --> 00:08:57,000
+Oh, okay.
+
+204
+00:08:57,000 --> 00:09:02,000
+It's like a YouTube series kind of semi-found footage photo documentary.
+
+205
+00:09:02,000 --> 00:09:03,000
+Exactly.
+
+206
+00:09:03,000 --> 00:09:05,000
+Trying to document this weird thing that happens.
+
+207
+00:09:05,000 --> 00:09:06,000
+It's an energy.
+
+208
+00:09:06,000 --> 00:09:10,000
+It's recorded in a way that looks realistic, but it's totally bullshit.
+
+209
+00:09:10,000 --> 00:09:11,000
+Okay.
+
+210
+00:09:11,000 --> 00:09:12,000
+How old is this thing?
+
+211
+00:09:12,000 --> 00:09:13,000
+It's very old.
+
+212
+00:09:13,000 --> 00:09:14,000
+It's a fictional story.
+
+213
+00:09:14,000 --> 00:09:16,000
+It's not like it's trying to trick you.
+
+214
+00:09:16,000 --> 00:09:18,000
+It's like it's a Blair Witch project.
+
+215
+00:09:18,000 --> 00:09:19,000
+Well, yeah.
+
+216
+00:09:19,000 --> 00:09:20,000
+It's a YouTube video series.
+
+217
+00:09:20,000 --> 00:09:21,000
+You know, that's the weird thing.
+
+218
+00:09:21,000 --> 00:09:23,000
+I feel like a lot of people, okay.
+
+219
+00:09:23,000 --> 00:09:26,000
+I mean, first of all, you've got like those girls who like literally tried to sacrifice
+
+220
+00:09:26,000 --> 00:09:29,000
+their friend in the woods to Slenderman, who is a literal made-up fake internet.
+
+221
+00:09:29,000 --> 00:09:30,000
+Who is me?
+
+222
+00:09:30,000 --> 00:09:31,000
+Who is me?
+
+223
+00:09:31,000 --> 00:09:32,000
+Which was Munchy.
+
+224
+00:09:32,000 --> 00:09:34,000
+Munchy was the girl being sacrificed and the people doing the sacrifice.
+
+225
+00:09:34,000 --> 00:09:35,000
+And Slenderman.
+
+226
+00:09:35,000 --> 00:09:36,000
+You know, it was a big thing.
+
+227
+00:09:36,000 --> 00:09:37,000
+And Slenderman.
+
+228
+00:09:37,000 --> 00:09:40,000
+He's basically the Trinity.
+
+229
+00:09:40,000 --> 00:09:42,000
+He's the father, son, and the Holy Ghost.
+
+230
+00:09:42,000 --> 00:09:46,000
+Sacrificing himself to himself to appease his own wrath upon the people he created.
+
+231
+00:09:46,000 --> 00:09:47,000
+That's who Munchy is.
+
+232
+00:09:47,000 --> 00:09:48,000
+Okay.
+
+233
+00:09:48,000 --> 00:09:49,000
+This is cool.
+
+234
+00:09:49,000 --> 00:09:53,000
+Well, what I was going to say is like, people really seem to like get whipped up into a storm
+
+235
+00:09:53,000 --> 00:09:55,000
+and like take this shit seriously.
+
+236
+00:09:55,000 --> 00:09:56,000
+And it's weird to me.
+
+237
+00:09:56,000 --> 00:09:59,000
+It's weird to me that people are so...
+
+238
+00:09:59,000 --> 00:10:00,000
+I mean, it's the...
+
+239
+00:10:00,000 --> 00:10:01,000
+What's the opposite of skeptical?
+
+240
+00:10:01,000 --> 00:10:05,000
+You know, like believers or something or have so much credulous.
+
+241
+00:10:05,000 --> 00:10:06,000
+I guess that...
+
+242
+00:10:06,000 --> 00:10:07,000
+Yeah, I think that's right.
+
+243
+00:10:07,000 --> 00:10:09,000
+People like look for things to believe in like this.
+
+244
+00:10:09,000 --> 00:10:11,000
+And I've never understood that.
+
+245
+00:10:11,000 --> 00:10:12,000
+I guess because it's fun.
+
+246
+00:10:12,000 --> 00:10:13,000
+I guess because it's just fun.
+
+247
+00:10:13,000 --> 00:10:14,000
+Eggs.
+
+248
+00:10:14,000 --> 00:10:15,000
+You know?
+
+249
+00:10:15,000 --> 00:10:16,000
+What other reason do you need?
+
+250
+00:10:16,000 --> 00:10:17,000
+Yeah.
+
+251
+00:10:17,000 --> 00:10:18,000
+I don't know.
+
+252
+00:10:18,000 --> 00:10:20,000
+Like, is it fun to sacrifice your friend in the woods to Slenderman?
+
+253
+00:10:20,000 --> 00:10:22,000
+Yeah, because Slenderman like you then.
+
+254
+00:10:22,000 --> 00:10:23,000
+I know.
+
+255
+00:10:23,000 --> 00:10:25,000
+People like spooky stories.
+
+256
+00:10:25,000 --> 00:10:26,000
+Dude.
+
+257
+00:10:26,000 --> 00:10:27,000
+Oh.
+
+258
+00:10:27,000 --> 00:10:28,000
+Isn't that a fascinating thing though?
+
+259
+00:10:28,000 --> 00:10:29,000
+Why do people like being scared?
+
+260
+00:10:29,000 --> 00:10:31,000
+You know, I also don't quite get it.
+
+261
+00:10:31,000 --> 00:10:34,000
+I'm not as into it as I feel like a lot of people are.
+
+262
+00:10:34,000 --> 00:10:38,000
+As I said in the Ghost episode, ghosts aren't real, but they should be.
+
+263
+00:10:38,000 --> 00:10:39,000
+Right.
+
+264
+00:10:39,000 --> 00:10:40,000
+And I love ghosts.
+
+265
+00:10:40,000 --> 00:10:45,000
+And if I pray every night at some day they'll magically become real and I'll be able to
+
+266
+00:10:45,000 --> 00:10:47,000
+see a ghost with my own eyes.
+
+267
+00:10:47,000 --> 00:10:51,000
+Just like in season three of Korra where all the airbenders just literally became real
+
+268
+00:10:51,000 --> 00:10:52,000
+again.
+
+269
+00:10:52,000 --> 00:10:53,000
+It was awesome.
+
+270
+00:10:53,000 --> 00:10:54,000
+So good.
+
+271
+00:10:54,000 --> 00:10:55,000
+What a great development.
+
+272
+00:10:55,000 --> 00:10:56,000
+I love Korra.
+
+273
+00:10:56,000 --> 00:10:57,000
+Me too, dude.
+
+274
+00:10:57,000 --> 00:10:58,000
+That's some fucking...
+
+275
+00:10:58,000 --> 00:10:59,000
+Korra!
+
+276
+00:10:59,000 --> 00:11:00,000
+I just want to put it out there.
+
+277
+00:11:00,000 --> 00:11:01,000
+Korra is my favorite monster.
+
+278
+00:11:01,000 --> 00:11:04,000
+She is the most evil being who ever existed.
+
+279
+00:11:04,000 --> 00:11:06,000
+She makes the world a worse place with her mere presence.
+
+280
+00:11:06,000 --> 00:11:09,000
+The monsters don't always have to be evil to go.
+
+281
+00:11:09,000 --> 00:11:10,000
+Yes.
+
+282
+00:11:10,000 --> 00:11:11,000
+But Korra is.
+
+283
+00:11:11,000 --> 00:11:12,000
+Korra is undeniably evil.
+
+284
+00:11:12,000 --> 00:11:13,000
+Yeah.
+
+285
+00:11:13,000 --> 00:11:14,000
+I'm just making a statement.
+
+286
+00:11:14,000 --> 00:11:15,000
+Yeah.
+
+287
+00:11:15,000 --> 00:11:16,000
+That's true.
+
+288
+00:11:16,000 --> 00:11:17,000
+And you were saying this on the draw cast too.
+
+289
+00:11:17,000 --> 00:11:19,000
+You're a staunch defender of monster rights.
+
+290
+00:11:19,000 --> 00:11:20,000
+Yes.
+
+291
+00:11:20,000 --> 00:11:21,000
+Yeah.
+
+292
+00:11:21,000 --> 00:11:22,000
+Okay.
+
+293
+00:11:22,000 --> 00:11:23,000
+Okay.
+
+294
+00:11:23,000 --> 00:11:24,000
+We must defend a monster free speech.
+
+295
+00:11:24,000 --> 00:11:25,000
+It's important.
+
+296
+00:11:25,000 --> 00:11:29,000
+People like monsters because they put you closer to death and what do we all want but
+
+297
+00:11:29,000 --> 00:11:30,000
+death?
+
+298
+00:11:30,000 --> 00:11:31,000
+We all seek oblivion.
+
+299
+00:11:31,000 --> 00:11:32,000
+Blindly.
+
+300
+00:11:32,000 --> 00:11:33,000
+Now I'm speaking my language.
+
+301
+00:11:33,000 --> 00:11:36,000
+And I quickly just mentioned a dream I had before this podcast.
+
+302
+00:11:36,000 --> 00:11:37,000
+It has a monster in it.
+
+303
+00:11:37,000 --> 00:11:38,000
+And I just wanted to...
+
+304
+00:11:38,000 --> 00:11:39,000
+Sure.
+
+305
+00:11:39,000 --> 00:11:40,000
+Okay.
+
+306
+00:11:40,000 --> 00:11:41,000
+So quickly I'll try.
+
+307
+00:11:41,000 --> 00:11:42,000
+Okay.
+
+308
+00:11:42,000 --> 00:11:43,000
+So the dream.
+
+309
+00:11:43,000 --> 00:11:47,000
+Man-made island and on the island is just nothing but this big building and I live there
+
+310
+00:11:47,000 --> 00:11:52,000
+and there's a mansion and other people and slowly one by one people are getting murdered
+
+311
+00:11:52,000 --> 00:11:53,400
+in very horrible ways.
+
+312
+00:11:53,400 --> 00:11:58,080
+You just see the bodies laying on the floor and just blood everywhere and they kept getting
+
+313
+00:11:58,080 --> 00:12:02,080
+dragged away and like me and the manager trying to figure out what's happening.
+
+314
+00:12:02,080 --> 00:12:06,120
+And then like I finally found out that like there's this monster here like and it's trying
+
+315
+00:12:06,120 --> 00:12:07,120
+to kill us.
+
+316
+00:12:07,120 --> 00:12:12,960
+And I was one of the few people left alive and the only reason I was left alive because
+
+317
+00:12:12,960 --> 00:12:15,440
+I kind of like casually flirted with the monster.
+
+318
+00:12:15,440 --> 00:12:18,440
+The monster just noked away.
+
+319
+00:12:18,440 --> 00:12:22,800
+I guess he didn't like me.
+
+320
+00:12:22,800 --> 00:12:23,800
+I'm sad.
+
+321
+00:12:23,800 --> 00:12:26,440
+But I like the monster a lot.
+
+322
+00:12:26,440 --> 00:12:27,440
+He was really cool.
+
+323
+00:12:27,440 --> 00:12:31,680
+He had like this skull face thing but not like a human skull.
+
+324
+00:12:31,680 --> 00:12:34,440
+It was like a like a deer skull or something.
+
+325
+00:12:34,440 --> 00:12:40,040
+And like these huge claws that he would rip people up and stuff and he was just he looked
+
+326
+00:12:40,040 --> 00:12:41,040
+really cool.
+
+327
+00:12:41,040 --> 00:12:43,200
+Your description sounds like that anime.
+
+328
+00:12:43,200 --> 00:12:46,920
+You know that one it's like it's called like a necromancer bought me or something.
+
+329
+00:12:46,920 --> 00:12:50,480
+It's like about a literal slave was bought by like this necromancer with a big skull.
+
+330
+00:12:50,480 --> 00:12:51,480
+I forget.
+
+331
+00:12:51,480 --> 00:12:52,480
+I have not seen that anime.
+
+332
+00:12:52,480 --> 00:12:53,480
+You know what I'm talking about.
+
+333
+00:12:53,480 --> 00:12:54,480
+Okay.
+
+334
+00:12:54,480 --> 00:12:55,480
+Well whatever.
+
+335
+00:12:55,480 --> 00:12:59,400
+I think I've heard of something like I heard yeah Twitter talking about something Stockholm
+
+336
+00:12:59,520 --> 00:13:05,720
+syndrome yada yada but no I haven't seen that anime I should look into that.
+
+337
+00:13:05,720 --> 00:13:07,120
+Maybe it's a sign.
+
+338
+00:13:07,120 --> 00:13:12,920
+I did a nightmare as well last night where I was on my computer and some invisible force
+
+339
+00:13:12,920 --> 00:13:18,520
+some some invisible insidious force moved my hand for me and made me type into my my
+
+340
+00:13:18,520 --> 00:13:24,880
+Google search bar laying with a bunch of pop up ads and you know I try to download various
+
+341
+00:13:24,880 --> 00:13:29,920
+like 40 cute clickers click down this ad and now my my my search bar is just filled the
+
+342
+00:13:29,920 --> 00:13:34,960
+brim with malware and very sorts of spyware I my my hand was trembling moving towards
+
+343
+00:13:34,960 --> 00:13:40,560
+that I typed in atop the fourth wall and I watched the newest link our video his videos
+
+344
+00:13:40,560 --> 00:13:46,320
+for Shaz seeking into my fucking soul like like like you like Photoshop color burn his
+
+345
+00:13:46,320 --> 00:13:52,280
+face color burning my layer completely obliterate all all sense of like pores on my body and
+
+346
+00:13:52,320 --> 00:13:56,520
+seeking into my into my fucking vessel like that's what link are you know with with a new
+
+347
+00:13:56,520 --> 00:14:02,200
+age with a new media platform we get a whole new wave of monsters out with the old universal
+
+348
+00:14:02,200 --> 00:14:09,120
+monsters now we get like the link cars as our poster style yes he has a magic gun where
+
+349
+00:14:09,120 --> 00:14:16,240
+did he purchase that that is what's the deep lore there we have a real life fucking don't
+
+350
+00:14:16,240 --> 00:14:20,440
+know but I want to donate to our PayPal to get us to remake all the universal monster
+
+351
+00:14:20,440 --> 00:14:24,880
+movies but with various that guy with the glasses crew members oh plugging real quick
+
+352
+00:14:24,880 --> 00:14:28,680
+Kickstarter still happening everybody please give to the fucking Radcon three Kickstarter
+
+353
+00:14:28,680 --> 00:14:35,320
+we need that money so I forget we can dress up as monsters in real life I if we're close
+
+354
+00:14:35,320 --> 00:14:42,080
+enough to woods I'll pretend to be the Jersey Devil on film that's a promise that's gonna
+
+355
+00:14:42,080 --> 00:14:47,000
+be a yeah go ahead back to slender man Ben what what did you think of every man hybrid
+
+356
+00:14:47,000 --> 00:14:52,360
+compared to marble hornets I didn't watch that much every man hybrid because it wasn't
+
+357
+00:14:52,360 --> 00:14:57,960
+that good yeah it's so it was it was fucking it was horrible like like a meta bullshit it
+
+358
+00:14:57,960 --> 00:15:02,440
+was it was fucking like dude home suck is so meta I love accents that's that's that's
+
+359
+00:15:02,440 --> 00:15:08,240
+a horrible horn that that's what I mean marble I mean marble hornets had some intrigue like
+
+360
+00:15:08,240 --> 00:15:16,980
+the barn and stuff yeah is Kino I barely remember anything from from every man hybrid at first
+
+361
+00:15:16,980 --> 00:15:22,500
+I thought that it was like at first I thought that it was kind of funny that it was framed
+
+362
+00:15:22,500 --> 00:15:28,460
+as they were making a YouTube show yeah some other kind that became a slender man thing
+
+363
+00:15:28,460 --> 00:15:33,140
+because slender man was there but yeah that didn't carry it for very here here here let
+
+364
+00:15:33,140 --> 00:15:37,180
+me explain everything hybrid to you so the gimmick of the channel is that it's these
+
+365
+00:15:37,180 --> 00:15:42,660
+like like three like bros make you like a fitness channel and then like like episode two slender
+
+366
+00:15:42,660 --> 00:15:48,340
+man is is like just awkwardly put into like the background of videos and then they're like
+
+367
+00:15:48,340 --> 00:15:54,940
+we were making a slender man ARG but now slender man is real and he's really trying to kill
+
+368
+00:15:54,940 --> 00:16:02,880
+us yeah oh I forgot about that yeah not not great fucking a fucking pitiful display every
+
+369
+00:16:02,880 --> 00:16:06,940
+man hybrid fucking you know they probably got like a cp they probably got like yeah they
+
+370
+00:16:06,940 --> 00:16:10,740
+should they probably got like exposed or something like in some way they like couldn't deny that
+
+371
+00:16:10,740 --> 00:16:14,780
+they were like doing things related to slender man in some way so they had to like rationalize
+
+372
+00:16:14,780 --> 00:16:18,820
+it somehow like I would it just seems like such a dumb idea to like admit that you like
+
+373
+00:16:18,820 --> 00:16:22,740
+we're from the start doing a thing with a slender man yeah like it just seems counter
+
+374
+00:16:22,740 --> 00:16:27,140
+to your narrative like acknowledges the fakeness of the whole thing oh yeah so like there's
+
+375
+00:16:27,140 --> 00:16:31,380
+no way I'm gonna take it seriously now in any way and then the fucking rake comes in
+
+376
+00:16:31,380 --> 00:16:35,140
+because just like that shows like another like creepypasta TM character that we can just
+
+377
+00:16:35,140 --> 00:16:39,020
+like like steal from another story just put in our fucking thing because we're hacks
+
+378
+00:16:39,020 --> 00:16:49,340
+speaking of YouTube stuff have you guys heard or seen poppy poppy yes yes poppy is a good
+
+379
+00:16:49,340 --> 00:16:55,100
+monster on YouTube yes interesting I don't know what her endgame is I guess release albums
+
+380
+00:16:55,100 --> 00:17:01,180
+and just be a weird oh on the internet um yeah she's cool she's got some poppy I don't think
+
+381
+00:17:01,180 --> 00:17:10,540
+she's active anymore is poppy like a monster no I mean poppy is a weird creepy semi-robotic
+
+382
+00:17:10,540 --> 00:17:19,180
+possibly internet creature maybe I don't like I've seen some of her videos and I don't know
+
+383
+00:17:19,180 --> 00:17:24,020
+what she is but I kind of like the associations will illuminati the devil and the possibility
+
+384
+00:17:24,020 --> 00:17:29,260
+that she's actually like a clone of herself well well they are been on explainer they're
+
+385
+00:17:29,260 --> 00:17:37,180
+both the same to me poppy is this fake pop star on YouTube who makes music videos like
+
+386
+00:17:37,180 --> 00:17:43,820
+you know top 40 like Katy Perry shit but she has sinister undertones in between music videos
+
+387
+00:17:43,820 --> 00:17:48,300
+which have you know they're just like fucking what I get fucked in my ass you know stuff
+
+388
+00:17:48,300 --> 00:17:55,900
+like that like put your hooves up I don't know about well okay between those she has I guess
+
+389
+00:17:55,900 --> 00:18:01,980
+I would call them like vlogs they're not like like hey YouTube they're like her staring
+
+390
+00:18:01,980 --> 00:18:08,140
+at the camera and kind of yeah there's like a childishly mumbling about things about how
+
+391
+00:18:08,140 --> 00:18:13,460
+she like she like loves her like Lord and she makes like five or six minutes of her just
+
+392
+00:18:13,460 --> 00:18:18,540
+saying that she's poppy and like ASMR and stuff yeah yes that's right that's right she's
+
+393
+00:18:18,540 --> 00:18:24,460
+like weird creepo ASMR in a way but mostly she's just obviously a bizarre freak and in the
+
+394
+00:18:24,460 --> 00:18:31,180
+best way I like her a lot I I really wonder what the endgame is here I think about that
+
+395
+00:18:31,180 --> 00:18:35,460
+all the time like what is the point of all these I guess the medium is the message I
+
+396
+00:18:35,460 --> 00:18:40,460
+suppose just doing these weird videos are just fun for these people I assume I don't know
+
+397
+00:18:40,460 --> 00:18:44,380
+it's something about fucking Illuminati and fucking you know like celebrities and shit
+
+398
+00:18:44,380 --> 00:18:48,460
+but fucking I don't know if there's like a message per se I think it's just like art
+
+399
+00:18:48,460 --> 00:18:54,580
+just like displaying this idea of like you know celebrities being like aliens and shit
+
+400
+00:18:54,580 --> 00:18:59,380
+like yes it's definitely that yeah it's definitely an artistic piece the character of poppy which
+
+401
+00:18:59,380 --> 00:19:05,500
+I is really cool I'm watching one called Dracula glam right now it's sick as shit she's just
+
+402
+00:19:05,500 --> 00:19:11,060
+like gnashing her teeth with these fucking vampire fangs and for no reason well this
+
+403
+00:19:11,060 --> 00:19:16,220
+spooky ambient music plays and then she's opening a box called nightmares at the end
+
+404
+00:19:16,220 --> 00:19:22,460
+of the video and she's bashing with a fucking bat incredible incredible I saw that's that's
+
+405
+00:19:22,460 --> 00:19:28,420
+yeah the stakes are really getting raised on the poppy show um yeah she's a fantastic
+
+406
+00:19:28,420 --> 00:19:33,620
+monster of the internet I love her let's talk about the greatest villain and monster of
+
+407
+00:19:33,620 --> 00:19:39,740
+all time binge Dr. Wolf Dr. Wolf works too I feel like they're intertwined binge run
+
+408
+00:19:39,740 --> 00:19:42,340
+and Dr. Wolf I feel like they're collaborating who has been drowned I don't know this been
+
+409
+00:19:42,340 --> 00:19:46,500
+do not know been drowned it's a creepypasta Nate you don't know fucking anything about
+
+410
+00:19:46,500 --> 00:19:51,780
+anything it's the it's the Zelda it's the Zelda guy right yeah I feel like it's the Zelda
+
+411
+00:19:51,780 --> 00:19:57,540
+fucking Jesus Christ the podcast the not a monster podcast major a mask is so creepy
+
+412
+00:19:57,540 --> 00:20:17,300
+you guys are gay I'm too old for creepypastas Tom no one's old enough for creepypasta I swear
+
+413
+00:20:17,300 --> 00:20:23,100
+my dad works at GameStop and got me a fucking copy a cursed copy of Pokemon black like the
+
+414
+00:20:23,100 --> 00:20:28,180
+original one for Game Boy Color the real one old lavender town guys okay go ahead speaking
+
+415
+00:20:28,180 --> 00:20:34,740
+of monsters and Nate just mentioned Pokemon our monsters I love Pokemon the only monsters
+
+416
+00:20:34,740 --> 00:20:41,020
+that I acknowledge is real the Pokemon are real having you play Pokemon go then you discuss
+
+417
+00:20:41,020 --> 00:20:46,660
+me you know I played Pokemon go before it was cool meaning as soon as it came out and
+
+418
+00:20:46,660 --> 00:20:51,660
+everyone immediately started playing but the real question is do you continue to play it
+
+419
+00:20:51,740 --> 00:21:00,140
+now that it is no longer I the real test I'm ashamed to admit no never ever again exposed
+
+420
+00:21:00,140 --> 00:21:06,340
+get a mile I still play it I haven't been forever did your mother are pretty now there's
+
+421
+00:21:06,340 --> 00:21:12,780
+all these now there's all these weird new Pokemon of yo what the fuck is that back in my day
+
+422
+00:21:12,780 --> 00:21:19,500
+Pokemon used to make sense like fucking Charizard it was a dragon that makes sense to me they
+
+423
+00:21:20,140 --> 00:21:26,060
+was a crow what even is that no you know what is this a bird get out of here there are only
+
+424
+00:21:26,060 --> 00:21:37,900
+realistic monsters in Pokemon dragons raw raw turtles black people you know the classics
+
+425
+00:21:37,900 --> 00:21:45,140
+exactly drawing inspiration from the real world Digimon are also cool monsters I love Digimon
+
+426
+00:21:45,780 --> 00:21:56,180
+fucking suck did you know shit I'm gonna punch you I'm fucking skull graymon I've got like
+
+427
+00:21:56,180 --> 00:22:01,140
+a thousand skulls attached to my fucking face with a fucking gigantic cannon and I'm like we are
+
+428
+00:22:01,140 --> 00:22:05,580
+like dragon dinosaur what is that it's the most complicated design I've ever seen in my fucking
+
+429
+00:22:06,220 --> 00:22:13,820
+there was there was machined Ramon and yeah metal and mecha height mecha dragonmon and puppet
+
+430
+00:22:13,820 --> 00:22:19,820
+mon and Piedmon and Piedmon was a clown you can't argue with that what the fuck are you
+
+431
+00:22:19,820 --> 00:22:26,460
+strongest strongest enemy in season one he didn't fuck around what are we discussing are these
+
+432
+00:22:26,460 --> 00:22:34,620
+politics yes the politics of the digital world love one is best Digimon do we do we impeach
+
+433
+00:22:35,580 --> 00:22:42,300
+love but he's keeping shit let me make sure I want to Google this what is it apmon it's
+
+434
+00:22:42,300 --> 00:22:58,460
+it's like a brown bunny with the horn super cute I got it oh he's pretty cute yeah and he
+
+435
+00:22:58,460 --> 00:23:03,740
+and he has like a dual evolution like he can he like an evil side in the light side and well it's
+
+436
+00:23:03,740 --> 00:23:12,220
+just it's that it's just like me guys look at this guy though hey incredible do you oh my god
+
+437
+00:23:13,100 --> 00:23:17,660
+do you guys you guys know how how digimon was founded do you do you know the origin story
+
+438
+00:23:17,660 --> 00:23:22,940
+you need to you need to you need to look up lady devimon then you'll be converted to we all know
+
+439
+00:23:22,940 --> 00:23:29,260
+how to start you know the the creative poke bunch sirgi Miyamoto what was touching some bugs but
+
+440
+00:23:29,260 --> 00:23:34,700
+do you know how digimon was made digimon was was you know you know during the japanese air raids
+
+441
+00:23:34,700 --> 00:23:40,380
+you know you know you know well will be bombed to shit the creator of digimon uh james digimon
+
+442
+00:23:40,380 --> 00:23:48,620
+was was was fucking sliding out of his war torn country he was his home roof collapsed upon him
+
+443
+00:23:48,620 --> 00:23:55,180
+and he was crawling out like inch by inch and he stumbled and staggered a chest ripped completely
+
+444
+00:23:55,180 --> 00:24:01,740
+open out of his japanese city and wandered into the nearby mounds and inside inside a pit a thousand
+
+445
+00:24:01,740 --> 00:24:08,140
+trucks long he descended and saw not one but two computers and thought i can make a i can make a game
+
+446
+00:24:08,140 --> 00:24:17,260
+out of this or or whatever digimon is i don't know that's the origin story it was and then he
+
+447
+00:24:17,260 --> 00:24:26,220
+heard those hear that ancient american war song hey we're champions and he was like wait
+
+448
+00:24:26,220 --> 00:24:31,740
+i'm james digimon i can work with this i can make something happen here and the rest was history
+
+449
+00:24:34,060 --> 00:24:39,980
+um incredible i'm glad we solved this crisis when louis and clark were doing the expedition
+
+450
+00:24:39,980 --> 00:24:47,020
+of the pacific coast they came across a wandering tribe unlike any any engines they had seen before
+
+451
+00:24:47,020 --> 00:24:53,660
+they were all playing their tamagotchi tm around their circles screaming various back in those days
+
+452
+00:24:53,660 --> 00:24:57,660
+you'd have to get a literal chicken to lay an egg that you would carve into a digivice so that's
+
+453
+00:24:57,660 --> 00:25:02,140
+how you would connect with your fucking digimon uh things have evolved since then obviously but
+
+454
+00:25:06,940 --> 00:25:15,580
+yeah exactly well that's digimon for you we've solved it uh uh yeah digimon uh superior pokemon
+
+455
+00:25:15,660 --> 00:25:21,100
+this is the superior franchise well here's proof that's not true because look at the screenshot
+
+456
+00:25:21,100 --> 00:25:29,180
+nate just put in that's proof the digimon is shit how dare you get a fuck he's wearing a little
+
+457
+00:25:29,180 --> 00:25:34,780
+he's wearing a little color i'm gonna have to prove all of you wrong but that color is decidedly
+
+458
+00:25:34,780 --> 00:25:39,900
+unpopped you but it's probable you know he's about to pop it okay he's about to pop it or
+
+459
+00:25:40,620 --> 00:25:45,420
+i'm not gonna stop his head with one finger no no look he's fucking gray and brown i don't
+
+460
+00:25:45,420 --> 00:25:50,700
+believe ever he's boring uh but no as bad look look you can think whatever you want about lot
+
+461
+00:25:50,700 --> 00:25:56,380
+mod but let me let me ask you this like how can you disagree with that that's fucking retarded
+
+462
+00:25:56,380 --> 00:26:02,140
+that's the that's the worst thing i've ever seen in my life that is the antithesis of quality
+
+463
+00:26:02,220 --> 00:26:10,460
+lady devimon the best her upper arm reaches her hips yeah exactly well you know that's just how
+
+464
+00:26:10,460 --> 00:26:15,260
+they roll the digital world they were able to digitally enhance and enhance and enhance the
+
+465
+00:26:15,260 --> 00:26:19,100
+length of that arm just looks like oh wait a minute wait a minute ben that's actually like
+
+466
+00:26:19,100 --> 00:26:24,140
+correct look at this other perspective of this fucking character her arm is decidedly weirdly
+
+467
+00:26:24,140 --> 00:26:33,100
+huge she goes to her fucking ankles um all right well she's christ enough in enough digimon
+
+468
+00:26:33,100 --> 00:26:38,700
+no no no this character looks like i'm just getting started this character looks like a like a
+
+469
+00:26:38,700 --> 00:26:45,420
+discorded grim dark sabre spark that's what that like human looks like a human that's clearly the
+
+470
+00:26:45,420 --> 00:26:51,020
+best thing in the world so you're just you're just proving my point right now well listen guys okay
+
+471
+00:26:51,100 --> 00:26:55,660
+the digimon are really cool and all but but and and yes digimon were the original monsters but
+
+472
+00:26:55,660 --> 00:27:00,540
+frankly i'm a little more interested in talking about like the people who are inspired by characters
+
+473
+00:27:00,540 --> 00:27:05,820
+like lady devimon as the as the monsters of the modern age a lot uh adolf hitler for example i
+
+474
+00:27:05,820 --> 00:27:09,420
+thought you were going to say women which i was going to say was definitely the worst monsters
+
+475
+00:27:09,420 --> 00:27:14,540
+should have gone with women i would like to nominate a group of monsters like like like i would
+
+476
+00:27:14,540 --> 00:27:21,500
+like to nominate a monster as the like number one monster in all categories all fear in fields
+
+477
+00:27:21,500 --> 00:27:28,940
+here it goes here's my nomination every creature in the ocean every single one of them are fucking
+
+478
+00:27:28,940 --> 00:27:34,860
+monsters the deeper you go the work the more monstery they are every single creature in the
+
+479
+00:27:34,860 --> 00:27:41,740
+ocean is despicable nihilistic uh they're pragmatic they're capitalist they're fucking they're all of
+
+480
+00:27:41,740 --> 00:27:47,580
+the things that you don't want a thing to be and they're all of them and yet still even more they
+
+481
+00:27:47,580 --> 00:27:55,500
+they're their scale of monster to priest is full monster full monster they're so creepy look look
+
+482
+00:27:55,500 --> 00:28:00,860
+just google like ocean and you'll see shit you don't want to see there are murkabahs are 100
+
+483
+00:28:00,860 --> 00:28:07,100
+inverted it's a nightmare down there i don't believe i don't believe in anything below sea level
+
+484
+00:28:07,100 --> 00:28:12,620
+yeah i don't either they're i've never look at this this is one this is one of the well-known
+
+485
+00:28:12,620 --> 00:28:17,020
+ones this is one of the ones like people like tankling oh yeah i know what that is look at this
+
+486
+00:28:17,020 --> 00:28:22,940
+i linked lotus oh look at that oh what the fuck is this okay it's a demon sharks are good boys
+
+487
+00:28:22,940 --> 00:28:29,020
+shut up that's a demon he looks like a he looks like a medium boy at best to me he's a good boy
+
+488
+00:28:29,900 --> 00:28:35,900
+oh he will murder you though no he has the chance no but what if he did
+
+489
+00:28:38,380 --> 00:28:44,380
+sharks can we afford to take that chance not not only are there hideous monsters such as octopi
+
+490
+00:28:44,380 --> 00:28:49,900
+and starfish in the ocean there's also the lowest rung on the pcp iceberg
+
+491
+00:28:51,100 --> 00:28:57,100
+oh that pcp fan iceberg yes is that a dolphin or a beluga whale it's the lowest rung mate that's
+
+492
+00:28:57,100 --> 00:29:04,780
+a beluga but yeah right i was gonna say beluga oh oh i love lilymon i love lilymon too lilymon was
+
+493
+00:29:04,780 --> 00:29:10,300
+great um i also really like garudamon garudamon was my favorite ultimate and lilymon but that was
+
+494
+00:29:10,300 --> 00:29:15,580
+not like he's like a native american bird looking dude right yeah uh yeah kind of he actually looks
+
+495
+00:29:15,580 --> 00:29:21,900
+exactly like blaziken in every way only better god uh yeah he's sick also he's got he's been
+
+496
+00:29:21,900 --> 00:29:26,140
+designing so much more busy he's literally got like a fucking bandana and like all these weird
+
+497
+00:29:26,220 --> 00:29:30,460
+mart including some fucking kanji and a weird helmet with like lines on it what the fuck is
+
+498
+00:29:30,460 --> 00:29:34,540
+god that's too much it's too much i'm being scared by ocean things i'm on google image i'm
+
+499
+00:29:34,540 --> 00:29:41,420
+being scared by ocean guys no no no wait hold on hold on hold on guys the ocean itself best girl
+
+500
+00:29:41,420 --> 00:29:49,260
+though who's the quiaman hold on sequoia man dude the ocean itself not even the ocean you you
+
+501
+00:29:49,260 --> 00:29:55,100
+fucking go to the seafloor and you're crushed by pressures grave the geothermal chemistry of life
+
+502
+00:29:55,260 --> 00:30:01,100
+human to calm down and look at the kriamon is i'm with bunchy though boiling me it's boiling
+
+503
+00:30:01,100 --> 00:30:06,060
+the ocean itself is the worst monster of all i was just gonna say just like how uh the skin is
+
+504
+00:30:06,060 --> 00:30:10,380
+the largest organ on the human body even though that's a lie and i don't believe it for one second
+
+505
+00:30:10,380 --> 00:30:14,380
+similar the ocean is the largest monster in the world i am the ocean do you know what comes from
+
+506
+00:30:14,380 --> 00:30:20,620
+the ocean though the king of the monsters himself god zilla the greatest true of all time uh destroys
+
+507
+00:30:20,620 --> 00:30:26,860
+your cities fucks your bitches and doesn't give a shit the greatest monster okay here's a real
+
+508
+00:30:26,860 --> 00:30:32,060
+question the ocean or am i wrong he does he lives in like an alternate dimension but comes from the
+
+509
+00:30:32,060 --> 00:30:37,580
+ocean in the the short story the call of kathulu where they're running away from the island and
+
+510
+00:30:37,580 --> 00:30:43,900
+kathulu himself rises from the ocean and is undecried but strikes fear into the hearts of all
+
+511
+00:30:43,900 --> 00:30:50,300
+who witnessed it i have heard of being described as a a like a water elemental guy like a water
+
+512
+00:30:51,020 --> 00:30:55,420
+kind of i mean it's all made up bullshits with a fanfic monster so he brought us tentacle porn
+
+513
+00:30:55,420 --> 00:31:02,300
+so therefore not a monster but a god for all of us to worship it's true uh lovecraft and some good
+
+514
+00:31:02,300 --> 00:31:07,580
+stuff i really love kathulu's appearance in the my love pony fanfiction my love pony the nae of kathulu
+
+515
+00:31:07,580 --> 00:31:12,860
+i really like that one i don't even know if you're bullshitting because that sounds a hundred
+
+516
+00:31:13,260 --> 00:31:19,420
+you can read that if the full length of that on uh on on fanfiction on fanfiction.net you can read
+
+517
+00:31:19,420 --> 00:31:25,660
+that all there yeah i was gonna say that um listen guys this is all good and all but here's a serious
+
+518
+00:31:25,660 --> 00:31:32,300
+question i want to add this is a serious question can a human be a monster yes in whatever way you
+
+519
+00:31:32,300 --> 00:31:36,380
+divide it yeah okay are we all just gonna say yes because like what does a monster actually mean
+
+520
+00:31:36,380 --> 00:31:41,580
+all all it takes is you just gotta put you just gotta put chopsticks in your mouth and stick the
+
+521
+00:31:41,580 --> 00:31:47,340
+the top of your nostrils yeah if you're a monster there you go you've left your humanity behind
+
+522
+00:31:47,340 --> 00:31:52,380
+and okay well you've become something greater here's why i'm curious are you trying to get some
+
+523
+00:31:52,380 --> 00:31:57,180
+intellectual discourse out of this shit show of a podcast right now maybe i would never attempt that
+
+524
+00:31:57,180 --> 00:32:02,780
+we'll see what happens uh okay so like no person ever thinks that they're a villain right so like in
+
+525
+00:32:02,780 --> 00:32:06,620
+their own mind they think they're doing like what's best i mean some people are psychopaths so like
+
+526
+00:32:06,620 --> 00:32:11,260
+they're the exception but like a guy like hitler for example thought he was doing what's best for
+
+527
+00:32:11,260 --> 00:32:17,020
+like germany probably as is the pcp as is that we'll do whatever it takes he'll do whatever it takes
+
+528
+00:32:17,820 --> 00:32:23,340
+so like he probably would not call himself even evil you know let alone a monster and of course
+
+529
+00:32:23,340 --> 00:32:28,780
+most of the world would disagree obviously uh but like i don't know does that does that count this
+
+530
+00:32:28,780 --> 00:32:34,620
+comes down to your to whether you think there's a subjective or objective view of reality if you
+
+531
+00:32:34,620 --> 00:32:39,100
+say there's an objective morality and objective standards and of course hitler's a monster and he
+
+532
+00:32:39,100 --> 00:32:45,500
+was just uh completely off his rocker but if you're a post-modernist kind of guy who's like
+
+533
+00:32:45,500 --> 00:32:48,940
+everything's subjective like no from hitler's perspective he wasn't so he wasn't and there's
+
+534
+00:32:48,940 --> 00:32:52,140
+no way of judging it's there's no way of saying what a monster is or isn't because there's no
+
+535
+00:32:52,780 --> 00:32:57,580
+objective standards anyways well there's no objective standards there are consent there's
+
+536
+00:32:57,580 --> 00:33:03,100
+consistent standards there's there's consistent whatever that word is however you say that one
+
+537
+00:33:03,100 --> 00:33:08,300
+i mean there's a lot a lot of people think he's a monster so for all intents and purposes he's
+
+538
+00:33:08,380 --> 00:33:12,780
+basically objectively a monster yeah i mean i hear what you're saying that's a fair point well
+
+539
+00:33:12,780 --> 00:33:18,380
+that just means that ever that just means that individual people think that he is i think a lot
+
+540
+00:33:18,380 --> 00:33:24,700
+of them do though a lot of them most of them in fact well i mean it's all it's all the individual's
+
+541
+00:33:24,700 --> 00:33:31,820
+opinion right if there are multiple individuals there is no actual like thing that is the
+
+542
+00:33:31,820 --> 00:33:37,020
+collective will it's not actually a real thing it is just a force kind of in society and you know
+
+543
+00:33:37,020 --> 00:33:41,260
+that's playing guilty gear where there's the universal will which i'll talk about in my lecture
+
+544
+00:33:41,260 --> 00:33:47,900
+at rack on three excellent fun the kickstarter fun the kickstarter click the description what do you
+
+545
+00:33:47,900 --> 00:33:53,100
+mean there's no force like like there's no like like the i mean okay well it's not think something
+
+546
+00:33:53,100 --> 00:33:59,660
+because it's not like a real thing but a lot of if a lot of people individually think something
+
+547
+00:33:59,660 --> 00:34:04,620
+and those the people in society then it's not okay here's here's an easy way to think about
+
+548
+00:34:04,860 --> 00:34:09,340
+things some way here's an easy way to to kind of like refute that it's just like okay so let's
+
+549
+00:34:09,340 --> 00:34:13,180
+say like literally everyone on earth believes things are a certain way then let's just say that
+
+550
+00:34:13,180 --> 00:34:17,980
+that whole population of humans just gets like dropped rick and morty style into a like galactic
+
+551
+00:34:17,980 --> 00:34:21,580
+population and now there's like trillions and trillions of other people who just totally
+
+552
+00:34:21,580 --> 00:34:26,860
+believe that morality works a different way so now what was the majority opinion is no longer the
+
+553
+00:34:26,860 --> 00:34:32,540
+majority opinion within like the actual population of like sentient beings it's like in an instant you
+
+554
+00:34:32,540 --> 00:34:37,980
+can like change how morality works like on a on the you know on the large scale so like it doesn't
+
+555
+00:34:37,980 --> 00:34:46,140
+actually it doesn't like scale that kind of approach like static it evolves with the society
+
+556
+00:34:46,140 --> 00:34:51,420
+so i don't know how are you trying to prove that like well i'm trying to prove that there is no
+
+557
+00:34:51,420 --> 00:34:56,300
+actual thing that is like a collective will it's it's that that is just the sum of the individual
+
+558
+00:34:56,300 --> 00:35:00,140
+people's will and like those are the things that one should try to change and that's what actually
+
+559
+00:35:00,140 --> 00:35:05,740
+matters like it's like if one yeah an example like that back in very old medieval days or whatever
+
+560
+00:35:06,380 --> 00:35:10,860
+uh people from europe when they were fighting people from where do elephants come from africa
+
+561
+00:35:10,860 --> 00:35:19,340
+or whatever like and they were like oh shit monsters but then you know they gain knowledge
+
+562
+00:35:19,340 --> 00:35:24,780
+about the topic and it turns out elephants are good boys not monsters that's true the the whole
+
+563
+00:35:24,780 --> 00:35:28,860
+whether or not to monster thing applies to animals just as well as it does to human beings
+
+564
+00:35:28,860 --> 00:35:32,700
+hashtag elephants are not monsters everybody stop the stigma and this hate
+
+565
+00:35:32,700 --> 00:35:37,500
+hashtag giraffes are monsters though have you ever seen a giraffe fight something it's fucking brutal
+
+566
+00:35:37,500 --> 00:35:41,180
+it does not i've seen every day of my fucking life because i get savaged by action giraffe
+
+567
+00:35:44,620 --> 00:35:50,620
+despite his emaciated body he still retains 90 percent of his full fighting powers you can't you
+
+568
+00:35:50,620 --> 00:35:57,820
+can't get rid of that fighting instinct that's right that that's his body material but his spirit
+
+569
+00:35:59,420 --> 00:36:05,900
+indeed indeed that's why he continues to place well in the pcp royal rumble that's true god i can't
+
+570
+00:36:05,900 --> 00:36:10,140
+wait for another fucking rumble so we can have action giraffe be back in the ring i can't fucking
+
+571
+00:36:10,140 --> 00:36:15,100
+wait and watch all my fucking characters get destroyed instantly again as they always do why
+
+572
+00:36:15,100 --> 00:36:22,060
+what did i fucking do okay well we'll see fucking donate donate to the kickstarter everybody
+
+573
+00:36:22,060 --> 00:36:28,060
+uh god what else is the rake i felt like the rake what is this rake you mentioned that before
+
+574
+00:36:28,060 --> 00:36:32,620
+but you didn't describe it dropping i'm so glad you weren't hosting this one because you don't
+
+575
+00:36:32,620 --> 00:36:38,860
+know fucking anything apparently i don't i don't i'm not i'm actually i'm gonna save my rake discourse
+
+576
+00:36:38,860 --> 00:36:42,940
+for the creepypasta episode because because evidently that's all i that's all the things i have to
+
+577
+00:36:42,940 --> 00:36:49,900
+say about monsters is from creepypasta okay okay fair enough oh by the way quick point as to why
+
+578
+00:36:49,900 --> 00:36:57,180
+objective reality is true uh it is objective uh what was the word morality is true uh to what
+
+579
+00:36:57,180 --> 00:37:01,900
+someone was saying before it's because there are baseline fundamentals that we can understand
+
+580
+00:37:01,900 --> 00:37:06,300
+consciousness is real as far as we can tell consciousness is at least real for you and there
+
+581
+00:37:06,300 --> 00:37:11,340
+are things that are and i know this is gonna sound like some fuzzy language but we can generally
+
+582
+00:37:11,340 --> 00:37:15,420
+all agree on things that are largely true even if there are some exceptions fuzzy like
+
+583
+00:37:15,980 --> 00:37:22,380
+things like fuzzy life is generally preferable to death too fuzzy pleasure is generally preferable
+
+584
+00:37:22,380 --> 00:37:28,380
+to pain generally but we know these things are like that is that is all just a matter of opinion
+
+585
+00:37:29,020 --> 00:37:34,300
+no one comes down to the individual to decide what is preferable okay but but if things apply to
+
+586
+00:37:34,300 --> 00:37:39,420
+like 99.9 percent of the population is it really correct then it applies that's what i was just
+
+587
+00:37:39,420 --> 00:37:44,700
+saying throw it out the window that's what i was just saying there's nothing outside of the person's
+
+588
+00:37:44,700 --> 00:37:49,820
+preferences that is made real by those preferences okay but it's okay well for example newtonian
+
+589
+00:37:49,820 --> 00:37:55,820
+physics is not 100 percent it does not fully map out reality but we still use it practically
+
+590
+00:37:55,820 --> 00:38:00,220
+to determine all kinds of stuff about the real world so it's super useful so in the same way
+
+591
+00:38:00,220 --> 00:38:06,700
+more our moral systems are maps to optimize the way we want society well newtonian physics isn't
+
+592
+00:38:06,700 --> 00:38:12,700
+real i well yeah i mean that that is true it is it is just a way of understanding shit no
+
+593
+00:38:12,700 --> 00:38:18,060
+that is not completely accurate guys that's that's not fucking even real because physics is mapping
+
+594
+00:38:18,060 --> 00:38:23,100
+out a thing that exists in the world and like morality is mapping out what people think about
+
+595
+00:38:23,100 --> 00:38:29,820
+consciousness then it's all preference it's it's opinion all the way down question like
+
+596
+00:38:29,820 --> 00:38:36,060
+would you prefer to get punched in the face or get it or get a free milkshake um milkshake but
+
+597
+00:38:36,140 --> 00:38:41,260
+that's just that's all the boys i might if i was if i was feeling really bad about myself i might
+
+598
+00:38:41,260 --> 00:38:46,300
+want to get punched in the face okay what if a bunch of bullies were coming to beat you up good
+
+599
+00:38:46,300 --> 00:38:51,740
+what if a bunch of bullies were coming to literally beat you up real real bad and your friend said like
+
+600
+00:38:51,740 --> 00:38:55,900
+oh here's what i'm gonna do i'm gonna punch you in the face so that you look like you've already
+
+601
+00:38:55,900 --> 00:39:00,460
+been beat up and they won't beat you up even worse and in that case getting punched in the face might
+
+602
+00:39:00,460 --> 00:39:06,540
+be a better idea than getting a milk you're changing the you're changing the situation yeah well what
+
+603
+00:39:06,540 --> 00:39:12,220
+is the situation we didn't get punched in the face so you get an offer get punched in the face or get
+
+604
+00:39:12,220 --> 00:39:17,500
+a free milkshake okay but the whole this doesn't actually prove anything this is just showing what
+
+605
+00:39:17,500 --> 00:39:23,340
+we personally want the real monsters are people who wax philosophically for no reason on podcast
+
+606
+00:39:23,340 --> 00:39:29,420
+you're all about i hate you you're fucking general preference implies some kind of greater truth
+
+607
+00:39:29,420 --> 00:39:35,980
+stupid uh there there is too large your truth you guys you just we just it was gonna be a podcast
+
+608
+00:39:35,980 --> 00:39:39,660
+where we have fun talking about monsters and now you're just i'm having a great time
+
+609
+00:39:39,660 --> 00:39:45,980
+here's the real monster the philosophical insights of who's a monster and who's not but that's
+
+610
+00:39:45,980 --> 00:39:49,820
+essential uh you can't describe something unless you know what it is you know what you know what
+
+611
+00:39:49,820 --> 00:39:50,620
+What's a monster?
+
+612
+00:39:50,620 --> 00:39:54,320
+Monsters are like porn, you know what you see them, god damn it!
+
+613
+00:39:54,320 --> 00:39:57,320
+Let's talk about enemy. It's the truest monster.
+
+614
+00:39:58,320 --> 00:39:58,820
+Why?
+
+615
+00:39:58,820 --> 00:39:59,320
+Because...
+
+616
+00:39:59,320 --> 00:39:59,820
+Tell me why.
+
+617
+00:39:59,820 --> 00:40:00,320
+Because...
+
+618
+00:40:00,320 --> 00:40:00,820
+Because...
+
+619
+00:40:00,820 --> 00:40:01,320
+Because...
+
+620
+00:40:01,320 --> 00:40:01,820
+Because...
+
+621
+00:40:01,820 --> 00:40:02,320
+Because...
+
+622
+00:40:02,320 --> 00:40:02,820
+Because...
+
+623
+00:40:02,820 --> 00:40:03,320
+Because...
+
+624
+00:40:03,320 --> 00:40:03,820
+Because...
+
+625
+00:40:03,820 --> 00:40:04,320
+Because...
+
+626
+00:40:04,320 --> 00:40:04,820
+Because...
+
+627
+00:40:04,820 --> 00:40:05,320
+Because...
+
+628
+00:40:05,320 --> 00:40:05,820
+Because...
+
+629
+00:40:05,820 --> 00:40:06,320
+Because...
+
+630
+00:40:06,320 --> 00:40:06,820
+Because...
+
+631
+00:40:06,820 --> 00:40:07,320
+Because...
+
+632
+00:40:07,320 --> 00:40:07,820
+Because...
+
+633
+00:40:07,820 --> 00:40:08,320
+Because...
+
+634
+00:40:08,320 --> 00:40:08,820
+Because...
+
+635
+00:40:08,820 --> 00:40:09,320
+Because...
+
+636
+00:40:09,320 --> 00:40:09,820
+Because...
+
+637
+00:40:09,820 --> 00:40:10,320
+Because...
+
+638
+00:40:10,320 --> 00:40:10,820
+Because...
+
+639
+00:40:10,820 --> 00:40:11,320
+Because...
+
+640
+00:40:11,320 --> 00:40:11,820
+Because...
+
+641
+00:40:11,820 --> 00:40:12,320
+Because...
+
+642
+00:40:12,320 --> 00:40:12,820
+Because...
+
+643
+00:40:12,820 --> 00:40:13,320
+Because...
+
+644
+00:40:13,320 --> 00:40:13,820
+Because...
+
+645
+00:40:13,820 --> 00:40:14,320
+Because...
+
+646
+00:40:14,320 --> 00:40:14,820
+Because...
+
+647
+00:40:14,820 --> 00:40:15,320
+Because...
+
+648
+00:40:15,320 --> 00:40:15,820
+Because...
+
+649
+00:40:15,820 --> 00:40:16,320
+Because...
+
+650
+00:40:16,320 --> 00:40:16,820
+Because...
+
+651
+00:40:16,820 --> 00:40:17,320
+Because...
+
+652
+00:40:17,320 --> 00:40:17,820
+Because...
+
+653
+00:40:17,820 --> 00:40:18,320
+Because...
+
+654
+00:40:18,320 --> 00:40:18,820
+Because...
+
+655
+00:40:18,820 --> 00:40:19,320
+Because...
+
+656
+00:40:19,320 --> 00:40:19,820
+Because...
+
+657
+00:40:19,820 --> 00:40:21,320
+Cause...
+
+658
+00:40:21,320 --> 00:40:21,820
+Cause...
+
+659
+00:40:21,820 --> 00:40:22,320
+Cause...
+
+660
+00:40:22,320 --> 00:40:22,820
+Cause...
+
+661
+00:40:24,320 --> 00:40:25,320
+Thanks for everything.
+
+662
+00:40:25,320 --> 00:40:26,320
+Thanks for everything.
+
+663
+00:40:26,320 --> 00:40:27,320
+Thanks for everything.
+
+664
+00:40:28,320 --> 00:40:29,220
+Campaign,
+
+665
+00:40:29,720 --> 00:40:30,320
+campaign,
+
+666
+00:40:30,320 --> 00:40:34,020
+campaign,
+
+667
+00:40:34,520 --> 00:40:35,520
+campaign,
+
+668
+00:40:35,520 --> 00:40:36,220
+campaign,
+
+669
+00:40:36,220 --> 00:40:36,720
+campaign,
+
+670
+00:40:36,720 --> 00:40:37,400
+campaign,
+
+671
+00:40:37,400 --> 00:40:37,720
+campaign,
+
+672
+00:40:37,720 --> 00:40:38,240
+campaign,
+
+673
+00:40:38,240 --> 00:40:38,720
+campaign,
+
+674
+00:40:38,720 --> 00:40:39,220
+campaign,
+
+675
+00:40:39,220 --> 00:40:39,820
+campaign,
+
+676
+00:40:39,820 --> 00:40:40,520
+campaign,
+
+677
+00:40:40,520 --> 00:40:40,760
+campaign,
+
+678
+00:40:41,560 --> 00:40:42,320
+campaign,
+
+679
+00:40:42,320 --> 00:40:43,320
+campaign,
+
+680
+00:40:43,320 --> 00:40:43,920
+campaign,
+
+681
+00:40:43,920 --> 00:40:44,120
+campaign,
+
+682
+00:40:44,120 --> 00:40:44,420
+campaign,
+
+683
+00:40:44,420 --> 00:40:45,420
+campaign,
+
+684
+00:40:45,420 --> 00:40:45,920
+campaign,
+
+685
+00:40:45,920 --> 00:40:46,420
+campaign,
+
+686
+00:40:46,420 --> 00:40:47,020
+campaign,
+
+687
+00:40:47,020 --> 00:40:47,460
+campaign,
+
+688
+00:40:47,460 --> 00:40:48,120
+campaign,
+
+689
+00:40:48,120 --> 00:40:48,620
+campaign,
+
+690
+00:40:48,620 --> 00:40:52,740
+through the camera but like the camera extends it so it's like this long like
+
+691
+00:40:52,740 --> 00:40:57,140
+tube thing. I think they're actually called rods. I think they're like called
+
+692
+00:40:57,140 --> 00:41:01,500
+rods. Yeah. They were in a JoJo chapter. I think rods might be my favorite. Crypto
+
+693
+00:41:01,500 --> 00:41:09,300
+cryptocurrency. Well I know that rods trade exclusively in Bitcoin.
+
+694
+00:41:09,300 --> 00:41:13,340
+Yes. Which is why I'm trying to collect them so that I can enter their economy.
+
+695
+00:41:13,340 --> 00:41:15,860
+Bitcoin taking a beating right now under under 8,000.
+
+696
+00:41:15,860 --> 00:41:19,340
+Munch, can you like post a rod? I have no idea what you guys are talking about.
+
+697
+00:41:19,340 --> 00:41:24,860
+Just read JoJo part six. There's a part where I don't actually know.
+
+698
+00:41:24,860 --> 00:41:29,020
+I'll post a picture of rods. In case any of you needed convincing, this is proof
+
+699
+00:41:29,020 --> 00:41:32,420
+that the Mothman is in fact real and he's not like a fantasy thing. He's real.
+
+700
+00:41:32,420 --> 00:41:39,300
+Here's proof. Okay. There he is. I'm convinced. The Mothman is real everybody.
+
+701
+00:41:39,300 --> 00:41:43,980
+Oh no. I see no reason to doubt this whatsoever. This is less floofy. This
+
+702
+00:41:43,980 --> 00:41:46,980
+doesn't look like a Moth. This looks like a bat.
+
+703
+00:41:46,980 --> 00:41:53,980
+The bat man is real. I'd like to nominate this as the best monster of all time.
+
+704
+00:41:53,980 --> 00:42:01,180
+This looks like the one. You got this shit. Oh no. You found that right now because you
+
+705
+00:42:01,180 --> 00:42:04,780
+were searching for rod monster didn't you? That's exactly because I found the
+
+706
+00:42:04,780 --> 00:42:09,420
+same one. Oh hell yeah. Okay. I really touched about enemy earlier and I just
+
+707
+00:42:09,420 --> 00:42:13,340
+wanted to say there's had a lot of like like monster grills and I want more
+
+708
+00:42:13,340 --> 00:42:18,140
+monster boys please. That would be nice. Yeah okay. Okay. I just wanted to make
+
+709
+00:42:18,140 --> 00:42:24,820
+that statement also. You will never know the pleasure that I feel whenever I go
+
+710
+00:42:24,820 --> 00:42:29,700
+to Egypt and I plunder tombs sanctioned off by the government for being too
+
+711
+00:42:29,700 --> 00:42:34,460
+culturally significant. I plunder them anyway outside the the prying eyes of
+
+712
+00:42:34,460 --> 00:42:40,460
+the government. I plunder those tombs. I raid those caverns and I party down
+
+713
+00:42:40,460 --> 00:42:44,700
+with the mummies the various mummies that line the underground layers of
+
+714
+00:42:44,700 --> 00:42:48,460
+Egypt. I do that every single day and that's why mummies are the number one
+
+715
+00:42:48,460 --> 00:42:52,580
+monster because they are party animals. They want to get down just like I
+
+716
+00:42:52,580 --> 00:42:55,420
+want to do. They want to get down. They want to put their hooves up and they
+
+717
+00:42:55,420 --> 00:42:59,540
+love they love drinking booze and love fucking sluts just like I do. That's
+
+718
+00:42:59,540 --> 00:43:03,620
+that's nice but fuck the mummies. The coolest monsters were these. The only one
+
+719
+00:43:03,620 --> 00:43:08,180
+ever to play with these back in the day. That was the coolest shit of all time.
+
+720
+00:43:08,820 --> 00:43:12,260
+They were like they were like monster trucks that turned into actual monsters.
+
+721
+00:43:12,260 --> 00:43:16,700
+It was the coolest shit ever. Okay that is awesome but something looks vaguely
+
+722
+00:43:16,700 --> 00:43:19,820
+familiar. I think I might have seen commercials for them. Dude they were so
+
+723
+00:43:19,820 --> 00:43:25,260
+vaguely terrifying. They were like cars that like transformed into like monsters.
+
+724
+00:43:25,260 --> 00:43:28,740
+They have like giant mouths and they eat eight shit. It was it was fucking. Does it
+
+725
+00:43:28,740 --> 00:43:31,940
+like exude slime or something? Because I'm seeing some slime. Some of them some of
+
+726
+00:43:31,940 --> 00:43:36,380
+them do. That one did I believe. Oh my god this is up my alley. This is up my alley.
+
+727
+00:43:36,380 --> 00:43:40,940
+Into the fucking podcast because this is going to be a nightmare because no one
+
+728
+00:43:40,940 --> 00:43:43,980
+can see what the fuck we're talking about. We're giving this one a give. He's gonna
+
+729
+00:43:43,980 --> 00:43:48,420
+end all of these for being late. I'll put all these in the show notes. Click on the
+
+730
+00:43:48,420 --> 00:43:53,060
+link in the description you can see all of these. Okay fantastic. Okay here's a
+
+731
+00:43:53,060 --> 00:43:55,900
+thing we're doing this real quick. We're gonna go through all the universal
+
+732
+00:43:55,900 --> 00:43:59,180
+monsters and give them a score out of ten. All right here we go. Starting number
+
+733
+00:43:59,180 --> 00:44:05,420
+one Frankenstein zero. What Frankenstein's monster four. Frankenstein's monster yes.
+
+734
+00:44:05,420 --> 00:44:10,460
+Oh we're talking about the monster than a ten out of ten. The monster's a good
+
+735
+00:44:10,460 --> 00:44:17,020
+boy. I like him. He's a flesh golem. He's sick. I don't know. He's fine. He's a
+
+736
+00:44:17,020 --> 00:44:23,100
+little bland. I never read the book. I only played the video game. The most
+
+737
+00:44:23,100 --> 00:44:26,300
+interesting thing about Frankenstein's monster is Frankenstein himself who would
+
+738
+00:44:26,300 --> 00:44:30,300
+just bring a guy alive for some reason. But okay. Actually Frankenstein was the
+
+739
+00:44:30,300 --> 00:44:35,220
+real monster. If I remember the lore correctly he was. No no it was the mob
+
+740
+00:44:35,220 --> 00:44:42,580
+that was the real monster. No Frankenstein was a dick. No our real monsters was the
+
+741
+00:44:42,580 --> 00:44:48,380
+real monster. Okay good. He's zero out of ten. Count Dracula. Count Dracula. Seven.
+
+742
+00:44:48,380 --> 00:44:52,180
+He's got a funny accent. I like the fact he's a foreigner so I can make fun of him
+
+743
+00:44:52,220 --> 00:44:59,020
+without any moral justification. Dracula is honestly more boring than Frankenstein.
+
+744
+00:44:59,020 --> 00:45:05,900
+No Dracula's great. He has fucking teeth that he makes you go bye bye with. Dracula has to
+
+745
+00:45:05,900 --> 00:45:11,460
+be the best monster because he's a real person. He's not some fucking joke. He's real.
+
+746
+00:45:11,460 --> 00:45:15,780
+Nosferatu's are sick. I would give a Nosferatu like an eight out of the gate but this is
+
+747
+00:45:15,780 --> 00:45:21,580
+Count fucking Dracula. He's a bitch. Whatever. He's gay. The Wolfman. Oh that one is like
+
+748
+00:45:21,620 --> 00:45:28,380
+the worst one of all. He's fucking zero. Zero. He's a furry. He's a furry. I give him
+
+749
+00:45:28,380 --> 00:45:34,860
+one point out of ten for being ten percent real. That sounds good. He's a little bit
+
+750
+00:45:34,860 --> 00:45:40,260
+real but not enough to make the cut. I have never liked the Wolfman. I'm giving him like
+
+751
+00:45:40,260 --> 00:45:46,420
+a two. What is cool about him? He is a wolf. He's a fur sona. He is a wolf. Okay but you
+
+752
+00:45:46,420 --> 00:45:51,180
+know that guy is like in there was that one kid who's like in every way other than physical.
+
+753
+00:45:51,220 --> 00:45:56,460
+I am a wolf. Barks. This guy is actually a little bit along that. He is slightly physically
+
+754
+00:45:56,460 --> 00:46:02,980
+a wolf as well. So in that way I give him bonus points. And he goes aloo. He does. I like
+
+755
+00:46:02,980 --> 00:46:07,980
+him. Okay. What else? For some reason also in this line is Van Helsing is here for some
+
+756
+00:46:07,980 --> 00:46:16,580
+reason. Oh I love the anime. That was a sick anime. I'm going to give him like a I don't
+
+757
+00:46:16,580 --> 00:46:20,900
+know he's pretty cool. I get to five just for because Helsing the anime exists because
+
+758
+00:46:21,140 --> 00:46:27,860
+of that. Yeah. Yeah. Wait what is the real Van Helsing? Is he a real person? He's just
+
+759
+00:46:27,860 --> 00:46:32,060
+a dude who went around killing monsters. That's what he did. So he's a monster hunter not
+
+760
+00:46:32,060 --> 00:46:41,300
+a monster. He's like blood born but less cool. But he kills the beasts. He's seven. He's
+
+761
+00:46:41,300 --> 00:46:46,060
+at least a seven. I like him. I'll give him some points because all the universal monsters
+
+762
+00:46:46,060 --> 00:46:51,780
+suck so he's getting rid of them. So. Okay. Listen to this. For some reason the next one
+
+763
+00:46:51,780 --> 00:46:56,380
+on this list is Henry Frankenstein. Oh that must be the guy. That's the guy who made Frankenstein.
+
+764
+00:46:56,380 --> 00:46:59,620
+Yeah I told you he's a monster. He's terrible. But what the fuck. I click on the link and
+
+765
+00:46:59,620 --> 00:47:03,460
+now it's Victor Frankenstein. That's the whole point of the book is that he's the real monster
+
+766
+00:47:03,460 --> 00:47:07,300
+and the monster is more human. But why does he say Henry here and Victor on the other
+
+767
+00:47:07,300 --> 00:47:12,420
+page. I don't understand. Okay this must be out of date. Okay Victor Frankenstein. Fuck
+
+768
+00:47:12,420 --> 00:47:16,860
+it. The guy who made it. Now that guy's cool. He gets an eight. Is he such a bad guy. He
+
+769
+00:47:16,860 --> 00:47:22,740
+just wanted to do science. No no he's terrible. He just wanted to be God. How bad can he be.
+
+770
+00:47:22,740 --> 00:47:29,860
+He didn't do nothing. I will not approve the slanderization of Victor Frankenstein. He's
+
+771
+00:47:29,860 --> 00:47:34,060
+a wonderful camera operator. He went to college for the shit. He knows what he's fucking doing.
+
+772
+00:47:34,060 --> 00:47:38,500
+He can make better quality videos than we ever fucking could. He's gonna have his slanderization
+
+773
+00:47:38,940 --> 00:47:43,460
+Victor Frankenstein. I hate it. That's a very rude thing and I hope Mage when he is our
+
+774
+00:47:43,460 --> 00:47:49,100
+cameraman at RideCon3 you'll be a little nicer about what he's doing for us. Not that Victor.
+
+775
+00:47:49,100 --> 00:47:54,620
+It's too late. We understand what you meant. Next vote up. The invisible man. The invisible
+
+776
+00:47:54,620 --> 00:47:57,380
+man. I like that one. I'm gonna give him an eight. I really like him. I like the fact
+
+777
+00:47:57,380 --> 00:48:02,300
+that he's like kind of a mummy but like he's also invisible. There's like two things there.
+
+778
+00:48:02,300 --> 00:48:10,500
+I saw the movie. I'm gonna give him like four. He fucking sucks dick. Oh but really you suck dick.
+
+779
+00:48:10,500 --> 00:48:14,220
+Have you ever thought that what you say about people actually reflects upon you as a person?
+
+780
+00:48:14,220 --> 00:48:19,380
+He's only gay so he can sneak into men's locker rooms and literally suck dick. That's his whole end
+
+781
+00:48:19,380 --> 00:48:26,060
+game and so I give him like an eight out of ten. He does deserve points for that. Exactly. I respect
+
+782
+00:48:26,060 --> 00:48:32,500
+his gumption. I was gonna argue with you Nick but I googled the invisible man and I can't deny
+
+783
+00:48:32,500 --> 00:48:36,860
+what he's wearing and his bi-language indicates that he is in fact the most homosexual person
+
+784
+00:48:36,860 --> 00:48:42,260
+I've ever seen in my life. There's nothing to argue against. He just clearly is the gayest fucking guy
+
+785
+00:48:42,260 --> 00:48:50,620
+ever. That's correct. That's correct. Hold on. Look at this fucking photo of the
+
+786
+00:48:51,180 --> 00:48:58,340
+the original faggot. Oh man. He's looking fab. He's looking fab. Oh that's spectacular. I kind of
+
+787
+00:48:58,340 --> 00:49:05,220
+like it actually. He looks cool. He looks fucking dope. I was that cool. He's fucking dope as hell.
+
+788
+00:49:05,220 --> 00:49:12,260
+He sucks so much dick I can't help but respect him. Same. Same. Okay next on the list for some
+
+789
+00:49:12,260 --> 00:49:17,820
+reason is Elizabeth which is Victor Frankenstein's fiance. Does anyone know anything about this
+
+790
+00:49:17,820 --> 00:49:24,780
+character? Ten because it's a woman. The scariest monster. Yeah. Tips. Oh there you go. She's a name.
+
+791
+00:49:24,780 --> 00:49:29,180
+There you go. She has a name. You know what skip. I don't give a shit about her. Okay last on the
+
+792
+00:49:29,180 --> 00:49:36,020
+list of actual people is Igor. Igor the freakish. Igor's good. Hunchbacked. Ten out of ten. He was
+
+793
+00:49:36,020 --> 00:49:40,060
+just a real boy trying to make a living. That's right. You see the thing that's great about Igor
+
+794
+00:49:40,060 --> 00:49:44,100
+is that he looks like a monster on the outside because he's so weird and goofy and silly and
+
+795
+00:49:44,300 --> 00:49:49,620
+hilarious but on the inside he's just the greatest person, nicest boy who ever lived. Fucking
+
+796
+00:49:49,620 --> 00:49:56,660
+thumbs up if you've seen the greatest movie of all time Igor 2008. If not but it looks fucking
+
+797
+00:49:56,660 --> 00:50:04,820
+incredible. It's fucking dope. Igor 2008 is my fucking jam. Igor is played by John Kuzak.
+
+798
+00:50:04,820 --> 00:50:12,260
+It's the universal constant. It's fun and clever. Exactly. Wow. Wow. I'm just not pronounced Igor
+
+799
+00:50:12,260 --> 00:50:16,820
+and was sponsored by Apple to promote their new line of iPods that were coming out at the time.
+
+800
+00:50:17,540 --> 00:50:27,860
+The new deep web service Igor. Yes. Oh no. This may fucking 30 million point seven dollars at the
+
+801
+00:50:27,860 --> 00:50:36,660
+box office. He's powers before Igor. What the fuck. Powers before him. Cryptocurrency tanked when
+
+802
+00:50:36,660 --> 00:50:42,820
+this movie came out because real monster currency soared after Igor dropped and everyone. Igor
+
+803
+00:50:42,820 --> 00:50:48,580
+feel this right now. We want you on the podcast of all time killed cryptocurrency the US dollar
+
+804
+00:50:48,580 --> 00:50:53,620
+the scariest monster to ever live. That's true. That's true. Look how fucking look how fucking
+
+805
+00:50:53,620 --> 00:51:00,580
+co co co kawaii Igor is in this fucking movie. Hold on. Whoa. Whoa. Whoa. Those kawaii fucking
+
+806
+00:51:01,540 --> 00:51:06,340
+adorable. I love it. He's like an aunt. He looks like something from a bug's life. I feel
+
+807
+00:51:06,340 --> 00:51:09,940
+probably dream works animate or something fucking Igor. If you listen to the podcast we want you
+
+808
+00:51:09,940 --> 00:51:15,300
+on dude. We want you on this shit. We need we need you. We need you're wrong. We got one last
+
+809
+00:51:15,300 --> 00:51:20,500
+prowess. We got one last person here and it is mummy the mummy. What do we think of the
+
+810
+00:51:20,500 --> 00:51:25,780
+10 out of 10. He's my favorite 10 but I honestly I think that the invisible man wears the bandage
+
+811
+00:51:25,780 --> 00:51:32,340
+is better and like so mummies mummies don't have organs and somehow still are able to function
+
+812
+00:51:32,340 --> 00:51:42,340
+which means yeah what the fuck. It doesn't look real. I was that was a fucking slut.
+
+813
+00:51:42,340 --> 00:51:47,060
+Also I was going to say the fucking mummy the movie with Brendan Frazier was fucking sick because
+
+814
+00:51:47,060 --> 00:51:53,140
+that guy like fuck bitches and he like summoned like if we if we just guys if we have money on
+
+815
+00:51:53,140 --> 00:51:57,860
+this list why don't we have zombies on this list because well it's not a universal monster.
+
+816
+00:51:57,860 --> 00:52:02,260
+Yeah that's true. There are new things but zombies are fair. Zombies are fucking cool.
+
+817
+00:52:02,260 --> 00:52:07,700
+Before I'll just be that guy. I don't get I don't get the appeal of the mummy. I feel like the
+
+818
+00:52:07,700 --> 00:52:13,620
+appeal of the mummy is just the appeal of like ancient Egyptian stuff but like when I think of
+
+819
+00:52:13,620 --> 00:52:18,260
+a mummy there's nothing particularly Egyptian about it except it's just a zombie. It's just a
+
+820
+00:52:18,500 --> 00:52:24,100
+fucking did it. Yeah it's it's aesthetic which is not which is not true in reality but but in
+
+821
+00:52:24,100 --> 00:52:29,220
+but in movie land is the only place that actually matters and then listen listen the real okay there
+
+822
+00:52:29,220 --> 00:52:33,460
+is a there is a secret monster that came out in in the wake of the mummy and it is the realest
+
+823
+00:52:33,460 --> 00:52:38,180
+most terrifying monster that's ever existed so everyone's familiar with the saga of Brendan Frazier
+
+824
+00:52:38,180 --> 00:52:43,860
+I'm sure who has fallen from grace in the most tragic way possible and at the height of his
+
+825
+00:52:43,860 --> 00:52:50,500
+popularity he got a divorce and now he has to pay these like $500,000 alimony payments to his wife
+
+826
+00:52:50,500 --> 00:52:54,180
+and he is not getting into rules because no one wants to hire him because he got too tight cast
+
+827
+00:52:54,180 --> 00:53:00,260
+and exploded he burned out too too hotly and too quickly at the height of his career and he's
+
+828
+00:53:00,260 --> 00:53:04,020
+starting to get a little bit of shit now but like he's totally fucking dead and the real monster
+
+829
+00:53:04,020 --> 00:53:09,380
+here is alimony. Yeah alimony is the ultimate monster it ruins great men who could have otherwise
+
+830
+00:53:09,380 --> 00:53:13,860
+made something of themselves it is a beast like Brendan Frazier everyone's favorite alimony is just a
+
+831
+00:53:13,860 --> 00:53:18,900
+weapon the ultimate monster women yeah you know you're not wrong you're not wrong kill them all
+
+832
+00:53:18,900 --> 00:53:25,060
+that's that's my stance remember kids if you're gonna get married get a pc prenup get a pc
+
+833
+00:53:26,580 --> 00:53:35,940
+our patreon and we will personally give you a verified a twitter verified um every hundred
+
+834
+00:53:35,940 --> 00:53:41,540
+dollar patron gets a free pc prenup you know if you have a twitter checkmark you're you cannot be
+
+835
+00:53:41,540 --> 00:53:46,100
+the victim listen listen gentlemen gentlemen you don't want to get caught with your pants down
+
+836
+00:53:46,100 --> 00:53:50,980
+any second one of these suck you by could come into your life and sweep you into an illicit marriage
+
+837
+00:53:50,980 --> 00:53:56,180
+that is why right now which is before you find yourself awesome monster okay but that's true
+
+838
+00:53:56,180 --> 00:54:01,780
+succubus are great as i think you buy but that's gay uh but uh before you get yourself in that
+
+839
+00:54:01,780 --> 00:54:06,900
+situation young men you want to be donating a hundred dollars monthly to the pcp so that you have
+
+840
+00:54:06,900 --> 00:54:12,100
+that pc prenup ready to go at any moment when you need to fucking drop that hoe just trying to drain
+
+841
+00:54:12,100 --> 00:54:16,820
+you of all that cash you need to do this gentlemen we're trying to protect you from yourself remember
+
+842
+00:54:16,820 --> 00:54:22,260
+give us all your money before a woman can steal it from you if you don't have any money left then
+
+843
+00:54:22,260 --> 00:54:27,060
+she can't take it can she just just consider the pcp your personal bank that you cannot get any money
+
+844
+00:54:27,060 --> 00:54:32,900
+out of just you don't have any money left after the alimony how are you gonna pay the pcp yeah
+
+845
+00:54:32,900 --> 00:54:38,660
+yeah we exactly you're wield your pc prenup against women like a cross against the undead
+
+846
+00:54:40,500 --> 00:54:46,260
+wear it around wear it around your neck get a screen cap like a rosary print out the confirmation
+
+847
+00:54:46,260 --> 00:54:50,180
+of your hundred dollar pledge the pcp and wear it as a badge of honor wear it like a sheriff's
+
+848
+00:54:50,180 --> 00:54:54,740
+badge cut it into a little star a jewish star in Auschwitz camp and wear it the way they did
+
+849
+00:54:54,740 --> 00:54:59,460
+to protect themselves from you know the bad things uh-oh a bride is walking down the aisle then
+
+850
+00:54:59,460 --> 00:55:03,540
+the husband changes the music to the procrastinators theme for the last moment yeah that's in that
+
+851
+00:55:03,540 --> 00:55:11,300
+he got a prenup behind her back oh destroyed destroyed um we did it we tackled the ultimate
+
+852
+00:55:11,300 --> 00:55:16,500
+monster thank god i think we're done just one more thing no one more thing one more thing
+
+853
+00:55:16,500 --> 00:55:24,020
+okay okay go ahead mage like and another cool monsters are like the og angel designs because
+
+854
+00:55:24,660 --> 00:55:30,260
+oh my favorite how could i have forgotten yeah they're so cool they're even realer than real
+
+855
+00:55:30,260 --> 00:55:34,980
+they're they're they're they're beyond the scale they're post real yeah they're more real than
+
+856
+00:55:34,980 --> 00:55:41,220
+things that actually exist i think this is like just in a plane beyond beyond comprehension
+
+857
+00:55:42,100 --> 00:55:47,220
+they have a million heads and a billion eyes oh yeah the ring within rings within rings with
+
+858
+00:55:47,220 --> 00:55:53,620
+billion eyes on them that's like yeah and they're all like flaming and shit you know i was i was
+
+859
+00:55:53,620 --> 00:55:57,620
+skeptical but but i googled original angels and you know what you're right these are the scariest
+
+860
+00:55:57,620 --> 00:56:05,380
+things i've ever seen in my life i'm trembling like right now listen listen guys disgusting the popular
+
+861
+00:56:05,380 --> 00:56:09,460
+versions of of angels that people are familiar today that are just like pretty people with wings
+
+862
+00:56:09,460 --> 00:56:13,780
+that were like made famous during like you know the the i don't even know like greek in times here
+
+863
+00:56:13,780 --> 00:56:16,980
+when people are making you know whatever the fucking popes were painting them and shit the
+
+864
+00:56:16,980 --> 00:56:20,980
+fucking vistas sistine chapel and all that that's not the real shit in the bible we were talking
+
+865
+00:56:20,980 --> 00:56:25,220
+about angels from evan galleon because we're that fucking weebs oh those are pretty sick too i like
+
+866
+00:56:25,220 --> 00:56:30,500
+those i like the design my favorite is the uh what it's an octahedron the octahedron i forget
+
+867
+00:56:30,500 --> 00:56:34,740
+which name it's ramblethal or something whatever one it is that's the best character from guilty
+
+868
+00:56:34,740 --> 00:56:39,220
+gear also i think that might be the same name i gotta google that uh but yeah she's a sick monster
+
+869
+00:56:39,220 --> 00:56:44,980
+too she's got she's got that brown skin like a monster and just she's she's a perfect tan goddess
+
+870
+00:56:44,980 --> 00:56:49,220
+with white hair with big old shark teeth that will literally bite your dick off it's awesome i can't
+
+871
+00:56:49,220 --> 00:56:55,940
+find any images of of original angels i don't know what we're looking at oh oh um here i'll show you
+
+872
+00:56:55,940 --> 00:57:05,220
+i'll show you wait what what i i tried i tried searching for ophanim and it automatically
+
+873
+00:57:05,220 --> 00:57:13,780
+completed to ophanim on the digimon form digimon better than pokemon oh by the way the octahedron
+
+874
+00:57:13,780 --> 00:57:20,020
+in evan galleon is called rambiel rambiel i was mistaken uh there's just too many there's just too
+
+875
+00:57:20,020 --> 00:57:26,340
+many fucking good ones just google it people just google it it's incredible i tried it wouldn't
+
+876
+00:57:26,340 --> 00:57:32,580
+work i'm not using this the tried the tried and true chank youger argument of just google it all
+
+877
+00:57:32,580 --> 00:57:40,820
+right well here's here's one pretty good one uh dupe dupe dupe this this is my favorite whoa yeah
+
+878
+00:57:40,820 --> 00:57:45,940
+i was gonna i was gonna look that up one yeah that's my favorite as well because and the thing is
+
+879
+00:57:45,940 --> 00:57:51,300
+these these things are in addition to being awesome they are like the wheels of god's chariot
+
+880
+00:57:51,300 --> 00:57:55,700
+like is this like straight up biblical yeah please describe this for our list call please
+
+881
+00:57:55,700 --> 00:58:02,180
+describe it i think um but the okay the thing about it the thing about it like the reason why
+
+882
+00:58:02,180 --> 00:58:06,740
+angels are always depicted as like people with wings is because like in the bible angels appear
+
+883
+00:58:06,740 --> 00:58:13,380
+in the form of people right right isn't jacob that like wrestles an angel or something i don't know
+
+884
+00:58:13,380 --> 00:58:18,020
+someone wrestles an angel and and that angel is a guy but like that's not what he really looks like
+
+885
+00:58:18,020 --> 00:58:23,940
+he's appearing as a human but like in in the bible they appear they generally appear as humans but
+
+886
+00:58:23,940 --> 00:58:28,100
+that's not what they really look like uh this is what they really look like and they're fucking here
+
+887
+00:58:28,500 --> 00:58:33,540
+i'll find another one i'll find a seraphim and just describe this like at least cherub's cherub's
+
+888
+00:58:33,540 --> 00:58:39,540
+i think used to have like you know how cherub's are depicted as like little babies or not but
+
+889
+00:58:39,540 --> 00:58:44,100
+that that's not how they used to be i think they had three heads one human one lion one
+
+890
+00:58:44,100 --> 00:58:48,660
+bull or something yeah yeah they were like um they were like why do we make the bible so uncool
+
+891
+00:58:48,660 --> 00:58:53,140
+manticore i don't know man they were like it's because they baby did up i don't know this fucking
+
+892
+00:58:53,140 --> 00:58:58,020
+been advertising christianity in the bible has really made me thirsty to hunker down with the
+
+893
+00:58:58,020 --> 00:59:03,620
+with the good book one of these days he's thinking it sounds so so fucking you know advertise it's
+
+894
+00:59:03,620 --> 00:59:08,420
+if you know the boring parts it is yeah i've been wanting to take that the quest i've really owed
+
+895
+00:59:08,420 --> 00:59:12,260
+it to myself to actually read the thing oh is this like the thousand wings or whatever that's the
+
+896
+00:59:12,260 --> 00:59:17,780
+seraphim i love seraphim oh my god wait let me find the metatron my favorite guys guys you gotta
+
+897
+00:59:17,780 --> 00:59:21,060
+describe these because the people listening did not know what the fuck you're they're in the show
+
+898
+00:59:21,060 --> 00:59:25,220
+notes click on the fucking description look nobody wants to have to do they want to hear that
+
+899
+00:59:25,220 --> 00:59:28,820
+look it's a bunch of wings arranged around a central eye like that's all you have to say
+
+900
+00:59:31,460 --> 00:59:35,780
+they don't know what we're talking about they can't match images to what we're fucking speaking of
+
+901
+00:59:35,780 --> 00:59:39,940
+god well you just described it now google seraphim and find an image that matches your description
+
+902
+00:59:41,620 --> 00:59:47,940
+that is the worst idea i've ever heard in my life this is like furry porn i know
+
+903
+00:59:48,740 --> 00:59:55,540
+i know this is this one does look like someone on dvn art made it probably did it looks too
+
+904
+00:59:56,420 --> 01:00:02,500
+modern to be like this one that's a little too fan-ficking yeah yeah okay yeah i'm sorry there's
+
+905
+01:00:02,500 --> 01:00:07,220
+there's not like a lot of the pictures of the metatron are kind of stupid and like new agey
+
+906
+01:00:07,220 --> 01:00:11,540
+looking and i hate them so i'm gonna just like go to god and be like can you send us some photos
+
+907
+01:00:12,260 --> 01:00:16,260
+yeah yeah can we can you link us to your uh can you link us to your instagram
+
+908
+01:00:16,260 --> 01:00:21,140
+yeah fucking when when when madpat gave a copy of undertale to the pope you should have said
+
+909
+01:00:21,140 --> 01:00:26,660
+dude can you please do me a favor just get some some snapchats from the angels up in heaven please
+
+910
+01:00:26,660 --> 01:00:30,980
+ask them i could really use those that would have been sick that would have been sick oh well
+
+911
+01:00:30,980 --> 01:00:34,420
+instead they played undertale that's seeing in my confessions no answer me
+
+912
+01:00:35,140 --> 01:00:43,780
+exactly okay we're that's it we're done thank you angels uh i worship you forever good wait we
+
+913
+01:00:43,780 --> 01:00:49,780
+didn't we didn't talk about the most dangerous monster of all our fathers no i was that's you
+
+914
+01:00:49,780 --> 01:00:55,780
+know you're not wrong they bear such power we're already such power yeah i can't believe it i feel
+
+915
+01:00:55,780 --> 01:01:02,180
+like we said nothing wait we said this was the worst topic what are you talking about viewers i
+
+916
+01:01:02,260 --> 01:01:05,940
+want to let you all know that i thought tooth and nail for this topic to not happen so you
+
+917
+01:01:05,940 --> 01:01:10,340
+don't have me to blame i'm absolved of all guilt in what you have just listened to today this is
+
+918
+01:01:10,340 --> 01:01:13,940
+the greatest podcast yeah they're gonna be this is the best this is the best episode we've ever
+
+919
+01:01:13,940 --> 01:01:19,780
+done yeah look like an idiot now you got you got it you gotta hold lines like that until after
+
+920
+01:01:19,780 --> 01:01:24,580
+the hot take from the audience comes in so you can play both sides to your right you know he's
+
+921
+01:01:24,580 --> 01:01:30,660
+right about that uh but on fathers they are the most powerful creatures in our lives for sure
+
+922
+01:01:30,660 --> 01:01:36,020
+and they have the most ability to destroy us at their work they represent our most primal fears
+
+923
+01:01:36,020 --> 01:01:41,540
+indeed indeed you know what they say and the vagina of the mother the foremost powerful
+
+924
+01:01:41,540 --> 01:01:47,540
+feels are our fires thunders tornadoes and fathers and or something like that they're a
+
+925
+01:01:47,540 --> 01:01:54,260
+walking natural disaster uh okay that's it enough enough it's time to transition everybody
+
+926
+01:01:54,980 --> 01:02:01,700
+oh sweet poor fags head on over and check the hashtag ask pcp on the twitter jesus christ
+
+927
+01:02:01,700 --> 01:02:05,460
+do you guys are really dropping the ball if you if you're asking us a question on twitter and not
+
+928
+01:02:05,460 --> 01:02:10,260
+in our premium procrastinators patreon discord
+
+929
+01:02:15,860 --> 01:02:19,780
+that's how literally give a fuck about sure we're not even gonna finish this statement we
+
+930
+01:02:20,180 --> 01:02:25,220
+indeed but we do love the people in our patreon discord uh who we ask questions to we've got a
+
+931
+01:02:25,220 --> 01:02:29,140
+you know separate thing just for questions there that we will refer to uh but let me get the pity
+
+932
+01:02:29,140 --> 01:02:35,220
+question here from the the twitter real quick this is from at a mundane critic and the question is
+
+933
+01:02:35,220 --> 01:02:44,260
+the more of a request it is define meme define meme is it just meme is a joke that isn't funny
+
+934
+01:02:44,980 --> 01:02:52,340
+right that's your definition it's a viral joke that isn't funny i i i've led i've led this crusade
+
+935
+01:02:52,340 --> 01:02:57,860
+on arm retrieval the the the bible the bible retold for the for the modern era where we need to
+
+936
+01:02:57,860 --> 01:03:01,780
+make a distinction when we think things are funny refer to them as jokes and we think things
+
+937
+01:03:01,780 --> 01:03:06,260
+aren't funny refer to them as memes that that that's my that's my official doctrine and i
+
+938
+01:03:06,260 --> 01:03:11,380
+train from that whenever i can if there's one thing to discuss to me about the word meme it's
+
+939
+01:03:11,380 --> 01:03:18,020
+when it's used to mean like a still image of some quote unquote funny thing happening with text on
+
+940
+01:03:18,020 --> 01:03:24,580
+the top and bottom yeah that is a meme now that i hate that but like that's kind of what it
+
+941
+01:03:25,140 --> 01:03:29,700
+me people mean when they say it now like i don't i don't think i don't i think that i think we've
+
+942
+01:03:29,700 --> 01:03:37,060
+lost that battle yeah you're right yeah it's a shame i do it's not we've lost that that's what a
+
+943
+01:03:37,620 --> 01:03:45,540
+question from the discord chat western dragons versus who's it from ends western dragons
+
+944
+01:03:45,540 --> 01:03:50,660
+versus eastern dragons which are better i say western dragons eastern dragons western dragons
+
+945
+01:03:50,660 --> 01:03:56,020
+are fucking awful and i hate them so so so much they're cool lizards with with giant wings and the
+
+946
+01:03:56,020 --> 01:04:01,380
+brief fire and eastern dragons are just long noodles if i see western dragons for the win
+
+947
+01:04:02,100 --> 01:04:13,220
+if i see a single other castle night brown earth or dragon i will fucking buy off the handle
+
+948
+01:04:13,220 --> 01:04:20,180
+western fantasy it are the dregs of all fictional settings western fantasy is the opposite of
+
+949
+01:04:20,180 --> 01:04:25,860
+creativity and the graveyard for all potentially good ideas listen i when i was young i definitely
+
+950
+01:04:25,860 --> 01:04:29,940
+felt burned i read a lot of fantasy novels as a kid i definitely got burned out on like western
+
+951
+01:04:29,940 --> 01:04:35,300
+fantasy it's specifically like western dragons but then i got more into d&d which now i don't
+
+952
+01:04:35,300 --> 01:04:40,420
+really like so much but the point is i read the monsters manual and i read like all the books
+
+953
+01:04:40,420 --> 01:04:46,020
+and the like i would say that on average eastern dragons are just like they're cooler by default
+
+954
+01:04:46,020 --> 01:04:52,260
+but when you've got a really like majestic and like dignified looking like sick ass ancient
+
+955
+01:04:52,260 --> 01:04:58,260
+worm elder like gold or red or white dragon or something and they're just like so fucking wise
+
+956
+01:04:58,260 --> 01:05:03,860
+and so woke to the world they are so aesthetic and sick and i love them i think that they're awesome
+
+957
+01:05:04,820 --> 01:05:12,500
+dragons look disgusting they're fucking all no no dragon can look good you need to read the
+
+958
+01:05:12,500 --> 01:05:17,860
+monsters fucking manual you didn't need to read the draco nama con dude exactly i'll
+
+959
+01:05:19,140 --> 01:05:23,700
+look at this if you think this looks fucking good then you then you have brain damage look this one
+
+960
+01:05:23,700 --> 01:05:27,780
+looks a little goofy but the ones in the monsters manual shit looks sick like look at how this guy
+
+961
+01:05:27,780 --> 01:05:31,620
+looks a little silly look at his silly like smile and his like goofy face and shit and his head a
+
+962
+01:05:31,620 --> 01:05:36,020
+little too big and his body looks too small this looks like a young adult dragon but an ancient
+
+963
+01:05:36,020 --> 01:05:42,100
+worm oh they're so cool what's a good looking dragon then munch what what kind of dumb noodley
+
+964
+01:05:42,100 --> 01:05:47,300
+yeah do you think is sick yeah i think that i have this after one fucking shout out to the museum of
+
+965
+01:05:47,300 --> 01:05:54,660
+fine arts in boss and hosting the the the red dragon painting that is fucking huge and it will
+
+966
+01:05:54,660 --> 01:06:00,180
+and it like takes like two cars to fucking have it open hold on here let me get this munchie loves
+
+967
+01:06:00,180 --> 01:06:06,260
+japan period i do i literally do i don't i don't trust weaboos all right i gotta you gotta show me
+
+968
+01:06:06,260 --> 01:06:11,220
+the receipts on this shit let me get this shit fucking here here here fucking look at this
+
+969
+01:06:11,220 --> 01:06:18,100
+you fucking pieces of shit look at this the fucking red dragon it's huge um okay i mean that looks sick
+
+970
+01:06:18,820 --> 01:06:24,980
+look how big that shit is our face looks nice but not the dragon the dragon that those noodle
+
+971
+01:06:24,980 --> 01:06:30,900
+dragons will never look cool to me they're fucking real long you can just whack them you can just
+
+972
+01:06:30,900 --> 01:06:35,300
+you can just chop them off that literally looks may just looks exactly the same as one munchie just
+
+973
+01:06:35,300 --> 01:06:42,180
+sling like the facial proportions are identical um this and what may just link looks dope as hell
+
+974
+01:06:42,180 --> 01:06:48,740
+it looks great that's not even an argument it looks good no that looks gay as fuck no it looks
+
+975
+01:06:48,740 --> 01:06:54,420
+fucking cool i would like this one just the only the only time in east dragon it's kind of cool
+
+976
+01:06:54,420 --> 01:06:58,340
+was shenron from dragon ball and that's because i was a little kid and shenron does look cool
+
+977
+01:06:58,340 --> 01:07:04,100
+other than that he's not cool look at this fucking dragon bleeding look at this dragon
+
+978
+01:07:04,100 --> 01:07:08,580
+bleeding can western dragon oh he looks concerned no western dragons don't leave because they're
+
+979
+01:07:08,580 --> 01:07:14,580
+fucking gods look at his big goofy anime eyes exactly what the fuck is the worst the worst okay
+
+980
+01:07:14,580 --> 01:07:21,460
+no it's fucking it's a snake okay uh enough can we please move on to the next question
+
+981
+01:07:22,900 --> 01:07:27,060
+hold on uh who wants to who's got one from the thing i'm gonna i'm gonna oh oh oh oh here here's
+
+982
+01:07:27,060 --> 01:07:33,620
+like a quick one that i want to uh mention uh from the patreon lounge bozhen weeaboo are you
+
+983
+01:07:33,620 --> 01:07:42,340
+going to smoke weed radcon if i if i even see a single marijuana flower at red i know that the
+
+984
+01:07:42,340 --> 01:07:50,260
+entire building will be decimated and disintegrated before my vast power if i see a single as as the
+
+985
+01:07:50,260 --> 01:07:57,860
+children call it blunt i will fly off the handle well did you all right take notes i guess we've
+
+986
+01:07:57,860 --> 01:08:03,460
+been warned listen okay listen to this incredible question from at leo j larkin from the twitter
+
+987
+01:08:03,460 --> 01:08:11,460
+another pity question if you could feed a length to anyone living or dead real or fictional who
+
+988
+01:08:11,460 --> 01:08:18,500
+would it be feed feed a what feed a length like a length of something unspecified so you get to
+
+989
+01:08:18,500 --> 01:08:23,380
+come up with the the length of whatever you want to feed to whoever you want to feed it to like a
+
+990
+01:08:23,380 --> 01:08:29,220
+length of wire like a length of rope like a length of fruit rollups perhaps a length of sausage you
+
+991
+01:08:29,220 --> 01:08:36,820
+know the fruit rollups to myself i was gonna do something similar yeah like like everybody else
+
+992
+01:08:38,740 --> 01:08:44,340
+um no i'd like to feed like a length of sausages to like you know like like shenron for example
+
+993
+01:08:44,340 --> 01:08:48,660
+like he looks like he'd really appreciate like a long noodley sausage link chain you know that's like
+
+994
+01:08:48,660 --> 01:08:53,940
+that's like cannibalism that'd be cool he is a long fucking sausage or or length of like offended
+
+995
+01:08:53,940 --> 01:08:59,060
+by that a single very long noodle to like an asian man and watch him just like slurp it up over
+
+996
+01:08:59,060 --> 01:09:06,180
+like generations as he goes like from um yeah it'd be sick it'd be fucking sick uh okay that's it i
+
+997
+01:09:06,180 --> 01:09:13,140
+would like to feed the length of of a video game cartridge of donkey kong country 2 to my nintendo
+
+998
+01:09:13,140 --> 01:09:18,500
+we for it to play that's good you know i'd like to feed the length of this podcast to the dustbin
+
+999
+01:09:18,500 --> 01:09:28,820
+of history to feed a length of a hundred dollar bills to my wallet that's that's good that's good
+
+1000
+01:09:28,820 --> 01:09:34,180
+okay let's do like one or two more questions from the lab let me go see what we got marron pan marron
+
+1001
+01:09:34,180 --> 01:09:42,180
+pan marron pan yeah one pocket monster type is each pcp man's member type huh that's a nuanced
+
+1002
+01:09:42,180 --> 01:09:50,260
+question i know my you're all pure fairy and i am steel no that's no i'm i'm dark fairy me okay
+
+1003
+01:09:50,260 --> 01:10:00,020
+that sounds right that sounds right ghost ice hmm uh i'm steel bug so i don't know this is my
+
+1004
+01:10:00,020 --> 01:10:06,900
+favorite i'm just saying my favorite one i'm i'm i'm i'm normal i'm just normal yeah you look like
+
+1005
+01:10:06,900 --> 01:10:13,940
+normal normal like a burger uh what about you can have a team tom's definitely dark
+
+1006
+01:10:14,740 --> 01:10:22,500
+anarcho capitalist i graduated from communism thank god had long last long last well finally
+
+1007
+01:10:22,500 --> 01:10:28,260
+the ancap master i'm gonna keep i'm gonna keep going i think like digi would be like psychic
+
+1008
+01:10:28,340 --> 01:10:37,940
+something psychic dark maybe uh um psychic ground ground you think okay yeah he's playing
+
+1009
+01:10:37,940 --> 01:10:44,660
+type he's smoking all the weed oh actually oh of course could be psychic grass he'd be grass fire
+
+1010
+01:10:44,660 --> 01:10:51,460
+because of that dank he's always blazing i think maybe i'm just biased because of his color palette
+
+1011
+01:10:51,540 --> 01:10:59,300
+but i want to give duvou pure flying pure flying i like that i like that it's intellectual height
+
+1012
+01:10:59,300 --> 01:11:03,060
+there's nothing i hate more than like normal flying types when they could just be flying
+
+1013
+01:11:03,060 --> 01:11:08,100
+and like just please just do that everyone uh there's only one there's a um not thunderous not
+
+1014
+01:11:08,100 --> 01:11:13,540
+that tornado tornadoes is the only pure flying oh that's right the balloon is ghost flying and
+
+1015
+01:11:13,540 --> 01:11:20,580
+i let me say i want to do a gib as well what is gib gib is gib is gib is silly gib's rod type because
+
+1016
+01:11:20,580 --> 01:11:25,700
+he loves castles so much he could be i think gib is i think gib is normal high he's hybrid normal
+
+1017
+01:11:25,700 --> 01:11:31,140
+type what is that like two normals is normally he's normal and something else but i don't know
+
+1018
+01:11:31,140 --> 01:11:35,700
+what the something else he's normal and rock maybe electric electric because he plays sick riffs on
+
+1019
+01:11:35,700 --> 01:11:41,700
+his guitar dude i can't see him i was i was thinking grass but that's only because of the
+
+1020
+01:11:41,700 --> 01:11:45,940
+color palette that he likes using with the yeah i was sort of thinking grass for him as well i don't
+
+1021
+01:11:46,020 --> 01:11:48,020
+know his hair is like a bush
+
+1022
+01:11:50,420 --> 01:11:52,340
+yeah like that chest guy in one piece
+
+1023
+01:11:54,580 --> 01:11:59,220
+yeah that's good i don't know and what about and i feel like and maybe jesse would be something
+
+1024
+01:11:59,220 --> 01:12:05,700
+like i don't know the tango is normal jesse is a fighting type oh he's definitely fighting type
+
+1025
+01:12:05,700 --> 01:12:12,100
+uh he's got to be like fighting oh shit i don't know fighting normal i don't know he's fire and
+
+1026
+01:12:12,100 --> 01:12:16,660
+fighting fire and fighting yeah why the fuck not that one there's too many of those you're right
+
+1027
+01:12:16,660 --> 01:12:20,580
+that is too many fuck that let's pick up a better one of those jesse doesn't have to be a star and
+
+1028
+01:12:20,580 --> 01:12:26,580
+there's too many bug there's too many bug steel too for that matter is it oh well okay i don't know
+
+1029
+01:12:26,580 --> 01:12:32,260
+i think jen wanted to yeah i don't actually know what i'd actually be more like no buddy jesse's
+
+1030
+01:12:32,260 --> 01:12:38,180
+fighting and fairy type of those like this is what we are what we need to get to yeah you know you're
+
+1031
+01:12:38,180 --> 01:12:43,700
+right you're right i kind of think fighting fairy works for jesse i because he's like i think it
+
+1032
+01:12:43,700 --> 01:12:48,500
+works he's kind of a softy on the inside you know he's tough on the outside you know i look i like
+
+1033
+01:12:48,500 --> 01:12:55,060
+fighting fairy type for jesse i like that i like that a lot cool and uh whatever i'm sick of bug
+
+1034
+01:12:55,060 --> 01:13:02,420
+steel no that's everybody that's everybody i think um all right we did it well that's congratulations
+
+1035
+01:13:02,420 --> 01:13:07,860
+now now you all know this is this is canon put this on the wiki yeah indeed i expect it updated
+
+1036
+01:13:07,940 --> 01:13:12,820
+within five minutes of this being uploaded some yeah i think i think the final project we want to
+
+1037
+01:13:12,820 --> 01:13:20,100
+answer probably uh happy d from the patreon lounge thoughts on monster any or energy drinks um oh
+
+1038
+01:13:20,100 --> 01:13:27,060
+disgusting excellent monster like diesel i used to be a huge fan believe it or not back in the
+
+1039
+01:13:27,060 --> 01:13:33,620
+college days but i graduated to red bull and rock star and haven't looked back the no sugar kind of
+
+1040
+01:13:34,020 --> 01:13:40,820
+the monster ultra series is my favorite of all hey in case you guys haven't seen ben here is
+
+1041
+01:13:40,820 --> 01:13:46,340
+quite the connoisseur of monster energy drinks having just made an art piece using the cans right
+
+1042
+01:13:46,340 --> 01:13:52,180
+that was monster right um the big old yeah i made volpix for jackie out of like 50 fucking monster
+
+1043
+01:13:52,180 --> 01:13:58,900
+cans meticulously cut monster cans into one yeah it is into one inch pieces of metal and then like
+
+1044
+01:13:58,900 --> 01:14:04,580
+linked together with a hole punch and tiny metal key rings how did you keep that a secret
+
+1045
+01:14:04,580 --> 01:14:09,140
+how did you keep that a secret that's what i'm wondering well see because like i started working
+
+1046
+01:14:09,140 --> 01:14:14,900
+on it a long time ago like i started working on it like almost a year ago okay but it kind of like
+
+1047
+01:14:14,900 --> 01:14:18,660
+it kind of like lost momentum but then our anniversary came up and i was like this i think
+
+1048
+01:14:18,660 --> 01:14:23,460
+this is the time to finish it yeah okay so i did i pushed through because like i already i mean i'd
+
+1049
+01:14:23,460 --> 01:14:28,420
+already put i'd already put all that work in like i had to do it was like now's the time if i'm ever
+
+1050
+01:14:28,420 --> 01:14:33,940
+gonna baggy and like pop artness at the same time i love it i love it made of fucking monster
+
+1051
+01:14:33,940 --> 01:14:40,020
+cans it's oh that's great it's it's it's really it's something that uh i don't know i mean i'd
+
+1052
+01:14:40,020 --> 01:14:45,300
+i'd want it in my house you probably have to like map out like pixel by pixel like i absolutely did
+
+1053
+01:14:45,300 --> 01:14:51,140
+i have like i have like files um yeah i had to like i had to like divide the original sprite
+
+1054
+01:14:51,140 --> 01:14:57,060
+into its pixels find out how many of each color i needed how and then like estimate how many cans
+
+1055
+01:14:57,140 --> 01:15:02,180
+that was going to be uh separate them all and then like i took the thing and i split it into
+
+1056
+01:15:02,180 --> 01:15:07,460
+its vertical sections and then i would link together one vertical section at a time um and
+
+1057
+01:15:07,460 --> 01:15:13,380
+then i would connect them by the top and then i i yeah um it was it was labor and and energy
+
+1058
+01:15:13,380 --> 01:15:22,020
+intensive it sure looks like it well okay you know there's one last question we have to answer
+
+1059
+01:15:22,020 --> 01:15:27,860
+from AJ Shoup here that's just thoughts on monster cheese with a little o w o face
+
+1060
+01:15:30,260 --> 01:15:38,900
+hey i love cheese i am i'm i'm not a white person because i don't really like cheese that much
+
+1061
+01:15:39,700 --> 01:15:45,140
+i love cheese but it is the forbidden snack i cannot do it i like it but i don't like it
+
+1062
+01:15:45,140 --> 01:15:51,380
+that much and i'm totally willing and i'm totally willing to forego it like i often get food with
+
+1063
+01:15:51,460 --> 01:15:56,180
+no cheese on it because it's like well cheese has a lot of extra calories in it and i don't like
+
+1064
+01:15:56,180 --> 01:16:00,740
+cheese that much so i'm willing to lose the cheese because i don't care about the cheese
+
+1065
+01:16:02,180 --> 01:16:06,820
+well sure i mean you get like bakery pizza or something you know that's no cheese the bakery
+
+1066
+01:16:06,820 --> 01:16:10,420
+pizza is like a different thing or you get greek pizza whatever i love all right i love i
+
+1067
+01:16:10,420 --> 01:16:14,660
+shout out to monoray jack the best cheese and the cheese they use chipotle oh we ate a lot of
+
+1068
+01:16:14,660 --> 01:16:19,220
+monoray jack as youngsters i was yeah it was my favorite it was my favorite cheese the best cheese
+
+1069
+01:16:19,220 --> 01:16:22,900
+i have learned as a connoisseur i do love cheese they have like cheese little things at whole foods
+
+1070
+01:16:22,900 --> 01:16:28,500
+all the time you can just like grab and eat with like crackers and shit uh uh fucking extra extra
+
+1071
+01:16:28,500 --> 01:16:33,220
+extra sharp cheddar the sharper the better i want my tongue to fucking bleed and slice and dice on
+
+1072
+01:16:33,220 --> 01:16:38,580
+the sharpness of that fucking cheddar god i love it it is so succulent it's the best but i don't
+
+1073
+01:16:38,580 --> 01:16:43,300
+but i've never had monster or if i have i don't remember what it was like i mean monster is kind
+
+1074
+01:16:43,300 --> 01:16:51,060
+of weird and it's not very good first time i'm hearing about it honestly for shame it's it's it's
+
+1075
+01:16:51,060 --> 01:16:57,620
+it's white that's a problem yeah already yeah not starting off on a different we need some diversity
+
+1076
+01:16:57,620 --> 01:17:01,700
+in our cheese okay enough that's it all right thank you everybody i think we're good here uh thanks
+
+1077
+01:17:01,700 --> 01:17:08,660
+for listening people god let me out remember remember um we've the kickstarter still going on
+
+1078
+01:17:08,660 --> 01:17:14,420
+to fund radcon that's right we'll have this video see for a week straight let me have at least
+
+1079
+01:17:14,420 --> 01:17:18,340
+there's like two weeks left i think at this point so everybody please get the guy there's about like
+
+1080
+01:17:18,340 --> 01:17:22,980
+a week and a half at this point guys seriously remember fucking radcon three make it happen
+
+1081
+01:17:22,980 --> 01:17:27,540
+first of all just for the content you will make fucking lectures from most of us we have lectures
+
+1082
+01:17:27,540 --> 01:17:32,420
+already planned and ready to go uh tom guilty gear lure me i'm telling you right now i don't know if
+
+1083
+01:17:32,420 --> 01:17:36,260
+i said it it'll be it's a final fantasy lecture everybody it's gotta be goofy it's gonna be crazy
+
+1084
+01:17:36,260 --> 01:17:40,260
+i don't know if i've said this but i'm do i'm gonna do a lecture on the on the lore of tales gets
+
+1085
+01:17:40,260 --> 01:17:47,060
+trolled incredible in incredible this is the best that's straight up the best content out of radcon
+
+1086
+01:17:47,060 --> 01:17:53,140
+everybody knows it it's gonna be the potato's fucking shit uh i also be in a lecture i'll be
+
+1087
+01:17:53,140 --> 01:18:00,020
+in a lecture on on on spirituality could you do please do a lecture on um uh on catcher in the
+
+1088
+01:18:00,020 --> 01:18:04,340
+ride because i'm not smart enough to like understand like what's going on in that story it all starts
+
+1089
+01:18:04,340 --> 01:18:10,900
+with the great gatsby that's what i meant the great gatsby correction where i get started yeah we gotta
+
+1090
+01:18:10,900 --> 01:18:15,540
+start with 101 you can't start with like 301 with catcher in the ride you know basic shit first this
+
+1091
+01:18:15,540 --> 01:18:21,140
+is okay this is how you get smart is you read the classics like you know to kill a mocking jay and stuff
+
+1092
+01:18:21,140 --> 01:18:27,140
+like that uh okay so everyone please give to the kickstarter support radcon three we really want to
+
+1093
+01:18:27,140 --> 01:18:30,980
+happen be be lovely and beyond that if you just don't give a shit and you just want to support us
+
+1094
+01:18:30,980 --> 01:18:36,260
+in general uh and get access to the bonus episodes uh there is a new one out now that has came out
+
+1095
+01:18:36,260 --> 01:18:44,980
+like a week ago or so uh fucking gamer gate versus the 2016 presidential united states election like
+
+1096
+01:18:44,980 --> 01:18:52,820
+holy shit it was honestly there's just really only one word for it transcendent kino fucking kino
+
+1097
+01:18:52,820 --> 01:18:58,500
+it's incredible it was the best episode of the bonus episodes so fucking far without question god it
+
+1098
+01:18:58,500 --> 01:19:02,180
+was incredible uh everyone go listen it's as good as it sounds i was i was honored to have been a part
+
+1099
+01:19:02,180 --> 01:19:08,980
+of it yes same that is for five dollar patrons indeed five dollar patrons get access to all that
+
+1100
+01:19:08,980 --> 01:19:16,260
+shit uh and that's it please give us your money we also got some shirts you want to click the red
+
+1101
+01:19:16,260 --> 01:19:20,660
+bubble link go buy them they're on red bubble they're cool pcb logos and whatnot buy some mugs
+
+1102
+01:19:20,660 --> 01:19:26,340
+etc etc and uh go listen to the podcast if you care to on itunes and google play our friend tom
+
+1103
+01:19:26,340 --> 01:19:32,260
+here takes care of that shit and uh that's it that's it everybody thanks for listening
+
+1104
+01:19:32,260 --> 01:19:36,420
+and we'll see you again next week with some more shit uh give money to the kickstarter
+
+1105
+01:19:36,420 --> 01:19:40,980
+i love you time to goodbye goodbye
+
+1106
+01:19:56,340 --> 01:20:04,980
+right now
+
+1107
+01:20:06,340 --> 01:20:08,980
+myself i'm
+
+1108
+01:20:08,980 --> 01:20:18,980
+i am an asshole i am a stupid i've got a deadline don't want to do it
+

@@ -1,0 +1,3116 @@
+1
+00:00:00,000 --> 00:00:09,120
+Hello everybody and welcome to another episode of The Pro Crastinators Podcast. Here we are
+
+2
+00:00:09,120 --> 00:00:16,800
+in the desert drought land of the dark YouTube arc. And I'm here by my lonesome. Let me tell
+
+3
+00:00:16,800 --> 00:00:23,680
+you a story. Let me tell you a little story, okay? So I woke up today, wasn't feeling very good.
+
+4
+00:00:24,640 --> 00:00:30,320
+I like hurt my back again. I had like a second spot where I thought I might have hurt my back
+
+5
+00:00:30,320 --> 00:00:37,120
+yesterday. So I rolled out of bed. I use the term roll loosely because I can't really move that much
+
+6
+00:00:37,120 --> 00:00:42,560
+at all. But I rolled out of bed, came downstairs, started a 3D print. Have I mentioned on The Pro
+
+7
+00:00:42,560 --> 00:00:48,160
+Crastinators Podcast I got a 3D printer? I think so. I started a 3D print, been dialing in some
+
+8
+00:00:48,160 --> 00:00:54,080
+settings, making some cool shit, which you'll see in the few months I suppose maybe. And that was,
+
+9
+00:00:54,080 --> 00:00:59,360
+I went out, I got some some snacks, came back, checked on the print, it was doing okay. And I
+
+10
+00:00:59,360 --> 00:01:03,440
+rolled into discord and it's like, huh, wonder how many people showed up for the PCP today?
+
+11
+00:01:03,440 --> 00:01:08,640
+I'm like a half an hour late. Let's see. Zero. It hadn't started. Nobody even remembered to
+
+12
+00:01:08,640 --> 00:01:14,800
+fucking start it. So I messaged everybody and I was like, Hey, what's going on the PCP? And I had
+
+13
+00:01:14,800 --> 00:01:19,280
+to check the calendar. I'm like, it's Sunday, right? This is recording day. Hmm, strange.
+
+14
+00:01:20,080 --> 00:01:26,800
+I guess Ben is hungover, like ridiculously, according to Gib. So that's probably why he
+
+15
+00:01:26,800 --> 00:01:33,280
+didn't add everybody as he is one to do. And so here we are recording a little bit later than
+
+16
+00:01:33,280 --> 00:01:39,280
+usual. It's just me. I don't know what I'm going to say because I didn't plan on being on the episode
+
+17
+00:01:39,280 --> 00:01:44,960
+today, but the show must go on quite literally because this is a show. So Gib might be dropping
+
+18
+00:01:44,960 --> 00:01:49,760
+in at some point because I added everybody and he was the only one who responded. But we're just
+
+19
+00:01:49,760 --> 00:01:56,880
+going to do a chill episode today about something haven't figured it out yet. We'll get there though.
+
+20
+00:01:56,880 --> 00:02:01,840
+We'll get there, my friends. This is going to be a super chill laid back one man episode of the
+
+21
+00:02:01,840 --> 00:02:09,200
+procrastinators podcast. I guess we'll just start at the 3d printing stuff. 3d printing is pretty
+
+22
+00:02:09,200 --> 00:02:14,480
+fucking cool. It's been my new obsession. I talked about this on my Patreon bonus podcast,
+
+23
+00:02:14,480 --> 00:02:19,920
+but I've been taking a two week hiatus from the internet. I just got off of Twitter for the most
+
+24
+00:02:19,920 --> 00:02:24,320
+part, haven't really been going on YouTube, didn't go on any social media stuff and I haven't been
+
+25
+00:02:24,320 --> 00:02:30,560
+thinking about my work and my content in terms of like trying to make it good for social media
+
+26
+00:02:30,560 --> 00:02:36,800
+engagements. I have instead retreated and I'm trying to cleanse my brain of all that outside
+
+27
+00:02:36,800 --> 00:02:42,800
+influence of trying to like stress about fitting your creativity peg into the square hole of like
+
+28
+00:02:43,680 --> 00:02:47,920
+making things to satisfy the algorithms instead. I'm just like, I'm just going to do what I want.
+
+29
+00:02:47,920 --> 00:02:52,000
+And it opened up so many new possibilities. My brain's going in a million different directions.
+
+30
+00:02:52,000 --> 00:02:56,000
+You know, 3d printing is fucking based and cool and sick. I've been doing all these really cool
+
+31
+00:02:56,000 --> 00:02:59,920
+things. I've been making 3d models and blender and I'm scaling them down to little miniature
+
+32
+00:02:59,920 --> 00:03:04,160
+size and printing them out and dialing in the settings of the 3d printer trying to figure out
+
+33
+00:03:04,160 --> 00:03:08,000
+how to make it work to anybody who doesn't know how what a 3d printer is and how it works.
+
+34
+00:03:08,000 --> 00:03:14,000
+There are two kinds of 3d printers. There is an FDM style printer, which is the most common one.
+
+35
+00:03:14,000 --> 00:03:20,400
+And that's where you have like a nozzle that melts plastic to like a couple like a like 200 degrees
+
+36
+00:03:20,400 --> 00:03:26,800
+centigrade and then layer by layer. It goes up the entire model and recreates it in a physical
+
+37
+00:03:26,800 --> 00:03:31,600
+space. And that's the kind of printer I have right now. I have the anycubic i3 mega s. Maybe
+
+38
+00:03:31,680 --> 00:03:37,280
+I'll put a link to a picture of it in the show notes. If I'm smart, I will have done that.
+
+39
+00:03:37,280 --> 00:03:42,080
+So this is the printer I've been messing around with right now. And it's just really
+
+40
+00:03:42,080 --> 00:03:46,960
+interesting technology and how it works. It's printing at like one tenth of a millimeter
+
+41
+00:03:46,960 --> 00:03:51,600
+layer heights and it stacks up a bunch of them and makes figures. And I've been experimenting with
+
+42
+00:03:51,600 --> 00:03:58,080
+that seeing how that works. There's also another kind of printer called SLA or resin style printer.
+
+43
+00:03:58,080 --> 00:04:03,040
+And that's it uses like a vat of resin and then uses UV light to harden it like one layer at a
+
+44
+00:04:03,040 --> 00:04:06,880
+time. And those print even thinner and they make even better style of models. And those are good
+
+45
+00:04:06,880 --> 00:04:11,520
+for miniatures. But resin is like toxic and you breathe it and it'll fucking kill you. So you
+
+46
+00:04:11,520 --> 00:04:17,360
+have to wear like a respirator and wear gloves and shit. So that's on the list because that'll make
+
+47
+00:04:17,360 --> 00:04:22,560
+miniatures even cooler because that's pretty much exactly my use case. It's they make all their money
+
+48
+00:04:22,560 --> 00:04:26,720
+by selling to nerds who play D&D and want to print their own miniatures. But I'm gonna make my own
+
+49
+00:04:26,720 --> 00:04:32,080
+custom miniatures. So someday when I'm not gay, I'll have that. I think someone joined the call.
+
+50
+00:04:32,080 --> 00:04:41,440
+Who's here? Who joined? Hello. It's Gib. What's up, dude? Nothing much. I'm just on the procrastinators
+
+51
+00:04:41,440 --> 00:04:47,040
+podcast suddenly. Yeah, we procrastinated pretty hard starting this week's episode.
+
+52
+00:04:47,760 --> 00:04:54,080
+Yeah. I mean, a lot of the time it's been who's like, Hey guys, just just you know, I'm the only
+
+53
+00:04:54,080 --> 00:05:00,720
+one paying attention. I will announce that it's time to do PCP. But I think Ben is
+
+54
+00:05:01,360 --> 00:05:08,640
+indisposed in some fashion, you know, maybe a little bit of a alcohol related absence.
+
+55
+00:05:09,440 --> 00:05:14,800
+Hilarious. What what a what a what a good boy he is with his alcohol.
+
+56
+00:05:16,240 --> 00:05:19,520
+Yeah, I was just kind of killing time just talking about what I've been personally doing. I was
+
+57
+00:05:19,520 --> 00:05:23,120
+talking about how I took a two week break from social media and it's like reinvigorated my
+
+58
+00:05:23,120 --> 00:05:29,440
+brain and then you realize that making things just because like you want to is fucking cool.
+
+59
+00:05:32,320 --> 00:05:35,280
+Because like I was talking about this on my bonus podcast that like
+
+60
+00:05:37,040 --> 00:05:41,040
+my entire adult life has been spent trying to make a career on the internet like since I was 16
+
+61
+00:05:41,040 --> 00:05:47,120
+to right now. So like 16 years. And by just taking a break and just like purposely saying just do
+
+62
+00:05:47,120 --> 00:05:50,720
+whatever you want to do and like stop worrying about like how is it going to be marketable or
+
+63
+00:05:50,720 --> 00:05:54,880
+how's it going to work on social media like my brain just exploded. And I started thinking about
+
+64
+00:05:54,880 --> 00:06:00,000
+like learning how to do soldering and like buying like a raspberry pi and like soldering enough and
+
+65
+00:06:00,000 --> 00:06:04,720
+3d printing like cases around them so you can like make custom little micro consoles and stuff and
+
+66
+00:06:04,720 --> 00:06:09,920
+like soldering together like controllers so you can make little bar top arcade cabinets out of them
+
+67
+00:06:09,920 --> 00:06:14,720
+and like just all these crazy ideas that don't make any sense to like the kind of identity and
+
+68
+00:06:14,720 --> 00:06:19,920
+sort of things that I've been doing online because they're not really that marketable in terms of
+
+69
+00:06:20,880 --> 00:06:25,520
+being able to produce something like that at scale or things like that but they're fucking cool
+
+70
+00:06:25,520 --> 00:06:29,680
+and I'm just thinking about doing cool things and it's pretty liberating because like the first
+
+71
+00:06:29,680 --> 00:06:35,360
+time I've ever really done that in a million billion years. Yeah I really like all of that
+
+72
+00:06:37,440 --> 00:06:41,520
+the sort of inventiveness you have when you just like the idea of building a tiny little
+
+73
+00:06:41,520 --> 00:06:47,360
+console is like really cool I would never think to do anything like that. Right it's very interesting
+
+74
+00:06:47,360 --> 00:06:53,440
+just because like a lot of the times I'll try and I want to learn something new right because even
+
+75
+00:06:53,440 --> 00:06:57,840
+the stuff I'm doing right now like learning 3d and like trying to get better at it I always feel
+
+76
+00:06:57,840 --> 00:07:03,040
+the pressure of I don't have time to get better I need to make things I need to output things and
+
+77
+00:07:04,080 --> 00:07:07,440
+when you stop having to worry about social media it's like I have all the time in the world I can
+
+78
+00:07:07,440 --> 00:07:12,000
+do whatever the fuck I want I don't have to output shit I can just learn the thing I can learn things
+
+79
+00:07:12,000 --> 00:07:18,560
+that don't even matter I just do whatever the fuck I want it's cool it's fucking cool. Yeah I've
+
+80
+00:07:18,560 --> 00:07:24,800
+been feeling well the opposite of that that that urge to like constantly be producing
+
+81
+00:07:26,960 --> 00:07:32,720
+ever since ever since I announced I would do the Tezuka manga project I've been thinking
+
+82
+00:07:32,720 --> 00:07:38,400
+gotta stay on track gotta be focused gotta be working on that uh deadline deadline oh shit
+
+83
+00:07:38,800 --> 00:07:44,240
+the world is gonna end when I get one tweet who says uh you didn't finish that and that'll be me
+
+84
+00:07:44,240 --> 00:07:50,640
+like time to get the rope guys it's time to find a tree somewhere end it all no because
+
+85
+00:07:50,640 --> 00:07:53,600
+there's one tweet who said I didn't do it you gotta make a tire swing that's what you're doing right
+
+86
+00:07:53,600 --> 00:07:57,760
+that's what you're talking about making a tire swing just hanging out yes that's what I'm thinking of
+
+87
+00:07:57,760 --> 00:08:05,600
+and it's so I'm like you know I've realized in the past few weeks that I'm stupidly stressing
+
+88
+00:08:05,600 --> 00:08:12,080
+myself out over something that if I hadn't announced it I wouldn't even be worried in any way I would
+
+89
+00:08:12,080 --> 00:08:18,080
+just be working I mean I would still be worried by the fact that like you're surrounded by people who
+
+90
+00:08:18,080 --> 00:08:24,000
+are like collectively outputting content all the time even though individually they are taking
+
+91
+00:08:24,000 --> 00:08:29,360
+a while each to get their thing out but like there's always something new to watch as a viewer
+
+92
+00:08:29,360 --> 00:08:35,040
+something new to see something new to read and then you're there thinking I've got to keep up with
+
+93
+00:08:35,040 --> 00:08:42,240
+like the collective efforts of every creator on the internet and it's like it's stupid so I'm like
+
+94
+00:08:42,240 --> 00:08:48,400
+super stupid but I feel that all the time I feel like like when you when you and uh when you and
+
+95
+00:08:48,400 --> 00:08:52,480
+Ben I'll put comics I'm like oh I want to make a comic why haven't I done it why am I not doing it and
+
+96
+00:08:52,480 --> 00:08:59,920
+it's just like dumb dumb can't you comparing yourself even though that's like my modus operandi
+
+97
+00:09:00,880 --> 00:09:05,600
+like uh Ben's been working on the uh Sleiman punishment finale and he says it's very close
+
+98
+00:09:05,600 --> 00:09:11,680
+to being finished and I know when it's posted I'm gonna be like oh that's good like I get the
+
+99
+00:09:11,680 --> 00:09:15,760
+feeling it's gonna be incredible and everyone's gonna be like holy shit Ben whoa and I'm gonna be
+
+100
+00:09:15,760 --> 00:09:23,040
+like yeah yeah holy shit Ben you mother fuck yeah exactly it's like when new lord of ghost comes out
+
+101
+00:09:23,040 --> 00:09:26,960
+I'm like oh you're fucking god damn like you were doing those like once a week and I was like
+
+102
+00:09:26,960 --> 00:09:32,640
+yeah it's unbelievable turned into a magikar disgusting kill him kill him and seep his power
+
+103
+00:09:33,360 --> 00:09:42,320
+a vampiric ability soul drain that's what I need yeah it was I mean it was deceptively quick
+
+104
+00:09:42,960 --> 00:09:48,640
+what I was putting out I mean I was drawing the panels uh pretty fast uh but the first few weeks
+
+105
+00:09:48,640 --> 00:09:54,160
+I was like hurting my hand I had to slow down a bit but um the preparation for that had been going
+
+106
+00:09:54,160 --> 00:10:00,560
+on for months before like planning it out and and drawing all this the sketches and figuring out
+
+107
+00:10:00,560 --> 00:10:06,960
+panel lay on stuff so like actually doing the the the work of inking it was the only thing I was
+
+108
+00:10:06,960 --> 00:10:13,440
+actually doing and it made it seem like I was like a god suddenly and I felt like a god and so as
+
+109
+00:10:13,440 --> 00:10:17,840
+soon as I was like all right it's time to work on a new project because there's a special contest
+
+110
+00:10:17,920 --> 00:10:24,960
+that I want to enter um I had sort of forgotten maybe that the lord of ghost took months of prep
+
+111
+00:10:24,960 --> 00:10:30,800
+work and now I was expecting myself to do the entire thing in three months and it took two
+
+112
+00:10:30,800 --> 00:10:35,600
+months to get the story and I have one month left to draw the entire thing from scratch
+
+113
+00:10:36,320 --> 00:10:42,000
+and it's very daunting but I I have an announcement to make regarding that um
+
+114
+00:10:42,720 --> 00:10:48,720
+um for just you know just to make it a fun little thing um and so that I'm not like
+
+115
+00:10:48,720 --> 00:10:54,560
+suffering in silence in the darkness I'm going to be live streaming my attempt at drawing the
+
+116
+00:10:54,560 --> 00:11:02,800
+whole thing in a month over on my twitch uh in august I'm going to be doing like like a full
+
+117
+00:11:02,800 --> 00:11:08,640
+work day maybe a little less I can't remember the hours I was thinking of doing but I'm going to be
+
+118
+00:11:08,640 --> 00:11:14,880
+waking up eating breakfast and then streaming until like 7 30 pm me drawing the thing
+
+119
+00:11:16,080 --> 00:11:19,760
+and that that's going to be like every weekday of august I'm going to try and do that
+
+120
+00:11:20,560 --> 00:11:23,760
+and you're going to do like a regular stream or you're going to do like a silent stream where
+
+121
+00:11:23,760 --> 00:11:27,280
+you're just working and people can watch but you're not talking to chat or anything or you're
+
+122
+00:11:27,280 --> 00:11:30,880
+going to do full distraction stream where you're going to be trying to be entertaining on top of
+
+123
+00:11:30,880 --> 00:11:38,000
+being productive you know I I probably will try to be I'm going to have my mic on because
+
+124
+00:11:38,000 --> 00:11:44,880
+I do like interacting with the chat a little bit um if only if only to if only to like I don't know
+
+125
+00:11:46,080 --> 00:11:50,880
+express my frustration with whatever I'm doing like oh no and then people in chat can be like
+
+126
+00:11:50,880 --> 00:11:58,320
+don't worry and then I'll be like okay so yeah you actually react like that I can only hope that you
+
+127
+00:11:58,320 --> 00:12:06,320
+do ah gee you know I don't know I in my head I'm like there's no way I can actually do it uh that
+
+128
+00:12:06,320 --> 00:12:14,960
+quickly but at least I could make a bunch of content about it at least maybe you know people
+
+129
+00:12:14,960 --> 00:12:19,600
+will be interested in seeing the process maybe I could save the video and then you know when I'm a
+
+130
+00:12:19,600 --> 00:12:27,520
+super famous man and I have like a blu-ray of my new anime that I made this can be like footage
+
+131
+00:12:27,520 --> 00:12:32,880
+like commentary track I can commentate over my drawing of the original comic that started it all
+
+132
+00:12:32,880 --> 00:12:39,200
+or something stupid like that so it's it's that's that's august is going to be that for me
+
+133
+00:12:40,640 --> 00:12:46,320
+so it's like is this is this tesga comic is this like the start of a new comic that regardless of
+
+134
+00:12:46,320 --> 00:12:50,160
+how it performs in the tesga contest you're going to keep working with the characters and stuff or
+
+135
+00:12:50,160 --> 00:12:55,440
+is this kind of just a one-off thing um it it started off it was one of the characters I had
+
+136
+00:12:55,440 --> 00:13:02,080
+plans for a comic anyway so I was thinking you know if I want to make a comic about this character
+
+137
+00:13:02,160 --> 00:13:06,960
+now is a very good time to start because it's it's uh you know you gotta make a comic and submit it
+
+138
+00:13:07,920 --> 00:13:14,080
+so yes I'm gonna uh regardless of whether I finish it or not I'm going to continue to work on it
+
+139
+00:13:14,080 --> 00:13:19,360
+until it is finished and then make another chapter later and it's hopefully gonna be really cool
+
+140
+00:13:21,440 --> 00:13:26,720
+and I'm just I'm just I'm just it's like this is all happening from my perspective tomorrow I'm
+
+141
+00:13:26,720 --> 00:13:30,960
+starting tomorrow so right now I'm just doing nothing I'm just chilling out relaxing
+
+142
+00:13:32,080 --> 00:13:37,440
+doing stupid nothing stuff so that the color before the storm come before the storm so I know
+
+143
+00:13:38,240 --> 00:13:45,200
+that I enjoyed myself before I put myself through what could be hell I don't really know yet so by
+
+144
+00:13:45,200 --> 00:13:51,920
+the time this comes out you'll be on day five I will be yes on day five go to twitch.tv slash
+
+145
+00:13:51,920 --> 00:13:59,280
+give and take to to watch along uh so are you gonna start what time are you starting uh like
+
+146
+00:13:59,280 --> 00:14:05,920
+your time or you're gonna be streaming uh my time I'm hoping that I can get up and ready
+
+147
+00:14:06,640 --> 00:14:15,680
+to go by 11 a.m my time okay and then I will go all the way to 7 p.m my time and I think
+
+148
+00:14:15,680 --> 00:14:23,600
+I've worked it out in American in EST at least that's like from 6 a.m to 2 30 p.m so it's if
+
+149
+00:14:23,600 --> 00:14:28,480
+you're up at the the beginning of the day or like half first half of the day and you're like I'm
+
+150
+00:14:28,880 --> 00:14:35,760
+bored I will watch give and take that that that's that's the time so when this episode comes out
+
+151
+00:14:35,760 --> 00:14:42,560
+you'll be just about starting to wrap up on Friday yeah interesting go catch the last
+
+152
+00:14:43,600 --> 00:14:52,720
+25 or so minutes of of the struggle that Gibba takes undertaking undertaking
+
+153
+00:14:52,720 --> 00:14:57,920
+ooh now now I'm now I'm really invested now I'm ready to go if sans is going to be there
+
+154
+00:14:57,920 --> 00:15:03,840
+I'm I'm I'm I'm game I'm locked in uh yeah it's not sans it's my new original character times new
+
+155
+00:15:03,840 --> 00:15:16,080
+roman oh shit it's aerial the the new waifu version of sans she's got she's got like spine
+
+156
+00:15:16,800 --> 00:15:22,480
+bone hair you know like like hairs that look like little miniature spines coming down
+
+157
+00:15:23,040 --> 00:15:27,120
+it's pretty dope that's that's an original character do not steal right there yep put
+
+158
+00:15:27,120 --> 00:15:31,680
+put that in lord of ghosts you know I easily could lord of ghosts is just full of like cool
+
+159
+00:15:31,680 --> 00:15:35,760
+character designs in the background is lord of ghosts is done are you still gonna keep working
+
+160
+00:15:35,760 --> 00:15:42,400
+on them I cut it off at a point where it could be done if I wanted it to be but I do want to finish
+
+161
+00:15:42,480 --> 00:15:49,680
+like lord of ghosts coming back with his army of the dead and being like I'll take over the endless
+
+162
+00:15:49,680 --> 00:15:56,640
+war and kill it forever so there's some sort of plan but I don't I haven't actually written it yet
+
+163
+00:15:58,400 --> 00:16:05,280
+that would be cool be sick oh god I almost I have this giant can of golden bear light
+
+164
+00:16:05,280 --> 00:16:09,280
+lemonade and I almost knocked it off the table onto my computer that would have been bad I'm
+
+165
+00:16:09,280 --> 00:16:18,400
+gonna move that away from there oh dear um shit I'm so unprepared in terms of things I wanted to
+
+166
+00:16:18,400 --> 00:16:23,680
+talk about because I was not planning on being on today I was just gonna I was gonna let Ben
+
+167
+00:16:24,480 --> 00:16:30,720
+take the reins as he is one to do but holy shit we gotta we gotta come up with something we gotta
+
+168
+00:16:30,720 --> 00:16:35,520
+we gotta pull something ever it's only been 17 minutes 17 minutes is not long enough for a
+
+169
+00:16:35,600 --> 00:16:42,880
+procrastinator's podcast episode well I uh I can I can pad this out for a little bit
+
+170
+00:16:44,080 --> 00:16:53,920
+all right you have 45 minutes to go okay let me go very slow um recently uh geowizard
+
+171
+00:16:53,920 --> 00:17:01,680
+youtuber and cool bloke um the guy who did the mission across wiles I don't know if you if you
+
+172
+00:17:01,680 --> 00:17:08,720
+watch that uh was the um the the mission to walk across the country of wiles in a completely
+
+173
+00:17:08,720 --> 00:17:16,880
+straight line using a gps tracker and uh I talked about him on the podcast before and he has since
+
+174
+00:17:16,880 --> 00:17:23,200
+then done a couple another a couple missions similar to that but not exactly the same but
+
+175
+00:17:23,200 --> 00:17:31,120
+recently he did uh an attempt a second attempt at this this challenge and it was a it was really
+
+176
+00:17:31,120 --> 00:17:39,440
+good I really love his his videos it's it's just something like tv quality about the the production
+
+177
+00:17:39,440 --> 00:17:46,320
+not in not in a sense of like high fidelity um footage but sort of it's a really really
+
+178
+00:17:46,320 --> 00:17:52,960
+interesting concept with you know well structured storytelling beats and editing that just sort
+
+179
+00:17:52,960 --> 00:17:58,960
+of make it flow really nicely and he's very funny and it's really just very interesting
+
+180
+00:17:58,960 --> 00:18:04,240
+and that sort of stuff just really gets me going really gets me inspired I know how you
+
+181
+00:18:04,240 --> 00:18:08,800
+earlier you were saying like when you're not thinking about like being a content machine and
+
+182
+00:18:08,800 --> 00:18:14,640
+doing stuff for social media and you just let yourself do stuff even if it's not going to be
+
+183
+00:18:14,640 --> 00:18:20,560
+profitable necessarily it's just like what do you want to do I want to do that I have no like
+
+184
+00:18:20,560 --> 00:18:26,880
+real outdoorsy experience I've gone on a couple walks and a hike maybe I've camped a couple times
+
+185
+00:18:27,760 --> 00:18:35,200
+but that sort of thing is like it's just so cool like I I went on after watching uh the
+
+186
+00:18:35,200 --> 00:18:41,600
+latest episode and I was just like looking at google earth google maps and just scrolling around like
+
+187
+00:18:41,600 --> 00:18:46,640
+what part of england could I just walk across could I just walk all the way to the fucking sea
+
+188
+00:18:46,640 --> 00:18:53,680
+from my house how long would that take would I need to pack lunch probably it's like ah the world is
+
+189
+00:18:53,680 --> 00:18:59,360
+so big and there's so much cool shit even in even in the tiniest of of country is the tiniest of
+
+190
+00:18:59,360 --> 00:19:05,200
+islands there's just so much to see human beings are so infinitesimally small in the grand scale of
+
+191
+00:19:05,200 --> 00:19:14,880
+even the smallest part of the earth it's just so so big guys I love geology I love geography I love
+
+192
+00:19:14,960 --> 00:19:22,240
+all of that and I'm like yeah I want to do it but then I keep thinking oh yeah COVID
+
+193
+00:19:24,000 --> 00:19:30,320
+time to just crumple into a into a I don't know this is like the perfect time to do it
+
+194
+00:19:30,320 --> 00:19:34,400
+though because then you can just do it nobody will bother you you know you can just go like like
+
+195
+00:19:34,400 --> 00:19:37,680
+no one's gonna like chase you out of a place you're not supposed to be because they're all
+
+196
+00:19:37,680 --> 00:19:41,200
+locked inside you can just like this is the perfect time to like life hack and take like
+
+197
+00:19:41,920 --> 00:19:46,080
+weird areas and go to places you shouldn't go because there'll be less people around to keep
+
+198
+00:19:46,080 --> 00:19:52,880
+you out of that I suppose that's true yeah I'm thinking of like I don't know getting a backpack
+
+199
+00:19:52,880 --> 00:19:58,880
+together I mean it's August so it would be a very like if it was a hot day it would be a devastating
+
+200
+00:19:58,880 --> 00:20:05,680
+sort of time to do this because you'd need a lot more water with you and I don't really know how
+
+201
+00:20:05,680 --> 00:20:10,480
+to live off the land or start a campfire on my own I mean you need a lighter and wood
+
+202
+00:20:11,200 --> 00:20:16,400
+so that's not too difficult it's gotta gotta learn just gotta teach yourself all I gotta learn I gotta
+
+203
+00:20:16,400 --> 00:20:25,760
+do I gotta go I think first step is like learning from like going on a hiking club like a finding
+
+204
+00:20:25,760 --> 00:20:32,160
+a hiking group to go hiking with and seeing seeing how fun that is just you know doing doing it the
+
+205
+00:20:32,160 --> 00:20:39,120
+baby way before I like try to tackle the wilderness with nothing but my wits because I don't have any
+
+206
+00:20:39,920 --> 00:20:45,840
+I'm looking at the the wits tank and it's empty sure I mean I think that's a good
+
+207
+00:20:47,120 --> 00:20:52,960
+good mentality for learning any new skill is always start with like the least possible
+
+208
+00:20:52,960 --> 00:20:58,720
+resistance and then build yourself up because like so many times I'm going a little bit more
+
+209
+00:20:58,720 --> 00:21:03,680
+macro with this but I think it applies to really any new skill or any new hobby anybody gets into
+
+210
+00:21:03,680 --> 00:21:09,520
+you'll be a new person doesn't know anything about x subject and you'll go look online or
+
+211
+00:21:09,520 --> 00:21:15,040
+like go join a group or ask people or like research things out like how do I get started in this
+
+212
+00:21:15,040 --> 00:21:18,880
+and then they'll recommend something like two steps above like the very basic thing because
+
+213
+00:21:18,880 --> 00:21:22,880
+like it's the best thing to do it'll last you the longest it's the best value or whatever it's like
+
+214
+00:21:22,880 --> 00:21:31,760
+the best thing to do and then you'll do that but you risk like losing incentive because
+
+215
+00:21:32,720 --> 00:21:36,560
+it's a little bit above your pay grade because you're talking to enthusiasts you're talking to
+
+216
+00:21:36,560 --> 00:21:41,200
+people who have more knowledge so they can look at something that's a little bit more complicated
+
+217
+00:21:41,200 --> 00:21:45,600
+than a beginner level and be like this is a way better thing to get or way better place to start
+
+218
+00:21:45,600 --> 00:21:52,240
+or way better thing to like wet your teeth on but you'll like pull that back and be like I'm super
+
+219
+00:21:52,240 --> 00:21:56,480
+baby mode I probably shouldn't do that and then those same enthusiasts will kind of like give you
+
+220
+00:21:56,720 --> 00:22:04,080
+for it because I'm just thinking in terms of like when I started doing game dev like everyone said
+
+221
+00:22:04,080 --> 00:22:08,320
+you know like use Godot or use Unity or whatever and I use construct 3 instead and it's like not
+
+222
+00:22:08,320 --> 00:22:13,120
+real programming and they're like why are you using that it's like shitty and it's like not as good
+
+223
+00:22:13,120 --> 00:22:17,280
+as these things it's like yeah but I don't know what the fuck I'm doing I've told myself for 15
+
+224
+00:22:17,280 --> 00:22:24,480
+years I can't do this so like I need those little like small baby step wins to give me the the
+
+225
+00:22:24,560 --> 00:22:29,040
+confidence to keep going because if you just dive into the deep end or just like you know
+
+226
+00:22:29,040 --> 00:22:33,520
+like an enthusiast grade thing or you know put it bring it back to your example if like you just
+
+227
+00:22:33,520 --> 00:22:37,440
+went out in the wilderness like with a couple youtube videos under your belt telling you like
+
+228
+00:22:37,440 --> 00:22:41,920
+your best practices that's way different than like starting something really really simple just
+
+229
+00:22:41,920 --> 00:22:46,960
+kind of like ease yourself into it it was the same thing with 3d printing like there was like a
+
+230
+00:22:46,960 --> 00:22:52,080
+really like you know get a ender three kit and put it together and like then spend another
+
+231
+00:22:52,080 --> 00:22:55,920
+hundred dollars in upgrades and like pull it apart and put it back together and I got like
+
+232
+00:22:56,560 --> 00:23:01,760
+i3 mega which was already preassembled and had all those upgrades pretty much already installed
+
+233
+00:23:01,760 --> 00:23:05,120
+and it's like yeah I don't understand how the whole thing works like you would putting a kit
+
+234
+00:23:05,120 --> 00:23:10,640
+together but like I'm printing and making things and that's getting me much more invested in like
+
+235
+00:23:10,640 --> 00:23:15,520
+continuing the hobby as opposed to failing at putting this together or like getting frustrated
+
+236
+00:23:15,520 --> 00:23:20,160
+trying to figure out what all the upgrades meant and what they did and just getting pissed off so
+
+237
+00:23:20,160 --> 00:23:26,320
+like I don't know for anything you get into always like go at like the super beginner level if you
+
+238
+00:23:26,320 --> 00:23:32,640
+don't have any confidence with it even if that's not like the best way or the correct way to do
+
+239
+00:23:32,640 --> 00:23:39,120
+things that like people more into it would tell you to do yeah that such a thing that I've encountered
+
+240
+00:23:39,120 --> 00:23:46,240
+a lot is just the frustration of of people who are who are already know knowledgeable about a
+
+241
+00:23:46,320 --> 00:23:52,960
+certain subject or I mean specifically in art there are certain people who you know they drew
+
+242
+00:23:52,960 --> 00:23:59,040
+when they were very young and so they naturally gain some skills that they sort of take for granted
+
+243
+00:23:59,040 --> 00:24:04,400
+some sort of observational skills some understanding fundamental understanding that they don't even
+
+244
+00:24:04,400 --> 00:24:11,760
+know they have above like somebody who starts drawing at 23 or something um and when they
+
+245
+00:24:11,760 --> 00:24:18,320
+try to give advice they're taking advantage of not taking vultures that they're taking for granted
+
+246
+00:24:19,680 --> 00:24:24,560
+all of this stuff that they they sort of inherently understand and they assume other people inherently
+
+247
+00:24:24,560 --> 00:24:30,720
+understand it as well and they sort of just they don't know how to give the advice well
+
+248
+00:24:30,720 --> 00:24:36,160
+and then the person who is like not as not as like naturally into it or hadn't started at a young
+
+249
+00:24:36,160 --> 00:24:41,440
+enough age just doesn't understand these things that they're saying and doesn't know why it doesn't
+
+250
+00:24:41,520 --> 00:24:48,240
+working that's why that's why a really good teacher is important it's it's very difficult to get a
+
+251
+00:24:48,240 --> 00:24:53,760
+thorough proper understanding of anything from just youtube videos you need someone who knows
+
+252
+00:24:53,760 --> 00:25:00,720
+how to do the the entire teaching method stuff yeah I was about to say the exact same thing that
+
+253
+00:25:00,720 --> 00:25:06,400
+like this really like hammers home why a good teacher is so important because a great teacher
+
+254
+00:25:06,400 --> 00:25:10,400
+will be able to explain what they'll have the skills to do it at a high level
+
+255
+00:25:11,120 --> 00:25:16,960
+but the ability to describe it at a complete beginner level to like de-abstract a lot of the
+
+256
+00:25:16,960 --> 00:25:22,320
+kind of like essential building blocks that you don't think about as somebody new to it
+
+257
+00:25:23,280 --> 00:25:28,960
+but be able to then build upon those and give you that complex understanding over time
+
+258
+00:25:29,760 --> 00:25:34,560
+and there are some people on youtube and just teachers in general who are really good at that
+
+259
+00:25:34,560 --> 00:25:41,200
+and some that aren't and I think it's really easy to get into something and get a bad teacher
+
+260
+00:25:41,200 --> 00:25:46,320
+and assume you're too dumb for it where it's that the information wasn't given to you in a way
+
+261
+00:25:46,960 --> 00:25:50,640
+that works because not only do you need someone who can explain in a simple way
+
+262
+00:25:50,640 --> 00:25:57,280
+everybody also has like specific ways of learning things um because there's like programming and
+
+263
+00:25:57,280 --> 00:26:03,360
+stuff there are certain programming courses and books and videos that'll explain a subject that I
+
+264
+00:26:03,360 --> 00:26:08,240
+don't understand but then another person can explain that same thing and then it makes sense so
+
+265
+00:26:09,680 --> 00:26:14,080
+it's really weird like learning a new skill is very very finicky and you have to like be
+
+266
+00:26:14,080 --> 00:26:19,920
+patient with yourself to find the right teacher and find your learning style and find someone
+
+267
+00:26:19,920 --> 00:26:25,440
+where those two kind of paths collide and you can actually absorb the knowledge yeah you gotta
+
+268
+00:26:25,440 --> 00:26:32,080
+you gotta spread yourself out try try what is the word something the market you gotta you gotta
+
+269
+00:26:32,080 --> 00:26:38,800
+test the waters with all different like a variety of people because um in like if you if you went
+
+270
+00:26:38,800 --> 00:26:45,520
+to a class uh the teacher if you don't get what they're saying you can put your hand up and say
+
+271
+00:26:45,520 --> 00:26:53,200
+what ha like they can understand that you need help in this specific explanation but in a youtube
+
+272
+00:26:53,200 --> 00:26:59,440
+video you can't really do that you can like ask comments but like a lot of the time you find a
+
+273
+00:26:59,520 --> 00:27:05,200
+youtube tutorial and it's very old or like they just don't check the comments after a certain point
+
+274
+00:27:06,000 --> 00:27:09,920
+and it sort of feels like you can't really get into contact with the people because usually the
+
+275
+00:27:09,920 --> 00:27:15,360
+best most popular channels they obviously get thousands of comments all the time it's like
+
+276
+00:27:15,360 --> 00:27:19,520
+you're gonna get it's like having one teacher with a thousand students in the class you're
+
+277
+00:27:19,520 --> 00:27:23,680
+never gonna get his attention so if you don't understand what he's saying you're fucked
+
+278
+00:27:24,480 --> 00:27:31,760
+exactly so i don't know like i mean when you when you get to that point a lot of time you'll just
+
+279
+00:27:31,760 --> 00:27:36,960
+be like instead of raising your hand being like huh what you just have to like keep pressing back
+
+280
+00:27:36,960 --> 00:27:41,360
+like five seconds watch the same thing and just saying huh what getting more and more angry each
+
+281
+00:27:41,360 --> 00:27:49,360
+time until you feel like an idiot yeah i tried i tried a bit of programming but it was too i i
+
+282
+00:27:49,360 --> 00:27:54,000
+tried to like make this is the thing that frustrated me the most out of anything in my life
+
+283
+00:27:54,640 --> 00:28:00,560
+when i was trying to make my website which at the time was called aps adventures and uh
+
+284
+00:28:00,560 --> 00:28:07,440
+is now gib and take dot site where i just host my comics and i know what i wanted it to look like
+
+285
+00:28:07,440 --> 00:28:12,880
+i know what i wanted it to be functionally useful for and i didn't really care about it
+
+286
+00:28:12,880 --> 00:28:20,400
+being extremely technically marvelous i just wanted it to work but there's so much to learn
+
+287
+00:28:20,400 --> 00:28:27,280
+about the very basics of html and and coding a website that it was like so daunting all i wanted
+
+288
+00:28:27,280 --> 00:28:33,360
+to do is just say i just want a website how do i just get one how do i just have one right do i go
+
+289
+00:28:33,360 --> 00:28:42,000
+to uh what's that thing the thing that has been in every video um this video by square space um
+
+290
+00:28:42,720 --> 00:28:49,600
+like that i was looking at i was like hmm i get the feeling this is too expensive i don't really
+
+291
+00:28:50,160 --> 00:28:56,240
+you know i guess i'm being a cheapskate in that like i needed an easier way i needed an easier
+
+292
+00:28:56,240 --> 00:29:02,080
+way and i was like i'd rather learn it myself but it was so painful to learn i just sort of didn't
+
+293
+00:29:02,080 --> 00:29:07,600
+have the right mind for it like a lot of the things that they were saying would just not go into
+
+294
+00:29:07,600 --> 00:29:14,000
+my head right and it was very difficult to try and find a very baby explanation like a of these
+
+295
+00:29:14,000 --> 00:29:19,600
+concepts and i still to this day don't really know how my site works and if i ever need to edit
+
+296
+00:29:19,600 --> 00:29:26,880
+anything it's it's very scary and i i often i think on many occasions i've gone to discord and twitter
+
+297
+00:29:26,880 --> 00:29:34,880
+and just like cried like star web design sucks just like crying into the void like nobody understands
+
+298
+00:29:35,680 --> 00:29:45,680
+you know slip my wrists but with um with a you know hgtb slash colon slash slash my wrist that's
+
+299
+00:29:45,680 --> 00:29:53,360
+what i was going for yeah well i think it's one of the things that i do a lot which kind of falls
+
+300
+00:29:53,360 --> 00:29:59,600
+into the same sort of category is like you'll go right online uh and be like okay i want to make
+
+301
+00:29:59,600 --> 00:30:05,760
+a website and then everyone will be like oh just learn html just learn html and css bro like just
+
+302
+00:30:05,760 --> 00:30:11,040
+do it and then javascript just learn javascript too and it's just like you have to ask yourself
+
+303
+00:30:12,960 --> 00:30:19,600
+what do i actually need to know right because like if you're trying to become a web designer
+
+304
+00:30:19,600 --> 00:30:25,280
+yeah learn html learn css learn javascript learn all that shit like there's so many different
+
+305
+00:30:25,280 --> 00:30:30,880
+fucking like tech stacks for web design now it's insane i know because my sister is like a professional
+
+306
+00:30:30,880 --> 00:30:35,920
+like web and ux designer and she's like yeah i do like seven jobs now it's ridiculous so like
+
+307
+00:30:35,920 --> 00:30:39,760
+that's a whole nightmare in and of itself but like if you're just making give and take that site
+
+308
+00:30:40,800 --> 00:30:44,480
+do you need to learn html like that seems like almost like a waste of time right when there are
+
+309
+00:30:44,560 --> 00:30:50,320
+so many tools to just do it for you it's like why do i not just use something that does it for me
+
+310
+00:30:50,320 --> 00:30:57,120
+i don't you have no interest in web design outside of hosting the content you care about in a public
+
+311
+00:30:57,120 --> 00:31:03,440
+space and my personal thing is like so many times like when i want to get into something i want to
+
+312
+00:31:03,440 --> 00:31:08,800
+like learn it all so it's like i want to learn all of html just to make a website for a zoomie
+
+313
+00:31:08,800 --> 00:31:13,200
+someday it's like but why why would i do that you know i did that for sources loss i spent like
+
+314
+00:31:13,200 --> 00:31:19,440
+months building an entire website from scratch and it's like cool but what was the point like i
+
+315
+00:31:19,440 --> 00:31:23,040
+didn't need to do that i could have just gone and done what you did and just like use a website
+
+316
+00:31:23,040 --> 00:31:28,240
+builder or something and it would have been just as fine so it's just like i don't know there was
+
+317
+00:31:28,240 --> 00:31:36,160
+this interesting thing that um uh uh uh six tin uh uh showed me uh because we talk in uh a discord
+
+318
+00:31:36,160 --> 00:31:43,120
+group and stuff and it was like the valve t-pose skill set mentality thing i forget exactly what
+
+319
+00:31:43,120 --> 00:31:51,200
+it was called but um i guess it was like a graphic from valve and it was like you have like a character
+
+320
+00:31:51,200 --> 00:31:56,160
+standing in a t-pose and the idea was like the spine is like your central skill and the spine
+
+321
+00:31:56,160 --> 00:32:00,240
+supports that skill and that's like your specialty that's like your one skill you're really good with
+
+322
+00:32:00,240 --> 00:32:05,680
+and then the arms support skills that you're familiar with but don't have a lot of knowledge in
+
+323
+00:32:05,760 --> 00:32:09,760
+and i thought that was a really smart way of thinking about like laying out your skill set
+
+324
+00:32:09,760 --> 00:32:13,840
+right it's like you have one thing you focus on like this is my identity this is what i am if
+
+325
+00:32:13,840 --> 00:32:20,000
+i was going to have a job title this would be it the like supporting like structural center skill
+
+326
+00:32:20,000 --> 00:32:24,960
+then i have other things branching off of that that aren't nearly as strong that i should have other
+
+327
+00:32:24,960 --> 00:32:30,400
+people help or do for me or outsource in some fashion but i have a working knowledge of and can
+
+328
+00:32:30,400 --> 00:32:38,080
+support the main skill and i thought that was a really good way of kind of reeling in at least
+
+329
+00:32:38,080 --> 00:32:43,440
+my personal kind of like desire of wanting to be like a one-man band and just be the autodidact
+
+330
+00:32:43,440 --> 00:32:48,160
+who absorbs everything and learns all the things and becomes a master of everything which is literally
+
+331
+00:32:48,160 --> 00:32:58,160
+impossible in one human lifetime um it was fucking cool and i like that idea yeah god i i've always
+
+332
+00:32:58,160 --> 00:33:04,640
+been like skill hopping i never stick with any one thing for too long i've i've become
+
+333
+00:33:05,360 --> 00:33:13,840
+what's the term jack of all trades yeah so like it's always been a thing i do to like
+
+334
+00:33:13,840 --> 00:33:19,360
+get somewhat proficient in a skill but then find that i would rather also have other skills on top
+
+335
+00:33:19,360 --> 00:33:26,400
+of that and i never stick with anyone long enough to like become a master at it so i'm like pretty
+
+336
+00:33:26,400 --> 00:33:30,880
+good at a lot of things i'm knowledgeable about programming like i watch my brother do it and
+
+337
+00:33:30,880 --> 00:33:36,960
+he is like very very good at it so but i can i can i have enough knowledge to comprehend what he's
+
+338
+00:33:36,960 --> 00:33:44,880
+doing and maybe suggest things that don't like aren't stupid but a lot of the you know i would
+
+339
+00:33:44,880 --> 00:33:51,040
+never be able to do anything on the level of what he does uh programming wise and it just sort of
+
+340
+00:33:52,000 --> 00:33:58,000
+it frustrates me that i do this like i'm i'm pretty i'm pretty adept at the drawing stuff
+
+341
+00:33:58,000 --> 00:34:04,560
+i'm pretty good at animation i've dabbled in music when am i gonna be like really good at
+
+342
+00:34:04,560 --> 00:34:09,680
+anything though that's what i want to know yeah i feel the same way i skill hop all the time and
+
+343
+00:34:09,680 --> 00:34:14,080
+it's like it's not even it's subconscious because like i got the 3d printer to be like i'm just
+
+344
+00:34:14,080 --> 00:34:19,040
+gonna try 3d printing some of my models and then i got like really into that and just like like
+
+345
+00:34:19,040 --> 00:34:22,880
+researching how they work and everything and modifications and like all the different kinds
+
+346
+00:34:22,880 --> 00:34:27,760
+i'm like this is unnecessary and then from there i started printing out like little miniature
+
+347
+00:34:27,760 --> 00:34:32,480
+stuff because that was like the scale of models i wanted to make and then related videos on youtube
+
+348
+00:34:32,480 --> 00:34:36,000
+were like how to paint d&d minis and i started watching that i'm like oh it should be super cool
+
+349
+00:34:36,000 --> 00:34:39,760
+if i could like paint minis and learn how to like get the proper paints and mix the washes and all
+
+350
+00:34:39,760 --> 00:34:44,480
+the stuff and i'm just like this is completely irrelevant this is this is not anywhere on my
+
+351
+00:34:44,480 --> 00:34:50,560
+t-pose of skills why am i spending like hours and days on end researching like the proper like
+
+352
+00:34:50,560 --> 00:34:55,600
+kinds of of acrylic based miniatures paints and like i'm doing a comparison of like starter
+
+353
+00:34:55,600 --> 00:35:00,320
+kits that cost like 40 a pop i don't need to know any of this none of this is relevant go back and
+
+354
+00:35:00,320 --> 00:35:11,120
+learn more 3d you idiot yeah well what's wrong with us what are what are we gonna do how do you
+
+355
+00:35:11,120 --> 00:35:18,080
+ever like see an artist on youtube or on twitter or whatever that's just like does their one thing
+
+356
+00:35:18,080 --> 00:35:25,680
+and has been doing it for like 10 years how how'd they do that how how do people have the focus
+
+357
+00:35:25,680 --> 00:35:36,240
+to just be like i'm gonna do this and i'm gonna do this forever i i mean i really don't know
+
+358
+00:35:37,120 --> 00:35:43,520
+it feels it feels i don't want to say it gets boring doing you know a thing i like
+
+359
+00:35:45,120 --> 00:35:50,320
+because that sort of implies that i will abandon it but i never really abandon anything i always
+
+360
+00:35:50,320 --> 00:35:55,680
+come back around to it over after a few years or months when i you know whatever the time period
+
+361
+00:35:55,680 --> 00:36:00,720
+is that i'm like i've you know i stopped doing crochet for a while and then i got back into it
+
+362
+00:36:00,720 --> 00:36:05,920
+and you know i stopped again it's just sort of like a skill that i hobby like i'm a hobby
+
+363
+00:36:05,920 --> 00:36:13,200
+habit i i collect hobbies and and grinding away at a single skill i feel like most people who
+
+364
+00:36:13,200 --> 00:36:20,000
+get extremely good at one thing don't make the conscious decision to grind away at that as a
+
+365
+00:36:20,000 --> 00:36:26,960
+skill they just do it because they like doing it all the time and for me the thing that i like doing
+
+366
+00:36:26,960 --> 00:36:33,520
+all the time is not it's not usually like a skill that i can make money off of or like an artistic
+
+367
+00:36:33,520 --> 00:36:41,040
+thing it's it's thinking about i don't know video game analysis and watching video game analysis
+
+368
+00:36:41,040 --> 00:36:50,960
+videos and and thinking about stuff stuff that isn't i mean i don't know i guess there's a
+
+369
+00:36:50,960 --> 00:36:57,600
+number of things that i do unconsciously all the time that i don't really have a way to turn into
+
+370
+00:36:58,640 --> 00:37:03,120
+something profitable but other people they they do the thing that they can turn into something
+
+371
+00:37:03,120 --> 00:37:11,200
+profitable all the time they just love doing it and i i envy that to an extent yeah i definitely
+
+372
+00:37:11,200 --> 00:37:17,840
+envy the focus because like the things that i do i i have like a complicated starting point right
+
+373
+00:37:17,840 --> 00:37:21,600
+of like i want to like make an animation or i want to make a comic or something and that requires
+
+374
+00:37:21,600 --> 00:37:26,640
+multiple skills already because you can't you know you have an artist who just draws like
+
+375
+00:37:27,680 --> 00:37:32,640
+i'm just going to draw furries and that's just what i do i just draw furries that's what i've
+
+376
+00:37:32,640 --> 00:37:37,840
+been doing since you know 2005 i'm really good at it i take commissions and i just everybody
+
+377
+00:37:37,840 --> 00:37:43,440
+knows exactly what my my mo is and i just do that i'm like because i want to tell stories with my art
+
+378
+00:37:43,440 --> 00:37:48,320
+like just by default it's like well now you're gonna do writing layout you know like there's so
+
+379
+00:37:48,320 --> 00:37:54,240
+many more skills involved so like right from the get-go it's like a multi-discipline goal but then
+
+380
+00:37:54,240 --> 00:37:59,440
+like as you learn more about those things all of those skills like branch off into other areas
+
+381
+00:37:59,440 --> 00:38:04,000
+and i just find myself subconsciously like asking myself questions like what if i did this or what
+
+382
+00:38:04,000 --> 00:38:11,120
+if i could do that and it just the my brain just kind of naturally hops from one connected point
+
+383
+00:38:11,120 --> 00:38:16,400
+to the next and all of a sudden i'm like knee deep and like learning how like different brands of
+
+384
+00:38:16,400 --> 00:38:22,800
+washes affect the paints on a dungeon and dragons miniature or a warhammer mini i'm like why am i here
+
+385
+00:38:22,800 --> 00:38:28,160
+how did i get here why is this my thing why do i have like a hundred dollars worth of like
+
+386
+00:38:28,160 --> 00:38:34,320
+mini paints in my amazon watch list right now like what is going on i just i just want to sit here
+
+387
+00:38:34,320 --> 00:38:43,120
+and focus on my one thing but i feel like i have at the same time like adhd and like hyper focus
+
+388
+00:38:43,120 --> 00:38:48,320
+at the same time where like all my attention jumps all the time but like in between jumps it's like
+
+389
+00:38:48,320 --> 00:38:53,920
+hyper fixated on that one thing before it jumps to the next thing become hyper fixated and uh
+
+390
+00:38:54,560 --> 00:39:02,880
+it's like antithetical to being productive yeah it's it's it's like you know in in a world where
+
+391
+00:39:02,960 --> 00:39:08,240
+time is not an issue and you can go on forever you will eventually it's like you're you're working
+
+392
+00:39:08,240 --> 00:39:14,320
+on you're leveling up many different skills uh one of uh you know like alternating which
+
+393
+00:39:14,320 --> 00:39:20,080
+skills you're leveling up rather than going full on strength or full on you know intelligence or
+
+394
+00:39:20,080 --> 00:39:27,360
+whatever you know dark souls or whatever so like you're you're you're spreading them out and eventually
+
+395
+00:39:27,360 --> 00:39:34,720
+they will all be maxed out but most human lives end before and most dark souls play chess and
+
+396
+00:39:34,720 --> 00:39:40,240
+sessions end before you've gotten to the point where you have enough xp to max out everything
+
+397
+00:39:40,240 --> 00:39:46,640
+so you will be constantly halfway there on everything and never at 100 on any one thing
+
+398
+00:39:46,640 --> 00:39:51,600
+and other people i don't know whether it's like right to say that other people just think differently
+
+399
+00:39:51,600 --> 00:39:59,840
+because i um i i get the sense that it's it's more of a uh it's like
+
+400
+00:40:01,920 --> 00:40:07,920
+no i can't i'm trying to think of the way to explain it it's like i think about drawing
+
+401
+00:40:08,640 --> 00:40:14,320
+and i draw and then i you know i get into the comic thing and i'm like okay i need to figure out
+
+402
+00:40:14,320 --> 00:40:21,440
+how to write the story i look into writing things and now i'm i'm going on websites and blogs that
+
+403
+00:40:21,440 --> 00:40:26,880
+are talking about writing for novels for books for short stories and i'm thinking maybe i could
+
+404
+00:40:26,880 --> 00:40:32,000
+write a book as well or add you know instead or afterwards or something like the knowledge you get
+
+405
+00:40:32,640 --> 00:40:36,720
+sort of takes you off in a different direction right it like opens up a new possibility for you
+
+406
+00:40:36,720 --> 00:40:40,160
+like you're thinking about writing for comics and someone's writing for novels like oh yeah i could
+
+407
+00:40:40,160 --> 00:40:45,200
+do that like i could do that and then like that seed is planted and it's like well if i was going
+
+408
+00:40:45,200 --> 00:40:48,720
+to write a book what would it be and then like all of a sudden that's now another thing in your
+
+409
+00:40:48,720 --> 00:40:52,000
+brain and it's just like well i'm gonna have to deal with that rattling around in the old gray
+
+410
+00:40:52,000 --> 00:40:58,240
+matter for the rest of my goddamn life now yeah and i'm like i'm wondering for the people who
+
+411
+00:40:58,240 --> 00:41:05,440
+don't branch off like that is it that they don't consider it or is it that they are just merely
+
+412
+00:41:05,440 --> 00:41:10,400
+uninterested in doing something different or is it like discipline is there someone who's just like
+
+413
+00:41:10,400 --> 00:41:14,880
+they have all those things in their brains and they're just like no fuck you this is the right thing to
+
+414
+00:41:14,880 --> 00:41:22,560
+do i mean i i suppose it could it could be any one of those things i'm thinking of like someone
+
+415
+00:41:22,560 --> 00:41:33,040
+like uh steven king for example he writes so much all the time so many books feasibly could you
+
+416
+00:41:33,040 --> 00:41:40,000
+imagine steven king getting into a different creative thing i mean you know if he just did it
+
+417
+00:41:40,000 --> 00:41:45,920
+one day he's like oh now he's a painter yeah that you could see it happening because creative people
+
+418
+00:41:45,920 --> 00:41:54,000
+they they do creative things but i get the feeling that it's not like he would i just couldn't imagine
+
+419
+00:41:54,000 --> 00:41:59,920
+him like deviating so completely from the thing he has done for so many years do you think i'm thinking
+
+420
+00:41:59,920 --> 00:42:06,400
+like is is it like i can't imagine how much discipline you would need to see all of these
+
+421
+00:42:06,400 --> 00:42:11,840
+creative things you could be doing and just say no every single time i feel like do you think in the
+
+422
+00:42:11,840 --> 00:42:17,840
+case of like someone like steven king it's because he's older and like didn't have the internet like
+
+423
+00:42:17,840 --> 00:42:22,720
+i'm sure like back in the day he was not you know there was no youtube for him to go look for writing
+
+424
+00:42:22,720 --> 00:42:26,960
+advice on he probably just like maybe he just started writing or maybe he got a book you know
+
+425
+00:42:26,960 --> 00:42:31,120
+that was just about that one thing that didn't have thumbnails and and the fucking related tab
+
+426
+00:42:31,120 --> 00:42:35,040
+on every page attempting him to go to other things just like this is what i'm gonna do
+
+427
+00:42:35,040 --> 00:42:38,640
+and it's a simpler time there's less distractions i've made up my mind
+
+428
+00:42:39,200 --> 00:42:43,520
+and like the path i go down to learn this does not have all these branching avenues that the
+
+429
+00:42:43,520 --> 00:42:50,400
+internet gives us now yeah i definitely think that could be part of it can you think of someone who's
+
+430
+00:42:50,400 --> 00:42:56,560
+young who who acts very focused on one thing i just i just think like commission artists and stuff
+
+431
+00:42:56,560 --> 00:43:02,560
+or like the first like really simple example they just like settle in their style and they just
+
+432
+00:43:02,640 --> 00:43:08,720
+they're just happy drawing like you know characters just character portraits and character
+
+433
+00:43:09,440 --> 00:43:14,960
+illustrations i'm like never really going to do in comics never really go into anything else
+
+434
+00:43:14,960 --> 00:43:19,280
+like that it's just like i'm going to draw this character i'm gonna draw this character i'm gonna
+
+435
+00:43:19,280 --> 00:43:25,760
+draw this character and um i don't know and then you have people who just animate they're just
+
+436
+00:43:25,760 --> 00:43:30,240
+they're just i mean i guess animation is like multi multi-discipline so maybe that's like
+
+437
+00:43:30,240 --> 00:43:33,600
+once you get into animation you feel like you're switching gears all the time and it kind of
+
+438
+00:43:34,320 --> 00:43:38,320
+yeah is interesting in and of itself but even then like i've done animation and like even while
+
+439
+00:43:38,320 --> 00:43:42,000
+animating it's like well then what if you made it a video game you know which is how like the
+
+440
+00:43:42,000 --> 00:43:45,600
+video game stuff started was like it started with animation then it pivoted into that because like
+
+441
+00:43:45,600 --> 00:43:49,200
+that was just the next step was like layering another skill on top of what was already there
+
+442
+00:43:49,840 --> 00:43:55,760
+and um i don't know i guess at some point it's like i started drawing as a little kid
+
+443
+00:43:55,760 --> 00:43:59,680
+and then it went to comics and then comics went to animation then animation went to games
+
+444
+00:43:59,680 --> 00:44:03,840
+it was just like layering new skills on top of each other before like the the last was even like
+
+445
+00:44:03,840 --> 00:44:09,440
+kind of like out of the oven yet and like some people just stop they just stop at one level
+
+446
+00:44:09,440 --> 00:44:14,480
+of abstraction which is like i'm just gonna draw or i'm just gonna write and i don't really
+
+447
+00:44:15,840 --> 00:44:22,720
+i don't know i don't have the self-control every time i've done something i've completed a work
+
+448
+00:44:22,720 --> 00:44:31,120
+it's like very much like because there was like a conscious uh active self-control going on to not
+
+449
+00:44:31,120 --> 00:44:40,720
+like go off into the weeds i wonder like if part of that is like not that the people who focus on
+
+450
+00:44:40,720 --> 00:44:47,280
+one thing sort of only get to level one or like only find one skill and then stick with it forever
+
+451
+00:44:47,280 --> 00:44:51,840
+i'm sure many people try a bunch of skills and then they find the one that they like the most
+
+452
+00:44:51,920 --> 00:44:57,920
+and they stay with that but also what happens is they sort of leave the other skills behind
+
+453
+00:44:57,920 --> 00:45:04,400
+because like with you um all of these things the the drawing the the animating the 3d modeling
+
+454
+00:45:04,400 --> 00:45:10,480
+and the game development like they they build on each other but you feel like you since you
+
+455
+00:45:10,480 --> 00:45:15,520
+have been doing all of these things potentially could do all of these different things for the
+
+456
+00:45:15,520 --> 00:45:22,240
+video game you could be the animator and you know all you know all all of the aspects of video game
+
+457
+00:45:22,240 --> 00:45:29,040
+creation that you've learned you would you would keep using all of those skills even though it's
+
+458
+00:45:29,680 --> 00:45:36,240
+very difficult to be a one-man army and make an entire thing uh with all of the the skills
+
+459
+00:45:36,240 --> 00:45:40,720
+that are required of it which is why most games are made with a team even a small one right right
+
+460
+00:45:40,800 --> 00:45:50,800
+so it's like if i if i wanted to make i don't know fucking i i i always have this idea for
+
+461
+00:45:50,800 --> 00:45:56,000
+animated music videos when i really listen to a song i'm thinking you know very very classic
+
+462
+00:45:56,560 --> 00:46:04,000
+like everybody knows this feeling and i'm like okay well i can draw i can animate a bit wouldn't
+
+463
+00:46:04,000 --> 00:46:10,000
+be cool if i did the drawing and the animation and and the you know all of all the things and
+
+464
+00:46:10,000 --> 00:46:14,480
+maybe even the music i mean usually i'm listening to music so i'm not thinking about that but
+
+465
+00:46:16,080 --> 00:46:25,280
+in in like a real life like sensible setting i would instead like be like commissioning a
+
+466
+00:46:25,280 --> 00:46:29,840
+team of animators to make the thing that i have the vision for i would direct it i wouldn't do
+
+467
+00:46:29,840 --> 00:46:38,400
+all of the work right god imagine imagine being able to have a team that just did stuff for you
+
+468
+00:46:39,360 --> 00:46:45,280
+oh oh the joy the joy of like all the ideas finally escaping my brain and just being out in the world
+
+469
+00:46:47,120 --> 00:46:51,120
+yeah and then you look at it and you're like i don't know this key frame here is not how i
+
+470
+00:46:51,120 --> 00:46:57,600
+would have seen it in my mind's eye it's like a little bit of uh scrap it burn it all it's not
+
+471
+00:46:57,600 --> 00:47:03,520
+in my perfect vision i should delete the channel start over move over entire animation team i will
+
+472
+00:47:03,520 --> 00:47:10,960
+do all of the work and then i try and i fail it's the feelings that that feeling of it not
+
+473
+00:47:14,960 --> 00:47:22,000
+oh get out of here professional programming team i'm going to program my game with elif
+
+474
+00:47:22,000 --> 00:47:27,360
+is that threads for is that why i i feel i thought i don't know much about that guy but i feel like
+
+475
+00:47:27,360 --> 00:47:32,080
+isn't it like more of a scam that he's playing like he says he's working on it but he really isn't
+
+476
+00:47:33,040 --> 00:47:37,680
+well there was one point taking the money i mean i'm sure i'm sure that's what he's doing now but
+
+477
+00:47:37,680 --> 00:47:45,360
+there was one point where like a company tiny build like worked with him he like he hire i don't
+
+478
+00:47:45,360 --> 00:47:50,960
+know if he hired them but like they decided to like help him make the game and they had a programmer
+
+479
+00:47:50,960 --> 00:47:57,920
+come in to like rewrite all of his code because it was a nightmare and he got mad that he couldn't
+
+480
+00:47:58,800 --> 00:48:03,360
+like work on the code himself anymore because this guy was coding way better than he was so he
+
+481
+00:48:03,360 --> 00:48:07,440
+fired the entire publisher developer and went back making it by himself
+
+482
+00:48:10,240 --> 00:48:14,480
+lol like he was so close to being free like it would have been out it could have been done by now
+
+483
+00:48:15,040 --> 00:48:21,280
+but i don't know because of that hubris he was like nah nah i got this and now we're like what three
+
+484
+00:48:21,280 --> 00:48:29,040
+years later and it still barely has progressed at all like why would he do that is it really like
+
+485
+00:48:29,040 --> 00:48:34,960
+i'm like not i've barely looked into this so i don't know if i'm like being stupid but like
+
+486
+00:48:35,840 --> 00:48:42,960
+from what small things i've heard he would have like i feel like he did that maybe to get away
+
+487
+00:48:42,960 --> 00:48:49,200
+with it taking an extremely long time and taking the money that's the the vibe i get from maybe
+
+488
+00:48:49,200 --> 00:48:53,360
+how people talk about him i mean at this point like everyone just convinced it's a scam
+
+489
+00:48:53,360 --> 00:48:59,520
+but i this was a few years ago when like people thought it was a scam it's super strange right
+
+490
+00:48:59,520 --> 00:49:04,480
+like if he had a team who could have finished it then he would have had a video game that you
+
+491
+00:49:04,480 --> 00:49:10,320
+could profit off of anyway like right i just i don't know it's so strange but i like i'm always
+
+492
+00:49:10,320 --> 00:49:17,440
+afraid of becoming that you know just like being so blinded by my own hubris that even even in the
+
+493
+00:49:17,440 --> 00:49:26,000
+face of like a team willing to help me i'm like no good to do it all myself like uh uh never go
+
+494
+00:49:26,000 --> 00:49:37,680
+full yandere dev i i feel like i could uh what i want in in like the the near future is for me to
+
+495
+00:49:37,680 --> 00:49:43,520
+make some of these comics and for you know my drawing skill to improve over time be like pretty good
+
+496
+00:49:43,600 --> 00:49:49,600
+and you know it'd be like something i could sell on on the on the store shelves or whatever i could
+
+497
+00:49:49,600 --> 00:49:56,400
+be like a brand leo malley almost uh who's you know he's got a very distinct cartoony style
+
+498
+00:49:56,400 --> 00:50:03,360
+that's very appealing and he's good at making this stuff but he's not like he's not like the biggest
+
+499
+00:50:03,360 --> 00:50:08,880
+like draw god of all time like the scott pilgrim increased in drawing quality as he went
+
+500
+00:50:08,880 --> 00:50:16,320
+and so he was definitely like improving it you know still so like as i get to a decent enough
+
+501
+00:50:16,320 --> 00:50:24,000
+point i can start and then i can get better as i go and then the big ideas i have for like
+
+502
+00:50:24,000 --> 00:50:29,040
+dude what if there's a video game of like punk and and stuff i could i then i would have like
+
+503
+00:50:29,040 --> 00:50:34,560
+money to to pay people to do that yeah yeah you want to just like get the ball rolling
+
+504
+00:50:35,360 --> 00:50:39,360
+and like start a franchise so people will want to work on the franchise you have the
+
+505
+00:50:39,360 --> 00:50:43,200
+money to pay people to work on the franchise and make it bigger and then there's snowballs
+
+506
+00:50:43,200 --> 00:50:47,520
+and you're like all right the momentum's going without me slaving away every single day to make
+
+507
+00:50:47,520 --> 00:50:56,000
+it happen i go to edgar right and hi all me is zaki it's a guys i want to make a comedy ghibli
+
+508
+00:50:56,000 --> 00:51:02,160
+film uh with bell with punk in it and they'll be like hell yeah it's like we get to work with give
+
+509
+00:51:02,160 --> 00:51:10,000
+and take literally our dream yeah oh no it's too cool i'm getting upset
+
+510
+00:51:12,000 --> 00:51:21,040
+oh god the future you know as long as i don't like throw in the towel it looks bright i have
+
+511
+00:51:21,840 --> 00:51:27,920
+i have more skill at art now than i did a few years ago when it was merely a twinkle in my eye
+
+512
+00:51:27,920 --> 00:51:33,120
+and now like the idea of making comics uh that have cool characters in them that i did and made
+
+513
+00:51:33,120 --> 00:51:39,680
+and i could you know it's it's it's looking like it's gonna go well the tezuka manga thing might
+
+514
+00:51:39,680 --> 00:51:46,240
+be a big old failure but i will definitely come commit to the thing i have and then finish it
+
+515
+00:51:46,240 --> 00:51:53,760
+whenever it's finished and uh there's more on the way god it's so cool the idea of the future
+
+516
+00:51:53,760 --> 00:51:59,600
+being better than right now that's what i like yeah i got like i got like three or four things in
+
+517
+00:51:59,600 --> 00:52:05,520
+the oven right now that i'm not talking about publicly man i'm stoked i'm stoked to see them
+
+518
+00:52:05,520 --> 00:52:12,160
+finished it'll be fucking cool a zoomie and the vertical slice and then a to me the vertical slice
+
+519
+00:52:12,800 --> 00:52:20,160
+to the vertical slices the vertical slices the vertical and horizontal slices slices slightly
+
+520
+00:52:20,160 --> 00:52:26,880
+to the lower left major this is smash bowl oh my god zoomie confirm the perpendicular slice yeah yeah
+
+521
+00:52:26,880 --> 00:52:31,600
+there we go somebody animate that not me though i'm too busy with other things
+
+522
+00:52:33,920 --> 00:52:40,960
+oh my god dude we kill it we made it to an hour we did it well 52 minutes but like we almost did it
+
+523
+00:52:42,320 --> 00:52:48,400
+do you think we should open up the speak pipe and listen to any uh things i was gonna say we
+
+524
+00:52:48,400 --> 00:52:53,600
+should go to the speak pipe but unlike ben saying we should not play every voicemail we should play
+
+525
+00:52:53,600 --> 00:53:03,040
+the voicemails that seem funny because oh my god uh there's over 25 already uh uh yeah there's like
+
+526
+00:53:03,040 --> 00:53:09,360
+26 more voicemails i don't know if do you want to listen to 26 voicemails not really but i don't
+
+527
+00:53:09,360 --> 00:53:13,920
+know how to tell which ones are good and which ones aren't the short ones are the best
+
+528
+00:53:17,520 --> 00:53:24,160
+oh no okay so this we're gonna play a game we're gonna play a game okay uh this is how
+
+529
+00:53:24,160 --> 00:53:31,440
+the voicemail is gonna work i'm gonna pick a voicemail that i think is gonna be good if it's good
+
+530
+00:53:31,440 --> 00:53:37,520
+thank god if it's bad you can uh shit on me relentlessly then you have to pick a voicemail
+
+531
+00:53:37,520 --> 00:53:42,320
+that's higher up like a newer one than that one the next okay and then we'll just keep going back
+
+532
+00:53:42,320 --> 00:53:47,920
+and forth until we get all the way to the newest one all right all right that's that's the plan
+
+533
+00:53:53,760 --> 00:54:01,440
+i'm gonna start with oh man we have to go back to the previous page i don't know if any of those
+
+534
+00:54:01,440 --> 00:54:12,880
+seem good those seem juicy there's six on the previous page yeah um all right i'm gonna pick
+
+535
+00:54:12,880 --> 00:54:18,000
+the fun all the way at the bottom the joker thread it's seven seconds so even if this is a
+
+536
+00:54:18,000 --> 00:54:24,160
+total bust not too much of our lives or wasted it's the last one on the first page the joker
+
+537
+00:54:24,160 --> 00:54:36,880
+thread not the joker the joker thread okay all right three two one go if nate doesn't upload a video
+
+538
+00:54:37,760 --> 00:54:47,600
+within three days i blow up a hospital um weak wait what what this was five days ago when did
+
+539
+00:54:47,600 --> 00:54:56,960
+nate upload the uh gets ghost in the shell uh review i thought it was more than five days ago but
+
+540
+00:54:56,960 --> 00:55:06,800
+maybe i'm wrong is this guy this is the joker a fucking idiot let's find out either way this
+
+541
+00:55:06,800 --> 00:55:14,960
+this voicemail did not age well best guy ever three days ago oh so this was pre dates that
+
+542
+00:55:15,680 --> 00:55:20,080
+the video dropped so do you think do you think nate popped into the speak pipe and uh saw that
+
+543
+00:55:20,640 --> 00:55:28,240
+and desperately threw together the video to save the hospital yeah it seems it seems likely
+
+544
+00:55:28,240 --> 00:55:33,120
+even though the video even though this was marked as unplayed before right now that's still definitely
+
+545
+00:55:33,120 --> 00:55:42,720
+what happened all right thank god for the video it came out after all these millions of years
+
+546
+00:55:42,720 --> 00:55:52,000
+incredible incredible 2020 is saved okay so now i have to choose one yes uh oh wait uh
+
+547
+00:55:52,000 --> 00:55:59,440
+how about smearg all right let's do smearg um one uh three two one play
+
+548
+00:56:03,680 --> 00:56:11,040
+hello and howdy i'll get right to the point i have an idea to present i've been listening
+
+549
+00:56:11,120 --> 00:56:16,960
+to a lot of hello internet and core text recently and on those shows they have sometimes what they
+
+550
+00:56:16,960 --> 00:56:23,840
+like to call a quote unquote book club segment i'd like to propose that as a potential segment the
+
+551
+00:56:23,840 --> 00:56:32,560
+pcp could have a quote unquote quote quote book club of its own you could take turns having one
+
+552
+00:56:32,560 --> 00:56:39,760
+of the co-hosts present one particularly interesting maybe analytical youtube video each week the other
+
+553
+00:56:39,760 --> 00:56:44,880
+co-hosts and listeners could then watch this video over the course of the week and it could
+
+554
+00:56:44,880 --> 00:56:51,520
+generate some hopefully interesting conversation for the next episode that is all thank you
+
+555
+00:56:54,640 --> 00:57:02,000
+see nice you had me you had me until you mess said youtube video because books high tier youtube
+
+556
+00:57:02,000 --> 00:57:09,440
+videos bottom tier but nate can't read so i'm glad that you included him uh books you gotta
+
+557
+00:57:10,080 --> 00:57:17,600
+find them and read though just go to archive videos just go to youtube.com have a let's read
+
+558
+00:57:18,480 --> 00:57:27,040
+of of the book an audiobook if you will i've heard of those um yeah i don't know i thought i think
+
+559
+00:57:27,440 --> 00:57:35,200
+munchie or some of us have had something of this kind of idea before it's just sort of
+
+560
+00:57:36,640 --> 00:57:42,640
+no one would do it ever no one would ever like it would be like last week hey guys i said we
+
+561
+00:57:42,640 --> 00:57:47,520
+should watch this video and or read this book have you got any of you guys done it everyone
+
+562
+00:57:47,520 --> 00:57:54,400
+says no everyone says oh i was gonna get around to that the conversation ruined um we get attempted
+
+563
+00:57:54,400 --> 00:58:02,000
+i suppose but like in this in this episode only us two would do it because we're the only ones here
+
+564
+00:58:02,000 --> 00:58:08,800
+it's true the only youtube video i've watched recently is uh episode one of the spongebob anime
+
+565
+00:58:08,800 --> 00:58:16,560
+which was removed from youtube well it fits removed i guess criminal that's that that's that it was
+
+566
+00:58:16,560 --> 00:58:22,160
+amazing did you see it before it was taken down i i have no idea what that is have you did you ever
+
+567
+00:58:22,160 --> 00:58:30,240
+see the um the anime op's that this one guy did first that were just spongebob but like drawn
+
+568
+00:58:30,240 --> 00:58:36,480
+seriously as an anime i have not oh my god they're amazing but uh they came out like a couple years
+
+569
+00:58:36,480 --> 00:58:42,800
+ago i'll try and find one link for the show notes but they're like really fucking good and this guy
+
+570
+00:58:43,680 --> 00:58:52,480
+um did an entire 15 minute like anime episode of spongebob like and like got someone to hire
+
+571
+00:58:52,480 --> 00:59:00,400
+a bunch of japanese vas and then dubbed it it's incredible i i typed in spongebob anime op and
+
+572
+00:59:00,400 --> 00:59:05,680
+i got a guy called narmak is that the guy that is the guy oh wait it's a video back up i think the
+
+573
+00:59:05,680 --> 00:59:10,560
+actual episode is back up spongebob anime episode one bubble bass arc it's up it's real and it has
+
+574
+00:59:10,640 --> 00:59:18,560
+its eight million views uh yeah legendary incredible uh i'll link it in the the the chat right now
+
+575
+00:59:19,920 --> 00:59:27,360
+at least i'll link that shit it's an it's insane it's it's god dear it's amazing uh yeah it was
+
+576
+00:59:27,360 --> 00:59:32,240
+deleted it was deleted and youtube took it down because it said it was uh not suitable for children
+
+577
+00:59:32,240 --> 00:59:40,400
+even though it was marked as not for children yeah dumb uh thanks youtube doing great fix our channel
+
+578
+00:59:40,400 --> 00:59:46,800
+fuck you youtube get the fuck out of here as we send people to go to youtube.com hilarious
+
+579
+00:59:49,520 --> 00:59:54,320
+yeah but that's cool that was that was good it's worth watching it's funny uh it's great
+
+580
+00:59:55,520 --> 01:00:01,040
+all right i guess we're doing the the uh book club idea anyway i'm gonna watch this
+
+581
+01:00:01,040 --> 01:00:07,120
+and next week i might even say i watched it oh my god tune in next week everybody for gib's one
+
+582
+01:00:07,120 --> 01:00:14,080
+sentence reaction to spongebob anime episode one all right it's my turn to pick a voicemail again
+
+583
+01:00:14,080 --> 01:00:23,920
+isn't it shit uh you know what i'm gonna go with margar because margar did us good uh last episode
+
+584
+01:00:23,920 --> 01:00:31,040
+i was on so let's listen what margar has to say it's like a couple couple slots up from smirg
+
+585
+01:00:31,040 --> 01:00:41,440
+are you ready to go are you still here okay yes all right excellent three two one go margar here
+
+586
+01:00:41,440 --> 01:00:48,720
+pcp listeners and voicemail senders let my story be an example and testament to all of you
+
+587
+01:00:49,280 --> 01:00:57,520
+that you too can end up in voice jail for absolutely no reason if you just send good voicemails
+
+588
+01:00:58,480 --> 01:01:05,760
+just keep making good quality and you will indeed be punished for it just like society
+
+589
+01:01:05,760 --> 01:01:13,920
+is meant to function thank you ben yeah i mean you know when you mess with the bull society
+
+590
+01:01:13,920 --> 01:01:20,160
+you get the horns unfair treatment yeah that's what you this is a social commentary voicemail
+
+591
+01:01:20,160 --> 01:01:27,120
+service doesn't matter what you're doing you will get killed and fucked with yep there is no justice
+
+592
+01:01:27,120 --> 01:01:33,200
+there is no fairness there is no quality all will be crushed under the heel of our boot uh because
+
+593
+01:01:33,200 --> 01:01:40,640
+we can sorry well uh well i mean we didn't put you in there so that's true it's all ben's fault
+
+594
+01:01:40,640 --> 01:01:47,520
+ben's not here it's all ben's fault we go to take it up with ben saying dot com i'd say go kill ben
+
+595
+01:01:47,520 --> 01:01:52,000
+but it seems like he already killed himself yesterday and now he's busy dying yeah it takes a while
+
+596
+01:01:52,000 --> 01:02:00,400
+for him to to die he's very strong um i'd you know i'm sort of just drawn to the ones with the
+
+597
+01:02:00,400 --> 01:02:07,360
+people's names that i know there's crack here that's true coda for endless war and uh cool man
+
+598
+01:02:08,000 --> 01:02:16,480
+so let's do that all right three two one go hey ben did you see all the tweets about UFOs being
+
+599
+01:02:16,480 --> 01:02:20,800
+real it's really funny how everybody was saying space jam was real when they cancelled uh the
+
+600
+01:02:20,800 --> 01:02:27,120
+nba for the virus and now aliens are just real uh you're an astronomer retired space cam counselor
+
+601
+01:02:27,120 --> 01:02:33,200
+i know you're on top of it just thinking about you all right well that was that was for ben who is
+
+602
+01:02:33,200 --> 01:02:41,200
+who is currently bleeding out right now yeah yeah ben is exclamation point kill all over his bed
+
+603
+01:02:41,200 --> 01:02:46,640
+covered in puke i i did i do not know what he's referring to so i don't i guess i can't comment
+
+604
+01:02:46,640 --> 01:02:52,720
+on it yeah i don't either what the fuck aliens are real now i mean sure like it's 2020 so it
+
+605
+01:02:52,720 --> 01:02:57,040
+makes sense we're just pulling out all the stops for the uh the final arc of humanity
+
+606
+01:02:57,040 --> 01:03:02,800
+are they illegal though that's that's the question i mean technically yes right they're
+
+607
+01:03:02,800 --> 01:03:08,320
+definitely not citizens of any country so they would be illegal aliens shit i have to pick one
+
+608
+01:03:08,320 --> 01:03:20,320
+again i forgot uh uh uh uh uh uh uh let's let's listen to i don't like salad uh assuming this is
+
+609
+01:03:20,320 --> 01:03:29,200
+from simon because the the the next thing is simon at fuck you dot com all right three two one go
+
+610
+01:03:30,000 --> 01:03:40,240
+guys i don't really like salad what food don't you like lol ha ha oh oh terrible terrible i don't
+
+611
+01:03:40,240 --> 01:03:48,960
+like gay voicemails it's the worst food it doesn't digest well none none the worst you just roll up
+
+612
+01:03:48,960 --> 01:03:55,040
+to the drive-through you ask for a bad voicemail thinking it's gonna be a pleasant treat it's like
+
+613
+01:03:55,040 --> 01:04:00,960
+yeah i just need to pick me up right now and then as soon as like it touches your lips you're like a
+
+614
+01:04:00,960 --> 01:04:07,200
+fuck oh god why did i do this i forgot i forgot and then you feel like shit forever so thanks simon
+
+615
+01:04:07,200 --> 01:04:15,840
+love you buddy yeah um i i actually do have an answer to this what food don't i like marzipan
+
+616
+01:04:17,040 --> 01:04:22,640
+and i i've never had marzipan i don't even know what it is i've heard the word marzipan is a
+
+617
+01:04:22,640 --> 01:04:29,040
+thick icing like um thing you put on cakes to make them look really nice you can mold like little
+
+618
+01:04:29,600 --> 01:04:34,720
+figurines out of it and it's edible obviously um huh but maybe i have had this but just not
+
+619
+01:04:34,720 --> 01:04:42,000
+knowing what it was but it is it it does not taste like icing which is just sugary sugar um
+
+620
+01:04:42,000 --> 01:04:48,400
+it tastes it has a very distinct taste and i absolutely hate it it is so delicious looking
+
+621
+01:04:48,400 --> 01:04:55,280
+because it just reminds me of like really chunky like birthday cake ice cream and it's like ah it
+
+622
+01:04:55,280 --> 01:05:03,760
+should be the best thing ever but it's so odd and good and bad in fact and i hate it it sucks
+
+623
+01:05:03,760 --> 01:05:09,200
+something that nice looking should not taste like that that's what that's my food that i don't like
+
+624
+01:05:10,640 --> 01:05:17,120
+huh i'm tempted to try it now just to just have an opinion on this contentious issue i'm looking
+
+625
+01:05:17,200 --> 01:05:26,560
+up pictures of it not even looks familiar i don't have cake like ever so damn uh okay do i have a
+
+626
+01:05:26,560 --> 01:05:34,800
+real answer to this question um cucumbers i hate cucumbers the texture offends me the taste
+
+627
+01:05:34,800 --> 01:05:40,560
+isn't that bad but it's not good either so it's just like neutral taste with unpleasant texture
+
+628
+01:05:41,360 --> 01:05:49,360
+mm-hmm can't don't like it it brings down every salad it's ever been in don't recommend zero out of
+
+629
+01:05:49,360 --> 01:05:58,720
+ten celery celery is like bad because the texture is a little bit more pleasant yeah it has a taste
+
+630
+01:05:58,720 --> 01:06:04,880
+i don't really like i don't like the taste of celery i don't avoid it it's like a weird bitterness
+
+631
+01:06:04,880 --> 01:06:12,400
+yeah but like i don't know by itself it's it's not it's not terrible i'd rather have like that kind
+
+632
+01:06:12,400 --> 01:06:22,400
+of like downward kind of bitterness of celery than like the nothing like slop that is uh cucumber
+
+633
+01:06:22,400 --> 01:06:26,000
+so yeah but neither are very good especially like a slightly
+
+634
+01:06:26,880 --> 01:06:29,600
+un-fresh cucumber that's starting to mush
+
+635
+01:06:31,600 --> 01:06:36,960
+like sometimes that the crunch is enough like it you you crunch it it's like yeah it's crunchy
+
+636
+01:06:36,960 --> 01:06:43,520
+but when it's sort of like too wet it is kind of like what is this why yeah why does this exist
+
+637
+01:06:43,520 --> 01:06:49,040
+why are you're not a pickle yet so you haven't gone to something good you're just a worse version
+
+638
+01:06:49,040 --> 01:06:57,200
+of what you already are all right i guess i'm choosing one do it uh
+
+639
+01:07:00,560 --> 01:07:09,520
+none of these all right i guess i'll just do the next one application all right three two one go
+
+640
+01:07:09,520 --> 01:07:20,080
+so this is my application on the uh podge podge and uh reason reasons well there's clearly a shortage
+
+641
+01:07:20,080 --> 01:07:26,400
+of members and i'm a perfect guy for it i think i could leave sweet new angle to the pcb with my
+
+642
+01:07:27,360 --> 01:07:31,840
+food i can't tell if this quality is like part of the bit or completely accidental
+
+643
+01:07:32,720 --> 01:07:40,480
+intelligent conversation yeah and uh i guess uh i guess uh jones jones is slob another
+
+644
+01:07:41,840 --> 01:07:51,280
+oh my god well you know if you know if i wanna uh let me on uh uh sure sure okay i'll see you then
+
+645
+01:07:51,920 --> 01:08:02,720
+you're hired we have you have you you have the voice quality uh uh down pat to be on the pcp
+
+646
+01:08:02,720 --> 01:08:09,440
+you have our level of quality perfected yes we are we're starving for new members
+
+647
+01:08:10,320 --> 01:08:15,520
+seriously we need we need as many members as possible everybody should be joining the pcp
+
+648
+01:08:15,520 --> 01:08:21,760
+should be a new fad new craze should be should be able to if you go to patreon.com slash the
+
+649
+01:08:21,760 --> 01:08:29,200
+procrastinators and you become a patron you're automatically entered into the random drawing
+
+650
+01:08:29,200 --> 01:08:37,920
+to become a member of the pcp that will be decided uh 10 years after the last procrastinators podcast
+
+651
+01:08:37,920 --> 01:08:44,160
+member has died so if you want to be part of that drawing that will definitely happen be sure to
+
+652
+01:08:44,160 --> 01:08:49,920
+become a member yeah at patreon.com slash the procrastinators and you have to stay a patron
+
+653
+01:08:49,920 --> 01:08:56,880
+for that entire 10 year period even as we are slowly dying like flies every every month you're in
+
+654
+01:08:56,880 --> 01:09:03,040
+and uh your card clears is another entry into the contest so the longer you stay the more
+
+655
+01:09:03,040 --> 01:09:08,960
+chances you have i'm thinking of the implication of that is that we will all be dead in 10 years only
+
+656
+01:09:08,960 --> 01:09:13,360
+that's all the time we have doing the pcp we'll kill lucky
+
+657
+01:09:16,000 --> 01:09:19,680
+uh shit now i have to pick one don't i um hmm
+
+658
+01:09:23,840 --> 01:09:25,360
+fuck
+
+659
+01:09:28,640 --> 01:09:34,400
+um all right i'm just gonna how long we've been going for because i could i could just wrap this
+
+660
+01:09:34,400 --> 01:09:38,160
+up right now and pick the top voicemail i'm gonna do that we're gonna pick the last the
+
+661
+01:09:38,240 --> 01:09:43,360
+newest voicemail the last one we got a mere hour ago why munchie why
+
+662
+01:09:44,640 --> 01:09:55,200
+all right are you ready yep three two one go i am literally shaking and crying right now pcp
+
+663
+01:09:55,200 --> 01:10:04,080
+i want to know i want you to tell me why munchie left the patreon lounge i gave the pcp five dollars
+
+664
+01:10:04,640 --> 01:10:10,720
+to join the discord for perhaps the honor the privilege to have maybe one or two interactions
+
+665
+01:10:10,720 --> 01:10:18,880
+with the legendary munchie j trump and he's gone he's nowhere to be seen why why did munchie abandon
+
+666
+01:10:18,880 --> 01:10:28,640
+the patreon lounge i'm i'm shaking and crying how could you do this to me uh i didn't even know
+
+667
+01:10:28,640 --> 01:10:33,760
+that happened did you when when did that happen uh i feel like he's been gone for a long time or at
+
+668
+01:10:33,760 --> 01:10:40,800
+least i mean he never really looks at it does he most of us no i i i check you know occasionally
+
+669
+01:10:40,800 --> 01:10:48,640
+seeing what's going on same same um there's just so many uh uh channels in the the procrastinators
+
+670
+01:10:48,640 --> 01:10:55,120
+lounge i'm just like man that's a lot that's a lot to sift through but i only check the the main one
+
+671
+01:10:55,120 --> 01:10:59,680
+i guess the off topic usually the one i check as well yeah but uh if you really want to talk to
+
+672
+01:10:59,680 --> 01:11:06,720
+munchie there's an easy way to do it get on a plane go to boston uh find the crazy man just
+
+673
+01:11:06,720 --> 01:11:11,600
+listen listen for the extremely loud foot stomps and screaming you'll find him
+
+674
+01:11:14,080 --> 01:11:19,760
+oh man but but for real if you want to talk to munchie he's probably much more reachable
+
+675
+01:11:20,320 --> 01:11:27,280
+uh on endless war the ratty fuckers cop killers endless war discord server with slime is true
+
+676
+01:11:27,280 --> 01:11:33,040
+you just go in there uh you become a paragon of the community and then maybe munchie will
+
+677
+01:11:33,040 --> 01:11:38,880
+pay attention to you you'll you'll have to draw a lot of slime you'll have to become slime but
+
+678
+01:11:38,880 --> 01:11:46,240
+you know it's worth it yeah there's always you know uh price a price involved in meeting your
+
+679
+01:11:46,240 --> 01:11:51,600
+idols the people you respect you know and uh you know at first slime is like icky and gross
+
+680
+01:11:51,600 --> 01:11:55,920
+and you don't want slime but you'll learn to love it you'll learn to be addicted to it uh
+
+681
+01:11:56,560 --> 01:12:03,760
+and you'll make the a hair gal face every time oh oh sounds sounds great sounds like a grand
+
+682
+01:12:03,760 --> 01:12:09,840
+grand old time uh seriously i haven't talked to munchie in a long time i don't know why he's
+
+683
+01:12:09,840 --> 01:12:17,760
+he's uh sort of minimizing internet stuff i get the the sense i haven't heard from him
+
+684
+01:12:17,760 --> 01:12:22,640
+like exactly what he is trying to do but he's like he's been doing like what i did for the last
+
+685
+01:12:22,640 --> 01:12:27,680
+two weeks like ever since he started school and uh he's probably all the more powerful for it i
+
+686
+01:12:27,680 --> 01:12:37,200
+can't imagine the fucking titan of of divine energy he emanates now i mean the other day um
+
+687
+01:12:38,080 --> 01:12:43,680
+he just came into one of the discords i'm in um and he was just sort of like
+
+688
+01:12:43,680 --> 01:12:50,560
+ratatouille like at everyone ratatouille now rat spewley right now and then like i was watching
+
+689
+01:12:50,560 --> 01:12:57,440
+ratatouille with him and kazi and a bunch of other people uh like five a.m so he's he's alive
+
+690
+01:12:57,440 --> 01:13:04,640
+he's doing stuff but he's like with you know he's not looking at twitter he's not doing
+
+691
+01:13:05,600 --> 01:13:11,520
+really any sort of discord watching looking at he's he's just watching rat spewley
+
+692
+01:13:12,240 --> 01:13:17,120
+is he making stuff or is he just kind of just vibing and enjoying life he is currently
+
+693
+01:13:17,680 --> 01:13:24,320
+doing a lot of coding for endless war because there's a big update coming i don't know i'm
+
+694
+01:13:24,320 --> 01:13:30,560
+you probably have no idea but they they've been a lot of big updates recently the in the the endless
+
+695
+01:13:30,560 --> 01:13:40,720
+war map uh has been increased in size in the in the way of like now there used to be districts you
+
+696
+01:13:40,720 --> 01:13:45,760
+would type exclamation point go to district and within those districts there are a number of
+
+697
+01:13:45,760 --> 01:13:54,960
+like locations like there would be a pub in some area there's a cafe there's a uh the you know the
+
+698
+01:13:55,040 --> 01:14:02,000
+slime labs where you can make a slimeoid various places around the city and now in those places i
+
+699
+01:14:02,000 --> 01:14:06,720
+haven't even really done it myself but now there are individual streets that you can go down within
+
+700
+01:14:06,720 --> 01:14:15,040
+those areas and it's like orders of magnitude more exploration you can do and it's very complicated
+
+701
+01:14:15,040 --> 01:14:19,520
+i've seen a few images of like the behind the scenes of like what it looks like to program
+
+702
+01:14:19,520 --> 01:14:25,360
+something like that for discord and it is there've been lots of like hurdles trying to get discord
+
+703
+01:14:25,360 --> 01:14:31,920
+to cooperate with such a strange thing because it's a mod that like involves hundreds of players
+
+704
+01:14:33,120 --> 01:14:40,880
+asking the bot for like you know you know a server is like responding to all of these requests
+
+705
+01:14:40,880 --> 01:14:48,000
+and then all of these different like to be in a district or a location gives you an invisible role
+
+706
+01:14:48,880 --> 01:14:53,200
+and there's only so many roles that can exist and so they've had to work around that
+
+707
+01:14:54,160 --> 01:15:00,800
+oh Jesus it's like it's it's like a nightmare and i assume he's working very hard to get whatever's
+
+708
+01:15:00,800 --> 01:15:05,200
+happening are we going to get to the point where endless war is going to have to like move to its
+
+709
+01:15:05,200 --> 01:15:10,080
+own native application i feel like they're gonna hit the limits of discord at the rate they're
+
+710
+01:15:10,080 --> 01:15:15,440
+going i there's definitely been moments where that has been like on the table as a thing to
+
+711
+01:15:15,440 --> 01:15:23,280
+definitely think about um i'm not like in with the developer crowd discord like i i don't know
+
+712
+01:15:23,280 --> 01:15:29,600
+exactly what's going on but i've heard talk of like but that but also part of it being on discord
+
+713
+01:15:29,600 --> 01:15:34,800
+is the point so like yeah they would want to keep it there if they can i suppose like some of its
+
+714
+01:15:34,800 --> 01:15:39,200
+identity is very i mean like the whole pitch is like you know it's a mml you play in a discord
+
+715
+01:15:39,200 --> 01:15:44,960
+server so like if it's not a discord server part of its identity is lost but like i would hate to
+
+716
+01:15:44,960 --> 01:15:52,560
+have discord hamper the game's development and growth but interesting very interesting good to
+
+717
+01:15:52,560 --> 01:15:56,080
+hear munchies spend all that money went to art school is doing nothing but programming
+
+718
+01:15:57,120 --> 01:16:06,480
+lol i mean the whole thing with covid and him not being able to go to the lessons that he bought
+
+719
+01:16:06,480 --> 01:16:13,680
+is like so upsetting dumb dude it's like it piss like legitimately pisses me off because like we
+
+720
+01:16:13,760 --> 01:16:19,040
+had all those arguments and like his big reason for going to school in the first place was to
+
+721
+01:16:19,040 --> 01:16:25,840
+meet people and be in the like the be in the school around the people that was the entire point that
+
+722
+01:16:25,840 --> 01:16:30,800
+was his big defense was that like i'll be able to pay for it i have a way to do that but i just
+
+723
+01:16:30,800 --> 01:16:35,600
+want to be there and mingle and now like the whole reason for going to school is like invalidated
+
+724
+01:16:36,080 --> 01:16:44,000
+yeah and it's the teacher is teaching is a lot less useful through like zoom or whatever
+
+725
+01:16:45,280 --> 01:16:51,360
+and that there was like there was like i can't remember exactly what it was but it's like
+
+726
+01:16:52,160 --> 01:16:58,720
+a number of classes that you know they got basically ruined but he wasn't reimbursed
+
+727
+01:16:58,720 --> 01:17:04,960
+for the things that he like the pandemic ruined for him he still had to pay money
+
+728
+01:17:05,920 --> 01:17:12,000
+for oh no it was it was it was the student accommodation since he couldn't be in the the
+
+729
+01:17:12,000 --> 01:17:20,800
+campus uh he was staying with uh with kazi but the um student accommodation refunded for housing
+
+730
+01:17:20,800 --> 01:17:25,600
+they did not get refund they just still had to pay that lawsuits incoming as soon as this
+
+731
+01:17:25,600 --> 01:17:30,480
+fucking covid shit is over every school if the schools aren't refunding housing they're all
+
+732
+01:17:30,480 --> 01:17:34,640
+gonna get hit with fucking lawsuits and they deserve to get fucked in every single one of them holy
+
+733
+01:17:34,640 --> 01:17:46,080
+shit yeah that's ridiculous it sucks the whole thing so god the internet stinks real life stinks
+
+734
+01:17:46,080 --> 01:17:52,320
+what's even what's even it's even the point what's even what are we even gonna do god damn it
+
+735
+01:17:52,320 --> 01:17:59,120
+the final arc of humanity is a real downer that's okay i'll just i'll just draw a funny
+
+736
+01:17:59,120 --> 01:18:05,920
+comic about a lady with a gun she'll shoot she'll she'll say yeehaw and shoot some enemies that's
+
+737
+01:18:05,920 --> 01:18:11,200
+that's the the pitch for my comic by the way uh sick pre-ordered immediately
+
+738
+01:18:13,680 --> 01:18:20,560
+all right well unless you have anything you'd like to add i guess we can call this episode
+
+739
+01:18:20,560 --> 01:18:28,960
+a wrap uh i'll just like to reiterate that i will be streaming twitch.tv slash gib and take
+
+740
+01:18:30,400 --> 01:18:41,600
+for the month of august every weekday from 11 a.m roughly uh to 7 30 p.m bst which is
+
+741
+01:18:41,600 --> 01:18:48,320
+british summertime and you can adjust for your own time zone come and see me draw and be frustrated
+
+742
+01:18:48,320 --> 01:18:53,280
+at some difficult parts probably and that'll be that'll be going on for as long as i can
+
+743
+01:18:53,280 --> 01:19:00,160
+fucking stand sick i'll probably stop by now and then see how things are going sounds pretty cool
+
+744
+01:19:01,040 --> 01:19:08,560
+yeah uh don't forget patreon.com slash the procrastinators if you want to support this
+
+745
+01:19:08,560 --> 01:19:14,880
+podcast uh we got what like how many bonus episodes we got now for five dollars and up
+
+746
+01:19:14,880 --> 01:19:23,360
+we got more than 52 i can't remember the holy shit cannot remember the exact three or more bonus
+
+747
+01:19:23,360 --> 01:19:28,480
+episodes and we just guys just recorded a new one a couple days ago right no i'm thinking of weeks
+
+748
+01:19:28,480 --> 01:19:34,320
+of the year how many do we actually have we have we have one bonus lie where we have one bonus
+
+749
+01:19:34,320 --> 01:19:39,600
+episode per month it's been going for a while i was on the last one let me just check what the
+
+750
+01:19:39,600 --> 01:19:45,440
+file name for that was i figure since you were on it you would have had this right there right
+
+751
+01:19:45,440 --> 01:19:56,160
+there ready to go no i'm stupid uh unfortunate shit uh oh no i didn't remember what the number was
+
+752
+01:19:56,160 --> 01:20:01,680
+so i just called it bonus episode we got a lot of bonus episodes when there's a lot of them
+
+753
+01:20:01,680 --> 01:20:08,960
+they're really fucking good oh we just had a new one yeah the new one was me and ben talking about
+
+754
+01:20:08,960 --> 01:20:16,080
+how uh we uh tits it was just me and ben talking about tits and breasts and it was really fucking
+
+755
+01:20:16,080 --> 01:20:24,480
+epic and it's not as crude as it sounds we got along a lot of interesting uh tangential topics
+
+756
+01:20:24,480 --> 01:20:31,040
+about that and it was really good you know only five dollars gets you access to an entire
+
+757
+01:20:31,040 --> 01:20:37,680
+discussion about titties plus tons of other episodes with similarly interesting topics
+
+758
+01:20:37,680 --> 01:20:43,360
+it's it's it's it just bleeds value uh you'd be a fool not to pay five dollars a month over on
+
+759
+01:20:43,360 --> 01:20:48,800
+patreon.com slash the procrastinators and if for some reason five dollars a little too bougie for you
+
+760
+01:20:48,800 --> 01:20:54,320
+all you proliterates and get in at the one dollar tier gives you access to the the patreon discord
+
+761
+01:20:54,320 --> 01:20:58,800
+minus munchie maybe we'll drag him back in someday we're all there having a good time
+
+762
+01:20:58,800 --> 01:21:04,960
+minus munchie and uh it's great it's a great time it's fun go check that out if you want to
+
+763
+01:21:04,960 --> 01:21:12,080
+leave voicemails uh that's speakpipe.com slash pcp voicemail uh we'll listen to some of them
+
+764
+01:21:12,800 --> 01:21:17,280
+maybe someday nate will come back and curate them uh but until then it's just whatever
+
+765
+01:21:17,280 --> 01:21:22,400
+game we come up for listening to them so put your best foot forward and maybe you'll get on the show
+
+766
+01:21:22,400 --> 01:21:29,600
+and not end up in voice jail and uh we have twitter uh at tpcrastinators to keep you updated on the
+
+767
+01:21:29,600 --> 01:21:34,000
+state of our youtube channel if it ever will be revived forever get the videos back um
+
+768
+01:21:35,600 --> 01:21:40,160
+are we are we still trying to find all the videos i know ben was starting to get that going uh to
+
+769
+01:21:40,160 --> 01:21:45,760
+like kind of like see if we had backups of everything and in case we uh have to unfortunately
+
+770
+01:21:45,760 --> 01:21:52,960
+face that reality which seems to be ever more uh like the case because yeah they just there's nothing
+
+771
+01:21:52,960 --> 01:22:00,160
+happening um yeah we're we're still emailing them so eventually doing our best but there's not much
+
+772
+01:22:00,160 --> 01:22:07,200
+you can do unfortunately it's fucking youtube if you go on twitter at team youtube and at the tpcrastinator
+
+773
+01:22:07,200 --> 01:22:13,680
+what was our twitter the procrastinators yeah at at tpcrastinators at tpcrastinators uh just let
+
+774
+01:22:13,680 --> 01:22:19,600
+them know that you want the channel back yeah doesn't hurt if you have backups if you have
+
+775
+01:22:19,600 --> 01:22:24,800
+backups of uh some of the videos uh let us know because we're trying i think ben is putting
+
+776
+01:22:24,800 --> 01:22:28,240
+together a spreadsheet just like where all the other videos are and what we need to get back what
+
+777
+01:22:28,240 --> 01:22:34,480
+we already have so uh in case we have to just re-upload everything from scratch it'll be good to
+
+778
+01:22:34,480 --> 01:22:40,560
+know what we do and do not have access to so that would be a huge help and uh other than that i think
+
+779
+01:22:40,560 --> 01:22:55,120
+we're ready to end the episode everybody thanks for listening uh goodbye goodbye
+

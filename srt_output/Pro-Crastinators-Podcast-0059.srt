@@ -1,0 +1,6060 @@
+1
+00:00:00,000 --> 00:00:13,600
+Hello everyone and welcome to another episode of The Pro Crastinators Podcast, the favorite
+
+2
+00:00:13,600 --> 00:00:15,520
+show that's on the internet.
+
+3
+00:00:15,520 --> 00:00:28,800
+I'm the best guy ever, and I'm joined by Hippocrit, Mumkey Jones, and the Munchman
+
+4
+00:00:28,800 --> 00:00:31,120
+himself, Mr. Munchyshatsky.
+
+5
+00:00:31,120 --> 00:00:46,160
+Go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+6
+00:00:46,160 --> 00:00:50,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+7
+00:00:50,800 --> 00:00:53,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+8
+00:00:53,800 --> 00:00:54,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+9
+00:00:54,800 --> 00:01:00,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+10
+00:01:00,800 --> 00:01:01,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+11
+00:01:01,800 --> 00:01:02,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+12
+00:01:02,800 --> 00:01:03,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+13
+00:01:03,800 --> 00:01:04,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+14
+00:01:04,800 --> 00:01:05,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+15
+00:01:05,800 --> 00:01:06,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+16
+00:01:06,800 --> 00:01:07,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+17
+00:01:07,800 --> 00:01:08,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+18
+00:01:08,800 --> 00:01:09,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+19
+00:01:09,800 --> 00:01:16,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+20
+00:01:39,800 --> 00:01:46,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+21
+00:02:09,800 --> 00:02:16,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+22
+00:02:39,800 --> 00:02:46,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+23
+00:03:09,800 --> 00:03:16,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+24
+00:03:39,800 --> 00:03:46,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+25
+00:04:09,800 --> 00:04:16,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+26
+00:04:39,800 --> 00:04:46,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+27
+00:05:09,800 --> 00:05:16,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+28
+00:05:39,800 --> 00:05:46,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+29
+00:06:09,800 --> 00:06:16,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+30
+00:06:39,800 --> 00:06:46,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+31
+00:07:09,800 --> 00:07:16,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+32
+00:07:39,800 --> 00:07:46,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+33
+00:08:09,800 --> 00:08:16,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+34
+00:08:39,800 --> 00:08:46,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+35
+00:09:09,800 --> 00:09:16,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+36
+00:09:39,800 --> 00:09:46,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+37
+00:10:09,800 --> 00:10:16,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+38
+00:10:39,800 --> 00:10:46,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+39
+00:11:09,800 --> 00:11:16,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+40
+00:11:16,800 --> 00:11:23,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+41
+00:11:23,800 --> 00:11:30,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+42
+00:11:30,800 --> 00:11:37,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+43
+00:11:37,800 --> 00:11:44,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+44
+00:11:44,800 --> 00:11:51,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+45
+00:11:51,800 --> 00:11:58,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+46
+00:11:58,800 --> 00:12:06,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+47
+00:12:06,800 --> 00:12:13,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+48
+00:12:13,800 --> 00:12:22,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+49
+00:12:22,800 --> 00:12:29,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+50
+00:12:29,800 --> 00:12:34,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+51
+00:12:34,800 --> 00:12:41,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+52
+00:12:41,800 --> 00:12:48,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+53
+00:12:48,800 --> 00:12:55,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+54
+00:12:55,800 --> 00:13:02,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+55
+00:13:02,800 --> 00:13:09,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+56
+00:13:09,800 --> 00:13:16,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+57
+00:13:16,800 --> 00:13:26,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+58
+00:13:26,800 --> 00:13:37,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+59
+00:13:37,800 --> 00:13:44,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+60
+00:13:44,800 --> 00:13:51,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+61
+00:13:51,800 --> 00:13:58,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+62
+00:13:58,800 --> 00:14:05,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+63
+00:14:05,800 --> 00:14:12,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+64
+00:14:12,800 --> 00:14:19,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+65
+00:14:19,800 --> 00:14:26,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+66
+00:14:26,800 --> 00:14:33,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+67
+00:14:33,800 --> 00:14:40,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+68
+00:14:40,800 --> 00:14:47,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+69
+00:14:47,800 --> 00:14:54,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+70
+00:14:54,800 --> 00:15:02,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+71
+00:15:02,800 --> 00:15:10,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+72
+00:15:10,800 --> 00:15:19,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+73
+00:15:19,800 --> 00:15:26,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+74
+00:15:26,800 --> 00:15:36,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+75
+00:15:36,800 --> 00:15:46,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+76
+00:15:46,800 --> 00:15:53,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+77
+00:15:53,800 --> 00:16:00,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+78
+00:16:00,800 --> 00:16:07,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+79
+00:16:07,800 --> 00:16:14,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+80
+00:16:14,800 --> 00:16:22,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+81
+00:16:22,800 --> 00:16:31,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+82
+00:16:31,800 --> 00:16:38,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+83
+00:16:38,800 --> 00:16:46,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+84
+00:16:46,800 --> 00:16:56,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+85
+00:16:56,800 --> 00:17:02,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+86
+00:17:02,800 --> 00:17:09,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+87
+00:17:09,800 --> 00:17:16,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+88
+00:17:16,800 --> 00:17:26,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+89
+00:17:26,800 --> 00:17:33,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+90
+00:17:33,800 --> 00:17:44,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+91
+00:17:44,800 --> 00:17:51,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+92
+00:17:51,800 --> 00:17:58,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+93
+00:17:58,800 --> 00:18:07,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+94
+00:18:07,800 --> 00:18:17,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+95
+00:18:17,800 --> 00:18:24,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+96
+00:18:24,800 --> 00:18:31,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+97
+00:18:31,800 --> 00:18:38,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+98
+00:18:38,800 --> 00:18:45,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+99
+00:18:45,800 --> 00:18:52,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+100
+00:18:52,800 --> 00:18:59,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+101
+00:18:59,800 --> 00:19:06,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+102
+00:19:06,800 --> 00:19:13,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+103
+00:19:13,800 --> 00:19:20,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+104
+00:19:20,800 --> 00:19:27,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+105
+00:19:27,800 --> 00:19:34,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+106
+00:19:34,800 --> 00:19:41,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+107
+00:19:41,800 --> 00:19:48,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+108
+00:19:48,800 --> 00:19:55,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+109
+00:19:55,800 --> 00:20:03,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+110
+00:20:03,800 --> 00:20:13,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+111
+00:20:13,800 --> 00:20:24,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+
+112
+00:20:24,800 --> 00:20:31,800
+go, go, go, go, go, go, go, go, go, go, go, go, go, go, go.
+
+113
+00:20:54,800 --> 00:21:12,800
+I have a story about all the sex toys I received during my monkey mail bag thing where I made
+
+114
+00:21:12,800 --> 00:21:17,800
+the great decision to open up a peel box and let my loving, adoring fans send me, you know,
+
+115
+00:21:17,800 --> 00:21:24,800
+fan mail, books, games, but no, they sent me like fucking tanga eggs and dildos and shit,
+
+116
+00:21:24,800 --> 00:21:29,800
+naturally, but I made a rule with myself that whatever I get in this funky mail bag I will
+
+117
+00:21:29,800 --> 00:21:33,800
+keep and use as props in future videos just so like people can see them and be like, oh
+
+118
+00:21:33,800 --> 00:21:38,800
+yeah, I remember when I got that, that's funny, so I'm at a point where my bedroom closet,
+
+119
+00:21:38,800 --> 00:21:43,800
+I'm still living with my parents, is full of sex eggs and dildos and adult diapers and
+
+120
+00:21:43,800 --> 00:21:51,800
+all this weird kinky shit and like, of course my parents don't watch the videos or know
+
+121
+00:21:51,800 --> 00:21:55,800
+anything about it, so they just like, one day I just suddenly have all this weird shit in
+
+122
+00:21:55,800 --> 00:22:00,800
+my closet and like, you know, mom, it's for the monkey shit, you don't need to understand,
+
+123
+00:22:00,800 --> 00:22:06,800
+don't even question it, but then I was doing the Vietnamese crystal nuzlocke and I reached
+
+124
+00:22:06,800 --> 00:22:10,800
+a point, I think at the seventh gym where the game froze and I couldn't continue so I had
+
+125
+00:22:10,800 --> 00:22:16,800
+to quit the series, but then I had a fan on Snapchat named Julian who said, hey, I'll
+
+126
+00:22:16,800 --> 00:22:19,800
+play a new file and I'll catch you back up to where you were and I'll redo everything
+
+127
+00:22:19,800 --> 00:22:24,800
+and I said, oh yeah, that'd be great, thank you so much and he says, all I want for payment
+
+128
+00:22:24,800 --> 00:22:28,800
+is for you to send me one of those tanga eggs in the mail.
+
+129
+00:22:28,800 --> 00:22:32,800
+So I was like, okay, there we go.
+
+130
+00:22:32,800 --> 00:22:33,800
+So you did it.
+
+131
+00:22:33,800 --> 00:22:35,800
+And Julian saved the let's play.
+
+132
+00:22:35,800 --> 00:22:37,800
+What a hero, what a hero.
+
+133
+00:22:37,800 --> 00:22:39,800
+I don't know why he wanted it.
+
+134
+00:22:39,800 --> 00:22:42,800
+Oh, I can't imagine why.
+
+135
+00:22:42,800 --> 00:22:44,800
+What a weird request.
+
+136
+00:22:44,800 --> 00:22:47,800
+Just fucking order your own, why did you want one of mine?
+
+137
+00:22:47,800 --> 00:22:53,800
+He wants it with your taint on it, you know, with your corruption, that's what he wants.
+
+138
+00:22:53,800 --> 00:22:54,800
+So that's my story.
+
+139
+00:22:54,800 --> 00:22:57,800
+There you go, Julian, nobody knew that, but now that's out there.
+
+140
+00:22:57,800 --> 00:22:58,800
+Congrats.
+
+141
+00:22:58,800 --> 00:23:04,800
+Well, I only have need for one toy and that is Lego.
+
+142
+00:23:04,800 --> 00:23:13,800
+And when I'm in the mood, when I'm in the mood, I make for myself a little penis prism out of Lego.
+
+143
+00:23:13,800 --> 00:23:14,800
+Right.
+
+144
+00:23:14,800 --> 00:23:20,800
+I just, I just just build it and keep adding bricks until it's completely crushed.
+
+145
+00:23:20,800 --> 00:23:23,800
+And then, you know, I attack people with it.
+
+146
+00:23:23,800 --> 00:23:25,800
+It's not a joke.
+
+147
+00:23:25,800 --> 00:23:27,800
+I'm not, I don't actually do that.
+
+148
+00:23:27,800 --> 00:23:33,800
+Oh, I have this fetish where I get off on accidentally stepping on a Lego and hurting
+
+149
+00:23:33,800 --> 00:23:35,800
+my foot really bad.
+
+150
+00:23:35,800 --> 00:23:36,800
+I like that.
+
+151
+00:23:36,800 --> 00:23:37,800
+It's very specific.
+
+152
+00:23:37,800 --> 00:23:39,800
+It makes me cum every time.
+
+153
+00:23:39,800 --> 00:23:40,800
+Yeah.
+
+154
+00:23:40,800 --> 00:23:43,800
+Hey, speaking of that, I don't get that.
+
+155
+00:23:43,800 --> 00:23:44,800
+I do not get that.
+
+156
+00:23:44,800 --> 00:23:46,800
+I've stood in Lego boxes.
+
+157
+00:23:46,800 --> 00:23:47,800
+Oh, come on.
+
+158
+00:23:47,800 --> 00:23:49,800
+They're hurting like a motherfucker, dude.
+
+159
+00:23:49,800 --> 00:23:51,800
+They don't hurt more than nails.
+
+160
+00:23:51,800 --> 00:23:54,800
+People make them out like, oh my God, it's the worst.
+
+161
+00:23:54,800 --> 00:23:57,800
+If you get about a nail, if you step on it, it usually isn't sticking out.
+
+162
+00:23:57,800 --> 00:23:59,800
+They don't hurt more than nails.
+
+163
+00:23:59,800 --> 00:24:02,800
+Guys, look at all the ways I can hurt myself more than a Lego.
+
+164
+00:24:02,800 --> 00:24:03,800
+What's the big deal?
+
+165
+00:24:03,800 --> 00:24:04,800
+Just watch me.
+
+166
+00:24:04,800 --> 00:24:07,800
+I mean, it's not like lighting your face on fire.
+
+167
+00:24:07,800 --> 00:24:08,800
+All right.
+
+168
+00:24:08,800 --> 00:24:14,800
+I get that it's funny to over exaggerate something to be like, oh, it's funny how
+
+169
+00:24:14,800 --> 00:24:20,800
+much I'm scared of spiders or I hate Lego or, you know, how much I'm willing to
+
+170
+00:24:20,800 --> 00:24:22,800
+kill myself, you know, stuff like that.
+
+171
+00:24:22,800 --> 00:24:23,800
+You wouldn't actually do it.
+
+172
+00:24:23,800 --> 00:24:24,800
+You wouldn't actually go that far.
+
+173
+00:24:24,800 --> 00:24:26,800
+You say you do and it's funny.
+
+174
+00:24:26,800 --> 00:24:32,800
+But I've never, ever hurt myself standing on a Lego except when I was like three.
+
+175
+00:24:32,800 --> 00:24:34,800
+Like I can stand on Legos right now.
+
+176
+00:24:34,800 --> 00:24:36,800
+And it's fine.
+
+177
+00:24:36,800 --> 00:24:39,800
+It happens to people when they're like eight.
+
+178
+00:24:39,800 --> 00:24:40,800
+Yeah.
+
+179
+00:24:40,800 --> 00:24:43,800
+It traumatizes them from a young age and that's why it has that stigma.
+
+180
+00:24:43,800 --> 00:24:48,800
+I just don't like the idea that it's cool to be an adult and saying, oh man, I still
+
+181
+00:24:48,800 --> 00:24:52,800
+step on Legos and I'm still getting hurt and I'm still a pansy about it.
+
+182
+00:24:52,800 --> 00:24:53,800
+It hurts, dude.
+
+183
+00:24:53,800 --> 00:24:54,800
+It doesn't hurt.
+
+184
+00:24:54,800 --> 00:24:55,800
+It really does hurt that bad.
+
+185
+00:24:55,800 --> 00:24:56,800
+Yeah, it does.
+
+186
+00:24:56,800 --> 00:24:57,800
+It does not.
+
+187
+00:24:57,800 --> 00:24:58,800
+Okay.
+
+188
+00:24:58,800 --> 00:25:00,800
+Your thing is you're a weirdo British hobbit man with hobbit feet.
+
+189
+00:25:00,800 --> 00:25:01,800
+So you can take this kind of punishments.
+
+190
+00:25:01,800 --> 00:25:03,800
+It only weighs like 90 pounds.
+
+191
+00:25:03,800 --> 00:25:04,800
+Yeah.
+
+192
+00:25:04,800 --> 00:25:05,800
+Yeah.
+
+193
+00:25:05,800 --> 00:25:10,800
+I used to eat Legos all the time so they don't scare me anymore.
+
+194
+00:25:10,800 --> 00:25:11,800
+That's fair.
+
+195
+00:25:11,800 --> 00:25:13,800
+I don't like this podcast at all.
+
+196
+00:25:13,800 --> 00:25:14,800
+I want to run away.
+
+197
+00:25:14,800 --> 00:25:16,800
+I want to run away and I want to delete my audio.
+
+198
+00:25:16,800 --> 00:25:17,800
+I don't like it.
+
+199
+00:25:17,800 --> 00:25:19,800
+I don't like what's been going on.
+
+200
+00:25:19,800 --> 00:25:22,800
+Incidentally, here's a question about that.
+
+201
+00:25:22,800 --> 00:25:27,800
+When is the, okay, it's by at Levy Jevy says, when is the PCB going to cross over with
+
+202
+00:25:27,800 --> 00:25:29,800
+the Inseparable Social Media podcast?
+
+203
+00:25:29,800 --> 00:25:30,800
+Never.
+
+204
+00:25:30,800 --> 00:25:31,800
+Never have, we hate those guys.
+
+205
+00:25:31,800 --> 00:25:33,800
+Don't ever fucking ever say that again.
+
+206
+00:25:33,800 --> 00:25:34,800
+Yeah.
+
+207
+00:25:34,800 --> 00:25:35,800
+That's off the table.
+
+208
+00:25:35,800 --> 00:25:38,800
+Don't even, all right, new question.
+
+209
+00:25:38,800 --> 00:25:43,800
+I'm trying to think of anything I can say that'd be funny, but nothing is coming to
+
+210
+00:25:43,800 --> 00:25:44,800
+mind.
+
+211
+00:25:44,800 --> 00:25:47,800
+Terry Dactyl says, what species has more value?
+
+212
+00:25:47,800 --> 00:25:48,800
+Mimes or clowns?
+
+213
+00:25:48,800 --> 00:25:51,800
+You fucking know, baby.
+
+214
+00:25:51,800 --> 00:25:55,800
+It's fucking clowns.
+
+215
+00:25:55,800 --> 00:25:57,800
+Mimes have actual superpowers though.
+
+216
+00:25:57,800 --> 00:25:58,800
+Yeah.
+
+217
+00:25:58,800 --> 00:26:00,800
+And mimes have never made shitty rap songs.
+
+218
+00:26:00,800 --> 00:26:05,800
+My favorite mime is, my favorite mime is Pee Pee the Frog.
+
+219
+00:26:05,800 --> 00:26:07,800
+Pee Pee is very nice.
+
+220
+00:26:07,800 --> 00:26:09,800
+He's a funny Mimee, yes.
+
+221
+00:26:09,800 --> 00:26:11,800
+Le Epic Mime, XD.
+
+222
+00:26:11,800 --> 00:26:13,800
+Here's what we have to know.
+
+223
+00:26:13,800 --> 00:26:17,800
+Mr. Mime, Marxist influenced moon enemy.
+
+224
+00:26:17,800 --> 00:26:18,800
+Mime.
+
+225
+00:26:18,800 --> 00:26:19,800
+Yeah.
+
+226
+00:26:19,800 --> 00:26:22,800
+He's fucking communist from space.
+
+227
+00:26:22,800 --> 00:26:24,800
+Can't trust him.
+
+228
+00:26:24,800 --> 00:26:31,800
+Clowns, homegrown, homegrown, American, Land of the Free, American First, Nationalist Party,
+
+229
+00:26:31,800 --> 00:26:36,800
+German Workers' Party, taking back the state, giving the tower back to the people, taking
+
+230
+00:26:36,800 --> 00:26:40,800
+over the government, annexing the places where they did that.
+
+231
+00:26:40,800 --> 00:26:41,800
+Poland, yeah.
+
+232
+00:26:41,800 --> 00:26:42,800
+You know what?
+
+233
+00:26:42,800 --> 00:26:44,800
+Munchie, Munchie, listen up.
+
+234
+00:26:44,800 --> 00:26:46,800
+I need you to answer this seriously.
+
+235
+00:26:46,800 --> 00:26:47,800
+Who wins in a fight?
+
+236
+00:26:47,800 --> 00:26:52,800
+Well, 45, Mr. Mime are three ICP juggalos.
+
+237
+00:26:52,800 --> 00:26:55,800
+Who wins?
+
+238
+00:26:55,800 --> 00:26:57,800
+Who can use thunderbolt?
+
+239
+00:26:57,800 --> 00:26:59,800
+Who can use thunderbolt in those two groups?
+
+240
+00:26:59,800 --> 00:27:02,800
+Juggalos are poison type, probably.
+
+241
+00:27:02,800 --> 00:27:05,800
+They're both poison and dark type.
+
+242
+00:27:05,800 --> 00:27:11,800
+So they normally would be, but they'll have a dark voice, so they'll lean.
+
+243
+00:27:11,800 --> 00:27:16,800
+Because they go to the dark carnival, because they live in the darkest world.
+
+244
+00:27:16,800 --> 00:27:17,800
+They live in it.
+
+245
+00:27:17,800 --> 00:27:18,800
+They live with the dark carnival.
+
+246
+00:27:18,800 --> 00:27:23,800
+They're going to know about all the miracles and the magic of the fucking world through
+
+247
+00:27:23,800 --> 00:27:24,800
+the dark carnival.
+
+248
+00:27:24,800 --> 00:27:28,800
+The dark carnival is your inspiration to witness that without explanation.
+
+249
+00:27:28,800 --> 00:27:33,800
+Just take a look at this fine creation and enjoy a band with appreciation.
+
+250
+00:27:33,800 --> 00:27:38,800
+Ghosts, ghosts, the midnight ghosts, mysteries of the world, magic at the most.
+
+251
+00:27:38,800 --> 00:27:39,800
+I'm fucking gay.
+
+252
+00:27:39,800 --> 00:27:40,800
+I'm a juggal.
+
+253
+00:27:40,800 --> 00:27:42,800
+Mr. Mime is a fucking communist.
+
+254
+00:27:42,800 --> 00:27:50,800
+He's a Soviet black state puppet regime set up by Stalin to be a tank of egg salesman
+
+255
+00:27:50,800 --> 00:27:52,800
+for his personal use.
+
+256
+00:27:52,800 --> 00:27:54,800
+It's not real, okay?
+
+257
+00:27:54,800 --> 00:27:56,800
+Snap out of it.
+
+258
+00:27:56,800 --> 00:27:58,800
+We're breaking the social conditioning.
+
+259
+00:27:58,800 --> 00:28:01,800
+Breaking the globalist.
+
+260
+00:28:01,800 --> 00:28:03,800
+Mr. Mime is a globalist.
+
+261
+00:28:03,800 --> 00:28:05,800
+Get him out.
+
+262
+00:28:05,800 --> 00:28:06,800
+Oh, yeah?
+
+263
+00:28:06,800 --> 00:28:07,800
+Well, guess what, Munchy?
+
+264
+00:28:07,800 --> 00:28:08,800
+Mr. Mime can use reflex.
+
+265
+00:28:08,800 --> 00:28:10,800
+All that shit just went right back to you.
+
+266
+00:28:10,800 --> 00:28:11,800
+Shit, fuck.
+
+267
+00:28:11,800 --> 00:28:12,800
+Yeah, you're right.
+
+268
+00:28:12,800 --> 00:28:13,800
+Shit.
+
+269
+00:28:13,800 --> 00:28:14,800
+You didn't see that coming.
+
+270
+00:28:14,800 --> 00:28:15,800
+You can't beat Mr. Mime.
+
+271
+00:28:15,800 --> 00:28:17,800
+He's too good in the OU, dude.
+
+272
+00:28:17,800 --> 00:28:20,800
+What about the insane Mime posse?
+
+273
+00:28:20,800 --> 00:28:23,800
+That would be our sign language.
+
+274
+00:28:23,800 --> 00:28:24,800
+Yeah.
+
+275
+00:28:24,800 --> 00:28:25,800
+Completely silent raps.
+
+276
+00:28:25,800 --> 00:28:27,800
+It's a rap group for deaf people.
+
+277
+00:28:27,800 --> 00:28:28,800
+Just, just, yeah.
+
+278
+00:28:28,800 --> 00:28:30,800
+They're lesser known.
+
+279
+00:28:30,800 --> 00:28:32,800
+They're lesser known, yeah.
+
+280
+00:28:32,800 --> 00:28:34,800
+Wait, how are they for deaf people?
+
+281
+00:28:34,800 --> 00:28:37,800
+Because they only do sign language because they're Mimes.
+
+282
+00:28:37,800 --> 00:28:38,800
+Well, you know what you can do?
+
+283
+00:28:38,800 --> 00:28:39,800
+Oh, right, deaf people.
+
+284
+00:28:39,800 --> 00:28:40,800
+I confuse that with blind.
+
+285
+00:28:40,800 --> 00:28:43,800
+Like, I just imagine like blind people would listen to Mime rap.
+
+286
+00:28:43,800 --> 00:28:45,800
+Because they don't know.
+
+287
+00:28:45,800 --> 00:28:47,800
+Okay, what do you think about this?
+
+288
+00:28:47,800 --> 00:28:50,800
+Okay, this is my idea for music for deaf people.
+
+289
+00:28:50,800 --> 00:28:53,800
+We sort of encase them in a full, like, rubber suit, right?
+
+290
+00:28:53,800 --> 00:28:56,800
+Okay, so their whole body is, like, surrounded by this.
+
+291
+00:28:56,800 --> 00:29:00,800
+And then, like, that surface is the speaker.
+
+292
+00:29:00,800 --> 00:29:04,800
+And you know, like, because people, you know, music is like sound waves in the air.
+
+293
+00:29:04,800 --> 00:29:09,800
+And then you blast the beats into that surrounding film on their whole body.
+
+294
+00:29:09,800 --> 00:29:10,800
+And you crack their bones.
+
+295
+00:29:10,800 --> 00:29:11,800
+And they can experience the music.
+
+296
+00:29:11,800 --> 00:29:12,800
+Break the music.
+
+297
+00:29:12,800 --> 00:29:16,800
+And then you buy, like, a pack of mechanical pencil from CVS.
+
+298
+00:29:16,800 --> 00:29:17,800
+Right.
+
+299
+00:29:17,800 --> 00:29:18,800
+You pick up the eraser.
+
+300
+00:29:18,800 --> 00:29:23,800
+Then you pour out the little, like, individual, like, mechanical pencil, like, parts.
+
+301
+00:29:23,800 --> 00:29:27,800
+Then you put the leg in down your lemon pipe.
+
+302
+00:29:27,800 --> 00:29:29,800
+And then you push in there so small.
+
+303
+00:29:29,800 --> 00:29:30,800
+Then it can fit right in.
+
+304
+00:29:30,800 --> 00:29:34,800
+And then it gets to the point where it has a little bit of resistance to what breaks.
+
+305
+00:29:34,800 --> 00:29:38,800
+And now there's a ton of layers, like, five or so pieces of mechanical pencil lead
+
+306
+00:29:38,800 --> 00:29:40,800
+inside your lemon pipe.
+
+307
+00:29:40,800 --> 00:29:41,800
+And you squeeze it around.
+
+308
+00:29:41,800 --> 00:29:44,800
+And that's what you have to live with for the rest of your life.
+
+309
+00:29:44,800 --> 00:29:45,800
+Is that it?
+
+310
+00:29:45,800 --> 00:29:46,800
+Is that it, Nate?
+
+311
+00:29:46,800 --> 00:29:48,800
+Yeah, God, I guess that's it.
+
+312
+00:29:48,800 --> 00:29:50,800
+That's one way to think about it.
+
+313
+00:29:50,800 --> 00:29:53,800
+The BotFlyz will use the lead in their Minecraft expeditions.
+
+314
+00:29:53,800 --> 00:29:54,800
+Yes.
+
+315
+00:29:55,800 --> 00:30:00,800
+Have any of you guys ever been to, like, a real musical production, like, an off-Broadway
+
+316
+00:30:00,800 --> 00:30:01,800
+show or something?
+
+317
+00:30:01,800 --> 00:30:02,800
+Yeah.
+
+318
+00:30:02,800 --> 00:30:03,800
+Yeah.
+
+319
+00:30:03,800 --> 00:30:04,800
+I've been to a real Broadway show.
+
+320
+00:30:04,800 --> 00:30:05,800
+What's they're dealing with?
+
+321
+00:30:05,800 --> 00:30:08,800
+They always have somebody off to the side of the stage doing sign language.
+
+322
+00:30:08,800 --> 00:30:10,800
+Like, who is that for?
+
+323
+00:30:10,800 --> 00:30:11,800
+Stage directions.
+
+324
+00:30:11,800 --> 00:30:12,800
+No.
+
+325
+00:30:12,800 --> 00:30:13,800
+No, no, it's for the audience.
+
+326
+00:30:13,800 --> 00:30:14,800
+It's for the audience.
+
+327
+00:30:14,800 --> 00:30:16,800
+Yeah, but, like, why would you go to a musical if you're deaf?
+
+328
+00:30:16,800 --> 00:30:20,800
+Because you can't watch the show if you're reading the sign language and you can't hear
+
+329
+00:30:20,800 --> 00:30:21,800
+the music.
+
+330
+00:30:21,800 --> 00:30:22,800
+So what's the point?
+
+331
+00:30:22,800 --> 00:30:25,800
+It's the same with, like, I guess, subtitles and anime, I guess.
+
+332
+00:30:25,800 --> 00:30:27,800
+Yeah, like, you know, you kind of have to look away briefly.
+
+333
+00:30:27,800 --> 00:30:30,800
+But in this case, you literally can only watch the sign language person.
+
+334
+00:30:30,800 --> 00:30:32,800
+You can't watch the people on the stage dancing.
+
+335
+00:30:32,800 --> 00:30:34,800
+You can't hear the music.
+
+336
+00:30:34,800 --> 00:30:38,800
+I don't know why you would go to that show if it's $300 a ticket.
+
+337
+00:30:38,800 --> 00:30:40,800
+Sometimes you just want to go out on the town, you know?
+
+338
+00:30:40,800 --> 00:30:42,800
+You want to, even if you're deaf, you want to look pretty.
+
+339
+00:30:42,800 --> 00:30:43,800
+You want to go out with all your fam.
+
+340
+00:30:43,800 --> 00:30:45,800
+Some people are, like, partially deaf.
+
+341
+00:30:45,800 --> 00:30:47,800
+Like, they can't understand things, but it's sort of muffled.
+
+342
+00:30:47,800 --> 00:30:50,800
+So they can still hear, like, beats and shit.
+
+343
+00:30:50,800 --> 00:30:55,800
+There's a lot to enjoy about the experience in addition to hearing it, I guess, so...
+
+344
+00:30:55,800 --> 00:30:58,800
+May I just want to be the presence of other wizards, you know?
+
+345
+00:30:58,800 --> 00:31:00,800
+That's right. That's right.
+
+346
+00:31:00,800 --> 00:31:05,800
+Okay, well, I guess that's their choice, but it sounds retarded to me.
+
+347
+00:31:05,800 --> 00:31:08,800
+Off the record, off the record.
+
+348
+00:31:08,800 --> 00:31:09,800
+This is terrible.
+
+349
+00:31:09,800 --> 00:31:11,800
+Can we have this be the bonus episode instead?
+
+350
+00:31:11,800 --> 00:31:12,800
+I don't want this to actually come out.
+
+351
+00:31:12,800 --> 00:31:13,800
+What's wrong with it?
+
+352
+00:31:13,800 --> 00:31:14,800
+This is perfectly fine.
+
+353
+00:31:14,800 --> 00:31:16,800
+I'm very embarrassed that this has happened.
+
+354
+00:31:16,800 --> 00:31:17,800
+I'm really sorry, everybody.
+
+355
+00:31:17,800 --> 00:31:19,800
+Dude, we'll edit it out.
+
+356
+00:31:19,800 --> 00:31:20,800
+We'll cut this part out, too.
+
+357
+00:31:20,800 --> 00:31:21,800
+No.
+
+358
+00:31:21,800 --> 00:31:23,800
+No, cut this part in. Double it.
+
+359
+00:31:23,800 --> 00:31:25,800
+Double it right now.
+
+360
+00:31:25,800 --> 00:31:26,800
+Like, overlay it.
+
+361
+00:31:26,800 --> 00:31:27,800
+Like, echo and reverb it.
+
+362
+00:31:27,800 --> 00:31:28,800
+Yeah, crunchy.
+
+363
+00:31:28,800 --> 00:31:30,800
+Crunchy, you should edit the episode.
+
+364
+00:31:30,800 --> 00:31:31,800
+I do.
+
+365
+00:31:31,800 --> 00:31:35,800
+Okay, here's a question that I've been thinking about, sort of, for a while.
+
+366
+00:31:35,800 --> 00:31:42,800
+So, at Ice Killer 159, what a badass, with that sick escavalier icon that I love so dearly,
+
+367
+00:31:42,800 --> 00:31:46,800
+says, what are each of you guys' Myers Briggs type?
+
+368
+00:31:46,800 --> 00:31:49,800
+And the reason I bring that up is because I think this is retarded, and I hate those,
+
+369
+00:31:49,800 --> 00:31:51,800
+and I don't know why people like them.
+
+370
+00:31:51,800 --> 00:31:52,800
+My Myers Briggs type is.
+
+371
+00:31:52,800 --> 00:31:53,800
+Oh, God.
+
+372
+00:31:53,800 --> 00:31:54,800
+Isis.
+
+373
+00:31:54,800 --> 00:31:55,800
+Yeah!
+
+374
+00:31:55,800 --> 00:31:59,800
+I was going to say, I was going to say ICPC.
+
+375
+00:31:59,800 --> 00:32:00,800
+That's my, uh...
+
+376
+00:32:00,800 --> 00:32:03,800
+Introverted Socialist, uh...
+
+377
+00:32:03,800 --> 00:32:04,800
+E-Bills.
+
+378
+00:32:04,800 --> 00:32:05,800
+Islamist.
+
+379
+00:32:05,800 --> 00:32:06,800
+Sexham.
+
+380
+00:32:06,800 --> 00:32:07,800
+Islamist.
+
+381
+00:32:07,800 --> 00:32:08,800
+Sexham.
+
+382
+00:32:08,800 --> 00:32:09,800
+Inferior.
+
+383
+00:32:09,800 --> 00:32:10,800
+Stupid.
+
+384
+00:32:10,800 --> 00:32:12,800
+Oh, that's what they're called.
+
+385
+00:32:12,800 --> 00:32:13,800
+Those losers.
+
+386
+00:32:13,800 --> 00:32:20,800
+I would classify myself as a supreme nihilist, deep-cover Republican.
+
+387
+00:32:20,800 --> 00:32:27,800
+Deep-cover as in, like, you're deep in the blue pill trenches?
+
+388
+00:32:27,800 --> 00:32:29,800
+Possible deep-cover Republican.
+
+389
+00:32:29,800 --> 00:32:30,800
+I don't know yet.
+
+390
+00:32:30,800 --> 00:32:31,800
+Okay.
+
+391
+00:32:31,800 --> 00:32:33,800
+We're going to pull back some layers.
+
+392
+00:32:33,800 --> 00:32:38,800
+Does anyone here have any sort of defense of why I should give a shit about these Myers Briggs
+
+393
+00:32:38,800 --> 00:32:39,800
+types?
+
+394
+00:32:39,800 --> 00:32:41,800
+Tell me why they aren't just masturbatory things.
+
+395
+00:32:41,800 --> 00:32:42,800
+We can be like, I'm a this.
+
+396
+00:32:42,800 --> 00:32:43,800
+Oh, my God, you're a that.
+
+397
+00:32:43,800 --> 00:32:44,800
+I don't think anyone here cares about them.
+
+398
+00:32:44,800 --> 00:32:46,800
+It's literally the same shit as fucking...
+
+399
+00:32:46,800 --> 00:32:48,800
+It's the same shit as fucking astrological science.
+
+400
+00:32:48,800 --> 00:32:49,800
+They mean nothing.
+
+401
+00:32:49,800 --> 00:32:50,800
+They're fucking retarded.
+
+402
+00:32:50,800 --> 00:32:51,800
+I don't give a shit about them.
+
+403
+00:32:51,800 --> 00:32:52,800
+Oh, like Star Science?
+
+404
+00:32:52,800 --> 00:32:53,800
+They're fun.
+
+405
+00:32:53,800 --> 00:32:54,800
+They're kind of fun.
+
+406
+00:32:54,800 --> 00:32:55,800
+Star Science.
+
+407
+00:32:55,800 --> 00:32:56,800
+Yeah, so that's the reason.
+
+408
+00:32:56,800 --> 00:32:58,800
+So the question is, do I like fun?
+
+409
+00:32:58,800 --> 00:32:59,800
+No, I hate fun.
+
+410
+00:32:59,800 --> 00:33:00,800
+But it's not fun.
+
+411
+00:33:00,800 --> 00:33:01,800
+It's so like they can feel superior.
+
+412
+00:33:01,800 --> 00:33:02,800
+Like, oh, you think you're cool.
+
+413
+00:33:02,800 --> 00:33:05,800
+I have the same personality type as BBC Sherlock.
+
+414
+00:33:05,800 --> 00:33:07,800
+Look how fucking cool and smart I am.
+
+415
+00:33:07,800 --> 00:33:08,800
+Oh, yeah.
+
+416
+00:33:08,800 --> 00:33:09,800
+You're like, yeah, you're so cool.
+
+417
+00:33:09,800 --> 00:33:13,800
+I have fucking Hitler's DNA and Gandhi's DNA.
+
+418
+00:33:13,800 --> 00:33:15,800
+Fuck that bitch.
+
+419
+00:33:15,800 --> 00:33:19,800
+Yeah, I think it's bullshit and those tumblr fucks who like that shit need to fuck up.
+
+420
+00:33:19,800 --> 00:33:20,800
+But that's a weird thing.
+
+421
+00:33:20,800 --> 00:33:24,800
+I am an ENFP bitch.
+
+422
+00:33:24,800 --> 00:33:25,800
+Is that a real?
+
+423
+00:33:25,800 --> 00:33:26,800
+Is that real?
+
+424
+00:33:26,800 --> 00:33:28,800
+Yeah, I tested it when I was in like kindergarten.
+
+425
+00:33:28,800 --> 00:33:30,800
+Well, you're extroverted?
+
+426
+00:33:30,800 --> 00:33:33,800
+Somebody in the PCPS and extroverted personality.
+
+427
+00:33:33,800 --> 00:33:34,800
+Yeah.
+
+428
+00:33:34,800 --> 00:33:35,800
+Imagine that.
+
+429
+00:33:35,800 --> 00:33:36,800
+Much should be the one.
+
+430
+00:33:36,800 --> 00:33:40,800
+Okay, but here the thing about this that creeps me out is that it's like some like it seems
+
+431
+00:33:40,800 --> 00:33:42,800
+like a lot of smart people get into this.
+
+432
+00:33:42,800 --> 00:33:46,800
+And like they, I don't know, like people really care about this.
+
+433
+00:33:46,800 --> 00:33:47,800
+So like, is there something I'm missing?
+
+434
+00:33:47,800 --> 00:33:50,800
+No, they're actually not smart people.
+
+435
+00:33:50,800 --> 00:33:52,800
+They think they're proving that they're smart by doing this.
+
+436
+00:33:52,800 --> 00:33:56,800
+Yeah, I think I think what it is like, like with the star sign stuff, the star sign stuff,
+
+437
+00:33:56,800 --> 00:33:59,800
+there's not enough different variables that go into that.
+
+438
+00:33:59,800 --> 00:34:03,800
+It's just when you were born and people are like initially like, oh, well, that doesn't
+
+439
+00:34:03,800 --> 00:34:04,800
+mean anything.
+
+440
+00:34:04,800 --> 00:34:09,800
+But when it's like, oh, I took a test and now, now I have a thing that I can attribute
+
+441
+00:34:09,800 --> 00:34:14,800
+to a celebrity that like, like now I'm like that guy, you know, it's, it's more legitimate
+
+442
+00:34:14,800 --> 00:34:15,800
+in their eyes.
+
+443
+00:34:15,800 --> 00:34:16,800
+And I guess they like it.
+
+444
+00:34:16,800 --> 00:34:17,800
+I mean, I didn't know it.
+
+445
+00:34:17,800 --> 00:34:22,800
+Yeah, I didn't know IQ score aren't the people who are probably that smart.
+
+446
+00:34:22,800 --> 00:34:25,300
+Yeah, I didn't know that it was even like not real.
+
+447
+00:34:25,300 --> 00:34:28,800
+I just did it once and I was like, well, and then I forgot it like a week later.
+
+448
+00:34:28,800 --> 00:34:29,800
+So yeah.
+
+449
+00:34:29,800 --> 00:34:34,640
+Well, it's interesting you bring up IQ because a lot of people think that IQ is like a totally
+
+450
+00:34:34,640 --> 00:34:38,080
+bullshit thing that doesn't actually have any impact on life.
+
+451
+00:34:38,080 --> 00:34:43,120
+But it is pretty well proven that IQ does have a direct correlation to like life success.
+
+452
+00:34:43,120 --> 00:34:45,880
+Like it's not all the time, but it does, it doesn't matter.
+
+453
+00:34:45,880 --> 00:34:49,440
+I'm saying the type of people who actually care about it and talk about it.
+
+454
+00:34:49,440 --> 00:34:50,440
+Yeah.
+
+455
+00:34:50,440 --> 00:34:51,440
+Yeah.
+
+456
+00:34:51,440 --> 00:34:57,440
+I think about IQ so little because I'm the smartest you see that makes sense to me.
+
+457
+00:34:57,440 --> 00:34:58,880
+That makes sense to me.
+
+458
+00:34:58,880 --> 00:35:00,840
+I don't even know what a high IQ is.
+
+459
+00:35:00,840 --> 00:35:01,840
+Is it 50?
+
+460
+00:35:01,840 --> 00:35:02,840
+Is it two?
+
+461
+00:35:03,040 --> 00:35:07,520
+Here's why Malcolm on Malcolm in the middle is a great character because he is so cool
+
+462
+00:35:07,520 --> 00:35:11,960
+because he's fucking black and you want to be like him because you just love black people
+
+463
+00:35:11,960 --> 00:35:12,960
+so much.
+
+464
+00:35:12,960 --> 00:35:13,960
+Yes.
+
+465
+00:35:13,960 --> 00:35:14,960
+As having an IQ of 160.
+
+466
+00:35:14,960 --> 00:35:18,800
+But instead of going around telling people his IQ, he proves that he's smart by being
+
+467
+00:35:18,800 --> 00:35:20,640
+a fucking smart person.
+
+468
+00:35:20,640 --> 00:35:21,640
+Yeah.
+
+469
+00:35:21,640 --> 00:35:22,640
+Malcolm's great.
+
+470
+00:35:22,640 --> 00:35:23,640
+Uh, monkey.
+
+471
+00:35:23,640 --> 00:35:24,640
+Cut this little bin.
+
+472
+00:35:24,640 --> 00:35:25,640
+Cut this part out of the gas.
+
+473
+00:35:25,640 --> 00:35:27,640
+We should both, you should talk about Malcolm from the Malcolm in the middle and I should
+
+474
+00:35:27,640 --> 00:35:28,640
+talk about Malcolm.
+
+475
+00:35:28,640 --> 00:35:29,640
+Malcolm's at the same time.
+
+476
+00:35:29,640 --> 00:35:30,640
+Go.
+
+477
+00:35:30,640 --> 00:35:31,640
+Malcolm's at the same time.
+
+478
+00:35:31,640 --> 00:35:32,640
+Malcolm's at the same time.
+
+479
+00:35:32,640 --> 00:35:33,640
+Malcolm's at the same time.
+
+480
+00:35:33,640 --> 00:35:34,640
+Malcolm's at the same time.
+
+481
+00:35:34,640 --> 00:35:35,640
+Malcolm's at the same time.
+
+482
+00:35:35,640 --> 00:35:36,640
+Malcolm's at the same time.
+
+483
+00:35:36,640 --> 00:35:37,640
+Malcolm's at the same time.
+
+484
+00:35:37,640 --> 00:35:38,640
+Malcolm's at the same time.
+
+485
+00:35:38,640 --> 00:35:39,640
+Malcolm's at the same time.
+
+486
+00:35:39,640 --> 00:35:40,640
+Malcolm's at the same time.
+
+487
+00:35:40,640 --> 00:35:41,640
+Malcolm's at the same time.
+
+488
+00:35:41,640 --> 00:35:42,640
+Malcolm's at the same time.
+
+489
+00:35:42,640 --> 00:35:43,640
+Malcolm's at the same time.
+
+490
+00:35:43,640 --> 00:35:44,640
+Malcolm's at the same time.
+
+491
+00:35:44,640 --> 00:35:45,640
+Malcolm's at the same time.
+
+492
+00:35:45,640 --> 00:35:46,640
+Malcolm's at the same time.
+
+493
+00:35:46,640 --> 00:35:47,640
+Malcolm's at the same time.
+
+494
+00:35:47,640 --> 00:35:48,640
+Malcolm's at the same time.
+
+495
+00:35:48,640 --> 00:35:49,640
+Malcolm's at the same time.
+
+496
+00:35:49,640 --> 00:35:50,640
+Malcolm's at the same time.
+
+497
+00:35:50,640 --> 00:35:51,640
+Malcolm's at the same time.
+
+498
+00:35:51,640 --> 00:35:52,640
+Malcolm's at the same time.
+
+499
+00:35:52,640 --> 00:35:53,640
+Malcolm's at the same time.
+
+500
+00:35:53,640 --> 00:35:54,640
+Malcolm's at the same time.
+
+501
+00:35:54,640 --> 00:35:55,640
+Malcolm's at the same time.
+
+502
+00:35:55,640 --> 00:35:56,640
+Malcolm's at the same time.
+
+503
+00:35:56,640 --> 00:35:57,640
+Malcolm's at the same time.
+
+504
+00:35:57,640 --> 00:35:58,640
+Malcolm's at the same time.
+
+505
+00:35:58,640 --> 00:35:59,640
+Malcolm's at the same time.
+
+506
+00:35:59,640 --> 00:36:00,640
+Malcolm's at the same time.
+
+507
+00:36:00,640 --> 00:36:01,640
+Malcolm's at the same time.
+
+508
+00:36:01,640 --> 00:36:02,640
+Malcolm's at the same time.
+
+509
+00:36:02,640 --> 00:36:03,640
+Malcolm's at the same time.
+
+510
+00:36:03,640 --> 00:36:04,640
+Malcolm's at the same time.
+
+511
+00:36:04,640 --> 00:36:05,640
+Malcolm's at the same time.
+
+512
+00:36:05,640 --> 00:36:06,640
+Malcolm's at the same time.
+
+513
+00:36:06,640 --> 00:36:07,640
+Malcolm's at the same time.
+
+514
+00:36:07,640 --> 00:36:08,640
+Malcolm's at the same time.
+
+515
+00:36:08,640 --> 00:36:09,640
+Malcolm's at the same time.
+
+516
+00:36:09,640 --> 00:36:10,640
+Malcolm's at the same time.
+
+517
+00:36:10,640 --> 00:36:11,640
+Malcolm's at the same time.
+
+518
+00:36:11,640 --> 00:36:12,640
+Malcolm's at the same time.
+
+519
+00:36:12,640 --> 00:36:13,640
+Malcolm's at the same time.
+
+520
+00:36:13,640 --> 00:36:14,640
+Malcolm's at the same time.
+
+521
+00:36:14,640 --> 00:36:15,640
+Malcolm's at the same time.
+
+522
+00:36:15,640 --> 00:36:16,640
+Malcolm's at the same time.
+
+523
+00:36:16,640 --> 00:36:17,640
+Malcolm's at the same time.
+
+524
+00:36:17,640 --> 00:36:18,640
+Malcolm's at the same time.
+
+525
+00:36:18,640 --> 00:36:19,640
+Malcolm's at the same time.
+
+526
+00:36:19,640 --> 00:36:20,640
+Malcolm's at the same time.
+
+527
+00:36:20,640 --> 00:36:21,640
+Malcolm's at the same time.
+
+528
+00:36:21,640 --> 00:36:22,640
+Malcolm's at the same time.
+
+529
+00:36:22,640 --> 00:36:23,640
+Malcolm's at the same time.
+
+530
+00:36:23,640 --> 00:36:24,640
+Malcolm's at the same time.
+
+531
+00:36:24,640 --> 00:36:25,640
+Malcolm's at the same time.
+
+532
+00:36:25,640 --> 00:36:26,640
+Malcolm's at the same time.
+
+533
+00:36:26,640 --> 00:36:27,640
+Malcolm's at the same time.
+
+534
+00:36:27,640 --> 00:36:28,640
+Malcolm's at the same time.
+
+535
+00:36:28,640 --> 00:36:29,640
+Malcolm's at the same time.
+
+536
+00:36:29,640 --> 00:36:30,640
+Malcolm's at the same time.
+
+537
+00:36:30,640 --> 00:36:31,640
+Malcolm's at the same time.
+
+538
+00:36:31,640 --> 00:36:32,640
+Malcolm's at the same time.
+
+539
+00:36:32,640 --> 00:36:33,640
+Malcolm's at the same time.
+
+540
+00:36:33,640 --> 00:36:34,640
+Malcolm's at the same time.
+
+541
+00:36:34,640 --> 00:36:35,640
+Malcolm's at the same time.
+
+542
+00:36:35,640 --> 00:36:36,640
+Malcolm's at the same time.
+
+543
+00:36:36,640 --> 00:36:37,640
+Malcolm's at the same time.
+
+544
+00:36:37,640 --> 00:36:38,640
+Malcolm's at the same time.
+
+545
+00:36:38,640 --> 00:36:39,640
+Malcolm's at the same time.
+
+546
+00:36:39,640 --> 00:36:40,640
+Malcolm's at the same time.
+
+547
+00:36:40,640 --> 00:36:41,640
+Malcolm's at the same time.
+
+548
+00:36:41,640 --> 00:36:42,640
+Malcolm's at the same time.
+
+549
+00:36:42,640 --> 00:36:44,640
+Timmy Turner went into each other's worlds.
+
+550
+00:36:44,640 --> 00:36:45,640
+Timmy Turner went into each other's worlds.
+
+551
+00:36:45,640 --> 00:36:46,640
+Timmy Turner went into each other's worlds.
+
+552
+00:36:46,640 --> 00:36:47,640
+Timmy Turner went into each other's worlds.
+
+553
+00:36:47,640 --> 00:36:48,640
+Timmy Turner went into each other's worlds.
+
+554
+00:36:48,640 --> 00:36:49,640
+Timmy Turner went into each other's worlds.
+
+555
+00:36:49,640 --> 00:36:50,640
+Timmy Turner went into each other's worlds.
+
+556
+00:36:50,640 --> 00:36:51,640
+Timmy Turner went into each other's worlds.
+
+557
+00:36:51,640 --> 00:36:52,640
+Timmy Turner went into each other's worlds.
+
+558
+00:36:52,640 --> 00:36:53,640
+Timmy Turner went into each other's worlds.
+
+559
+00:36:53,640 --> 00:36:54,640
+Timmy Turner went into each other's worlds.
+
+560
+00:36:54,640 --> 00:36:55,640
+Timmy Turner went into each other's worlds.
+
+561
+00:36:55,640 --> 00:36:56,640
+Timmy Turner went into each other's worlds.
+
+562
+00:36:56,640 --> 00:36:57,640
+Timmy Turner went into each other's worlds.
+
+563
+00:36:57,640 --> 00:36:58,640
+Timmy Turner went into each other's worlds.
+
+564
+00:36:58,640 --> 00:36:59,640
+Timmy Turner went into each other's worlds.
+
+565
+00:36:59,640 --> 00:37:00,640
+Timmy Turner went into each other's worlds.
+
+566
+00:37:00,640 --> 00:37:01,640
+Timmy Turner went into each other's worlds.
+
+567
+00:37:02,640 --> 00:37:03,640
+That was very attractive.
+
+568
+00:37:03,640 --> 00:37:05,640
+I don't remember that ever.
+
+569
+00:37:05,640 --> 00:37:07,640
+Maybe it's just never had a childhood.
+
+570
+00:37:07,640 --> 00:37:08,640
+Oh boo boo boo.
+
+571
+00:37:08,640 --> 00:37:10,640
+Oh yeah well have you played Jimmy Neutron
+
+572
+00:37:10,640 --> 00:37:11,640
+Attack of the Tonkeys on PS2.
+
+573
+00:37:11,640 --> 00:37:13,640
+He becomes the nihilist trying to make the millennials feel bad.
+
+574
+00:37:13,640 --> 00:37:14,640
+The best video game ever.
+
+575
+00:37:14,640 --> 00:37:15,640
+Is that true?
+
+576
+00:37:15,640 --> 00:37:16,640
+I'm serious.
+
+577
+00:37:16,640 --> 00:37:18,640
+Fucking Jimmy Neutron Attack of the Tonkeys on PS2
+
+578
+00:37:18,640 --> 00:37:20,640
+is actually my favorite PS2 game.
+
+579
+00:37:20,640 --> 00:37:22,640
+I've never talked about it because I'm saving
+
+580
+00:37:22,640 --> 00:37:24,640
+like a 20 hour like analysis.
+
+581
+00:37:24,640 --> 00:37:26,640
+Would that constantly be better than Shadow the Hedgehog?
+
+582
+00:37:26,640 --> 00:37:27,640
+I just don't know.
+
+583
+00:37:27,640 --> 00:37:28,640
+I just don't know.
+
+584
+00:37:28,640 --> 00:37:30,640
+It's marginally worse.
+
+585
+00:37:30,640 --> 00:37:32,640
+What about Will Ville off the rails?
+
+586
+00:37:32,640 --> 00:37:34,640
+That's pretty good.
+
+587
+00:37:34,640 --> 00:37:35,640
+You ever play that one?
+
+588
+00:37:35,640 --> 00:37:36,640
+We carnival dude?
+
+589
+00:37:36,640 --> 00:37:37,640
+We carnival?
+
+590
+00:37:37,640 --> 00:37:39,640
+That's the height of an artistic American spirit.
+
+591
+00:37:39,640 --> 00:37:41,640
+That was for PS3 you idiot.
+
+592
+00:37:41,640 --> 00:37:42,640
+What are we doing?
+
+593
+00:37:42,640 --> 00:37:43,640
+What is this?
+
+594
+00:37:43,640 --> 00:37:44,640
+Nate's going to find another question.
+
+595
+00:37:44,640 --> 00:37:45,640
+I sure am.
+
+596
+00:37:45,640 --> 00:37:46,640
+I sure am.
+
+597
+00:37:46,640 --> 00:37:48,640
+You're not the bossamino.
+
+598
+00:37:48,640 --> 00:37:49,640
+I've been scrolling for some.
+
+599
+00:37:49,640 --> 00:37:50,640
+You're not the bossamino.
+
+600
+00:37:50,640 --> 00:37:51,640
+And I'm a baby.
+
+601
+00:37:51,640 --> 00:37:52,640
+This is what I was saying.
+
+602
+00:37:52,640 --> 00:37:53,640
+This is what I was saying.
+
+603
+00:37:53,640 --> 00:37:54,640
+This is what I was saying.
+
+604
+00:37:54,640 --> 00:37:55,640
+When I was said I'm truly embarrassed
+
+605
+00:37:55,640 --> 00:37:57,640
+and I'm really sorry.
+
+606
+00:37:57,640 --> 00:38:00,640
+I was the one who made the piece of it.
+
+607
+00:38:00,640 --> 00:38:01,640
+This is the best.
+
+608
+00:38:01,640 --> 00:38:02,640
+This is the best.
+
+609
+00:38:02,640 --> 00:38:03,640
+Okay.
+
+610
+00:38:03,640 --> 00:38:04,640
+All right.
+
+611
+00:38:04,640 --> 00:38:05,640
+Here's another one.
+
+612
+00:38:05,640 --> 00:38:06,640
+My extreme distaste is part of why it's the best.
+
+613
+00:38:06,640 --> 00:38:07,640
+That's probably true.
+
+614
+00:38:07,640 --> 00:38:08,640
+Okay.
+
+615
+00:38:08,640 --> 00:38:09,640
+Here's a question.
+
+616
+00:38:09,640 --> 00:38:10,640
+Okay.
+
+617
+00:38:10,640 --> 00:38:11,640
+Here we go.
+
+618
+00:38:11,640 --> 00:38:15,640
+IkloneIKLone asks, what's the best console of all time?
+
+619
+00:38:15,640 --> 00:38:16,640
+And why is it the GameCube?
+
+620
+00:38:16,640 --> 00:38:17,640
+And why is it the GameCube?
+
+621
+00:38:17,640 --> 00:38:18,640
+The PS2.
+
+622
+00:38:18,640 --> 00:38:19,640
+I said PS2 before you said GameCube.
+
+623
+00:38:19,640 --> 00:38:20,640
+Bitch.
+
+624
+00:38:20,640 --> 00:38:21,640
+I win.
+
+625
+00:38:21,640 --> 00:38:22,640
+That's true.
+
+626
+00:38:22,640 --> 00:38:25,640
+I think I would go with the original Nintendo DS.
+
+627
+00:38:25,640 --> 00:38:26,640
+Actually.
+
+628
+00:38:26,640 --> 00:38:27,640
+I would go with the Nintendo DS.
+
+629
+00:38:27,640 --> 00:38:28,640
+Why?
+
+630
+00:38:28,640 --> 00:38:29,640
+Yeah, you're right.
+
+631
+00:38:29,640 --> 00:38:30,640
+Yeah, that's right.
+
+632
+00:38:30,640 --> 00:38:31,640
+Why is the original?
+
+633
+00:38:31,640 --> 00:38:32,640
+The original original broke instantly.
+
+634
+00:38:32,640 --> 00:38:33,640
+Okay.
+
+635
+00:38:33,640 --> 00:38:35,640
+Well, to be fair, I guess my favorite was the, you know, like the slightly smaller one
+
+636
+00:38:35,640 --> 00:38:36,640
+that came out with.
+
+637
+00:38:36,640 --> 00:38:37,640
+The DS Lite.
+
+638
+00:38:37,640 --> 00:38:38,640
+Yeah, the DS Lite.
+
+639
+00:38:38,640 --> 00:38:39,640
+Exactly.
+
+640
+00:38:39,640 --> 00:38:40,640
+The DS Lite.
+
+641
+00:38:40,640 --> 00:38:41,640
+It's that one because it had.
+
+642
+00:38:41,640 --> 00:38:42,640
+You could play Pokemon Platinum.
+
+643
+00:38:42,640 --> 00:38:43,640
+Oh, man.
+
+644
+00:38:43,640 --> 00:38:44,640
+I can't.
+
+645
+00:38:44,640 --> 00:38:45,640
+Diamond, dude.
+
+646
+00:38:45,640 --> 00:38:46,640
+Diamond.
+
+647
+00:38:46,640 --> 00:38:47,640
+No.
+
+648
+00:38:47,640 --> 00:38:48,640
+Okay.
+
+649
+00:38:48,640 --> 00:38:50,640
+I've gotten like the most joy out of my DS than I did.
+
+650
+00:38:50,640 --> 00:38:51,640
+Yeah, there it is.
+
+651
+00:38:51,640 --> 00:38:52,640
+There's the one.
+
+652
+00:38:52,640 --> 00:38:53,640
+You liar.
+
+653
+00:38:53,640 --> 00:38:54,640
+You're a fake gamer because it's a Game Boy.
+
+654
+00:38:54,640 --> 00:38:55,640
+A Game Boy.
+
+655
+00:38:55,640 --> 00:38:56,640
+I tricked you.
+
+656
+00:38:56,640 --> 00:39:00,640
+I just seemed to like to make sure that you knew that they was a girl.
+
+657
+00:39:00,640 --> 00:39:01,640
+Oh, shit.
+
+658
+00:39:01,640 --> 00:39:02,640
+I know that's a Game Boy.
+
+659
+00:39:02,640 --> 00:39:05,640
+I've heard that jingle more times than I've heard my own voice.
+
+660
+00:39:05,640 --> 00:39:06,640
+Yeah, I got goofed.
+
+661
+00:39:06,640 --> 00:39:09,640
+Well, I felt tricked out of the way.
+
+662
+00:39:09,640 --> 00:39:12,640
+Oh, wait, because the DS starts up with that.
+
+663
+00:39:12,640 --> 00:39:14,640
+Yeah, that's the one.
+
+664
+00:39:14,640 --> 00:39:15,640
+Okay.
+
+665
+00:39:15,640 --> 00:39:16,640
+See, I'm a real gamer girl.
+
+666
+00:39:16,640 --> 00:39:18,640
+Anyway, the DS I played in my bed.
+
+667
+00:39:18,640 --> 00:39:22,640
+My favorite way to play video games is sitting up with a bunch of pillows behind me reclining
+
+668
+00:39:22,640 --> 00:39:26,640
+in my bed all tucked in and cozy with my fucking console in my head.
+
+669
+00:39:26,640 --> 00:39:30,640
+And I figured out how to hack my DS so I had literally every game for free on the entire
+
+670
+00:39:30,640 --> 00:39:31,640
+console.
+
+671
+00:39:31,640 --> 00:39:32,640
+I'm a genius.
+
+672
+00:39:32,640 --> 00:39:33,640
+Oh, yeah.
+
+673
+00:39:33,640 --> 00:39:34,640
+I mean, nobody didn't do that.
+
+674
+00:39:34,640 --> 00:39:35,640
+I had.
+
+675
+00:39:35,640 --> 00:39:36,640
+Well, you did too?
+
+676
+00:39:36,640 --> 00:39:37,640
+Okay.
+
+677
+00:39:37,640 --> 00:39:38,640
+Well, anyway.
+
+678
+00:39:38,640 --> 00:39:40,640
+My brother was a hacker genius and he got the R4 thing and he gave me like every single
+
+679
+00:39:40,640 --> 00:39:41,640
+video game.
+
+680
+00:39:41,640 --> 00:39:46,640
+I played all Professor Layton's, all the Phoenix Wright games, all the Mario Kart DS, fucking
+
+681
+00:39:46,640 --> 00:39:47,640
+everything.
+
+682
+00:39:47,640 --> 00:39:50,640
+The DS, the DS for real, has like the greatest game library of all time.
+
+683
+00:39:50,640 --> 00:39:51,640
+I would say, yes.
+
+684
+00:39:51,640 --> 00:39:52,640
+You know, there's like a couple of okay games.
+
+685
+00:39:52,640 --> 00:39:57,640
+I hear this is Final Fantasy games okay, but it's shit compared to...
+
+686
+00:39:57,640 --> 00:40:00,640
+There's Club Penguin on that one, that console.
+
+687
+00:40:00,640 --> 00:40:01,640
+There's Club Penguin.
+
+688
+00:40:01,640 --> 00:40:02,640
+There's Club Penguin games.
+
+689
+00:40:02,640 --> 00:40:03,640
+There you go.
+
+690
+00:40:03,640 --> 00:40:05,640
+Club Penguin Jump Ultimate Stars, all the Layton games.
+
+691
+00:40:05,640 --> 00:40:09,640
+I think something really good about the DS was when like your parents would drag you
+
+692
+00:40:09,640 --> 00:40:11,640
+to the high school football game and you don't want to watch it.
+
+693
+00:40:11,640 --> 00:40:12,640
+So you go into the...
+
+694
+00:40:12,640 --> 00:40:14,640
+You could chat with people on the fucking pic-toe chat.
+
+695
+00:40:14,640 --> 00:40:15,640
+Oh my fucking god.
+
+696
+00:40:15,640 --> 00:40:16,640
+Yes.
+
+697
+00:40:16,640 --> 00:40:19,640
+And you just harass people because they can't prove who you are and you just talk shit
+
+698
+00:40:19,640 --> 00:40:20,640
+and make everybody mad.
+
+699
+00:40:20,640 --> 00:40:22,640
+Who else had the DS long before?
+
+700
+00:40:22,640 --> 00:40:26,640
+They actually had a game for it or I had like, I think I had Mario 64 and I would spend
+
+701
+00:40:26,640 --> 00:40:29,640
+way more time pic-toe chatting with people on that thing.
+
+702
+00:40:29,640 --> 00:40:32,640
+And you play that game when you draw like the top half of a picture and then the next person
+
+703
+00:40:32,640 --> 00:40:35,640
+could draw the bottom half and it would look like they're all one picture.
+
+704
+00:40:35,640 --> 00:40:42,640
+You know, I've never really experienced DS with strangers or people because bringing
+
+705
+00:40:42,640 --> 00:40:47,640
+like a DS to school wasn't something people did enough to be a cool thing.
+
+706
+00:40:47,640 --> 00:40:52,640
+So, you know, I'd never experienced that sort of element of it.
+
+707
+00:40:52,640 --> 00:40:53,640
+We have to go back.
+
+708
+00:40:53,640 --> 00:40:55,640
+We have to go back.
+
+709
+00:40:55,640 --> 00:40:58,640
+We have to bring all our DSs and just go to a room and then just...
+
+710
+00:40:58,640 --> 00:40:59,640
+Yes.
+
+711
+00:40:59,640 --> 00:41:00,640
+Radcon 3, bro.
+
+712
+00:41:00,640 --> 00:41:01,640
+Radcon 3, the pic-toe chat experience.
+
+713
+00:41:01,640 --> 00:41:02,640
+Let's do it.
+
+714
+00:41:02,640 --> 00:41:03,640
+Radcon 3DS.
+
+715
+00:41:03,640 --> 00:41:04,640
+Let's do it.
+
+716
+00:41:04,640 --> 00:41:05,640
+Radcon 3DS.
+
+717
+00:41:05,640 --> 00:41:06,640
+Yes.
+
+718
+00:41:06,640 --> 00:41:11,640
+By the way, my most tragic experience while playing any video game ever in my entire
+
+719
+00:41:11,640 --> 00:41:13,640
+life was thus.
+
+720
+00:41:13,640 --> 00:41:14,640
+I went into GameStop.
+
+721
+00:41:14,640 --> 00:41:16,640
+I bought a copy.
+
+722
+00:41:16,640 --> 00:41:17,640
+I already had.
+
+723
+00:41:17,640 --> 00:41:20,640
+I already fucking had a copy of Kirby Superstar Ultra.
+
+724
+00:41:20,640 --> 00:41:23,640
+I just bought another one because who gives a fuck?
+
+725
+00:41:23,640 --> 00:41:24,640
+Oh my God.
+
+726
+00:41:24,640 --> 00:41:34,640
+So, I bought another one, pre-owned, and then I 100%ed all three files two times over the
+
+727
+00:41:34,640 --> 00:41:40,640
+course of one day and then brought it back at the end of the night to return and get my
+
+728
+00:41:40,640 --> 00:41:41,640
+money back.
+
+729
+00:41:41,640 --> 00:41:42,640
+Holy shit.
+
+730
+00:41:42,640 --> 00:41:43,640
+Yeah.
+
+731
+00:41:43,640 --> 00:41:46,640
+Is that even possible in that kind of timeline?
+
+732
+00:41:46,640 --> 00:41:48,640
+Oh, it's possible, mate.
+
+733
+00:41:48,640 --> 00:41:49,640
+It's possible.
+
+734
+00:41:49,640 --> 00:41:51,640
+It's more than possible.
+
+735
+00:41:51,640 --> 00:41:53,640
+Holy shit.
+
+736
+00:41:53,640 --> 00:41:55,640
+Fucking juggalo.
+
+737
+00:41:55,640 --> 00:42:00,640
+Guys, press one in the comments if we should do a Kirby race in the PCP.
+
+738
+00:42:00,640 --> 00:42:01,640
+Press one.
+
+739
+00:42:01,640 --> 00:42:02,640
+Press one.
+
+740
+00:42:02,640 --> 00:42:05,640
+It might be cheap in the comments if you want to see us cheap over the game race.
+
+741
+00:42:05,640 --> 00:42:06,640
+Hippo is not invited.
+
+742
+00:42:06,640 --> 00:42:09,640
+I would rather do that because we can do that quickly.
+
+743
+00:42:09,640 --> 00:42:10,640
+I'm goat.
+
+744
+00:42:10,640 --> 00:42:12,640
+I'm a new character.
+
+745
+00:42:12,640 --> 00:42:13,640
+I'm goat.
+
+746
+00:42:13,640 --> 00:42:14,640
+Hey.
+
+747
+00:42:14,640 --> 00:42:15,640
+Hey.
+
+748
+00:42:15,640 --> 00:42:16,640
+Oh, this is a good question.
+
+749
+00:42:16,640 --> 00:42:17,640
+I'm nervous.
+
+750
+00:42:17,640 --> 00:42:22,640
+This is good because it's at Jenny's Makudomaru, our old friend, asked, guys, just got a PS4
+
+751
+00:42:22,640 --> 00:42:24,640
+and I have Dark Souls 3.
+
+752
+00:42:24,640 --> 00:42:25,640
+What should I name a character?
+
+753
+00:42:25,640 --> 00:42:27,640
+So, I'm going to respond to this one.
+
+754
+00:42:27,640 --> 00:42:28,640
+What should we name their character?
+
+755
+00:42:28,640 --> 00:42:29,640
+Undertale of 589.
+
+756
+00:42:29,640 --> 00:42:30,640
+I mean, 587.
+
+757
+00:42:30,640 --> 00:42:31,640
+How about...
+
+758
+00:42:31,640 --> 00:42:38,640
+Naming characters is not difficult for other people.
+
+759
+00:42:38,640 --> 00:42:44,640
+It's difficult for other people.
+
+760
+00:42:44,640 --> 00:42:45,640
+I don't know.
+
+761
+00:42:45,640 --> 00:42:46,640
+Give.
+
+762
+00:42:46,640 --> 00:42:47,640
+Give me something.
+
+763
+00:42:47,640 --> 00:42:48,640
+You're a pun man.
+
+764
+00:42:48,640 --> 00:42:50,640
+I don't know what to base the pun on.
+
+765
+00:42:50,640 --> 00:42:51,640
+I don't know who this person is.
+
+766
+00:42:51,640 --> 00:42:52,640
+I don't know how they play.
+
+767
+00:42:52,640 --> 00:42:53,640
+I don't know what they like.
+
+768
+00:42:53,640 --> 00:42:54,640
+Dark Souls.
+
+769
+00:42:54,640 --> 00:42:55,640
+How about Black Guy?
+
+770
+00:42:55,640 --> 00:42:56,640
+Okay.
+
+771
+00:42:56,640 --> 00:42:57,640
+Black Guy.
+
+772
+00:42:57,640 --> 00:42:58,640
+I'm responding with Black Guy.
+
+773
+00:42:58,640 --> 00:42:59,640
+Classic character name.
+
+774
+00:42:59,640 --> 00:43:05,640
+Capital A, U, M, A, K, U, A.
+
+775
+00:43:05,640 --> 00:43:06,640
+Amua Kua.
+
+776
+00:43:06,640 --> 00:43:07,640
+That's you, bitch.
+
+777
+00:43:07,640 --> 00:43:08,640
+Amua Kua.
+
+778
+00:43:08,640 --> 00:43:09,640
+That's a Ua.
+
+779
+00:43:09,640 --> 00:43:10,640
+Okay.
+
+780
+00:43:10,640 --> 00:43:12,640
+I'm going to put Black Guy or Amua Kua.
+
+781
+00:43:12,640 --> 00:43:13,640
+There we go.
+
+782
+00:43:13,640 --> 00:43:14,640
+There.
+
+783
+00:43:14,640 --> 00:43:15,640
+Responded.
+
+784
+00:43:15,640 --> 00:43:16,640
+You type that to them?
+
+785
+00:43:16,640 --> 00:43:17,640
+Of course.
+
+786
+00:43:17,640 --> 00:43:18,640
+I just responded to them.
+
+787
+00:43:18,640 --> 00:43:20,640
+Now you all listen to the podcast.
+
+788
+00:43:20,640 --> 00:43:21,640
+You follow.
+
+789
+00:43:21,640 --> 00:43:22,640
+That's true.
+
+790
+00:43:22,640 --> 00:43:24,640
+We lost that whole view because of you, Nate.
+
+791
+00:43:24,640 --> 00:43:25,640
+God damn it.
+
+792
+00:43:25,640 --> 00:43:26,640
+Nah, I got to watch.
+
+793
+00:43:26,640 --> 00:43:27,640
+They know.
+
+794
+00:43:27,640 --> 00:43:28,640
+How about...
+
+795
+00:43:28,640 --> 00:43:29,640
+Okay.
+
+796
+00:43:29,640 --> 00:43:30,640
+Here we go.
+
+797
+00:43:30,640 --> 00:43:31,640
+Is there anything...
+
+798
+00:43:31,640 --> 00:43:32,640
+I want to get someone.
+
+799
+00:43:32,640 --> 00:43:33,640
+I want to do someone.
+
+800
+00:43:33,640 --> 00:43:34,640
+Okay.
+
+801
+00:43:34,640 --> 00:43:35,640
+Hey, dude.
+
+802
+00:43:35,640 --> 00:43:36,640
+Go for it.
+
+803
+00:43:36,640 --> 00:43:37,640
+Okay.
+
+804
+00:43:37,640 --> 00:43:38,640
+Okay.
+
+805
+00:43:38,640 --> 00:43:42,640
+From an untitled abridged...
+
+806
+00:43:42,640 --> 00:43:44,640
+What would you do?
+
+807
+00:43:44,640 --> 00:43:47,640
+Lock up the Jews.
+
+808
+00:43:47,640 --> 00:43:48,640
+Just kidding.
+
+809
+00:43:48,640 --> 00:43:49,640
+I would never do that to my brother.
+
+810
+00:43:49,640 --> 00:43:50,640
+Wait.
+
+811
+00:43:50,640 --> 00:43:52,640
+I'm actually really tolerant and I love all Jewish people.
+
+812
+00:43:52,640 --> 00:43:53,640
+The one thing that I would do...
+
+813
+00:43:53,640 --> 00:43:54,640
+Yeah, don't lock up men.
+
+814
+00:43:54,640 --> 00:43:56,640
+...was lock up all the neo-nazis.
+
+815
+00:43:56,640 --> 00:43:57,640
+Yeah.
+
+816
+00:43:57,640 --> 00:44:01,640
+Actually, I would never do that because I'm actually an extreme racist and...
+
+817
+00:44:01,640 --> 00:44:04,640
+I'm really not happy about it.
+
+818
+00:44:04,640 --> 00:44:09,640
+So the thing that I actually would do is I would just take some antidepressants.
+
+819
+00:44:09,640 --> 00:44:10,640
+Please.
+
+820
+00:44:10,640 --> 00:44:12,640
+Please let me...
+
+821
+00:44:12,640 --> 00:44:13,640
+Please.
+
+822
+00:44:13,640 --> 00:44:15,640
+Was the question, what would you do?
+
+823
+00:44:15,640 --> 00:44:17,640
+Yeah, I think it was what would you do.
+
+824
+00:44:17,640 --> 00:44:20,640
+That's a good question.
+
+825
+00:44:20,640 --> 00:44:21,640
+Good question.
+
+826
+00:44:21,640 --> 00:44:22,640
+Wait, who asked that?
+
+827
+00:44:22,640 --> 00:44:23,640
+I think you said that.
+
+828
+00:44:23,640 --> 00:44:27,640
+I would continue to be on the podcast right now, I guess.
+
+829
+00:44:27,640 --> 00:44:28,640
+That's good.
+
+830
+00:44:28,640 --> 00:44:29,640
+That's good.
+
+831
+00:44:29,640 --> 00:44:33,640
+You bring the whole...
+
+832
+00:44:33,640 --> 00:44:34,640
+Just filling them out on the disc.
+
+833
+00:44:34,640 --> 00:44:37,640
+He's got a real sound board situation going on.
+
+834
+00:44:37,640 --> 00:44:40,640
+He's probably surrounded by various different materials and substances that he crank a lot of moments notice.
+
+835
+00:44:40,640 --> 00:44:42,640
+Yeah, he's the Folly Effect's king.
+
+836
+00:44:42,640 --> 00:44:44,640
+In my blue pills.
+
+837
+00:44:44,640 --> 00:44:45,640
+There you go.
+
+838
+00:44:45,640 --> 00:44:48,640
+I don't even know how he achieves these sounds, but I...
+
+839
+00:44:48,640 --> 00:44:49,640
+Amuakua...
+
+840
+00:44:49,640 --> 00:44:50,640
+He broke!
+
+841
+00:44:50,640 --> 00:44:52,640
+He literally broke!
+
+842
+00:44:52,640 --> 00:44:54,640
+Did you break Amuakua?
+
+843
+00:44:54,640 --> 00:44:55,640
+Yeah!
+
+844
+00:44:55,640 --> 00:44:56,640
+Oh, no.
+
+845
+00:44:56,640 --> 00:44:59,640
+His Dark Souls 3 player is ruined.
+
+846
+00:44:59,640 --> 00:45:01,640
+God, this question is shit.
+
+847
+00:45:01,640 --> 00:45:04,640
+Bobby, I'm going to call it at BobKevin101.
+
+848
+00:45:04,640 --> 00:45:06,640
+Your question fucking sucks.
+
+849
+00:45:06,640 --> 00:45:09,640
+Best waifus and or favorite video games?
+
+850
+00:45:09,640 --> 00:45:11,640
+Dude, what the fuck kind of question is that?
+
+851
+00:45:11,640 --> 00:45:12,640
+I'm bored as shit.
+
+852
+00:45:12,640 --> 00:45:13,640
+Never come to my house.
+
+853
+00:45:13,640 --> 00:45:15,640
+Riska and Homestuck.
+
+854
+00:45:15,640 --> 00:45:21,640
+Is the joke both that we've done those episodes and that you've made videos on those subjects this month, Nate?
+
+855
+00:45:21,640 --> 00:45:23,640
+Yeah, something along those lines.
+
+856
+00:45:23,640 --> 00:45:24,640
+Bobby, you're a basic bitch.
+
+857
+00:45:24,640 --> 00:45:27,640
+Sometimes people just don't know anything in the ACO tweet.
+
+858
+00:45:27,640 --> 00:45:28,640
+I'm just kidding around, dude.
+
+859
+00:45:28,640 --> 00:45:29,640
+I'm just kidding.
+
+860
+00:45:29,640 --> 00:45:30,640
+What was the question?
+
+861
+00:45:30,640 --> 00:45:33,640
+It was best waifus and or favorite video games.
+
+862
+00:45:33,640 --> 00:45:34,640
+Why and or?
+
+863
+00:45:34,640 --> 00:45:36,640
+Why is that an and or sort of situation?
+
+864
+00:45:36,640 --> 00:45:37,640
+I don't know.
+
+865
+00:45:37,640 --> 00:45:38,640
+You can only like one.
+
+866
+00:45:38,640 --> 00:45:39,640
+You can only...
+
+867
+00:45:39,640 --> 00:45:43,640
+You like video games or anime waifu people?
+
+868
+00:45:43,640 --> 00:45:46,640
+I think you guys might have done this one last week, but...
+
+869
+00:45:46,640 --> 00:45:50,640
+Did you guys do what is your least favorite creation that you've made?
+
+870
+00:45:50,640 --> 00:45:53,640
+The universe.
+
+871
+00:45:53,640 --> 00:45:55,640
+I don't fucking remember.
+
+872
+00:45:55,640 --> 00:45:57,640
+I'm going to answer it now anyway, though.
+
+873
+00:45:57,640 --> 00:45:59,640
+My least favorite creation I've made, honestly...
+
+874
+00:45:59,640 --> 00:46:01,640
+And that's from Geifi McGee.
+
+875
+00:46:01,640 --> 00:46:02,640
+Oh, cool.
+
+876
+00:46:02,640 --> 00:46:04,640
+I would have to go with and I...
+
+877
+00:46:04,640 --> 00:46:09,640
+It's kind of silly, but I honestly cannot even really look at my Undertale video anymore.
+
+878
+00:46:09,640 --> 00:46:10,640
+Oh, shit.
+
+879
+00:46:10,640 --> 00:46:11,640
+Yeah, I agree.
+
+880
+00:46:11,640 --> 00:46:12,640
+I completely agree.
+
+881
+00:46:12,640 --> 00:46:14,640
+It's because like...
+
+882
+00:46:14,640 --> 00:46:16,640
+I don't know, like there's a lot of reasons why, but it's...
+
+883
+00:46:16,640 --> 00:46:17,640
+At the time, I was like...
+
+884
+00:46:17,640 --> 00:46:19,640
+It feels too much like a game theory.
+
+885
+00:46:19,640 --> 00:46:21,640
+Well, I don't actually think it's that much like...
+
+886
+00:46:21,640 --> 00:46:23,640
+I think it's much better than the game theory.
+
+887
+00:46:23,640 --> 00:46:25,640
+But like...
+
+888
+00:46:25,640 --> 00:46:28,640
+Okay, so it's obvious that I put way too much effort into it.
+
+889
+00:46:28,640 --> 00:46:32,640
+So when I look at it now, all I see is like wasted time that I achieved...
+
+890
+00:46:32,640 --> 00:46:33,640
+And like, what did I get out of it?
+
+891
+00:46:33,640 --> 00:46:35,640
+You know, like 30,000 views on a video that...
+
+892
+00:46:35,640 --> 00:46:36,640
+Yeah.
+
+893
+00:46:36,640 --> 00:46:39,640
+In my opinion, is without a doubt like the most...
+
+894
+00:46:39,640 --> 00:46:44,640
+It has the most to say about Undertale of any video I've seen, but like...
+
+895
+00:46:44,640 --> 00:46:45,640
+At what cost, you know?
+
+896
+00:46:45,640 --> 00:46:50,640
+Yeah, it's unfortunate because like Undertale was like so...
+
+897
+00:46:50,640 --> 00:46:53,640
+Overdone by everyone, but nobody did it like properly.
+
+898
+00:46:53,640 --> 00:46:56,640
+And so when you come along and say all these things...
+
+899
+00:46:57,640 --> 00:47:03,640
+By the time you got it out, like the basic idea of what you were saying had already been said in various other places.
+
+900
+00:47:03,640 --> 00:47:05,640
+Just not in a cool enough way.
+
+901
+00:47:05,640 --> 00:47:10,640
+But it felt like really old and very flashy for no reason.
+
+902
+00:47:10,640 --> 00:47:12,640
+It's unfortunate.
+
+903
+00:47:12,640 --> 00:47:17,640
+It's honestly kind of why I don't really have as many warm feelings about Undertale anymore,
+
+904
+00:47:17,640 --> 00:47:20,640
+even though it is a objectively fantastic game.
+
+905
+00:47:20,640 --> 00:47:23,640
+I'm just sour about the whole thing and it comes me out.
+
+906
+00:47:23,640 --> 00:47:24,640
+It's my own fault.
+
+907
+00:47:24,640 --> 00:47:25,640
+Except for Sam's.
+
+908
+00:47:25,640 --> 00:47:30,640
+A few weeks ago, me and Ben were watching I Love Impossible a lot as we do all the time.
+
+909
+00:47:30,640 --> 00:47:35,640
+And I remarked how it's literally best game ever Undertale.
+
+910
+00:47:35,640 --> 00:47:38,640
+All of our videos are literally best game ever Undertale.
+
+911
+00:47:38,640 --> 00:47:40,640
+How do you figure, sports fan?
+
+912
+00:47:40,640 --> 00:47:43,640
+You are I Love Impossible a lot.
+
+913
+00:47:43,640 --> 00:47:46,640
+There's just shit constantly.
+
+914
+00:47:46,640 --> 00:47:48,640
+Okay, I see what you're saying.
+
+915
+00:47:48,640 --> 00:47:54,640
+I worked way too hard to try to make like everything that happened really cool and flashy and poppy.
+
+916
+00:47:54,640 --> 00:47:56,640
+Don't do it kids, don't put it on the road.
+
+917
+00:47:56,640 --> 00:47:59,640
+I Love Impossible a lot.
+
+918
+00:47:59,640 --> 00:48:00,640
+You.
+
+919
+00:48:00,640 --> 00:48:02,640
+Same person.
+
+920
+00:48:02,640 --> 00:48:03,640
+Thank you KP.
+
+921
+00:48:03,640 --> 00:48:06,640
+A while ago, probably almost, it's probably over a year ago,
+
+922
+00:48:06,640 --> 00:48:12,640
+there was a lot of subreddit drama going on at the great A under A subreddit.
+
+923
+00:48:12,640 --> 00:48:13,640
+Oh really?
+
+924
+00:48:13,640 --> 00:48:16,640
+And I didn't like his videos in the first place so I thought,
+
+925
+00:48:16,640 --> 00:48:19,640
+okay, I'm gonna take advantage of this drama before anybody else.
+
+926
+00:48:19,640 --> 00:48:21,640
+And I'll make an anime review of great A under A baby.
+
+927
+00:48:21,640 --> 00:48:25,640
+Oh, I'm gonna put him in his place and make him look like an idiot.
+
+928
+00:48:25,640 --> 00:48:29,640
+And the video's dumb and gay and whatever, nobody cares.
+
+929
+00:48:29,640 --> 00:48:31,640
+I don't know if I saw that one.
+
+930
+00:48:31,640 --> 00:48:32,640
+That's okay, don't watch it.
+
+931
+00:48:32,640 --> 00:48:37,640
+I was trying to catch up to speed on the monkey anime reviews because this is what I first found out about you.
+
+932
+00:48:37,640 --> 00:48:42,640
+And I get to that and it's sort of like weird and not like anything else.
+
+933
+00:48:42,640 --> 00:48:45,640
+And I also talked very, very slow.
+
+934
+00:48:45,640 --> 00:48:49,640
+In my old videos, I do talk pretty slow and people always complain about it.
+
+935
+00:48:49,640 --> 00:48:52,640
+But in that one, it was like I was trying to talk to a group of retarded people,
+
+936
+00:48:52,640 --> 00:48:55,640
+which I guess would be the great A under A fan base.
+
+937
+00:48:55,640 --> 00:48:57,640
+So it kind of fits.
+
+938
+00:48:57,640 --> 00:49:00,640
+I don't actually remember what was in that video that was so bad about it.
+
+939
+00:49:00,640 --> 00:49:03,640
+It was just like, he doesn't like these band people.
+
+940
+00:49:03,640 --> 00:49:09,640
+He was on a stream talking about how a 14 year old girl in his moderation of his subreddit was like a whore
+
+941
+00:49:09,640 --> 00:49:11,640
+and was like saying mean stuff about her and stuff.
+
+942
+00:49:11,640 --> 00:49:13,640
+Yeah, but what was your video about it?
+
+943
+00:49:13,640 --> 00:49:14,640
+What did you do?
+
+944
+00:49:14,640 --> 00:49:17,640
+I was just pointing it out and that's it.
+
+945
+00:49:17,640 --> 00:49:20,640
+But that's just a theory.
+
+946
+00:49:20,640 --> 00:49:23,640
+A great A under A theory.
+
+947
+00:49:23,640 --> 00:49:25,640
+This is good, I like this.
+
+948
+00:49:25,640 --> 00:49:29,640
+Gabe, what do you hate about yourself?
+
+949
+00:49:29,640 --> 00:49:34,640
+Wow, what a question.
+
+950
+00:49:34,640 --> 00:49:39,640
+I guess sometimes I say things without actually understanding whether or not I actually agree with myself.
+
+951
+00:49:39,640 --> 00:49:41,640
+I just feel like I need to say something.
+
+952
+00:49:41,640 --> 00:49:45,640
+So sometimes in podcasts, this is like a specific moment.
+
+953
+00:49:45,640 --> 00:49:51,640
+But I think earlier in the podcast when I was talking about something, I forget.
+
+954
+00:49:51,640 --> 00:49:52,640
+I think I know what you mean.
+
+955
+00:49:52,640 --> 00:49:54,640
+Yeah, it was fame.
+
+956
+00:49:54,640 --> 00:49:59,640
+I just had a visceral reaction about fame probably being bad
+
+957
+00:49:59,640 --> 00:50:01,640
+and I don't really want to be recognized on the street.
+
+958
+00:50:01,640 --> 00:50:08,640
+And sometimes I regret certain things I say and I don't like that I can't take it back.
+
+959
+00:50:08,640 --> 00:50:13,640
+I can't take it back, but it's now recorded and it's part of a thing.
+
+960
+00:50:13,640 --> 00:50:18,640
+And there's various moments in podcasts and stuff I just don't like what I say and I'm like,
+
+961
+00:50:18,640 --> 00:50:23,640
+oh wait, you're trying too hard or you're silly, then you're not supposed to.
+
+962
+00:50:23,640 --> 00:50:24,640
+It's a bad time.
+
+963
+00:50:24,640 --> 00:50:27,640
+I fucking...
+
+964
+00:50:27,640 --> 00:50:28,640
+I know what you mean.
+
+965
+00:50:28,640 --> 00:50:30,640
+You can always state a retraction.
+
+966
+00:50:30,640 --> 00:50:32,640
+I think that's something not enough people do.
+
+967
+00:50:32,640 --> 00:50:35,640
+People never like to admit when they were wrong or when they changed their opinion
+
+968
+00:50:35,640 --> 00:50:38,640
+and they'll just hold on to stupid ideas for no reason.
+
+969
+00:50:38,640 --> 00:50:39,640
+No, no, no.
+
+970
+00:50:39,640 --> 00:50:43,640
+I mean, I would retract it, but I need to think about it before.
+
+971
+00:50:43,640 --> 00:50:45,640
+I know whether I actually disagree with it now.
+
+972
+00:50:45,640 --> 00:50:49,640
+I just know that you're all against me and I'm like, oh, maybe I'm stupid.
+
+973
+00:50:49,640 --> 00:50:50,640
+Maybe I'm being an idiot.
+
+974
+00:50:50,640 --> 00:50:52,640
+It's okay to have an unpopular opinion.
+
+975
+00:50:52,640 --> 00:50:54,640
+Well, no, I mean, I think I know what Gibbs is getting at.
+
+976
+00:50:54,640 --> 00:50:58,640
+Because once you say something, even if you set it off the cuff and you didn't really mean it,
+
+977
+00:50:58,640 --> 00:51:02,640
+once you put it out there in any form, people just latch onto that
+
+978
+00:51:02,640 --> 00:51:08,640
+and even if you make a correction, people are resistant to change the impression that they've already formed.
+
+979
+00:51:08,640 --> 00:51:10,640
+So yeah, that should happen since it's annoying.
+
+980
+00:51:10,640 --> 00:51:11,640
+I think about that too.
+
+981
+00:51:11,640 --> 00:51:14,640
+Yeah, I mean, I've always been scared of podcasts.
+
+982
+00:51:14,640 --> 00:51:18,640
+I do them because they're a challenge to...
+
+983
+00:51:18,640 --> 00:51:20,640
+I mean, they're not really a challenge anymore.
+
+984
+00:51:20,640 --> 00:51:23,640
+I can just hop on and say, oh, fucking, I'm here.
+
+985
+00:51:23,640 --> 00:51:29,640
+But they used to be like, oh, no, oh, no the whole time in my head
+
+986
+00:51:29,640 --> 00:51:32,640
+and everything was like, I was tensing up and I was sweating and I was shaking.
+
+987
+00:51:32,640 --> 00:51:34,640
+Like, no, I can't, I'm not saying anything.
+
+988
+00:51:34,640 --> 00:51:36,640
+I gotta be saying something.
+
+989
+00:51:36,640 --> 00:51:40,640
+Any podcast I've been in, I feel like I haven't been like...
+
+990
+00:51:40,640 --> 00:51:42,640
+I mean, no, that's not true.
+
+991
+00:51:42,640 --> 00:51:45,640
+See, I'm doing a thing where I say something that's not even real.
+
+992
+00:51:45,640 --> 00:51:47,640
+Not even actually what I think.
+
+993
+00:51:47,640 --> 00:51:48,640
+I'll just shut up.
+
+994
+00:51:48,640 --> 00:51:51,640
+That's the thing where it happens, the thing that you're talking about.
+
+995
+00:51:51,640 --> 00:51:52,640
+Isn't there a word for that?
+
+996
+00:51:52,640 --> 00:51:53,640
+Gay?
+
+997
+00:51:53,640 --> 00:51:54,640
+Yeah, I think that's the one.
+
+998
+00:51:54,640 --> 00:51:55,640
+Yeah, yeah.
+
+999
+00:51:55,640 --> 00:51:56,640
+God damn it.
+
+1000
+00:51:56,640 --> 00:52:00,640
+Ash Rock Relab asks...
+
+1001
+00:52:00,640 --> 00:52:05,640
+Is there any type of you guys that you're super into and it's so weird
+
+1002
+00:52:05,640 --> 00:52:09,640
+you don't even bother recommending it to other people?
+
+1003
+00:52:09,640 --> 00:52:10,640
+Oh, yeah.
+
+1004
+00:52:10,640 --> 00:52:12,640
+What the fuck was that question?
+
+1005
+00:52:12,640 --> 00:52:13,640
+I didn't even understand that.
+
+1006
+00:52:13,640 --> 00:52:14,640
+Is there anything...
+
+1007
+00:52:14,640 --> 00:52:17,640
+It's so weird that you like it, but you don't want to recommend it.
+
+1008
+00:52:17,640 --> 00:52:20,640
+Well, it depends who I'm recommending it to.
+
+1009
+00:52:20,640 --> 00:52:22,640
+Weird things are inherently good to me.
+
+1010
+00:52:22,640 --> 00:52:24,640
+If you show me something that's weird, I will like it.
+
+1011
+00:52:24,640 --> 00:52:26,640
+No questions asked.
+
+1012
+00:52:26,640 --> 00:52:27,640
+I want to feel slime.
+
+1013
+00:52:27,640 --> 00:52:28,640
+I want to feel sludge.
+
+1014
+00:52:28,640 --> 00:52:30,640
+And I want to feel most of all ooze.
+
+1015
+00:52:30,640 --> 00:52:33,640
+Well, what if I just watched the new Taylor Swift music video and I'm like,
+
+1016
+00:52:33,640 --> 00:52:34,640
+you know who'd be into this shit?
+
+1017
+00:52:34,640 --> 00:52:35,640
+I'm Munchy.
+
+1018
+00:52:35,640 --> 00:52:36,640
+My buddy Munchy would love it.
+
+1019
+00:52:36,640 --> 00:52:38,640
+I love Taylor Swift.
+
+1020
+00:52:38,640 --> 00:52:42,640
+She used to go on beat and I love my beat bros.
+
+1021
+00:52:42,640 --> 00:52:44,640
+I love Debbie the Frog.
+
+1022
+00:52:44,640 --> 00:52:45,640
+Dude.
+
+1023
+00:52:45,640 --> 00:52:46,640
+Dude.
+
+1024
+00:52:46,640 --> 00:52:47,640
+Dude.
+
+1025
+00:52:47,640 --> 00:52:48,640
+The Taylor Swift Taylor.
+
+1026
+00:52:48,640 --> 00:52:50,640
+That's a good one.
+
+1027
+00:52:50,640 --> 00:52:51,640
+The Taylor Swift Taylor.
+
+1028
+00:52:51,640 --> 00:52:52,640
+I love you, Hillary.
+
+1029
+00:52:52,640 --> 00:52:55,640
+You're my favorite.
+
+1030
+00:52:55,640 --> 00:52:56,640
+But yeah.
+
+1031
+00:52:56,640 --> 00:52:57,640
+I know with her.
+
+1032
+00:52:57,640 --> 00:53:00,640
+I mean, I like a lot of vaguely weird things.
+
+1033
+00:53:00,640 --> 00:53:05,640
+Sometimes I post them in here where I feel like in the PCP chat that is,
+
+1034
+00:53:05,640 --> 00:53:10,640
+when I feel like people in the chat would understand it.
+
+1035
+00:53:10,640 --> 00:53:14,640
+It's usually just YouTube poop things that sometimes there's one that's like,
+
+1036
+00:53:14,640 --> 00:53:17,640
+can be appreciated despite not really being into YouTube poop.
+
+1037
+00:53:17,640 --> 00:53:21,640
+Because I don't think any of us, aside from me, are really into that sort of
+
+1038
+00:53:21,640 --> 00:53:23,640
+YouTube stuff.
+
+1039
+00:53:23,640 --> 00:53:25,640
+So, I don't know.
+
+1040
+00:53:25,640 --> 00:53:28,640
+That's generally what I don't recommend, even though I love it.
+
+1041
+00:53:28,640 --> 00:53:33,640
+It's just, it's one of those things that's like, you know, if you like it,
+
+1042
+00:53:33,640 --> 00:53:35,640
+then we can have a conversation.
+
+1043
+00:53:35,640 --> 00:53:37,640
+You tell your suggestions.
+
+1044
+00:53:37,640 --> 00:53:38,640
+Yeah.
+
+1045
+00:53:38,640 --> 00:53:40,640
+You tell your recommendations to like the audience you're talking to.
+
+1046
+00:53:40,640 --> 00:53:43,640
+So like, I don't know, I wouldn't come on here and recommend the same things
+
+1047
+00:53:43,640 --> 00:53:45,640
+to watch that I recommend to you guys.
+
+1048
+00:53:45,640 --> 00:53:46,640
+It just depends.
+
+1049
+00:53:46,640 --> 00:53:47,640
+Yeah.
+
+1050
+00:53:47,640 --> 00:53:50,640
+I've found a lot of people, especially in these online communities,
+
+1051
+00:53:50,640 --> 00:53:55,640
+have a predisposition about all reality TV and assume that it's all shit.
+
+1052
+00:53:55,640 --> 00:53:58,640
+So, even though Survivor and Big Brother are two of my favorite shows,
+
+1053
+00:53:58,640 --> 00:54:01,640
+I never want to recommend them because people would just write that off
+
+1054
+00:54:01,640 --> 00:54:03,640
+as being something that they think it is.
+
+1055
+00:54:03,640 --> 00:54:05,640
+So, I just gave up a long time ago.
+
+1056
+00:54:05,640 --> 00:54:08,640
+You know what I'm just realizing is that people, you know,
+
+1057
+00:54:08,640 --> 00:54:11,640
+normal people generally just recommend things because they like them
+
+1058
+00:54:11,640 --> 00:54:14,640
+and not really thinking about who they're recommending it to.
+
+1059
+00:54:14,640 --> 00:54:16,640
+They just want people to like things.
+
+1060
+00:54:16,640 --> 00:54:21,640
+Whereas us, like we do like reviews or we talk about media a lot.
+
+1061
+00:54:21,640 --> 00:54:25,640
+So, the idea of like recommending something on like a platform is different
+
+1062
+00:54:25,640 --> 00:54:27,640
+from just saying something to a friend.
+
+1063
+00:54:27,640 --> 00:54:28,640
+Yeah.
+
+1064
+00:54:28,640 --> 00:54:32,640
+Like you're talking to an audience that, you know, like it's not worth your time
+
+1065
+00:54:32,640 --> 00:54:35,640
+to talk about something that they may not already be into
+
+1066
+00:54:35,640 --> 00:54:37,640
+if you know what they're like.
+
+1067
+00:54:37,640 --> 00:54:39,640
+I'm with you, dude.
+
+1068
+00:54:39,640 --> 00:54:41,640
+George, where are we?
+
+1069
+00:54:41,640 --> 00:54:44,640
+We're in Undertale, Homer.
+
+1070
+00:54:44,640 --> 00:54:47,640
+Undertale, what's that?
+
+1071
+00:54:47,640 --> 00:54:50,640
+Skeletons and monsters?
+
+1072
+00:54:50,640 --> 00:54:53,640
+Love and shit, you know?
+
+1073
+00:54:53,640 --> 00:54:56,640
+Like sands and papyrus.
+
+1074
+00:54:56,640 --> 00:54:59,640
+Oh, shit.
+
+1075
+00:54:59,640 --> 00:55:03,640
+We got to get the fuck out of here, bro.
+
+1076
+00:55:03,640 --> 00:55:05,640
+Okay, here's a question.
+
+1077
+00:55:05,640 --> 00:55:06,640
+This is just a fun one.
+
+1078
+00:55:07,640 --> 00:55:10,640
+Hey, we've got our red pills and we've got our blue pills, but what's your pill?
+
+1079
+00:55:10,640 --> 00:55:15,640
+So, let's decide a PCP official pill that we can, you know, distribute.
+
+1080
+00:55:15,640 --> 00:55:18,640
+Oh, a pill for the mascot.
+
+1081
+00:55:18,640 --> 00:55:19,640
+What pill is he?
+
+1082
+00:55:19,640 --> 00:55:20,640
+For that guy?
+
+1083
+00:55:20,640 --> 00:55:21,640
+I mean, he's kind of gray.
+
+1084
+00:55:21,640 --> 00:55:22,640
+Gray pill?
+
+1085
+00:55:22,640 --> 00:55:24,640
+That's already taken, isn't it?
+
+1086
+00:55:24,640 --> 00:55:25,640
+Plus that sounds shitty as fuck.
+
+1087
+00:55:25,640 --> 00:55:26,640
+What about mage-pilled?
+
+1088
+00:55:26,640 --> 00:55:28,640
+We could all get mage-pilled.
+
+1089
+00:55:28,640 --> 00:55:31,640
+I'd like to get mage-pilled, but that's a specific, you know.
+
+1090
+00:55:31,640 --> 00:55:34,640
+What is involved in being mage-pilled?
+
+1091
+00:55:34,640 --> 00:55:42,640
+You know, just like a nice, you know, nice soft-spoken guy who likes to talk about anime in video games, you know.
+
+1092
+00:55:42,640 --> 00:55:45,640
+Unless you play MMOs with your friends on the internet.
+
+1093
+00:55:45,640 --> 00:55:46,640
+Yeah.
+
+1094
+00:55:46,640 --> 00:55:47,640
+Yeah, okay.
+
+1095
+00:55:47,640 --> 00:55:48,640
+And you're a really tall girl.
+
+1096
+00:55:48,640 --> 00:55:49,640
+It's a pretty wholesome pill.
+
+1097
+00:55:49,640 --> 00:55:50,640
+Germ pill.
+
+1098
+00:55:50,640 --> 00:55:51,640
+I'm just going to round some off here.
+
+1099
+00:55:51,640 --> 00:55:54,640
+Germ pill, antidepressant pill.
+
+1100
+00:55:54,640 --> 00:55:58,640
+Empire pill, saturation pill.
+
+1101
+00:55:58,640 --> 00:56:00,640
+Crushed blacks and whites pill.
+
+1102
+00:56:00,640 --> 00:56:02,640
+High saturation pill.
+
+1103
+00:56:02,640 --> 00:56:03,640
+Wait, wait, wait.
+
+1104
+00:56:03,640 --> 00:56:05,640
+Sweet Bro and Hella Jeff pill.
+
+1105
+00:56:05,640 --> 00:56:06,640
+Sabrage pill and that.
+
+1106
+00:56:06,640 --> 00:56:07,640
+Sabrage.
+
+1107
+00:56:07,640 --> 00:56:08,640
+What about pill-pilled?
+
+1108
+00:56:08,640 --> 00:56:09,640
+Sabrage.
+
+1109
+00:56:09,640 --> 00:56:10,640
+Pill-pilled.
+
+1110
+00:56:10,640 --> 00:56:12,640
+I think, I mean, our conversation right now is pretty pill-pilled.
+
+1111
+00:56:12,640 --> 00:56:15,640
+Yeah, I think so.
+
+1112
+00:56:15,640 --> 00:56:17,640
+I don't know the pill thing.
+
+1113
+00:56:17,640 --> 00:56:20,640
+The red and the blue makes enough sense, but what the fuck is all those other ones?
+
+1114
+00:56:20,640 --> 00:56:21,640
+We agree.
+
+1115
+00:56:21,640 --> 00:56:25,640
+The green one is if you're fucking blissed so hard, you're going to fucking turn over and die.
+
+1116
+00:56:25,640 --> 00:56:31,640
+There's a whole big image, like, of a hundred different types of pills, a billion different types of pills, and I'm like,
+
+1117
+00:56:31,640 --> 00:56:33,640
+I don't have time to read all this pill knowledge.
+
+1118
+00:56:33,640 --> 00:56:34,640
+I don't want to get it wrong, though.
+
+1119
+00:56:34,640 --> 00:56:35,640
+Guys, I've got a good question.
+
+1120
+00:56:35,640 --> 00:56:36,640
+Wait, you don't.
+
+1121
+00:56:36,640 --> 00:56:37,640
+It's not good.
+
+1122
+00:56:37,640 --> 00:56:41,640
+No, I'm super into the expanded pill lore, and you guys are always just on the mainstream bullshit.
+
+1123
+00:56:41,640 --> 00:56:42,640
+No, me too.
+
+1124
+00:56:42,640 --> 00:56:43,640
+Me too, dude.
+
+1125
+00:56:43,640 --> 00:56:44,640
+You guys are just so pill-pilled.
+
+1126
+00:56:44,640 --> 00:56:45,640
+I just kind of hate it.
+
+1127
+00:56:45,640 --> 00:56:47,640
+I know, I know.
+
+1128
+00:56:47,640 --> 00:56:48,640
+All right, boys.
+
+1129
+00:56:48,640 --> 00:56:49,640
+He's got to get that expanded.
+
+1130
+00:56:49,640 --> 00:56:50,640
+Yeah, go, go, go, go.
+
+1131
+00:56:50,640 --> 00:56:55,640
+Since we've got, you know, an even number, ten people in the PCP right now, sort of.
+
+1132
+00:56:55,640 --> 00:56:57,640
+We don't need to go into it.
+
+1133
+00:56:57,640 --> 00:56:58,640
+Right.
+
+1134
+00:56:58,640 --> 00:57:02,640
+We may not have left the chat today, only to come back probably tomorrow.
+
+1135
+00:57:02,640 --> 00:57:08,640
+If you had to ship all the PCP members with each other with no repeats and no one left out, who would be with who?
+
+1136
+00:57:08,640 --> 00:57:09,640
+Who is that from?
+
+1137
+00:57:09,640 --> 00:57:13,640
+That's from KZSNIP.
+
+1138
+00:57:13,640 --> 00:57:15,640
+She's getting a lot of questions today.
+
+1139
+00:57:15,640 --> 00:57:19,640
+I can already tell, there's going to be a lot of demand for Gibb in this situation.
+
+1140
+00:57:19,640 --> 00:57:20,640
+No.
+
+1141
+00:57:20,640 --> 00:57:21,640
+Fighting is going to be a lot.
+
+1142
+00:57:21,640 --> 00:57:22,640
+We don't get to pick who you want.
+
+1143
+00:57:22,640 --> 00:57:27,640
+I think the canon ship is me and Jesse, because people have drawn us together before.
+
+1144
+00:57:27,640 --> 00:57:28,640
+Yeah.
+
+1145
+00:57:28,640 --> 00:57:29,640
+See, people are going to write that.
+
+1146
+00:57:29,640 --> 00:57:30,640
+On a ship.
+
+1147
+00:57:30,640 --> 00:57:31,640
+On a ship in the pony cast.
+
+1148
+00:57:31,640 --> 00:57:32,640
+Yeah.
+
+1149
+00:57:32,640 --> 00:57:33,640
+God damn it.
+
+1150
+00:57:33,640 --> 00:57:36,640
+Me and Gibb were on a ship before anybody.
+
+1151
+00:57:36,640 --> 00:57:37,640
+God damn it.
+
+1152
+00:57:37,640 --> 00:57:39,640
+We've been on the poddy cast for over a fucking year.
+
+1153
+00:57:39,640 --> 00:57:40,640
+Everyone hates the poddy cast.
+
+1154
+00:57:40,640 --> 00:57:41,640
+It's just arbitrary.
+
+1155
+00:57:41,640 --> 00:57:42,640
+No.
+
+1156
+00:57:42,640 --> 00:57:43,640
+Shut up.
+
+1157
+00:57:43,640 --> 00:57:44,640
+Fuck you.
+
+1158
+00:57:44,640 --> 00:57:47,640
+Now, would I be with Ben or with Digi?
+
+1159
+00:57:47,640 --> 00:57:50,640
+I would say, I would automatically put Jesse and Digi.
+
+1160
+00:57:50,640 --> 00:57:53,640
+Jesse and Digi, I would put together.
+
+1161
+00:57:53,640 --> 00:57:55,640
+That just seems like, that just seems like.
+
+1162
+00:57:55,640 --> 00:57:56,640
+Guys, they were the original.
+
+1163
+00:57:56,640 --> 00:57:57,640
+They were your little sister.
+
+1164
+00:57:57,640 --> 00:58:00,640
+They were the original, I mean, I know Tom and Digi were actually the original.
+
+1165
+00:58:00,640 --> 00:58:05,640
+But Digi is so invested in like his Digi friendship that-
+
+1166
+00:58:05,640 --> 00:58:06,640
+Wait.
+
+1167
+00:58:06,640 --> 00:58:09,640
+I feel like Digi and Monkey would be a good ship.
+
+1168
+00:58:09,640 --> 00:58:11,640
+I'm going to say Digi is invested in his Jesse friendship.
+
+1169
+00:58:11,640 --> 00:58:13,640
+That's what he is all about.
+
+1170
+00:58:13,640 --> 00:58:15,640
+Wait, guys, we can't just focus on love.
+
+1171
+00:58:15,640 --> 00:58:17,640
+We need all the quadrants.
+
+1172
+00:58:17,640 --> 00:58:18,640
+Oh no.
+
+1173
+00:58:18,640 --> 00:58:19,640
+So so so.
+
+1174
+00:58:19,640 --> 00:58:21,640
+So Monk would definitely be in Kismis.
+
+1175
+00:58:21,640 --> 00:58:22,640
+Kismis with Ben.
+
+1176
+00:58:22,640 --> 00:58:23,640
+No doubt.
+
+1177
+00:58:23,640 --> 00:58:24,640
+No doubt.
+
+1178
+00:58:24,640 --> 00:58:25,640
+Yes.
+
+1179
+00:58:25,640 --> 00:58:31,560
+What a colleague yeah, I'd probably go with that. It's cuz it's like a love-hate thing. Yeah, exactly. Yeah, that's fits. It's cute
+
+1180
+00:58:32,360 --> 00:58:34,360
+How about Ben?
+
+1181
+00:58:35,080 --> 00:58:36,800
+Yeah
+
+1182
+00:58:36,800 --> 00:58:41,240
+Gibbon would be like more rails with fucking Jesse. I would think probably
+
+1183
+00:58:41,640 --> 00:58:47,480
+Yeah, they're not that bad as a medicine. They're on their super pirate ship or whatever. Yeah. Yeah. Yeah
+
+1184
+00:58:47,480 --> 00:58:52,680
+The first ones to ever be on the ship. Yeah, and then Tom and Digi would go together cuz they're like the old boys
+
+1185
+00:58:53,680 --> 00:58:57,380
+Um, yeah, they haven't fucked in a long time though. Yeah, I don't know whether
+
+1186
+00:59:00,360 --> 00:59:04,760
+He's like he's so ethereal he needs to become like corporeal again, you know
+
+1187
+00:59:06,200 --> 00:59:08,200
+We have like Nate
+
+1188
+00:59:15,240 --> 00:59:19,880
+I should probably be with mage, but then again mage is like asexual so oh, you know what you know
+
+1189
+00:59:19,880 --> 00:59:24,780
+The perfect pairing mage and Tom because mage is asexual and Tom is bisexual. So he's gay that works
+
+1190
+00:59:24,780 --> 00:59:29,920
+I could be gay so that'd be like perfect that works out. Wait, so who is Nate with the munchie? Who's left?
+
+1191
+00:59:32,320 --> 00:59:37,880
+If you're not actually bisexual, I'm sorry, I didn't mean that nice. Yes. Yeah, he's okay. Good cut that out
+
+1192
+00:59:39,320 --> 00:59:41,320
+Just because he's vegetarian
+
+1193
+00:59:42,280 --> 00:59:47,160
+I'm just like, you know, I'm a man and I have needs and you will satisfy those needs
+
+1194
+00:59:52,520 --> 00:59:56,480
+You much we both the only women can be fat we know we know this yeah
+
+1195
+00:59:56,480 --> 01:00:00,960
+I think Nate should wear a pearl costume and then fuck Steven universe. That's a good idea
+
+1196
+01:00:01,960 --> 01:00:03,960
+Yeah
+
+1197
+01:00:16,840 --> 01:00:18,840
+Oh Peter, okay, so that's everybody
+
+1198
+01:00:19,680 --> 01:00:22,320
+There you go. That's official. Yeah, that's pretty good. Oh
+
+1199
+01:00:23,080 --> 01:00:26,080
+Dear, here's another one the KZ again KZ snap
+
+1200
+01:00:26,960 --> 01:00:33,880
+KZ is the fucking VIP with decent questions about it's because these are like specific and they're fun to answer
+
+1201
+01:00:33,880 --> 01:00:38,280
+So here we go at KZ snap says, uh, would you ever get a tattoo? And if so, what would it be?
+
+1202
+01:00:38,280 --> 01:00:42,540
+I bet you guys have all thought about that. Yeah chakras and all of my chakras
+
+1203
+01:00:44,480 --> 01:00:46,480
+64 points
+
+1204
+01:00:47,920 --> 01:00:54,720
+And he do you of course use the you know the ancient Hindu was the manji, you know the the swastika would be on all chakra points
+
+1205
+01:00:55,480 --> 01:00:57,920
+I've always been a very anti tattoo
+
+1206
+01:00:57,920 --> 01:01:04,880
+But I think I would get one as a joke if I lost some crazy bed and I had to get like digibro's face on my ass or something
+
+1207
+01:01:04,880 --> 01:01:08,280
+But otherwise I'm not just planning on it. Yeah. Yeah, that's just a fun story
+
+1208
+01:01:08,280 --> 01:01:12,480
+I would I would get an emoji movie ad on the tip of my penis
+
+1209
+01:01:14,040 --> 01:01:21,120
+So that yes, yes, that's great so that every vagina will go by the oh, you know for the movie dudes for the movie
+
+1210
+01:01:22,120 --> 01:01:25,200
+The the the water splash one probably
+
+1211
+01:01:29,680 --> 01:01:31,680
+That's a good one
+
+1212
+01:01:32,400 --> 01:01:37,200
+You know, I'm pretty spiritual so I would get a star of David on one nipple and a swastika on the other
+
+1213
+01:01:42,480 --> 01:01:48,320
+Yeah, I have actually thought about this and for many years now everyone's gonna think I'm a fucking sellout piece of shit
+
+1214
+01:01:48,480 --> 01:01:53,520
+But I've wanted to get the the joe star star on like my my upper left back
+
+1215
+01:01:53,760 --> 01:01:58,120
+But I've wanted that for like 15 years. Okay, so it's like I first read Jojo
+
+1216
+01:01:58,120 --> 01:02:03,200
+I'm not one of these fucking anime new joys. I hate people who like the things I like only I'm allowed to like it
+
+1217
+01:02:03,200 --> 01:02:05,200
+You guys are Joe Joe reference. Oh
+
+1218
+01:02:05,560 --> 01:02:07,720
+God, I'll probably never do it though
+
+1219
+01:02:07,720 --> 01:02:13,720
+It's literally it's become so normie that I probably just won't ever do it because they don't like you know
+
+1220
+01:02:13,720 --> 01:02:17,920
+What I've never really thought about having like an actual tattoo like I'm thinking well
+
+1221
+01:02:17,920 --> 01:02:21,440
+It's kind of painful and it's permanent like I'm probably gonna regret it
+
+1222
+01:02:21,440 --> 01:02:26,320
+But as a joke as a as a hilarious joke and as long as it's on my back
+
+1223
+01:02:26,320 --> 01:02:27,600
+So I don't have to look at it all the time
+
+1224
+01:02:27,600 --> 01:02:33,200
+I would put like a like a like a like a as if I was married to brisker like a like a weird love thing
+
+1225
+01:02:33,200 --> 01:02:37,560
+Yeah, or maybe just a symbol something like really retired in her now and hilarious
+
+1226
+01:02:37,720 --> 01:02:41,880
+But by the way brisker shit will never die. She's real forever. She's real forever
+
+1227
+01:02:41,880 --> 01:02:45,920
+But by the way that that just just to increase my indie credentials
+
+1228
+01:02:45,920 --> 01:02:49,560
+It I wanted that tattoo after I read part six of Jojo
+
+1229
+01:02:49,560 --> 01:02:54,840
+And it was after Joleen did her epic fight with guard Westwood during the survivor battle
+
+1230
+01:02:54,840 --> 01:02:59,000
+That was the most maybe want to do it and find the entire fucking. Yes. Thank you
+
+1231
+01:02:59,000 --> 01:03:02,240
+It is the best fight in the entire series. God somebody gets it
+
+1232
+01:03:06,600 --> 01:03:08,600
+And and it's
+
+1233
+01:03:11,880 --> 01:03:13,880
+Every single panel
+
+1234
+01:03:17,160 --> 01:03:19,680
+Yeah, sorry what I've got a topic for discussion
+
+1235
+01:03:21,120 --> 01:03:26,400
+Okay, go on go on this one comes to us from mum key underscore Jones who wants to know
+
+1236
+01:03:26,880 --> 01:03:33,360
+Was Nate the best guy ever justified in stealing a picture of some bitch dressed up and she's like fat and ugly
+
+1237
+01:03:33,360 --> 01:03:38,880
+Oh this one, huh? I think we should talk about it, and we haven't talked about it. You know, that's totally fine with that
+
+1238
+01:03:38,880 --> 01:03:41,260
+Okay, well, let me give you the backstory real quick. So in my
+
+1239
+01:03:41,920 --> 01:03:43,720
+video about how
+
+1240
+01:03:43,720 --> 01:03:50,120
+Communist glasses are not fucking orange for me a mouthful. I I used a cosplayers photo and full disclosure
+
+1241
+01:03:50,120 --> 01:03:55,480
+What I did was I just googled like female coming to cosplayer like I had actually used this image before in my
+
+1242
+01:03:55,720 --> 01:04:01,440
+Gurren login review. So, you know the criticism would be equally valid that I used it there as well and to my
+
+1243
+01:04:02,200 --> 01:04:09,300
+Discredit I did not credit anybody who was in it, which I I agree was and worse like not not like
+
+1244
+01:04:09,740 --> 01:04:15,340
+Was rude I guess like I don't think I actually need to have any responsibility to do that if I had to give credit
+
+1245
+01:04:15,340 --> 01:04:20,140
+To every single Google image I put in my videos the whole description would be nothing, but that shit, okay?
+
+1246
+01:04:20,140 --> 01:04:20,620
+Well, here's the thing
+
+1247
+01:04:20,620 --> 01:04:25,700
+I think that it is possible like we say that like but the argument you're kind of making and I think about this myself
+
+1248
+01:04:25,700 --> 01:04:30,820
+Because I do this a lot too is like that's really just us being lazy whether or not we're actually allowed to do it
+
+1249
+01:04:30,820 --> 01:04:34,300
+That's just a saying like it would be too much work. So obviously I'm allowed to do it
+
+1250
+01:04:34,300 --> 01:04:36,300
+I don't know if that's actually true, you know
+
+1251
+01:04:36,300 --> 01:04:41,420
+Well, I don't think Google you don't own it anymore. I don't think that's accurate
+
+1252
+01:04:41,420 --> 01:04:48,460
+I think I think I think I think I think what it is is it's it's not illegal, but it's just it's it's a nice
+
+1253
+01:04:48,460 --> 01:04:51,820
+It's a nice gesture to link to something. Well, okay using it
+
+1254
+01:04:51,820 --> 01:04:54,580
+Let's separate is though that if you're using a lot of images
+
+1255
+01:04:54,700 --> 01:04:58,820
+You're not gonna go through nobody's gonna go through the the the rigmarole of
+
+1256
+01:04:59,260 --> 01:05:03,540
+Getting links to all the specific different sources, but that that's completely insane
+
+1257
+01:05:03,540 --> 01:05:10,340
+But that's like saying that like if you do like many crimes like they all become less important cuz like you've
+
+1258
+01:05:16,140 --> 01:05:18,060
+Let me separate this into two things, okay
+
+1259
+01:05:18,060 --> 01:05:21,020
+We can I think we can deal with one immediately then we can just talk about the second
+
+1260
+01:05:21,020 --> 01:05:24,340
+I don't want to confuse the two so there's the legal issue and then like the moral issue
+
+1261
+01:05:24,340 --> 01:05:28,100
+So legally what I did was 100% fair use. Yeah, absolutely
+
+1262
+01:05:28,540 --> 01:05:32,180
+Nothing wrong with just using someone's image because all I was doing was commenting on it
+
+1263
+01:05:32,180 --> 01:05:36,300
+I wasn't like saying it was mine. This is just me describing a picture 100% totally fine
+
+1264
+01:05:36,300 --> 01:05:39,660
+Yeah, there is the like the more moral issue like is it good to do that?
+
+1265
+01:05:39,660 --> 01:05:43,460
+Especially considering I didn't give by the way by the way give I have amended
+
+1266
+01:05:43,460 --> 01:05:46,780
+So I have added links to those things in the description because I agree, okay
+
+1267
+01:05:46,780 --> 01:05:48,140
+You know, I did think like okay
+
+1268
+01:05:48,140 --> 01:05:50,740
+It was this person specifically commented like hey not cool
+
+1269
+01:05:50,740 --> 01:05:54,980
+You should you know at least let people know who I am and I agree if someone goes out of their way to say like
+
+1270
+01:05:54,980 --> 01:05:58,100
+Hey, let me do this it would it would be merely spiked to be like no
+
+1271
+01:05:58,100 --> 01:06:01,180
+I'm not gonna fucking do that and I am not a spiteful person. I don't want to do that
+
+1272
+01:06:01,180 --> 01:06:07,480
+So now has she acknowledged this because she she like suck her goons onto your video to like attack it and down
+
+1273
+01:06:07,480 --> 01:06:12,420
+You know post comments like she was being a huge cunt about it. What she wants. I actually disagree
+
+1274
+01:06:12,420 --> 01:06:15,460
+I actually people were saying that she was being quite rude
+
+1275
+01:06:15,460 --> 01:06:19,740
+I don't really think that that's the case like she in her comments. She complained like
+
+1276
+01:06:20,180 --> 01:06:22,580
+You know, hey, you didn't give me credit not cool
+
+1277
+01:06:23,060 --> 01:06:28,900
+Way to just use my picture, you know without my permission and and also like it said like especially in like in this kind of light
+
+1278
+01:06:28,940 --> 01:06:32,140
+Like because I was insulting her for not having like the perfect glasses color
+
+1279
+01:06:32,140 --> 01:06:37,580
+So let me say first of all, I don't it's fine. Your customs customs fine. Don't worry about it. I thought it was ugly
+
+1280
+01:06:38,260 --> 01:06:40,260
+Well
+
+1281
+01:06:41,020 --> 01:06:43,020
+I think she could have done a lot better
+
+1282
+01:06:43,020 --> 01:06:45,020
+We all could do we could all do a lot better
+
+1283
+01:06:46,340 --> 01:06:49,620
+Well, okay, I have I have okay some some
+
+1284
+01:06:51,460 --> 01:06:54,780
+Viewpoint on this cuz sometimes I'm too lazy
+
+1285
+01:06:54,780 --> 01:07:00,980
+And I don't want to play a whole game to get a specific clip right in in a video game review or anything like that
+
+1286
+01:07:00,980 --> 01:07:02,300
+you know and
+
+1287
+01:07:02,300 --> 01:07:09,260
+When I do that I download the video and then since the video has the name of like the YouTube link
+
+1288
+01:07:09,380 --> 01:07:11,700
+You know that the YouTube title later
+
+1289
+01:07:11,700 --> 01:07:16,580
+I can just copy paste and find the link and then put that in the description and I generally do that sometimes
+
+1290
+01:07:16,580 --> 01:07:22,860
+I forget sometimes I'm just like it's like nobody's gonna notice like I'm but if it's like
+
+1291
+01:07:23,220 --> 01:07:29,020
+Like for the Kingdom Hearts grpj. I didn't play that game. I didn't record that game for all the grpgs
+
+1292
+01:07:29,020 --> 01:07:31,540
+I don't record the footage because that's too much. That's too big
+
+1293
+01:07:31,660 --> 01:07:33,860
+So I go around and I you know
+
+1294
+01:07:33,860 --> 01:07:40,260
+I find people who have played through the whole game and I get certain things from the videos and I linked to them and
+
+1295
+01:07:40,700 --> 01:07:47,060
+I make sure to say I stole this content from these people just so that nobody's accusing me of being like
+
+1296
+01:07:48,060 --> 01:07:52,820
+It's subtle about it like I'm saying I took you say that in the video or in the description in the description
+
+1297
+01:07:52,820 --> 01:07:56,860
+I said content a game footage stolen from and a bunch of links
+
+1298
+01:07:57,660 --> 01:08:02,300
+So okay, I feel that I don't feel the need to do that all the time
+
+1299
+01:08:02,300 --> 01:08:06,940
+But when it's like a lot, you know when it's something that could potentially be noticed
+
+1300
+01:08:06,940 --> 01:08:13,580
+I mean what I feel I feel like it's it's just customary to just if you have an easy way to put the link in there
+
+1301
+01:08:13,580 --> 01:08:15,580
+You may as well. There's nothing really wrong
+
+1302
+01:08:17,060 --> 01:08:22,060
+What if somebody went to gibbo Gibbon gaming and they write use some of your footage for review?
+
+1303
+01:08:22,060 --> 01:08:27,660
+Would you care personally? I wouldn't give a shit. I couldn't care less of a shit about that at all
+
+1304
+01:08:28,740 --> 01:08:30,740
+It means if somebody went to
+
+1305
+01:08:30,860 --> 01:08:32,860
+Took something out of one of my streams
+
+1306
+01:08:33,020 --> 01:08:39,140
+If I was notified of it if somebody somehow noticed that it was my play through and they put it on their video
+
+1307
+01:08:39,140 --> 01:08:46,700
+And I went to look at it. I I guess it would depend on how much well, let's use like I like on a baseline
+
+1308
+01:08:46,700 --> 01:08:49,340
+Let's just say it's just a clip from one of my streams
+
+1309
+01:08:49,340 --> 01:08:52,620
+They're not using the audio. They just need footage of the game that they're yeah, yeah
+
+1310
+01:08:52,620 --> 01:08:56,100
+Then I wouldn't give a shit, but I feel like gives it yeah
+
+1311
+01:08:56,100 --> 01:08:59,660
+But I I mean what I feel like doesn't necessarily but guys
+
+1312
+01:08:59,660 --> 01:09:03,340
+I'd rather have no altercations happen if somebody's gonna get mad
+
+1313
+01:09:03,340 --> 01:09:08,580
+I'd rather than never get mad or not have a reason to get mad if there's a link to the thing in the description
+
+1314
+01:09:08,580 --> 01:09:12,620
+So what what you guys are talking about is just people's feelings, right? Like that's what's in consideration
+
+1315
+01:09:12,620 --> 01:09:15,460
+Yeah, that thing that I never care about right
+
+1316
+01:09:16,460 --> 01:09:19,620
+Well, you know, I I mean I have thought about this
+
+1317
+01:09:19,620 --> 01:09:22,860
+You know, I did some reflecting on this issue and I thought about like what if someone
+
+1318
+01:09:23,260 --> 01:09:28,620
+Use one of my videos like you know put a fucking weaponized thickness clip or something into their videos
+
+1319
+01:09:28,620 --> 01:09:34,140
+Like what if they did that and they didn't credit me and you know like it's just the joke like it's not like they're saying
+
+1320
+01:09:34,140 --> 01:09:38,020
+It's theirs, but in the exact same sort of situation they put a clip of mine
+
+1321
+01:09:38,020 --> 01:09:44,900
+You know, it's totally fair use legally. There's no problem with it, but like I think I would really like a link there
+
+1322
+01:09:44,900 --> 01:09:51,500
+I think I would sort of be be miffed if there wasn't a link to to me. I yeah, I think well
+
+1323
+01:09:51,500 --> 01:09:52,780
+I think with that
+
+1324
+01:09:52,780 --> 01:09:55,300
+I would agree that I would be miffed as well
+
+1325
+01:09:55,300 --> 01:10:00,700
+But it's also kind of already become a meme and it's like you ever hear
+
+1326
+01:10:00,700 --> 01:10:04,940
+Okay, okay, you try to copyright memes that just means be something being a meme does not
+
+1327
+01:10:05,580 --> 01:10:10,940
+Invalidate like ownership of of like the image it simply does not it doesn't do that immediately
+
+1328
+01:10:10,940 --> 01:10:16,820
+And I'm not saying I like own the intellectual rights to this phrase or anything. I'm talking about you know, like yeah
+
+1329
+01:10:16,820 --> 01:10:23,940
+Yeah, I know I know but I wouldn't I wouldn't blame somebody for having heard a meme that I originated and not
+
+1330
+01:10:24,260 --> 01:10:28,340
+Going to figure out where it comes from like if somebody did that I wouldn't be mad
+
+1331
+01:10:28,340 --> 01:10:32,660
+I wouldn't care because I understand that if it's out there and it's all over the place
+
+1332
+01:10:32,660 --> 01:10:37,060
+Right can't really do anything. Okay. I'm with you on that if someone like stumbles upon it and uses it on that basis
+
+1333
+01:10:37,060 --> 01:10:39,700
+Absolutely because like I do I mean I do that all the time
+
+1334
+01:10:39,700 --> 01:10:44,620
+I tons of the images I get in fact most the ones I use my videos are stuff that I've collected from 4chan over the
+
+1335
+01:10:44,620 --> 01:10:49,700
+Years that I don't give any source for and I couldn't even if I wanted to I've just found them and I've saved them
+
+1336
+01:10:49,700 --> 01:10:54,060
+And I just throw them up there. So I mean maybe that is morally not
+
+1337
+01:10:54,740 --> 01:10:59,500
+Flawless, you know, I would like to give credit to every single person who has made these things over the years
+
+1338
+01:10:59,540 --> 01:11:04,680
+But you know, you just got it. You just got to think a bit of like like what's what's realistic?
+
+1339
+01:11:05,560 --> 01:11:10,160
+Realistically, you know, nobody's really gonna give too much of a shit if
+
+1340
+01:11:11,080 --> 01:11:12,640
+somebody's like if
+
+1341
+01:11:12,640 --> 01:11:18,760
+Somebody I took a video game clip from finds it and they notice it they might say hey, could you link to my thing?
+
+1342
+01:11:18,760 --> 01:11:20,760
+Like that's the least that's the most that could happen
+
+1343
+01:11:20,840 --> 01:11:24,080
+It's not really gonna be a big deal, but I put the link there anyway
+
+1344
+01:11:24,080 --> 01:11:30,080
+Just just because like it's unnecessary, but I feel like you know, why not it doesn't take it
+
+1345
+01:11:30,080 --> 01:11:31,760
+It takes like a minute to do that
+
+1346
+01:11:31,760 --> 01:11:38,440
+So like realistically what what sort of effort do you would you expect people to go to to link to something?
+
+1347
+01:11:38,440 --> 01:11:42,800
+If it's if it's just something in a Google search, you would have you know, you click on it
+
+1348
+01:11:42,800 --> 01:11:46,880
+You can get the image right there. You don't need to go to the source of the image on DeviantArt, right?
+
+1349
+01:11:46,880 --> 01:11:51,760
+It's it's a it's a bit more effort. It's I don't expect people to do that. I don't do that
+
+1350
+01:11:51,760 --> 01:11:53,680
+Okay, but you know, I'm totally with you on that
+
+1351
+01:11:53,680 --> 01:11:56,840
+But I would say if that person were to come to you and say like hey, dude
+
+1352
+01:11:56,840 --> 01:12:01,280
+I notice you use my video or my my image or whatever, you know, that's cool. Not the biggest deal
+
+1353
+01:12:01,280 --> 01:12:04,080
+Maybe I wouldn't I don't know whatever it doesn't matter how I feel
+
+1354
+01:12:04,080 --> 01:12:08,920
+But would you give me credit? I'd really like credit if you don't like do that
+
+1355
+01:12:08,920 --> 01:12:11,000
+Well, that's like, okay
+
+1356
+01:12:11,000 --> 01:12:13,520
+I'm just saying like it's easy to like not worry about it like whatever
+
+1357
+01:12:13,520 --> 01:12:17,960
+I'll just use the image who gives a fuck but to then ignore someone who comes to you and like request it
+
+1358
+01:12:17,960 --> 01:12:22,200
+I'm not saying that makes you like a monster. I'm just saying like that's not cool. It's not a cool thing to do
+
+1359
+01:12:22,200 --> 01:12:26,680
+Oh, yeah, obviously like if somebody went out of their way to tell me I would yeah, of course
+
+1360
+01:12:27,800 --> 01:12:30,400
+Because then they've given their link to to me
+
+1361
+01:12:30,800 --> 01:12:33,800
+You know their name like I can easily find it
+
+1362
+01:12:33,920 --> 01:12:37,000
+Like if I have to go if they expect me to go searching for it
+
+1363
+01:12:37,120 --> 01:12:41,920
+Because if I if I don't remember where I got it from then I might not do it
+
+1364
+01:12:41,920 --> 01:12:48,760
+I don't think but I mean if there were any legal issues. I don't remember or it's too much work
+
+1365
+01:12:48,760 --> 01:12:52,600
+Those are not actual legal defenses. So I'm just saying if this were a little thing
+
+1366
+01:12:53,360 --> 01:12:58,240
+We've decided that the legal stuff is like it's mostly fair use basically all the time
+
+1367
+01:12:58,240 --> 01:13:01,160
+So what's the moral standpoint Nate? We all know that it's legal
+
+1368
+01:13:01,160 --> 01:13:06,320
+But why do you kind of have a shaky moral standing on it? Well, you say it's shaky, but I think I've been pretty clear
+
+1369
+01:13:06,320 --> 01:13:10,720
+It's that no, I mean, why do you think it's not morals when I'm asking? Oh, well really
+
+1370
+01:13:10,720 --> 01:13:13,000
+It's because I've consulted how I think I would feel about it
+
+1371
+01:13:13,000 --> 01:13:17,680
+And I think if someone used my work without crediting it. I would not like it and I would want the credit
+
+1372
+01:13:18,320 --> 01:13:23,320
+So somebody took a snapshot of one of your videos because this was you didn't steal her cosplay
+
+1373
+01:13:23,320 --> 01:13:26,880
+You used a photo of the cosplay so if somebody steals your well
+
+1374
+01:13:26,880 --> 01:13:30,800
+That's different than if somebody takes a screen cap of your clip and uses it
+
+1375
+01:13:30,800 --> 01:13:31,880
+I don't think that's that bad
+
+1376
+01:13:31,880 --> 01:13:37,240
+Well, I mean you got to put the full context in because the the whole picture was like you could tell this had been photoshopped
+
+1377
+01:13:37,240 --> 01:13:43,040
+So like someone had worked on this image after a picture had been taken and so there's the cosplayer involved as well as the photographer
+
+1378
+01:13:43,040 --> 01:13:47,640
+And I'm assuming that's the person who also like did the photo editing because you could see like the background had
+
+1379
+01:13:47,640 --> 01:13:49,720
+been darkened to make this person like pop out more
+
+1380
+01:13:50,720 --> 01:13:57,800
+You know like that's work and in a perfect world. Yeah, I think everyone who does any work on something like that should should get credit
+
+1381
+01:13:57,800 --> 01:14:02,080
+And get so if the person who designed the character came to her and said hey, can you delete that?
+
+1382
+01:14:02,080 --> 01:14:06,040
+That's my character. Please don't cosplay is that you think she would delete it? She's a well
+
+1383
+01:14:06,320 --> 01:14:10,080
+Well, but again, I'm not saying anyone should ever have to delete it because I think this is totally
+
+1384
+01:14:10,080 --> 01:14:12,680
+It's just an issue of you know, is it a cool thing to do or not?
+
+1385
+01:14:12,680 --> 01:14:17,000
+And I think if the character designer for Kamina came out and was like hey, dude
+
+1386
+01:14:17,000 --> 01:14:19,360
+You're using my shit without crediting me. You got to credit me
+
+1387
+01:14:19,360 --> 01:14:25,040
+I I would say that yeah, like she should credit just be like by the way this character was designed by whoever on wherever
+
+1388
+01:14:27,920 --> 01:14:29,920
+They're not
+
+1389
+01:14:30,360 --> 01:14:33,880
+It just to ignore like the imagine if fucking I don't know
+
+1390
+01:14:34,160 --> 01:14:38,800
+Imagine if Elliot came up to you and was just like monkey, you know by the way, dude
+
+1391
+01:14:38,840 --> 01:14:44,040
+I'd appreciate if you would just put links to my videos for all the clips you use and just like imagine imagine looking at
+
+1392
+01:14:44,040 --> 01:14:47,720
+I'm saying no like no, I'm not gonna do that like you can do it
+
+1393
+01:14:47,720 --> 01:14:51,560
+I mean in person you would say it online and I can just ignore the email and move on
+
+1394
+01:14:52,000 --> 01:14:58,360
+Well, yes, you can if you came in person you'd probably have a gun and then of course I would do what I think I think I think what this is
+
+1395
+01:14:58,360 --> 01:15:02,040
+Is that it's it's the fact that somebody got upset about it and right?
+
+1396
+01:15:02,240 --> 01:15:08,360
+It's a deviant art thing because like I get my images from Google. I don't usually pick fan art
+
+1397
+01:15:08,360 --> 01:15:15,000
+I usually go for like official art because it's less hassle as it's more recognized see I use a ton of fan art personally and get it
+
+1398
+01:15:15,000 --> 01:15:16,200
+all from 4chan
+
+1399
+01:15:16,200 --> 01:15:23,280
+Yeah, so if you use an artwork, let's say I drew an image of something
+
+1400
+01:15:23,280 --> 01:15:28,400
+Or I took a picture on Instagram or something and I find it in a video by someone else
+
+1401
+01:15:28,400 --> 01:15:34,720
+I would be like, oh, okay. This person knows me. That's my first thought. Mm-hmm, or they they found my image somehow
+
+1402
+01:15:35,400 --> 01:15:41,000
+I wouldn't immediately be annoyed that they hadn't linked to what I had made because
+
+1403
+01:15:42,040 --> 01:15:45,780
+Well, actually, I don't know cuz yeah, you might right by trade. Yeah
+
+1404
+01:15:47,160 --> 01:15:51,640
+Okay, but you know I generally generally generally I I wouldn't care so much
+
+1405
+01:15:52,120 --> 01:15:59,280
+Unless it was like a they were just stealing a huge amount of something I've made I I have a position on this and it's it's
+
+1406
+01:15:59,280 --> 01:16:02,200
+It's exactly where I was before just I don't know with all that other shit
+
+1407
+01:16:02,200 --> 01:16:06,680
+It's that I'm going to continue doing exactly what I've been doing up to this point of using the images
+
+1408
+01:16:06,680 --> 01:16:10,240
+I've collected and not really worrying too much about giving proper credit to people
+
+1409
+01:16:10,240 --> 01:16:14,260
+But if anyone requests it, I will certainly add it if they are like, hey dude use my thing
+
+1410
+01:16:14,920 --> 01:16:19,720
+Appreciate credit. I'll be happy to put it and I won't go like out of my way to not put credit if I can easily do it
+
+1411
+01:16:19,720 --> 01:16:26,000
+But it's just it's kind of excessive. I mean, I was in this position when I made my quarry in the house review
+
+1412
+01:16:26,000 --> 01:16:27,680
+I I needed a thumbnail
+
+1413
+01:16:27,680 --> 01:16:31,800
+So I just googled quarry in the house HD picture and that took the first thing I found
+
+1414
+01:16:31,960 --> 01:16:37,040
+But it turns out that was the thumbnail for somebody else who made a similar quarry in the house review
+
+1415
+01:16:37,040 --> 01:16:41,360
+And he sent me a message on YouTube said hey, monkey. I love the video, but I made that thumbnail
+
+1416
+01:16:41,360 --> 01:16:45,920
+Can you switch it? And I was like, yeah, yeah, okay sure thing buddy. So I switch the thumbnail
+
+1417
+01:16:45,920 --> 01:16:50,400
+So yeah, I guess I see where you're coming from. Mm-hmm, but I didn't have to and that's the point
+
+1418
+01:16:50,440 --> 01:16:55,520
+Yeah, you didn't have to legally have to great great review by mother's base. I love that card now. Yeah
+
+1419
+01:16:56,520 --> 01:17:01,520
+Actually mine. I think mine came out before his did so fucking great mother's basement video
+
+1420
+01:17:07,520 --> 01:17:11,760
+Speaking of mother's basement mother's basement asks, why do you kill me?
+
+1421
+01:17:11,880 --> 01:17:13,880
+Yeah
+
+1422
+01:17:19,320 --> 01:17:20,720
+Here's a real question
+
+1423
+01:17:20,720 --> 01:17:24,400
+Jeron I guess I've been thinking about this at Gergerad asks
+
+1424
+01:17:25,040 --> 01:17:27,040
+a PCP guys, why
+
+1425
+01:17:27,760 --> 01:17:32,320
+Why don't you tell us the topic of the episode when you asked for questions? I don't know
+
+1426
+01:17:32,320 --> 01:17:34,520
+I don't know dude. Is that something we should do?
+
+1427
+01:17:34,520 --> 01:17:38,000
+I think no, no, no, no, it's it's something we shouldn't do because if
+
+1428
+01:17:38,440 --> 01:17:41,360
+Say if it wasn't like a stupid episode like this
+
+1429
+01:17:41,360 --> 01:17:47,320
+Yeah, we would have been talking about that topic the whole time and then questions would be something else if they ask questions about it
+
+1430
+01:17:47,440 --> 01:17:50,720
+And it's just like well, we already talked about that. We're already talked about that
+
+1431
+01:17:50,720 --> 01:17:55,360
+We're already brought up different. I agree. That's okay. That's a good answer. There you go, Jergerad
+
+1432
+01:17:56,200 --> 01:17:59,080
+Yeah, okay. Let's say here's a here's a shitty last question
+
+1433
+01:18:00,120 --> 01:18:04,840
+At dr. Sand shrew I like a good name asks pancakes or waffles
+
+1434
+01:18:05,840 --> 01:18:09,960
+Okay, when I was a little boy, I used to be super into waffles
+
+1435
+01:18:09,960 --> 01:18:12,000
+I was like a super like like like well like
+
+1436
+01:18:12,280 --> 01:18:15,560
+Champions like like yeah, I was like a waffle nationalist
+
+1437
+01:18:15,560 --> 01:18:19,480
+I wouldn't like have any pancakes bullshit. I used to always eat them
+
+1438
+01:18:19,480 --> 01:18:22,960
+I would I used to always eat chicken and waffles. That was that was that was what I ate
+
+1439
+01:18:22,960 --> 01:18:27,520
+That was the only wall dude. Are you like African-american or something Lamau come on now
+
+1440
+01:18:28,000 --> 01:18:30,000
+Oh
+
+1441
+01:18:30,360 --> 01:18:33,600
+Okay, um, but yeah, but then later fucking delicious
+
+1442
+01:18:33,920 --> 01:18:38,960
+Munchie laughing a Nate's joke was funnier than Nate's joke. Of course. It was my jokes are shit
+
+1443
+01:18:40,120 --> 01:18:42,120
+Then I discovered something amazing
+
+1444
+01:18:43,240 --> 01:18:45,240
+Pancakes with
+
+1445
+01:18:46,560 --> 01:18:51,960
+Wow grand reveal even though it's the only other option. Yeah, yeah, yeah pancakes
+
+1446
+01:18:51,960 --> 01:18:54,320
+And I was like what I ate next will make your dick blow off
+
+1447
+01:18:55,280 --> 01:19:02,660
+If I eat the pancakes and sit the waffles then I will have a different taste than the waffles
+
+1448
+01:19:07,360 --> 01:19:11,840
+But see munchie I especially like I especially like how you specifically said
+
+1449
+01:19:12,600 --> 01:19:17,800
+Pancakes with just butter because a lot of people will drown their pancakes and syrup all the time
+
+1450
+01:19:17,960 --> 01:19:23,080
+But I I'm in agreement that I think that just pancakes and butter is kind of better
+
+1451
+01:19:23,280 --> 01:19:25,280
+It's kind of like the most delicious thing in the world
+
+1452
+01:19:27,320 --> 01:19:29,520
+Here's the best thing you'll ever eat in your life
+
+1453
+01:19:29,680 --> 01:19:34,160
+Yeah, you get two frozen egg waffles that were probably in there like eight months ago
+
+1454
+01:19:34,240 --> 01:19:36,240
+Right you fry those fuckers up in the toaster
+
+1455
+01:19:36,480 --> 01:19:41,600
+Then you put peanut butter on them you make a little sandwich then you douse it in syrup and then you eat that
+
+1456
+01:19:41,600 --> 01:19:43,600
+That's way better than any pancake
+
+1457
+01:19:44,600 --> 01:19:47,000
+Sounds like a glory hole, but like better
+
+1458
+01:19:48,800 --> 01:19:54,440
+Then let's know in the chat what topic are we doing? He's listening better. We're not doing any topic. What do you mean?
+
+1459
+01:19:54,440 --> 01:19:59,680
+This is laziness. We covered laziness thoroughly. They're only guys guys. Okay, fucking
+
+1460
+01:20:01,680 --> 01:20:03,680
+This episode clickbait
+
+1461
+01:20:04,160 --> 01:20:07,360
+Yes, I think it might be clickbait. No
+
+1462
+01:20:09,360 --> 01:20:13,120
+Pancakes the only time I've eaten pancakes was only time
+
+1463
+01:20:13,720 --> 01:20:16,200
+Well, yeah, they don't have it's not it's not a thing
+
+1464
+01:20:19,200 --> 01:20:22,000
+Pancakes pancakes for breakfast is not at all a thing
+
+1465
+01:20:25,960 --> 01:20:33,040
+We don't eat pancakes. It's just not a thing. Do you waffles literally fucking treason? What about what what are waffles?
+
+1466
+01:20:35,040 --> 01:20:38,880
+They're building waffles for a reason cuz they're from Europe and all Europe is the exact same
+
+1467
+01:20:39,560 --> 01:20:40,760
+Uh
+
+1468
+01:20:40,760 --> 01:20:49,000
+Waffle all right. I think is it just like a grid pancake? Yeah, it's like we're crispy. It's crispy. Yes thicker and crispier
+
+1469
+01:20:49,000 --> 01:20:54,040
+Yeah, I've never really had a waffle either. What I have had like put I have had like potato waffles
+
+1470
+01:20:54,040 --> 01:20:56,760
+Which are waffle shaped potatoes and they I love those okay?
+
+1471
+01:20:57,960 --> 01:20:58,720
+I
+
+1472
+01:20:58,720 --> 01:21:04,640
+Know it's that's what I associated waffles was because that with because that's the only thing I'd ever had that was called a
+
+1473
+01:21:04,640 --> 01:21:10,120
+Waffle is of a little potato thing and I was always confused when when people in America would talk about having waffles
+
+1474
+01:21:10,120 --> 01:21:13,640
+I'm like, wait a minute. That's not a waffle. That's not that's not it. That's not what it is
+
+1475
+01:21:15,240 --> 01:21:17,880
+Anyway, the only time I had pancakes was at rad con 2
+
+1476
+01:21:18,280 --> 01:21:24,400
+During one one of the times we went to breakfast and we had them. I was like, huh? Yeah, I get I get I get it
+
+1477
+01:21:24,400 --> 01:21:27,920
+Was the time. Oh man, that's nuts. I had no idea. That was your first time having pancakes
+
+1478
+01:21:27,920 --> 01:21:30,600
+I think it might have not been the exact first time
+
+1479
+01:21:30,600 --> 01:21:34,880
+But it's the first time I had like an American pancake with syrup on it. I've never had never had syrup on
+
+1480
+01:21:35,920 --> 01:21:41,280
+I don't know guys. We've we've we've we've we've we're running kind of long here. You know, we've been going for a while
+
+1481
+01:21:41,280 --> 01:21:43,280
+Shall we get to the topic?
+
+1482
+01:21:43,280 --> 01:21:49,900
+Yeah, no, I was gonna do that, but I'm glad you did because laziness is like
+
+1483
+01:21:50,920 --> 01:21:52,920
+You know, it's
+
+1484
+01:21:53,480 --> 01:21:58,400
+You know, I get it. Whatever like laziness is like I do it
+
+1485
+01:21:58,400 --> 01:22:05,880
+But you know, like I know I shouldn't but you know, like whatever, you know, like sometimes sometimes they're just sort of I
+
+1486
+01:22:06,520 --> 01:22:10,320
+Can't think of the word. I mean you should do a series. Yeah, okay, okay, man. Do it
+
+1487
+01:22:11,720 --> 01:22:13,720
+No, it was a joke. Oh, hey
+
+1488
+01:22:14,160 --> 01:22:16,240
+It's a joke. I was too lazy to find the word
+
+1489
+01:22:16,240 --> 01:22:22,720
+If we in the episode maybe Nate can record the fucking audio for my Pokemon tournament that hippos in that's true
+
+1490
+01:22:22,720 --> 01:22:29,480
+Dude, I was up till fucking 6 a.m. making my fucking me a man for a piece of shit. All right. Easy. I said I get it to you this weekend
+
+1491
+01:22:29,480 --> 01:22:34,980
+Oh, yeah, I'm lazy. Oh my god. Oh my god. Oh my god. Fucking day for my god. I'm the lazy one
+
+1492
+01:22:34,980 --> 01:22:38,460
+I've been working eight hours a day. God damn it. I'm gonna fucking job
+
+1493
+01:22:41,400 --> 01:22:44,160
+Everybody hates fucking Nate. Fuck you people
+
+1494
+01:22:46,240 --> 01:22:49,480
+I like that mug. Anyway, did you get it yet to come in the mail?
+
+1495
+01:22:50,200 --> 01:22:53,120
+It's not here yet, but I'm gonna drink out of it when I get it
+
+1496
+01:22:54,960 --> 01:22:59,320
+But a fucking the lazy, right? Here's a here's the thing about lazy
+
+1497
+01:23:01,240 --> 01:23:05,840
+No, no, here's the thing about lazy. Okay, it's the name of a song by deep purple. It's fucking great
+
+1498
+01:23:05,840 --> 01:23:07,840
+Go listen to that. Oh, yeah, it's like
+
+1499
+01:23:09,880 --> 01:23:12,440
+No, no, that's the that's the kinks I think
+
+1500
+01:23:12,440 --> 01:23:17,960
+That's the kinks. Oh, is that the song that goes are you a real villain?
+
+1501
+01:23:24,240 --> 01:23:26,240
+Yeah
+
+1502
+01:23:30,000 --> 01:23:34,760
+In laziness this is going down when she takes a piss
+
+1503
+01:23:36,360 --> 01:23:39,800
+Deep purple is the name of a bird. Fuck you Nate
+
+1504
+01:23:40,800 --> 01:23:44,720
+Me a mouth of us really great. Oh, yeah
+
+1505
+01:24:03,240 --> 01:24:08,380
+All right, okay. Well, we got our mandatory piss in let's uh, let's let's
+
+1506
+01:24:09,800 --> 01:24:11,800
+I
+
+1507
+01:24:14,600 --> 01:24:17,460
+Praise it praise Keck praise
+
+1508
+01:24:18,640 --> 01:24:23,960
+Judas fuck my dick and fuck my ass. Bye everybody. Bye
+
+1509
+01:24:25,040 --> 01:24:28,000
+Wait, I was about to say something
+
+1510
+01:24:30,160 --> 01:24:34,600
+We're done. No, no, no, no that I want that the podcast to end exactly when I said that
+
+1511
+01:24:35,600 --> 01:24:38,380
+Unless munchies doing something like having sex with his cat
+
+1512
+01:24:39,800 --> 01:24:41,800
+Oh
+
+1513
+01:24:41,960 --> 01:24:46,520
+Okay, that's done fade in the intro fuck Ben. I'm stopping recording
+
+1514
+01:25:09,800 --> 01:25:11,800
+I
+
+1515
+01:25:22,760 --> 01:25:24,760
+Don't want to do
+

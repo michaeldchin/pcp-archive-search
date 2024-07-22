@@ -1,0 +1,6560 @@
+1
+00:00:00,000 --> 00:00:13,000
+I'm gonna bless that guy, that son of a bitch.
+
+2
+00:00:13,000 --> 00:00:27,000
+I see they've added some fancy new options for Craig. How delightful. Their fucking bot doesn't work, but they decided to make it all fancy.
+
+3
+00:00:27,000 --> 00:00:32,000
+Ooh, they changed it to slash commands. Ooh, it opens up a menu in your Discord now.
+
+4
+00:00:32,000 --> 00:00:40,000
+It's just like Endless War. Bot doesn't work, but we'll add new features. That's not true. Endless War works perfectly all the time.
+
+5
+00:00:40,000 --> 00:00:46,000
+Hello, welcome to The Pro Crastinators Podcast. I might as well start. No intro required.
+
+6
+00:00:46,000 --> 00:00:56,000
+Looks like we're having a Ben cast today. Gibb is nowhere to be found. That's okay. I'm sure she's just experiencing 10 day plus jet lag.
+
+7
+00:00:56,000 --> 00:01:16,000
+Eight days, whatever. That's okay, though. I kind of wanted to keep this episode short anyway, because it is Father's Day, and I do have to catch a train to my parents' house in, well, three hours from now, so I have to allow for travel time to the train and such.
+
+8
+00:01:17,000 --> 00:01:25,000
+So, that's alright. Ben casts tend to be on the shorter side anyway, and that's good.
+
+9
+00:01:25,000 --> 00:01:37,000
+Let me see here. Speaking of Father's Day, I know I want to talk about something that's very near and dear to my heart.
+
+10
+00:01:37,000 --> 00:01:52,000
+I think I mentioned last episode, and I've been mentioning a little more often lately, my gummy experiments. They have borne fruit, so to speak. I think I have perfected a recipe.
+
+11
+00:01:53,000 --> 00:02:01,000
+I put a picture on Discord. You know what? I'm going to post it at Eleazar. Show this on screen.
+
+12
+00:02:01,000 --> 00:02:14,000
+Yesterday, I didn't know what I was going to get my dad, so I decided, hey, I figured this shit out, so I made a big batch of these. This is like a pound of the stuff right here in this image.
+
+13
+00:02:15,000 --> 00:02:36,000
+And these are special. These are my low sugar formula. They are about volume, by mass. They are about one-third the sugar of a regular gummy bear. They are mostly made of corn fiber, and they're pretty good.
+
+14
+00:02:36,000 --> 00:02:49,000
+The texture is good, the consistency is good. The one thing that I think is not perfect about them is that they weep a little bit, like they exude a little bit of moisture. Not a lot.
+
+15
+00:02:49,000 --> 00:02:58,000
+And I covered them in sugar. I rolled them in sugar to avoid them sticking together, and it works. They don't stick together, but they're a little bit moist.
+
+16
+00:02:59,000 --> 00:03:10,000
+They should theoretically be shelf-stable forever, or indefinitely, because I added potassium sorbate, which is supposed to inhibit mold.
+
+17
+00:03:11,000 --> 00:03:27,000
+So, yeah, the weeping is not great. I think this just means that these will be... These are for me. I will make these for myself, and maybe my loved ones, so I made a big batch of them for my dad as a father's day gift.
+
+18
+00:03:27,000 --> 00:03:36,000
+I'll give those to him later. I'm pretty excited. I'm pretty proud. Pretty excited that the recipe has come together.
+
+19
+00:03:36,000 --> 00:03:51,000
+I think I would call this done. The only thing I might fuck around with it is seeing if I could get away with even less water. Even less water base at the beginning to get an even denser, chewier final product.
+
+20
+00:03:51,000 --> 00:03:59,000
+But these are pretty good. They're not as dense and chewy as a starburst, but they are as chewy as a gummy, I think.
+
+21
+00:03:59,000 --> 00:04:14,000
+If you're wondering in this image, here, I'll tell you, the flavors are fucked up. The pink ones are rose-flavored. The orange ones, which do not look quite so orange in real life, in real life, they're a little hard to tell from the pink ones, TBH.
+
+22
+00:04:14,000 --> 00:04:28,000
+The orange-ish ones are watermelon. The blue ones are passion fruit. The purple ones are strawberry. And the green ones are guava. I think passion fruit and watermelon came out the best, but they're all pretty good.
+
+23
+00:04:28,000 --> 00:04:46,000
+Alright, I just had to brag about that. I think I'm gonna have two recipes. This is gonna be my low-sugar recipe, and it's just for me, because it weeps a little bit.
+
+24
+00:04:46,000 --> 00:05:00,000
+And I think if I had one that I wanted to give to people, or sell, or something, I think I would use a separate recipe, which I have a separate... I should take a picture of my notebook.
+
+25
+00:05:00,000 --> 00:05:06,000
+You know what, hang on, Eliezer, cut the silence out. I'm gonna go take a picture of my notebook and post it. Cut the silence out while I get that.
+
+26
+00:05:07,000 --> 00:05:21,000
+Okay, so there's my notes. Basically, I started with one recipe, and then I made modifications, and then I sort of branched them out on evolutionary paths, and this is one of them.
+
+27
+00:05:22,000 --> 00:05:32,000
+So I have a separate evolutionary track for more stable ones, where I'm not so worried about keeping the sugar low.
+
+28
+00:05:32,000 --> 00:05:45,000
+I was fucking around with corn fiber, I was fucking around with pectin. I think I've decided... I tried it with just the most basic sugar and gelatin, and it worked fine.
+
+29
+00:05:45,000 --> 00:05:54,000
+It worked great. I think I'm just gonna do that for the regular ones that I would sell to people. Those ones will not weep, those ones will not have any... It's the fiber.
+
+30
+00:05:54,000 --> 00:06:12,000
+I think the fiber makes them not retain the water completely. I think it interrupts the gel matrix that the gelatin forms, that holds the water in, because the fiber is, you know, whatever.
+
+31
+00:06:13,000 --> 00:06:21,000
+It's whatever, shape of the molecules and whatever. Anyway, anyway, that's what I've been doing with that. I've been doing a lot of that.
+
+32
+00:06:21,000 --> 00:06:38,000
+It's been like my main hobby. Aside from fucking around with PCP upload shit, there's been a lot of that, a lot of gummy work, and then a lot of...
+
+33
+00:06:39,000 --> 00:06:49,000
+Well, I have not dedicated the time, aside from those things, I've not dedicated the time to finishing the slime and punishment footnotes, which is very stupid.
+
+34
+00:06:49,000 --> 00:07:00,000
+That really should be my priority number one. Oh, and then there's that video project that I've been working on, which I will still not reveal what it is, and which me and Gib talked about that last week.
+
+35
+00:07:01,000 --> 00:07:14,000
+And I'm not sure if I'm going to try and film that before I find a new place. I probably should, because I think I could, and it's probably not necessary to move before I do it.
+
+36
+00:07:15,000 --> 00:07:26,000
+I ordered another piece of equipment for that yesterday. I already have the tripod I ordered. Let me check my Amazon. What was the thing that I bought yesterday?
+
+37
+00:07:26,000 --> 00:07:34,000
+And now I'm waiting for the Amazon returns and orders.
+
+38
+00:07:35,000 --> 00:07:40,000
+Okay, it was another stand for something else.
+
+39
+00:07:40,000 --> 00:07:50,000
+Okay, I'm not going to go into it. Sorry. I think one or two people might have made some guesses that have been pretty close to the mark, so some people might...
+
+40
+00:07:50,000 --> 00:08:01,000
+I've dropped a few hints here and there that some people might have figured out, but if you have, that's fine. Don't try and guess it. It doesn't matter.
+
+41
+00:08:02,000 --> 00:08:05,000
+Either way, it's fine.
+
+42
+00:08:05,000 --> 00:08:09,000
+Yeah, so that's what I've been doing.
+
+43
+00:08:09,000 --> 00:08:13,000
+Father's Day, hold on. Let me open up my topic list here.
+
+44
+00:08:13,000 --> 00:08:16,000
+What else did I want to touch on?
+
+45
+00:08:16,000 --> 00:08:18,000
+Oh yeah, okay.
+
+46
+00:08:18,000 --> 00:08:27,000
+Adjacent to that video thing that I've been ordering equipment for. One thing I ordered was a new microphone.
+
+47
+00:08:27,000 --> 00:08:38,000
+And, oh no, now I forget. Oh no, now I forget if I talked about this thing that I want to say on the last PCP.
+
+48
+00:08:38,000 --> 00:08:43,000
+Oh my god, I hope I didn't talk about this already. If I did, I'm going to sound like such an idiot.
+
+49
+00:08:43,000 --> 00:08:54,000
+I definitely talked about it on the stream, on the Shekels for Hekels stream that we did on Wednesday or Thursday, which I will also mention in a second.
+
+50
+00:08:54,000 --> 00:08:58,000
+Okay, so I don't think I did talk about it on an episode, so I'll mention it again.
+
+51
+00:08:58,000 --> 00:09:07,000
+I got this microphone, this new XLR microphone, an AT2020, which let me know if I sound any better.
+
+52
+00:09:07,000 --> 00:09:23,000
+On the stream, Gib said that I sounded, she said that she could detect more of the high notes or the high register in my voice, which I don't know if that's good or not.
+
+53
+00:09:23,000 --> 00:09:34,000
+But anyway, I should sound better because I switched from a pretty mediocre USB snowball ice to a real XLR microphone.
+
+54
+00:09:34,000 --> 00:09:46,000
+Anyway, partially this was for the video project, and the other reason I got it was because I saw, I'll tell it as though I hadn't said it before,
+
+55
+00:09:46,000 --> 00:09:53,000
+I saw a casting call for voice actors for something that was looking...
+
+56
+00:09:53,000 --> 00:09:59,000
+One of the requirements listed was you need to have an XLR microphone, and I was like, you know, I really should have an XLR microphone.
+
+57
+00:09:59,000 --> 00:10:02,000
+Why am I using this shitty snowball ice?
+
+58
+00:10:02,000 --> 00:10:03,000
+So I was like, fuck it.
+
+59
+00:10:03,000 --> 00:10:10,000
+And I googled, lots of YouTube recommendations for affordable, good microphones, and if you recommended this one, I was like, yeah, fuck it.
+
+60
+00:10:10,000 --> 00:10:12,000
+I found a cheap one.
+
+61
+00:10:12,000 --> 00:10:15,000
+This one was $70 used on eBay.
+
+62
+00:10:15,000 --> 00:10:17,000
+Came with a holder that attaches to an arm.
+
+63
+00:10:17,000 --> 00:10:20,000
+I got a microphone arm, a fancy robot arm that it moves around on.
+
+64
+00:10:20,000 --> 00:10:23,000
+That's very cool.
+
+65
+00:10:23,000 --> 00:10:26,000
+So I have a little bit more of a real mic set up now.
+
+66
+00:10:26,000 --> 00:10:38,000
+Even though my room is fucking completely fucked and my desk is in the wrong place because I had to move my desk near my door because my power has been going out once a week for the last month.
+
+67
+00:10:38,000 --> 00:10:46,000
+So I had to move my desk near my kitchen door so I could run a power strip from the refrigerator outlet.
+
+68
+00:10:46,000 --> 00:10:51,000
+Power my computer in case of power loss because the refrigerator doesn't lose power.
+
+69
+00:10:51,000 --> 00:10:52,000
+The kitchen doesn't lose power.
+
+70
+00:10:52,000 --> 00:10:56,000
+Just my room, for some reason.
+
+71
+00:10:56,000 --> 00:11:02,000
+So everything is arranged in a completely fucked way that will probably have to change several times.
+
+72
+00:11:02,000 --> 00:11:10,000
+And definitely when I move, which I don't even want to think about that right now.
+
+73
+00:11:10,000 --> 00:11:20,000
+Anyway, the thing I read this casting call for and did an audition for, a voice audition for, was just very stupid.
+
+74
+00:11:20,000 --> 00:11:25,000
+It's an animation that Daft Pina was putting together.
+
+75
+00:11:25,000 --> 00:11:35,000
+He was making like a 13 minute pilot, I guess it's a pilot episode for a series and sounds fucking dumb.
+
+76
+00:11:35,000 --> 00:11:39,000
+Looks fucking dumb.
+
+77
+00:11:39,000 --> 00:11:41,000
+Looks, doesn't look good or anything.
+
+78
+00:11:41,000 --> 00:11:54,000
+I mean, it's some stupid sitcom about, oh god, there's like a, there's like an optimist and a pessimist and their friends.
+
+79
+00:11:54,000 --> 00:11:56,000
+That's great.
+
+80
+00:11:56,000 --> 00:12:03,000
+Classic setup and they like work at a convenience store or something and there's a wacky sidekick.
+
+81
+00:12:03,000 --> 00:12:09,000
+There's a wacky guy that works there with them and there's some more stuff, but it doesn't matter.
+
+82
+00:12:09,000 --> 00:12:22,000
+It seems dumb, but it's the kind of thing that I think I would enjoy maybe working on or doing occasionally.
+
+83
+00:12:22,000 --> 00:12:27,000
+So, you know, on that note, I don't even know how I found this.
+
+84
+00:12:27,000 --> 00:12:29,000
+Maybe someone posted it in my Discord.
+
+85
+00:12:29,000 --> 00:12:31,000
+Maybe I just scrolled past.
+
+86
+00:12:31,000 --> 00:12:38,000
+I don't, I literally, I don't even remember how I saw the notice that like they needed a voice actor for this, this dumb thing.
+
+87
+00:12:38,000 --> 00:12:50,000
+But if anyone knows of any other things that I could like record a little voice sample for and send it off to someone and see if they want to hire me.
+
+88
+00:12:50,000 --> 00:12:59,000
+That's something that I would like to do more of and I don't have any like clear idea of how to find gigs like that.
+
+89
+00:12:59,000 --> 00:13:01,000
+But I think it would be fun.
+
+90
+00:13:01,000 --> 00:13:06,000
+I think it'd be fun to have, I think it'd be fun to voice act stuff.
+
+91
+00:13:06,000 --> 00:13:09,000
+I think I could do an okay job of it.
+
+92
+00:13:09,000 --> 00:13:10,000
+I don't know.
+
+93
+00:13:10,000 --> 00:13:13,000
+I'm not like trained or anything, but like whatever.
+
+94
+00:13:13,000 --> 00:13:15,000
+It's just talking, right?
+
+95
+00:13:15,000 --> 00:13:16,000
+No problem.
+
+96
+00:13:16,000 --> 00:13:18,000
+Nothing to it.
+
+97
+00:13:19,000 --> 00:13:22,000
+Yeah, so that's, that's that.
+
+98
+00:13:22,000 --> 00:13:31,000
+That's the deal with the microphone on the subject of the stream I mentioned a second ago had problems streaming shekels for heckles.
+
+99
+00:13:31,000 --> 00:13:35,000
+Okay, this is very frustrating.
+
+100
+00:13:35,000 --> 00:13:42,000
+So we were going to stream because we had not done in a while because it gives trip and I think we just hadn't done it in a while before.
+
+101
+00:13:42,000 --> 00:13:48,000
+So it had been probably like a month and a half or maybe longer since our last stream.
+
+102
+00:13:48,000 --> 00:13:52,000
+And we were like, okay, Gabe, when you get back from your trip, we should definitely do that.
+
+103
+00:13:52,000 --> 00:14:06,000
+I tried to join the Minecraft server and I was getting an error that I have gotten it before and nobody and nobody else ever gets it and nobody knows why I get it.
+
+104
+00:14:06,000 --> 00:14:11,000
+It was like, oh, fuck, I forget exactly what the it was a text.
+
+105
+00:14:11,000 --> 00:14:27,000
+It would boot me every time I joined the server, I would join for like a second and then it would boot me out to like the like this, the like join server screen and the message was like something exclusion conflict between host and server or something like that.
+
+106
+00:14:28,000 --> 00:14:32,000
+And I could join.
+
+107
+00:14:32,000 --> 00:14:37,000
+It seemed sometimes like it was a problem like I would load into a place where it was like too busy.
+
+108
+00:14:37,000 --> 00:14:49,000
+So sometimes I was able to like join in like like warp to my slime cave, join and then the slime gives you but then sometimes I could run out into like the will or wilderness or jump up onto like a mountain.
+
+109
+00:14:49,000 --> 00:14:55,000
+And then it would work and I would be able to stay in and then once I was in, it would be fine.
+
+110
+00:14:55,000 --> 00:15:05,000
+But if anything, but if I warped anywhere warping would kick me and then once I was out joining again, I have the same problem.
+
+111
+00:15:05,000 --> 00:15:17,000
+And I tried to join like 100 times and I got it to work maybe like twice the whole stream and then I foolishly warped and that kicked me and then I was like I tried another 50 times and I was like it's not working.
+
+112
+00:15:18,000 --> 00:15:28,000
+So had to had to had to cut the losses had to cut the losses on that one and decided to just play Mega Man instead of Minecraft, which was fine.
+
+113
+00:15:28,000 --> 00:15:43,000
+But I did, you know, there's stuff to do in the Minecraft because like remarkably like like like Marin and others like Demodunk that work on that have done some work in the Minecraft server and they have put stuff in there.
+
+114
+00:15:43,000 --> 00:15:49,000
+There's like there's content to be consumed in the Minecraft server, if you can even believe that.
+
+115
+00:15:49,000 --> 00:15:54,000
+patreon.com slash the procrastinators join the Minecraft server.
+
+116
+00:15:54,000 --> 00:15:55,000
+Once I get to work.
+
+117
+00:15:55,000 --> 00:16:03,000
+Also, if you could just play it yourself, you can just ask Marin like hey, where do I go to fight some of these gyms that I have battled on the stream.
+
+118
+00:16:03,000 --> 00:16:05,000
+There's themed gyms and stuff.
+
+119
+00:16:05,000 --> 00:16:07,000
+Okay, anyway, I couldn't get this fucking thing to work.
+
+120
+00:16:07,000 --> 00:16:16,000
+So I tried switching, so I tried switching my network for my regular network to my Wi-Fi hotspot for my phone.
+
+121
+00:16:16,000 --> 00:16:20,000
+And this was kind of stupid, but I was like just to see if maybe there's something about my network that's wrong.
+
+122
+00:16:20,000 --> 00:16:25,000
+I tried switching to my Wi-Fi hotspot and that obviously didn't work.
+
+123
+00:16:25,000 --> 00:16:34,000
+And it introduced a bunch of new problems because I tried to switch back, but it like automatically kept me on my Wi-Fi.
+
+124
+00:16:34,000 --> 00:16:36,000
+Why do I have so much trouble saying it?
+
+125
+00:16:36,000 --> 00:16:39,000
+My Wi-Fi hotspot network.
+
+126
+00:16:39,000 --> 00:16:43,000
+And then once I was streaming through my Wi-Fi hotspot network, obviously that was bad, obviously that didn't work.
+
+127
+00:16:43,000 --> 00:16:51,000
+The stream like crashed several times and I didn't realize it was because I was on this other hotspot.
+
+128
+00:16:51,000 --> 00:16:54,000
+So then I thought that my main network was having all these problems.
+
+129
+00:16:54,000 --> 00:16:56,000
+In fact, it was only having the one problem.
+
+130
+00:16:56,000 --> 00:17:00,000
+So I tried streaming for the first time in more than two years.
+
+131
+00:17:00,000 --> 00:17:03,000
+I streamed on my Twitch channel.
+
+132
+00:17:03,000 --> 00:17:06,000
+I think it's at twitch.tv slash bensaint.
+
+133
+00:17:06,000 --> 00:17:09,000
+I think it's just bensaint is my ad on there.
+
+134
+00:17:09,000 --> 00:17:14,000
+And I was dismayed because all of a sudden it was streaming. It was so bad.
+
+135
+00:17:14,000 --> 00:17:16,000
+It was so bad the stream was unwatchably laggy.
+
+136
+00:17:16,000 --> 00:17:19,000
+The stream was dropping frames, blah, blah, blah.
+
+137
+00:17:19,000 --> 00:17:26,000
+I realized after a bit that, oh no, it's because it's still on my fucking mobile hotspot.
+
+138
+00:17:26,000 --> 00:17:29,000
+So that's why it's that bad.
+
+139
+00:17:29,000 --> 00:17:35,000
+So I switched back to my regular network and my stream quality is still not amazing.
+
+140
+00:17:35,000 --> 00:17:40,000
+But it does work. It is watchable at least.
+
+141
+00:17:40,000 --> 00:17:46,000
+And I remembered that when I moved into this house, I don't have a landline.
+
+142
+00:17:46,000 --> 00:17:49,000
+I only have Wi-Fi in here, which is bad. That's not good.
+
+143
+00:17:49,000 --> 00:17:54,000
+But when I moved in here, I was having significant internet problems.
+
+144
+00:17:54,000 --> 00:18:01,000
+I could use the internet, but every couple days I would have a long period where it would not be usable.
+
+145
+00:18:01,000 --> 00:18:02,000
+And I was like, that's a problem.
+
+146
+00:18:02,000 --> 00:18:09,000
+So me and another guy that lived here decided to split the cost of a Wi-Fi extender.
+
+147
+00:18:09,000 --> 00:18:12,000
+And he installed that and it worked.
+
+148
+00:18:12,000 --> 00:18:17,000
+And I was, you know, the major problems were solved by that.
+
+149
+00:18:17,000 --> 00:18:21,000
+And he moved out like a couple months ago.
+
+150
+00:18:21,000 --> 00:18:26,000
+I guess he took the Wi-Fi extender with him, but I didn't have any more problems regardless.
+
+151
+00:18:26,000 --> 00:18:30,000
+Like the Wi-Fi has been adequate.
+
+152
+00:18:30,000 --> 00:18:33,000
+I have not had that problem, even though that extender is gone.
+
+153
+00:18:33,000 --> 00:18:36,000
+So it should be back to how it was before, but it's not.
+
+154
+00:18:36,000 --> 00:18:41,000
+I have not had those long periods of can't access the internet or like signal to week or whatever.
+
+155
+00:18:41,000 --> 00:18:44,000
+So I don't know what's going on with that.
+
+156
+00:18:44,000 --> 00:18:48,000
+And I was thinking about buying another Wi-Fi extender.
+
+157
+00:18:48,000 --> 00:18:51,000
+I don't know if it would really matter.
+
+158
+00:18:51,000 --> 00:18:55,000
+I'm not sure if that would really solve the server issue.
+
+159
+00:18:55,000 --> 00:18:57,000
+Like, I don't know.
+
+160
+00:18:57,000 --> 00:18:58,000
+I don't see why it would.
+
+161
+00:18:58,000 --> 00:19:00,000
+Because the signal is okay.
+
+162
+00:19:00,000 --> 00:19:04,000
+Even though it's not the best and Wi-Fi is not great.
+
+163
+00:19:04,000 --> 00:19:08,000
+And I wish it wasn't restricted to using Wi-Fi, but in this house I am.
+
+164
+00:19:08,000 --> 00:19:16,000
+And I need to get a new house so I can have a better connection for that reason and others.
+
+165
+00:19:16,000 --> 00:19:23,000
+But I could buy the extender.
+
+166
+00:19:23,000 --> 00:19:24,000
+It's not that expensive.
+
+167
+00:19:24,000 --> 00:19:26,000
+Wait, no, I think I did.
+
+168
+00:19:26,000 --> 00:19:29,000
+I bought the cheapest extender Amazon offers for like 25 bucks.
+
+169
+00:19:29,000 --> 00:19:31,000
+So I don't know.
+
+170
+00:19:31,000 --> 00:19:36,000
+There might not even be a purpose to it since my internet is already good enough to stream successfully.
+
+171
+00:19:36,000 --> 00:19:37,000
+A Wi-Fi extender.
+
+172
+00:19:37,000 --> 00:19:39,000
+I'll still be streaming on Wi-Fi.
+
+173
+00:19:39,000 --> 00:19:41,000
+Like my connection still won't be good.
+
+174
+00:19:41,000 --> 00:19:43,000
+So I'll probably just waste the 20 bucks there.
+
+175
+00:19:43,000 --> 00:19:44,000
+Oops.
+
+176
+00:19:44,000 --> 00:19:51,000
+But I'm trying to make the best out of my situation for the moment.
+
+177
+00:19:51,000 --> 00:19:57,000
+Yeah, that's my internet situation.
+
+178
+00:19:57,000 --> 00:20:09,000
+If anyone has any suggestions about that server issue, I guess maybe message MarinPan.
+
+179
+00:20:10,000 --> 00:20:12,000
+I don't know.
+
+180
+00:20:12,000 --> 00:20:17,000
+Nobody in the stream had any suggestions that fixed it.
+
+181
+00:20:17,000 --> 00:20:23,000
+People said, oh, reset your router, which I tried doing.
+
+182
+00:20:23,000 --> 00:20:27,000
+Although I wonder if resetting the router...
+
+183
+00:20:27,000 --> 00:20:36,000
+Okay, now I'm wondering if when I reset the router, I'm almost positive that yes, I did reset the router and then switch back from the hotspot to the other thing.
+
+184
+00:20:36,000 --> 00:20:47,000
+Now I'm wondering if was I still on my Wi-Fi hotspot when I was trying to rejoin after resetting the router?
+
+185
+00:20:47,000 --> 00:20:51,000
+I don't think so, but maybe.
+
+186
+00:20:51,000 --> 00:20:55,000
+I'm not sure.
+
+187
+00:20:55,000 --> 00:20:56,000
+I don't know.
+
+188
+00:20:56,000 --> 00:20:59,000
+I could try joining it just on my own time and see if it works.
+
+189
+00:20:59,000 --> 00:21:05,000
+Only I'm pretty sure that the exclusion tends to happen when I'm also streaming.
+
+190
+00:21:05,000 --> 00:21:12,000
+Well, I was getting it when I was testing the connection before I started the stream too.
+
+191
+00:21:12,000 --> 00:21:14,000
+So it wasn't just because I was also streaming.
+
+192
+00:21:14,000 --> 00:21:18,000
+It wasn't just that.
+
+193
+00:21:18,000 --> 00:21:19,000
+I don't know.
+
+194
+00:21:19,000 --> 00:21:20,000
+A lot of variables.
+
+195
+00:21:20,000 --> 00:21:25,000
+Maybe I should just try to join again and see if maybe resetting the router did solve it.
+
+196
+00:21:25,000 --> 00:21:29,000
+And I just haven't noticed yet because I wasn't using the right network.
+
+197
+00:21:29,000 --> 00:21:30,000
+So frustrating.
+
+198
+00:21:30,000 --> 00:21:32,000
+Very infuriating.
+
+199
+00:21:32,000 --> 00:21:36,000
+I hate computers.
+
+200
+00:21:36,000 --> 00:21:38,000
+Oh, hello.
+
+201
+00:21:38,000 --> 00:21:42,000
+CeCe, you have an announcement, right?
+
+202
+00:21:42,000 --> 00:21:43,000
+Yeah.
+
+203
+00:21:43,000 --> 00:21:46,000
+Volume two of Tails gets trolled.
+
+204
+00:21:46,000 --> 00:21:48,000
+Physical is out.
+
+205
+00:21:48,000 --> 00:21:50,000
+Base, base, base.
+
+206
+00:21:50,000 --> 00:22:00,000
+I saw you notified me on Discord and I thought, hey, that's noteworthy.
+
+207
+00:22:00,000 --> 00:22:02,000
+That's notable.
+
+208
+00:22:02,000 --> 00:22:03,000
+Yeah.
+
+209
+00:22:03,000 --> 00:22:08,000
+It's a coincidence that it came out like right before PCP records.
+
+210
+00:22:08,000 --> 00:22:09,000
+Oh, yeah.
+
+211
+00:22:09,000 --> 00:22:10,000
+I guess so.
+
+212
+00:22:10,000 --> 00:22:11,000
+Lamar.
+
+213
+00:22:11,000 --> 00:22:12,000
+Yeah.
+
+214
+00:22:12,000 --> 00:22:16,000
+Tell us about Book Two.
+
+215
+00:22:16,000 --> 00:22:22,000
+Book Two contains chapters seven through 14.
+
+216
+00:22:23,000 --> 00:22:30,000
+So the last one ended at right before Mario and Troll King were about to battle.
+
+217
+00:22:30,000 --> 00:22:36,000
+And then chapter two goes through the, or excuse me, volume two goes through the famous
+
+218
+00:22:36,000 --> 00:22:42,000
+Neutrals flashback where you find out how the Neutrals got their powers.
+
+219
+00:22:42,000 --> 00:22:43,000
+Okay.
+
+220
+00:22:43,000 --> 00:22:47,000
+Wait, you said it's seven through 14?
+
+221
+00:22:47,000 --> 00:22:48,000
+Yes.
+
+222
+00:22:48,000 --> 00:22:49,000
+Yeah.
+
+223
+00:22:49,000 --> 00:22:52,000
+Flashback, the Tom face.
+
+224
+00:22:52,000 --> 00:22:53,000
+Yeah.
+
+225
+00:22:53,000 --> 00:22:57,000
+Chapter 14 is, what happens in chapter 14?
+
+226
+00:22:57,000 --> 00:23:03,000
+That's when they start to like invade the Troll Fortress because they have to rescue Elmer Fudd.
+
+227
+00:23:03,000 --> 00:23:04,000
+Yes.
+
+228
+00:23:04,000 --> 00:23:10,000
+It's, okay, I'm seeing, oh, it's, this is Coyote versus Demaro.
+
+229
+00:23:10,000 --> 00:23:13,000
+I'm seeing the red, the red sky, right?
+
+230
+00:23:13,000 --> 00:23:15,000
+Yeah, and Rob versus Hindo.
+
+231
+00:23:15,000 --> 00:23:16,000
+Yes.
+
+232
+00:23:16,000 --> 00:23:18,000
+Yes, yes.
+
+233
+00:23:18,000 --> 00:23:23,000
+Wait, does this part have like Tails gets gay in it or?
+
+234
+00:23:23,000 --> 00:23:24,000
+No.
+
+235
+00:23:24,000 --> 00:23:26,000
+Tails gets anime or?
+
+236
+00:23:26,000 --> 00:23:32,000
+The, the next volume might have that, but if you do it like chronologically, it, he didn't
+
+237
+00:23:32,000 --> 00:23:35,000
+make Tails gets gay until like chapter 15.
+
+238
+00:23:35,000 --> 00:23:36,000
+Oh, well.
+
+239
+00:23:36,000 --> 00:23:37,000
+Okay, sorry.
+
+240
+00:23:37,000 --> 00:23:41,000
+So I saw the part where Rob like dies, but it's like just a trick and I thought there
+
+241
+00:23:41,000 --> 00:23:42,000
+might be like a.
+
+242
+00:23:42,000 --> 00:23:46,000
+That's also in chapter 15, I think, or chapter 16.
+
+243
+00:23:46,000 --> 00:23:50,000
+No, no, I'm looking at chapter 14, chapter 14, page 18.
+
+244
+00:23:50,000 --> 00:23:55,000
+Hindo says time to die and the electrocutes Rob and Rob explodes.
+
+245
+00:23:55,000 --> 00:23:57,000
+Says I knew he was weak.
+
+246
+00:23:57,000 --> 00:23:59,000
+I almost thought for a second he was going to give me a challenge.
+
+247
+00:23:59,000 --> 00:24:01,000
+What a shame.
+
+248
+00:24:01,000 --> 00:24:07,000
+And then there's like a long monologue on the next page and then he pisses on Rob and then
+
+249
+00:24:07,000 --> 00:24:10,000
+the black sound is, I just had the worst daydream ever.
+
+250
+00:24:10,000 --> 00:24:12,000
+I need to, okay, okay.
+
+251
+00:24:12,000 --> 00:24:15,000
+Yeah, it was just a daydream.
+
+252
+00:24:15,000 --> 00:24:21,000
+Oh, I guess I fucked up then because it's chapters seven through 13.
+
+253
+00:24:21,000 --> 00:24:25,000
+Like it ends at the beginning of chapter 14.
+
+254
+00:24:25,000 --> 00:24:28,000
+So yeah, I fucked that up.
+
+255
+00:24:28,000 --> 00:24:30,000
+I guess you fucked that up.
+
+256
+00:24:30,000 --> 00:24:34,000
+Yeah, I need to change, change the description.
+
+257
+00:24:34,000 --> 00:24:42,000
+I mean, yeah, it's not that big a deal, but okay, fair enough.
+
+258
+00:24:42,000 --> 00:24:43,000
+Right.
+
+259
+00:24:43,000 --> 00:24:47,000
+At the end of chapter 13, I'm seeing Gary versus Damara.
+
+260
+00:24:47,000 --> 00:24:48,000
+Wait, no.
+
+261
+00:24:48,000 --> 00:24:50,000
+Rob versus Hindo.
+
+262
+00:24:50,000 --> 00:24:52,000
+No, that's the end of chapter 12.
+
+263
+00:24:52,000 --> 00:24:53,000
+Yeah.
+
+264
+00:24:53,000 --> 00:24:54,000
+Yeah, okay.
+
+265
+00:24:54,000 --> 00:24:55,000
+I'm just clicking around.
+
+266
+00:24:55,000 --> 00:24:59,000
+My page was in chapter 24, right?
+
+267
+00:24:59,000 --> 00:25:00,000
+25.
+
+268
+00:25:00,000 --> 00:25:02,000
+25, okay.
+
+269
+00:25:02,000 --> 00:25:07,000
+I actually made a part from your page to the thumbnail on the website.
+
+270
+00:25:07,000 --> 00:25:09,000
+Oh, the chapter?
+
+271
+00:25:09,000 --> 00:25:10,000
+Yeah.
+
+272
+00:25:10,000 --> 00:25:12,000
+Oh, wait, that's based.
+
+273
+00:25:12,000 --> 00:25:13,000
+Yeah.
+
+274
+00:25:13,000 --> 00:25:16,000
+Oh, yeah, it is.
+
+275
+00:25:16,000 --> 00:25:18,000
+That's so cool.
+
+276
+00:25:18,000 --> 00:25:19,000
+Yeah.
+
+277
+00:25:19,000 --> 00:25:22,000
+Here, here I'll post a screenshot.
+
+278
+00:25:22,000 --> 00:25:25,000
+Yeah, this is what the website looks like right now.
+
+279
+00:25:25,000 --> 00:25:28,000
+Hey, that's awesome.
+
+280
+00:25:28,000 --> 00:25:29,000
+Yeah.
+
+281
+00:25:29,000 --> 00:25:30,000
+Sick.
+
+282
+00:25:30,000 --> 00:25:31,000
+Cool.
+
+283
+00:25:31,000 --> 00:25:32,000
+Yeah.
+
+284
+00:25:32,000 --> 00:25:34,000
+Oh, you go ahead.
+
+285
+00:25:34,000 --> 00:25:35,000
+No.
+
+286
+00:25:35,000 --> 00:25:36,000
+You.
+
+287
+00:25:36,000 --> 00:25:37,000
+Okay.
+
+288
+00:25:37,000 --> 00:25:38,000
+Okay.
+
+289
+00:25:38,000 --> 00:25:42,000
+I was going to, I was going to say in a, Tails gets told news, a big event that happened.
+
+290
+00:25:42,000 --> 00:25:46,000
+Is that a Ember Graham left?
+
+291
+00:25:46,000 --> 00:25:49,000
+I, I know about that.
+
+292
+00:25:49,000 --> 00:25:57,500
+I think, I think, I don't know if you were on to talk about it, but I was, I was like
+
+293
+00:25:57,500 --> 00:26:02,000
+in the chat when that happened or not in the chat, but I saw that on the, in the Discord
+
+294
+00:26:02,000 --> 00:26:03,000
+server.
+
+295
+00:26:03,000 --> 00:26:04,000
+Yeah.
+
+296
+00:26:04,000 --> 00:26:05,000
+Yeah.
+
+297
+00:26:06,000 --> 00:26:08,000
+So he's still gone.
+
+298
+00:26:08,000 --> 00:26:09,000
+Yeah.
+
+299
+00:26:09,000 --> 00:26:10,000
+Bummer.
+
+300
+00:26:10,000 --> 00:26:13,000
+I don't think he's coming back.
+
+301
+00:26:13,000 --> 00:26:16,000
+Uh, lame.
+
+302
+00:26:16,000 --> 00:26:26,000
+Yeah, but at least laser bot and his other brother are there in charge of all the shit
+
+303
+00:26:26,000 --> 00:26:27,000
+going on now.
+
+304
+00:26:27,000 --> 00:26:28,000
+Yeah.
+
+305
+00:26:28,000 --> 00:26:32,000
+I mean, the show must go on.
+
+306
+00:26:32,000 --> 00:26:33,000
+I guess.
+
+307
+00:26:33,000 --> 00:26:34,000
+Yeah.
+
+308
+00:26:34,000 --> 00:26:42,160
+I mean, I mean, I know, I know Ember Graham was pretty, pretty instrumental in a lot of
+
+309
+00:26:42,160 --> 00:26:51,000
+it beforehand, but I don't know if he doesn't want to work on it and what can you do?
+
+310
+00:26:51,000 --> 00:27:00,000
+Um, well, I, anyone who picked up chapter one should definitely pick up chapter two
+
+311
+00:27:00,000 --> 00:27:01,000
+of the book.
+
+312
+00:27:01,000 --> 00:27:07,000
+Anyone who has not, did not pick up chapter one should probably do that so that they can
+
+313
+00:27:07,000 --> 00:27:10,000
+start working on their, on their book collection.
+
+314
+00:27:10,000 --> 00:27:11,000
+Yeah.
+
+315
+00:27:11,000 --> 00:27:18,000
+How many, how many pages is a, is one chapter or one volume rather?
+
+316
+00:27:18,000 --> 00:27:24,000
+Chapter one was like 140 pages and this one is 160.
+
+317
+00:27:24,000 --> 00:27:25,000
+Okay.
+
+318
+00:27:25,000 --> 00:27:26,000
+So it's pretty like.
+
+319
+00:27:26,000 --> 00:27:27,000
+Good thing.
+
+320
+00:27:27,000 --> 00:27:33,000
+I think, um, Gib, Gib just gave me a copy of Lord of Ghosts and that's like a hundred
+
+321
+00:27:33,000 --> 00:27:35,000
+and something, maybe 120.
+
+322
+00:27:35,000 --> 00:27:38,000
+So it's a little longer than that.
+
+323
+00:27:38,000 --> 00:27:40,000
+That's pretty, that's pretty sizable.
+
+324
+00:27:40,000 --> 00:27:47,000
+Like it's, it's a pretty like, like for a, like for a comic, it's a pretty, it's like,
+
+325
+00:27:47,000 --> 00:27:49,000
+it's like a thin softcover book.
+
+326
+00:27:49,000 --> 00:27:50,000
+Yeah.
+
+327
+00:27:50,000 --> 00:27:51,000
+Yeah.
+
+328
+00:27:51,000 --> 00:27:55,000
+It's not like a, like a staple bound volume.
+
+329
+00:27:55,000 --> 00:27:56,000
+It's a sizable book.
+
+330
+00:27:56,000 --> 00:27:57,000
+Yeah.
+
+331
+00:27:57,000 --> 00:28:03,000
+When I made volume one, uh, you couldn't make hardback, uh, books, but now you can.
+
+332
+00:28:03,000 --> 00:28:09,500
+So maybe if, if Tails gets trolled, if Tails gets trolled, gets, uh, like a million dollars
+
+333
+00:28:09,500 --> 00:28:16,000
+and like gets a show on an adult swim or something, you can make a hard, hardcover book with all
+
+334
+00:28:16,000 --> 00:28:19,000
+50 chapters or however many chapters it'll be.
+
+335
+00:28:19,000 --> 00:28:20,000
+Oh yeah.
+
+336
+00:28:20,000 --> 00:28:24,500
+Like, um, like, like, what, what, what would you call it?
+
+337
+00:28:24,500 --> 00:28:25,500
+Like the, the, like the-
+
+338
+00:28:25,500 --> 00:28:26,500
+The omnibus.
+
+339
+00:28:26,500 --> 00:28:29,500
+The ultimate, ultimate, oh yeah, omnibus.
+
+340
+00:28:29,500 --> 00:28:30,500
+Yeah.
+
+341
+00:28:30,500 --> 00:28:32,500
+The compendium or whatever.
+
+342
+00:28:32,500 --> 00:28:33,500
+Yeah.
+
+343
+00:28:33,500 --> 00:28:34,500
+Hard, hardcover guy.
+
+344
+00:28:34,500 --> 00:28:35,500
+That's good.
+
+345
+00:28:35,500 --> 00:28:36,500
+That's good.
+
+346
+00:28:36,500 --> 00:28:38,500
+But I, but I imagine that would be pretty expensive.
+
+347
+00:28:38,500 --> 00:28:39,500
+Uh, yeah.
+
+348
+00:28:39,500 --> 00:28:40,500
+I mean-
+
+349
+00:28:40,500 --> 00:28:44,500
+Cause even, even the, even these volumes take like, uh, I don't remember the exact price,
+
+350
+00:28:44,500 --> 00:28:49,500
+but I think they're like around like 12 to 15 dollars to produce.
+
+351
+00:28:49,500 --> 00:28:53,500
+You're using, uh, are you using like a print, you're using like a print on demand, like,
+
+352
+00:28:53,500 --> 00:28:56,500
+like Lulu or Amazon books, right?
+
+353
+00:28:56,500 --> 00:28:57,500
+Yeah.
+
+354
+00:28:57,500 --> 00:28:58,500
+Yeah.
+
+355
+00:28:58,500 --> 00:28:59,500
+Yeah.
+
+356
+00:28:59,500 --> 00:29:00,500
+Well, what, what a hypocrite.
+
+357
+00:29:00,500 --> 00:29:05,500
+He criticizes Jeff Bezos, but uses his, uh, uses his service.
+
+358
+00:29:05,500 --> 00:29:10,500
+You live in a, you, you criticize Bezos and yet you participate in him.
+
+359
+00:29:10,500 --> 00:29:11,500
+Um.
+
+360
+00:29:11,500 --> 00:29:12,500
+Yeah.
+
+361
+00:29:12,500 --> 00:29:17,500
+The, well you, do you mind if I ask like how many copies volume once sold?
+
+362
+00:29:17,500 --> 00:29:18,500
+Um, a lot.
+
+363
+00:29:18,500 --> 00:29:19,500
+I mean, I can check right now.
+
+364
+00:29:19,500 --> 00:29:22,500
+I don't know the exact number from the top of my head.
+
+365
+00:29:22,500 --> 00:29:23,500
+You, but-
+
+366
+00:29:23,500 --> 00:29:26,500
+You want to give him like a ballpark, like, set, like several hundred?
+
+367
+00:29:26,500 --> 00:29:27,500
+Yeah.
+
+368
+00:29:27,500 --> 00:29:29,500
+At least, at least several, several hundred.
+
+369
+00:29:29,500 --> 00:29:30,500
+Fuck.
+
+370
+00:29:30,500 --> 00:29:32,500
+So several hundred.
+
+371
+00:29:32,500 --> 00:29:35,500
+Well, hmm, I mean, hmm.
+
+372
+00:29:35,500 --> 00:29:39,500
+I can check right, I, I can check right now.
+
+373
+00:29:39,500 --> 00:29:46,500
+If you expect, if you expect to move that many copies, uh, I don't know.
+
+374
+00:29:47,500 --> 00:29:50,500
+I guess that like, you're selling one on Amazon.
+
+375
+00:29:50,500 --> 00:29:57,500
+You probably want to sell them all through the same vendor, but did you, did you consider
+
+376
+00:29:57,500 --> 00:30:02,500
+the possibility of maybe like, instead of selling them print on demand one, one at a time, you
+
+377
+00:30:02,500 --> 00:30:10,500
+could like pre-print like a batch of them through like something like Mixam or, uh,
+
+378
+00:30:10,500 --> 00:30:13,500
+uh, or Kablam or something like that.
+
+379
+00:30:13,500 --> 00:30:19,500
+Cause it was usually cheaper to print like a bulk batch ahead of time, you know, per
+
+380
+00:30:19,500 --> 00:30:20,500
+copy.
+
+381
+00:30:20,500 --> 00:30:22,500
+Maybe, maybe they already do that.
+
+382
+00:30:22,500 --> 00:30:23,500
+I don't know.
+
+383
+00:30:23,500 --> 00:30:26,500
+I'm, no, I'm telling, I'm telling you, I'm saying to you.
+
+384
+00:30:26,500 --> 00:30:33,500
+I mean, the downside would be if you did that, that you would have to like have boxes of
+
+385
+00:30:33,500 --> 00:30:35,500
+books that you would have to like hang on.
+
+386
+00:30:35,500 --> 00:30:36,500
+Oh yeah.
+
+387
+00:30:36,500 --> 00:30:41,500
+And you would, and you would also have to like ship them yourself, which actually is quite
+
+388
+00:30:41,500 --> 00:30:42,500
+a hassle.
+
+389
+00:30:42,500 --> 00:30:45,500
+And I understand if you wouldn't want to do that.
+
+390
+00:30:45,500 --> 00:30:46,500
+Yeah.
+
+391
+00:30:46,500 --> 00:30:50,500
+Even if it costs more, the convenience of it is worth the money.
+
+392
+00:30:50,500 --> 00:30:51,500
+You know what?
+
+393
+00:30:51,500 --> 00:30:52,500
+In my opinion.
+
+394
+00:30:52,500 --> 00:30:54,500
+That's, that's totally fair.
+
+395
+00:30:54,500 --> 00:31:01,500
+And also, uh, and also a volume two as, or volume one has sold 798 copies.
+
+396
+00:31:01,500 --> 00:31:03,500
+700, almost 800.
+
+397
+00:31:03,500 --> 00:31:04,500
+Wow.
+
+398
+00:31:04,500 --> 00:31:05,500
+That's pretty good.
+
+399
+00:31:05,500 --> 00:31:06,500
+Yeah.
+
+400
+00:31:06,500 --> 00:31:09,500
+That's, that's, damn.
+
+401
+00:31:09,500 --> 00:31:13,500
+Uh, count, countdown to a thousand, I guess.
+
+402
+00:31:13,500 --> 00:31:14,500
+Yeah.
+
+403
+00:31:14,500 --> 00:31:18,500
+You guys should throw a party or something when you get that.
+
+404
+00:31:18,500 --> 00:31:19,500
+That's a lot.
+
+405
+00:31:19,500 --> 00:31:22,500
+That's more than I, that's more than I expected.
+
+406
+00:31:22,500 --> 00:31:24,500
+Uh, congratulations on that.
+
+407
+00:31:24,500 --> 00:31:25,500
+Yeah.
+
+408
+00:31:25,500 --> 00:31:31,500
+And of course, the large majority, well, not the majority, the plurality of them was sold
+
+409
+00:31:31,500 --> 00:31:33,500
+in the first month.
+
+410
+00:31:33,500 --> 00:31:34,500
+Oh, sure.
+
+411
+00:31:34,500 --> 00:31:35,500
+Yeah.
+
+412
+00:31:36,500 --> 00:31:37,500
+Yeah.
+
+413
+00:31:37,500 --> 00:31:41,500
+Uh, and I was, I was really surprised because it sold like way more than they thought it
+
+414
+00:31:41,500 --> 00:31:42,500
+would.
+
+415
+00:31:42,500 --> 00:31:43,500
+Yeah.
+
+416
+00:31:43,500 --> 00:31:52,500
+Well, um, I don't know, maybe, maybe the existence of book two will get some people to
+
+417
+00:31:52,500 --> 00:31:59,500
+wake some people up from there, from their torpor, wake up the sheeple and let them know
+
+418
+00:31:59,500 --> 00:32:03,500
+this is real, this is collectible and I got to get in on the ground floor because this
+
+419
+00:32:03,500 --> 00:32:05,500
+shit is going to the moon, baby.
+
+420
+00:32:05,500 --> 00:32:06,500
+Yeah.
+
+421
+00:32:06,500 --> 00:32:11,500
+They need to be like more woke because, you know, that's a big issue these days.
+
+422
+00:32:11,500 --> 00:32:13,500
+I would, I would agree.
+
+423
+00:32:13,500 --> 00:32:16,500
+I'm so tired of the woke CRT grooming.
+
+424
+00:32:16,500 --> 00:32:18,500
+I, I don't know.
+
+425
+00:32:18,500 --> 00:32:19,500
+I'm kind of a fan.
+
+426
+00:32:19,500 --> 00:32:22,500
+I'm kind of a fan of grooming in schools.
+
+427
+00:32:22,500 --> 00:32:28,500
+I'm kind of a fan of, I'm kind of a fan of, uh, trans, trans, what's, no, what was the
+
+428
+00:32:28,500 --> 00:32:29,500
+phrase?
+
+429
+00:32:29,500 --> 00:32:33,500
+Not drag queens, but, uh, trans, not transgender.
+
+430
+00:32:33,500 --> 00:32:35,500
+What's the other word?
+
+431
+00:32:35,500 --> 00:32:39,500
+Uh, transvestite strippers, transvestite strippers in schools.
+
+432
+00:32:39,500 --> 00:32:40,500
+Yeah.
+
+433
+00:32:40,500 --> 00:32:41,500
+Much better.
+
+434
+00:32:41,500 --> 00:32:42,500
+Yeah.
+
+435
+00:32:42,500 --> 00:32:44,500
+Um, and tell us what's trolled is.
+
+436
+00:32:44,500 --> 00:32:46,500
+Is it part of that?
+
+437
+00:32:46,500 --> 00:32:47,500
+Yeah.
+
+438
+00:32:47,500 --> 00:32:51,500
+Tell us what's trolled is part of the radical left brainwashing initiative.
+
+439
+00:32:51,500 --> 00:32:55,500
+Yeah, they should, it should be required reading in all schools.
+
+440
+00:32:55,500 --> 00:33:02,500
+Put, put ask your school librarian to put tales gets trolled in the school library.
+
+441
+00:33:02,500 --> 00:33:08,500
+Start grooming your fellow students.
+
+442
+00:33:08,500 --> 00:33:09,500
+Yeah.
+
+443
+00:33:09,500 --> 00:33:16,500
+Uh, you know, some, some conservatives would unironically think the thing, the joke about
+
+444
+00:33:16,500 --> 00:33:19,500
+they're deader than a black guy in a town of racist red necks.
+
+445
+00:33:19,500 --> 00:33:21,500
+They'll be like, Oh, that's CRT.
+
+446
+00:33:21,500 --> 00:33:22,500
+You can't do that to kids.
+
+447
+00:33:22,500 --> 00:33:23,500
+Oh, that's true.
+
+448
+00:33:23,500 --> 00:33:24,500
+That's true.
+
+449
+00:33:24,500 --> 00:33:26,500
+Well, very, very good.
+
+450
+00:33:26,500 --> 00:33:31,500
+I also, uh, just this is just like one thing I wanted to say, like real quick.
+
+451
+00:33:31,500 --> 00:33:36,500
+I don't want to get too, too political, but it's funny how there's like the meme of, you
+
+452
+00:33:36,500 --> 00:33:41,500
+know, I support the current thing and like the meme of, uh, the big red hand.
+
+453
+00:33:41,500 --> 00:33:42,500
+Yeah.
+
+454
+00:33:42,500 --> 00:33:43,500
+Put the chip meme.
+
+455
+00:33:43,500 --> 00:33:44,500
+Exactly.
+
+456
+00:33:44,500 --> 00:33:45,500
+Put the chip, put in the chip.
+
+457
+00:33:45,500 --> 00:33:47,500
+And PC, but they're, they're the exact same way.
+
+458
+00:33:47,500 --> 00:33:49,500
+First it was like CRT.
+
+459
+00:33:49,500 --> 00:33:50,500
+Oh, sure.
+
+460
+00:33:50,500 --> 00:33:51,500
+Now it's grooming.
+
+461
+00:33:51,500 --> 00:33:55,500
+You know, I was, it, I mean, it is, yeah, there's some stupid thing.
+
+462
+00:33:55,500 --> 00:33:59,500
+Uh, the, the, do you remember Muslim grooming gangs?
+
+463
+00:33:59,500 --> 00:34:00,500
+Oh yeah.
+
+464
+00:34:00,500 --> 00:34:06,500
+That was a big meme in like 2015 in the, in the, yeah, like around Gamergate time.
+
+465
+00:34:06,500 --> 00:34:12,500
+It was, it was, I remember, like just the word grooming, like triggered a neuron activation.
+
+466
+00:34:12,500 --> 00:34:18,500
+And I remember like, wait a minute, they used to say grooming about people like Sargon of
+
+467
+00:34:18,500 --> 00:34:22,500
+God used to claim that there were like quote unquote Muslim grooming gangs.
+
+468
+00:34:22,500 --> 00:34:29,500
+Like there were gangs of guys going around, I don't know, like befriending young girls
+
+469
+00:34:29,500 --> 00:34:33,500
+and preparing them for sex when they reached legal age or something.
+
+470
+00:34:33,500 --> 00:34:34,500
+Yeah.
+
+471
+00:34:34,500 --> 00:34:37,500
+Well, they, they, they, they lost that battle.
+
+472
+00:34:37,500 --> 00:34:40,500
+So now it's, now it's the gays who are the groomers.
+
+473
+00:34:40,500 --> 00:34:41,500
+Yeah.
+
+474
+00:34:41,500 --> 00:34:44,500
+But someone's grooming, someone's always grooming.
+
+475
+00:34:44,500 --> 00:34:45,500
+Yeah.
+
+476
+00:34:45,500 --> 00:34:53,500
+I'm looking for it to gay marriage being illegal because that's the Supreme Court is going to,
+
+477
+00:34:53,500 --> 00:34:56,500
+it's just going to take away all our rights.
+
+478
+00:34:56,500 --> 00:34:59,500
+Finally, the sanctity of marriage will be restored.
+
+479
+00:34:59,500 --> 00:35:00,500
+Yeah.
+
+480
+00:35:00,500 --> 00:35:06,500
+I wonder, I wonder if they'll like annul all the gay marriages that already happened.
+
+481
+00:35:06,500 --> 00:35:10,500
+Oh, like they're going to annul them retroactively?
+
+482
+00:35:10,500 --> 00:35:11,500
+Yeah.
+
+483
+00:35:11,500 --> 00:35:13,500
+That'll be, that'll be fucked.
+
+484
+00:35:13,500 --> 00:35:14,500
+Yeah.
+
+485
+00:35:14,500 --> 00:35:16,500
+I mean, but I guess it's already fucked.
+
+486
+00:35:16,500 --> 00:35:17,500
+Yeah.
+
+487
+00:35:17,500 --> 00:35:19,500
+They're already repealing Roe versus Wade, it's already fucked.
+
+488
+00:35:19,500 --> 00:35:21,500
+Yeah, that's, that's what I was referencing.
+
+489
+00:35:21,500 --> 00:35:25,500
+Like the exact same argument they used to repeal, that could be used to repeal like any rights
+
+490
+00:35:25,500 --> 00:35:30,500
+that they gave people, including interracial marriage.
+
+491
+00:35:30,500 --> 00:35:33,500
+Well, the Constitution doesn't say anything about interracial marriage.
+
+492
+00:35:33,500 --> 00:35:36,500
+So, you know, it shouldn't be legal.
+
+493
+00:35:36,500 --> 00:35:39,500
+Hey, next, next one, that's next up.
+
+494
+00:35:39,500 --> 00:35:40,500
+Yeah.
+
+495
+00:35:40,500 --> 00:35:42,500
+It's next up.
+
+496
+00:35:43,500 --> 00:35:49,500
+I truly do not understand what is going on with America right now.
+
+497
+00:35:49,500 --> 00:35:50,500
+Yeah.
+
+498
+00:35:50,500 --> 00:35:53,500
+Well, it's just, we're all fucked, get used to it.
+
+499
+00:35:53,500 --> 00:35:55,500
+That's what I say.
+
+500
+00:35:55,500 --> 00:35:59,500
+I mean, it's probably true.
+
+501
+00:35:59,500 --> 00:36:00,500
+It's probably true.
+
+502
+00:36:00,500 --> 00:36:07,500
+Hey, I'm, as a white cis male, I'm very concerned with, I'm very concerned with all these,
+
+503
+00:36:07,500 --> 00:36:10,500
+all these, all these things that are happening.
+
+504
+00:36:10,500 --> 00:36:12,500
+What if I'm next?
+
+505
+00:36:12,500 --> 00:36:17,500
+That's perpetually asking, well, this doesn't affect me, but what if I'm next though?
+
+506
+00:36:17,500 --> 00:36:22,500
+First they came for the Jews and I didn't say anything, then they came for the white conservative males
+
+507
+00:36:22,500 --> 00:36:24,500
+and I didn't say anything.
+
+508
+00:36:24,500 --> 00:36:32,500
+First they came for the Jews, then they came for the trans, then they came for the white cis males
+
+509
+00:36:32,500 --> 00:36:35,500
+and no one, what's the last line?
+
+510
+00:36:35,500 --> 00:36:37,500
+No one was left to help me or something?
+
+511
+00:36:37,500 --> 00:36:41,500
+Yeah, and I didn't speak up and no one was left up to speak up for me or whatever.
+
+512
+00:36:41,500 --> 00:36:43,500
+I don't know the exact thing, but it's something like that.
+
+513
+00:36:43,500 --> 00:36:46,500
+Yeah, anyway, anyway, they'll get me.
+
+514
+00:36:46,500 --> 00:36:47,500
+Yeah.
+
+515
+00:36:47,500 --> 00:36:48,500
+One day they'll get me.
+
+516
+00:36:48,500 --> 00:36:49,500
+Yeah.
+
+517
+00:36:49,500 --> 00:36:50,500
+They'll find someone.
+
+518
+00:36:50,500 --> 00:36:51,500
+Probably.
+
+519
+00:36:53,500 --> 00:37:01,500
+So, Tales, so the Tales book, I want to see, I want to look at the two covers side by side.
+
+520
+00:37:01,500 --> 00:37:05,500
+Tales, is there like an announcement on the website?
+
+521
+00:37:05,500 --> 00:37:06,500
+Yes.
+
+522
+00:37:06,500 --> 00:37:08,500
+It's on the front page.
+
+523
+00:37:08,500 --> 00:37:10,500
+Oh, I see, I see.
+
+524
+00:37:10,500 --> 00:37:14,500
+First volume is Tales, Sonic, Shadow Knuckles.
+
+525
+00:37:14,500 --> 00:37:20,500
+Second volume is Silver, Silver, Demaro, Gary, Rob.
+
+526
+00:37:20,500 --> 00:37:21,500
+Yeah.
+
+527
+00:37:21,500 --> 00:37:23,500
+Yeah, yeah, yeah.
+
+528
+00:37:23,500 --> 00:37:24,500
+Looking good.
+
+529
+00:37:24,500 --> 00:37:29,500
+Oh, Laserbot, like, he designed the cover sort of.
+
+530
+00:37:29,500 --> 00:37:31,500
+Like, yeah.
+
+531
+00:37:31,500 --> 00:37:34,500
+Oh, there's Tom, Tom in the top right.
+
+532
+00:37:34,500 --> 00:37:45,500
+That was actually my idea since it was, you know, the famous thing that nobody even knows
+
+533
+00:37:45,500 --> 00:37:49,500
+is from Tales gets told every time I say that people are like, oh, I thought that was from
+
+534
+00:37:49,500 --> 00:37:51,500
+a real Tom and Jerry cartoon.
+
+535
+00:37:51,500 --> 00:37:54,500
+I don't know how you would think that was from a real Tom.
+
+536
+00:37:54,500 --> 00:37:58,500
+Like, you would have had to never see a real Tom and Jerry cartoon to think that.
+
+537
+00:37:58,500 --> 00:37:59,500
+Yeah.
+
+538
+00:37:59,500 --> 00:38:01,500
+Well, I mean, they probably haven't.
+
+539
+00:38:01,500 --> 00:38:03,500
+Zoomers, yeah.
+
+540
+00:38:03,500 --> 00:38:08,500
+Maybe if you've never seen a Tom and Jerry cartoon and you think that it's like SpongeBob
+
+541
+00:38:08,500 --> 00:38:13,500
+and it has like bizarre, sudden, like, disgusting close-ups.
+
+542
+00:38:13,500 --> 00:38:14,500
+Yeah.
+
+543
+00:38:14,500 --> 00:38:16,500
+Like, maybe you think that.
+
+544
+00:38:16,500 --> 00:38:18,500
+Yeah, that makes sense.
+
+545
+00:38:18,500 --> 00:38:20,500
+Yeah.
+
+546
+00:38:20,500 --> 00:38:21,500
+Anyway.
+
+547
+00:38:21,500 --> 00:38:23,500
+Laserbot designed the cover.
+
+548
+00:38:23,500 --> 00:38:30,500
+I was going to say the JPG quality would tip them off too, but Zoomers like to send
+
+549
+00:38:30,500 --> 00:38:33,500
+JPG, like, shitty quality memes to each other.
+
+550
+00:38:33,500 --> 00:38:34,500
+That's true.
+
+551
+00:38:34,500 --> 00:38:36,500
+That's true.
+
+552
+00:38:36,500 --> 00:38:44,500
+Okay, I want to ask, like, if, well, I say, I'm not, not to say if, like, I'm sure there
+
+553
+00:38:44,500 --> 00:38:48,500
+will be a volume three, but on volume three, who do you think the four on the front would
+
+554
+00:38:48,500 --> 00:38:49,500
+be?
+
+555
+00:38:49,500 --> 00:38:55,500
+Laserbot, like, already designed, well, the way he quote unquote designed the covers is
+
+556
+00:38:55,500 --> 00:38:59,500
+basically he just sent me the background and sent me a bunch of character heads.
+
+557
+00:38:59,500 --> 00:39:05,500
+And I just, I just picked which ones to put on there, at least for volume two and three.
+
+558
+00:39:05,500 --> 00:39:08,500
+So let me, let me look at the ones he did for volume three.
+
+559
+00:39:08,500 --> 00:39:09,500
+Hold on.
+
+560
+00:39:09,500 --> 00:39:14,500
+Let me, hang on, let me speculate.
+
+561
+00:39:14,500 --> 00:39:21,500
+I'm thinking, I mean, I think it would probably have to be Coyote would have to be one, maybe
+
+562
+00:39:21,500 --> 00:39:22,500
+like Coyote.
+
+563
+00:39:22,500 --> 00:39:26,500
+Actually, I'll just send them to you now.
+
+564
+00:39:26,500 --> 00:39:28,500
+Though I, hold on.
+
+565
+00:39:28,500 --> 00:39:35,500
+Who else is, I mean, who else is like, the first one was her intended for volume two
+
+566
+00:39:35,500 --> 00:39:38,500
+and the second one was intended for volume three.
+
+567
+00:39:38,500 --> 00:39:42,500
+Though I use some of the ones from volume three for volume two.
+
+568
+00:39:42,500 --> 00:39:47,500
+And of course I didn't use Mario because you know, Nintendo.
+
+569
+00:39:47,500 --> 00:39:50,500
+Oh, yeah.
+
+570
+00:39:50,500 --> 00:39:55,500
+Well, I mean, you used Sonic and Knuckles and Tails and Shadow.
+
+571
+00:39:55,500 --> 00:39:58,500
+Oh, with their, yeah, yeah.
+
+572
+00:39:58,500 --> 00:40:03,500
+Sega isn't like, Sega isn't like, you know, hard-ass about people using their characters.
+
+573
+00:40:03,500 --> 00:40:06,500
+Yeah, I guess that's fair.
+
+574
+00:40:06,500 --> 00:40:08,500
+That's true.
+
+575
+00:40:08,500 --> 00:40:11,500
+I mean, hmm.
+
+576
+00:40:11,500 --> 00:40:13,500
+I might, I might.
+
+577
+00:40:13,500 --> 00:40:20,500
+Sylvester and Tom, I mean, Sylvester and Tom don't really get like more important past chapter.
+
+578
+00:40:20,500 --> 00:40:21,500
+Yeah.
+
+579
+00:40:21,500 --> 00:40:23,500
+And the same with Blaze.
+
+580
+00:40:23,500 --> 00:40:25,500
+So I'll probably ask him.
+
+581
+00:40:25,500 --> 00:40:27,500
+I'll probably ask him to draw like more characters.
+
+582
+00:40:27,500 --> 00:40:31,500
+Like I'm thinking like maybe like Cheeto Man and Amy or something.
+
+583
+00:40:31,500 --> 00:40:33,500
+Oh, yeah.
+
+584
+00:40:33,500 --> 00:40:34,500
+Definitely.
+
+585
+00:40:34,500 --> 00:40:36,500
+Actually, yeah, definitely Cheeto Man.
+
+586
+00:40:36,500 --> 00:40:38,500
+Yeah.
+
+587
+00:40:38,500 --> 00:40:41,500
+These are really, these are just really funny.
+
+588
+00:40:41,500 --> 00:40:43,500
+I like them a lot.
+
+589
+00:40:43,500 --> 00:40:45,500
+Yeah.
+
+590
+00:40:45,500 --> 00:40:48,500
+I kind of wish I'll go ahead.
+
+591
+00:40:48,500 --> 00:40:52,500
+I was going to say you could make pins out of these or something.
+
+592
+00:40:52,500 --> 00:40:55,500
+Oh, that's a good idea, actually.
+
+593
+00:40:55,500 --> 00:40:57,500
+Yeah, like enamel pins.
+
+594
+00:40:57,500 --> 00:41:05,500
+Some of these might be a little too complicated, but you could definitely make one out of like Gary, probably Sylvester Tom.
+
+595
+00:41:05,500 --> 00:41:13,500
+You could probably, you could probably work, simplify the design a little bit to make Silver, Coyote, Elmer.
+
+596
+00:41:13,500 --> 00:41:14,500
+Yeah.
+
+597
+00:41:14,500 --> 00:41:16,500
+And here's the one, here's the one for chapter one.
+
+598
+00:41:16,500 --> 00:41:18,500
+Oh, whoops, it's a BMP shit.
+
+599
+00:41:18,500 --> 00:41:19,500
+Hold on.
+
+600
+00:41:19,500 --> 00:41:20,500
+I can't read.
+
+601
+00:41:20,500 --> 00:41:21,500
+I can't read that shit.
+
+602
+00:41:21,500 --> 00:41:22,500
+Yeah.
+
+603
+00:41:22,500 --> 00:41:24,500
+He always sends BMPs for some reason.
+
+604
+00:41:24,500 --> 00:41:27,500
+Is it because he draws them in MS Paint?
+
+605
+00:41:27,500 --> 00:41:29,500
+Yeah.
+
+606
+00:41:29,500 --> 00:41:31,500
+So good.
+
+607
+00:41:31,500 --> 00:41:33,500
+Okay.
+
+608
+00:41:33,500 --> 00:41:35,500
+Yeah.
+
+609
+00:41:35,500 --> 00:41:39,500
+So you took this and you put it on the swirly purple background.
+
+610
+00:41:39,500 --> 00:41:40,500
+Yeah.
+
+611
+00:41:40,500 --> 00:41:42,500
+And he made the background too.
+
+612
+00:41:42,500 --> 00:41:43,500
+Oh, okay.
+
+613
+00:41:43,500 --> 00:41:58,500
+I kind of wish he actually drew like the cover and like the correct aspect ratio so I could just use the cover that he drew, but he keeps sending it in like this really long wide or this really like long aspect ratio.
+
+614
+00:41:58,500 --> 00:42:02,500
+So I have to like rearrange the heads and stuff.
+
+615
+00:42:02,500 --> 00:42:06,500
+Helicopter going by overhead.
+
+616
+00:42:06,500 --> 00:42:12,500
+Does he, does he not know how to use like any art programs that have layers?
+
+617
+00:42:12,500 --> 00:42:15,500
+Oh, no, he can use Gimp.
+
+618
+00:42:15,500 --> 00:42:17,500
+Okay, that's, that's fair.
+
+619
+00:42:17,500 --> 00:42:18,500
+That's fair enough.
+
+620
+00:42:18,500 --> 00:42:22,500
+Have you, have you seen, have you seen his art tutorials?
+
+621
+00:42:22,500 --> 00:42:23,500
+No.
+
+622
+00:42:23,500 --> 00:42:26,500
+I should send them like on, like on YouTube.
+
+623
+00:42:26,500 --> 00:42:29,500
+He made their pictures.
+
+624
+00:42:29,500 --> 00:42:32,500
+Hold on, let me try to find them.
+
+625
+00:42:32,500 --> 00:42:33,500
+Let's see.
+
+626
+00:42:33,500 --> 00:42:35,500
+No, I don't think I even heard about those.
+
+627
+00:42:35,500 --> 00:42:38,500
+The tails, the tails face I think would work.
+
+628
+00:42:38,500 --> 00:42:42,500
+You could make a tails face like the tails face and the Tom face too.
+
+629
+00:42:42,500 --> 00:42:44,500
+You could totally do that.
+
+630
+00:42:44,500 --> 00:42:45,500
+Yeah.
+
+631
+00:42:45,500 --> 00:42:49,500
+You know what, you know what, if you wanted, I would help you, I would help you simplify.
+
+632
+00:42:49,500 --> 00:42:54,500
+I would help you make like a version of the image that matches the specifications.
+
+633
+00:42:54,500 --> 00:42:55,500
+Yeah.
+
+634
+00:42:55,500 --> 00:43:01,500
+We already have a tails gets trolled the face stickers on the store.
+
+635
+00:43:01,500 --> 00:43:02,500
+That's good.
+
+636
+00:43:02,500 --> 00:43:03,500
+Yeah.
+
+637
+00:43:03,500 --> 00:43:04,500
+That's good.
+
+638
+00:43:04,500 --> 00:43:10,500
+Well shading in Gimp really depends how much opacity you put on it.
+
+639
+00:43:10,500 --> 00:43:11,500
+Yeah.
+
+640
+00:43:11,500 --> 00:43:12,500
+Okay.
+
+641
+00:43:12,500 --> 00:43:17,500
+And here's the, here's the older one he made about how he draws an MS paint and then copy
+
+642
+00:43:17,500 --> 00:43:22,500
+and paste it into Gimp to add the shading.
+
+643
+00:43:22,500 --> 00:43:24,500
+Different brush used in this example.
+
+644
+00:43:24,500 --> 00:43:30,500
+Another thing to note is you can give your picture a trippy effect with too much motion
+
+645
+00:43:30,500 --> 00:43:31,500
+Blair.
+
+646
+00:43:31,500 --> 00:43:35,500
+I guess that's how he made the cover.
+
+647
+00:43:35,500 --> 00:43:37,500
+Yeah, it looks like it.
+
+648
+00:43:37,500 --> 00:43:38,500
+Hang on.
+
+649
+00:43:38,500 --> 00:43:40,500
+What is, what is this like blood moon eclipse?
+
+650
+00:43:40,500 --> 00:43:45,500
+Here's a way I color on both Gimp and paint that helps with dramatic scenes.
+
+651
+00:43:45,500 --> 00:43:48,500
+I pick a color like red.
+
+652
+00:43:48,500 --> 00:43:51,500
+I go to edit colors.
+
+653
+00:43:51,500 --> 00:43:52,500
+Where is this going?
+
+654
+00:43:52,500 --> 00:43:57,500
+Grab a black area and lower or higher it by a little.
+
+655
+00:43:57,500 --> 00:44:02,500
+You add the new shade to the picture.
+
+656
+00:44:02,500 --> 00:44:03,500
+Oh my God.
+
+657
+00:44:03,500 --> 00:44:05,500
+This is in paint.
+
+658
+00:44:05,500 --> 00:44:08,500
+This is in paint.
+
+659
+00:44:08,500 --> 00:44:09,500
+Oh yeah.
+
+660
+00:44:09,500 --> 00:44:11,500
+Paint is based.
+
+661
+00:44:11,500 --> 00:44:12,500
+Sure.
+
+662
+00:44:12,500 --> 00:44:15,500
+I use paint all the time too.
+
+663
+00:44:15,500 --> 00:44:16,500
+The next thing I do.
+
+664
+00:44:16,500 --> 00:44:17,500
+Oh my God.
+
+665
+00:44:17,500 --> 00:44:27,500
+This is how he makes gradients.
+
+666
+00:44:27,500 --> 00:44:28,500
+Holy cow.
+
+667
+00:44:28,500 --> 00:44:30,500
+This is so much work.
+
+668
+00:44:30,500 --> 00:44:31,500
+Yeah.
+
+669
+00:44:31,500 --> 00:44:36,500
+This is so much work to make a gradient.
+
+670
+00:44:36,500 --> 00:44:39,500
+Oh, the poor man.
+
+671
+00:44:39,500 --> 00:44:46,500
+I think you can make gradients like automatically in Gimp so I don't know why he does that.
+
+672
+00:44:46,500 --> 00:44:47,500
+You can.
+
+673
+00:44:47,500 --> 00:44:50,500
+You definitely can make gradients automatically.
+
+674
+00:44:50,500 --> 00:44:53,500
+There's got to be a gradient button.
+
+675
+00:44:53,500 --> 00:44:59,500
+He must just be, I mean he must just be familiar with this process and he just likes to do
+
+676
+00:44:59,500 --> 00:45:00,500
+it this way.
+
+677
+00:45:00,500 --> 00:45:01,500
+Yeah.
+
+678
+00:45:01,500 --> 00:45:04,500
+Which I can kind of understand that mindset.
+
+679
+00:45:04,500 --> 00:45:05,500
+Although, oh man.
+
+680
+00:45:05,500 --> 00:45:14,500
+He has to draw these like parabolas and fill each one in with a slightly different shade.
+
+681
+00:45:14,500 --> 00:45:17,500
+And then go over it with the blur brush.
+
+682
+00:45:17,500 --> 00:45:18,500
+To be fair.
+
+683
+00:45:18,500 --> 00:45:19,500
+Oh no.
+
+684
+00:45:19,500 --> 00:45:22,500
+I don't think he does it that often but.
+
+685
+00:45:22,500 --> 00:45:23,500
+Yeah.
+
+686
+00:45:23,500 --> 00:45:25,500
+I mean, yeah.
+
+687
+00:45:25,500 --> 00:45:30,500
+Like I don't see anything like that in the chapter 25 cover unless I'm blind.
+
+688
+00:45:30,500 --> 00:45:33,500
+Well then again, I'm not looking at the final one.
+
+689
+00:45:33,500 --> 00:45:34,500
+Hold on.
+
+690
+00:45:34,500 --> 00:45:36,500
+This is, I'm sorry.
+
+691
+00:45:36,500 --> 00:45:42,500
+This is the funniest, this is the funniest like gradient method I've ever seen.
+
+692
+00:45:42,500 --> 00:45:47,500
+It's probably funny too because you're a professional artist.
+
+693
+00:45:47,500 --> 00:45:54,500
+I mean, it's just, you could simply use one button.
+
+694
+00:45:54,500 --> 00:45:57,500
+You could do this with one click if you wanted.
+
+695
+00:45:57,500 --> 00:46:00,500
+Yeah, but then it doesn't look Kino.
+
+696
+00:46:00,500 --> 00:46:04,500
+I mean, it would look a little different.
+
+697
+00:46:04,500 --> 00:46:11,500
+Also, I, you know, you know what, I could go on.
+
+698
+00:46:12,500 --> 00:46:19,500
+I could go on about ways to improve the look of this shaded orb, but I would be misguided
+
+699
+00:46:19,500 --> 00:46:23,500
+because at the end of the day, it's perfect.
+
+700
+00:46:23,500 --> 00:46:27,500
+It's terrible, but it's perfect.
+
+701
+00:46:27,500 --> 00:46:31,500
+Yeah, that's how it, that's how it be sometimes.
+
+702
+00:46:31,500 --> 00:46:34,500
+Absolutely, absolutely.
+
+703
+00:46:34,500 --> 00:46:35,500
+Did you look, oh that.
+
+704
+00:46:35,500 --> 00:46:36,500
+Oh go ahead.
+
+705
+00:46:36,500 --> 00:46:38,500
+Oh god, oh god, there's more.
+
+706
+00:46:38,500 --> 00:46:39,500
+Yeah.
+
+707
+00:46:39,500 --> 00:46:40,500
+I can't, okay.
+
+708
+00:46:40,500 --> 00:46:42,500
+I can't read through all of these right now.
+
+709
+00:46:42,500 --> 00:46:47,500
+These are the older ones he posted about how he draws it in MS Paint and then puts it in
+
+710
+00:46:47,500 --> 00:46:49,500
+Gimp to add the shading.
+
+711
+00:46:49,500 --> 00:46:51,500
+You don't really need to like read it.
+
+712
+00:46:51,500 --> 00:46:52,500
+It's just a picture.
+
+713
+00:46:52,500 --> 00:46:54,500
+Yeah, it's a series of.
+
+714
+00:46:54,500 --> 00:46:58,500
+You can just look, you can just look at the thumbnail and you get the idea.
+
+715
+00:46:58,500 --> 00:47:05,500
+He's, he's like drawing in like sparkling jewels underwater.
+
+716
+00:47:05,500 --> 00:47:07,500
+I didn't even recognize this scene.
+
+717
+00:47:07,500 --> 00:47:11,500
+It's a flashback from when Sonic met Amy.
+
+718
+00:47:11,500 --> 00:47:12,500
+Oh, okay.
+
+719
+00:47:12,500 --> 00:47:13,500
+Oh, right.
+
+720
+00:47:13,500 --> 00:47:15,500
+There's Amy's little head there.
+
+721
+00:47:15,500 --> 00:47:16,500
+Yeah.
+
+722
+00:47:16,500 --> 00:47:23,500
+And the gems are the Chaos Emeralds or Emeralds, which is how they're spelled.
+
+723
+00:47:23,500 --> 00:47:24,500
+Emeralds.
+
+724
+00:47:24,500 --> 00:47:28,500
+Well, they're not, well, they're not shaped like the Chaos Emeralds.
+
+725
+00:47:28,500 --> 00:47:30,500
+Actually, yeah, you're right.
+
+726
+00:47:30,500 --> 00:47:32,500
+They're not shaped like them at all.
+
+727
+00:47:32,500 --> 00:47:33,500
+No.
+
+728
+00:47:33,500 --> 00:47:37,500
+They're more elongated than their actual.
+
+729
+00:47:37,500 --> 00:47:41,500
+I don't know what the name, I don't know what the name for this shape is.
+
+730
+00:47:41,500 --> 00:47:44,500
+One, two, three, four.
+
+731
+00:47:44,500 --> 00:47:46,500
+There's jewels everywhere.
+
+732
+00:47:46,500 --> 00:47:48,500
+This is a nice scene, actually.
+
+733
+00:47:48,500 --> 00:47:49,500
+Yeah.
+
+734
+00:47:49,500 --> 00:47:58,500
+This is a beautiful little, little idea, river full of jewels embedded in the river bed.
+
+735
+00:47:58,500 --> 00:47:59,500
+That's nice.
+
+736
+00:47:59,500 --> 00:48:00,500
+I like it.
+
+737
+00:48:00,500 --> 00:48:01,500
+Oh, illuminated by the moonlight.
+
+738
+00:48:01,500 --> 00:48:02,500
+Oh, that's great.
+
+739
+00:48:02,500 --> 00:48:03,500
+Yeah.
+
+740
+00:48:03,500 --> 00:48:04,500
+Beautiful.
+
+741
+00:48:04,500 --> 00:48:05,500
+Beautiful.
+
+742
+00:48:05,500 --> 00:48:06,500
+Yeah.
+
+743
+00:48:06,500 --> 00:48:12,500
+People underestimate his artistic ability.
+
+744
+00:48:12,500 --> 00:48:16,500
+It's a, it's a, he had a vision.
+
+745
+00:48:16,500 --> 00:48:23,500
+He had a vision for this scene and I understand it and I appreciate it.
+
+746
+00:48:23,500 --> 00:48:24,500
+Yeah.
+
+747
+00:48:24,500 --> 00:48:26,500
+Oh, got a message from Gib.
+
+748
+00:48:26,500 --> 00:48:32,500
+Apparently Gib has informed me that the reason she is not here is due to Father's Day stuff,
+
+749
+00:48:32,500 --> 00:48:34,500
+which is understandable.
+
+750
+00:48:34,500 --> 00:48:36,500
+You doing anything for Father's Day?
+
+751
+00:48:36,500 --> 00:48:39,500
+I said Happy Father's Day to my dad.
+
+752
+00:48:39,500 --> 00:48:40,500
+Cool.
+
+753
+00:48:40,500 --> 00:48:44,500
+And I posted a, I posted a tweet about it.
+
+754
+00:48:44,500 --> 00:48:45,500
+Hold on.
+
+755
+00:48:45,500 --> 00:48:47,500
+I posted that.
+
+756
+00:48:47,500 --> 00:48:52,500
+You know, the Troll King really does look out for Troll Face.
+
+757
+00:48:52,500 --> 00:48:58,500
+He, he really is a, you know, he's given him every opportunity in life.
+
+758
+00:48:58,500 --> 00:49:01,500
+To murder and rape people.
+
+759
+00:49:01,500 --> 00:49:02,500
+Yeah.
+
+760
+00:49:02,500 --> 00:49:09,500
+My son was the cutest babby you would ever see.
+
+761
+00:49:09,500 --> 00:49:12,500
+The, I'm surprised.
+
+762
+00:49:12,500 --> 00:49:17,500
+I thought that the, I thought that the UK and America had different Father's Days.
+
+763
+00:49:17,500 --> 00:49:19,500
+Me too.
+
+764
+00:49:19,500 --> 00:49:28,500
+You're thinking of like how Canada and things, or Canada and the US have different Thanksgiving's.
+
+765
+00:49:28,500 --> 00:49:30,500
+And I'm thinking, I'm thinking of Mother's Day.
+
+766
+00:49:30,500 --> 00:49:31,500
+They have different Mother's Day.
+
+767
+00:49:31,500 --> 00:49:36,500
+Mother's Day is a different day in the US versus the UK, but Father's Day is the same day for some reason.
+
+768
+00:49:36,500 --> 00:49:37,500
+That's weird.
+
+769
+00:49:37,500 --> 00:49:39,500
+Wow, that is weird.
+
+770
+00:49:39,500 --> 00:49:41,500
+That's weird, but sure, I guess.
+
+771
+00:49:41,500 --> 00:49:43,500
+Whatever.
+
+772
+00:49:44,500 --> 00:49:46,500
+Um, yeah.
+
+773
+00:49:46,500 --> 00:49:50,500
+Uh, everybody go buy, tells us Troll Volume 2.
+
+774
+00:49:50,500 --> 00:49:51,500
+You know what?
+
+775
+00:49:51,500 --> 00:49:54,500
+I should, I should, I should pick, I didn't, I never picked the Volume 1.
+
+776
+00:49:54,500 --> 00:49:55,500
+I should get both.
+
+777
+00:49:55,500 --> 00:49:56,500
+I do want to own them.
+
+778
+00:49:56,500 --> 00:49:57,500
+Yeah.
+
+779
+00:49:57,500 --> 00:49:59,500
+And I lowered the price of Volume 1.
+
+780
+00:49:59,500 --> 00:50:02,500
+Since it's old.
+
+781
+00:50:02,500 --> 00:50:06,500
+How much is it now?
+
+782
+00:50:06,500 --> 00:50:08,500
+25.
+
+783
+00:50:08,500 --> 00:50:10,500
+How much is volume 2?
+
+784
+00:50:10,500 --> 00:50:12,500
+30.
+
+785
+00:50:12,500 --> 00:50:14,500
+That's, that's respectable.
+
+786
+00:50:14,500 --> 00:50:19,500
+I think, I'm hoping, I haven't, I haven't figured it out yet.
+
+787
+00:50:19,500 --> 00:50:25,500
+I'm hoping that I can get slime and punishment to be like 35 or less.
+
+788
+00:50:25,500 --> 00:50:27,500
+I don't know if it's possible.
+
+789
+00:50:27,500 --> 00:50:30,500
+Depend, it will probably depend on the page count.
+
+790
+00:50:30,500 --> 00:50:32,500
+Final page count on that.
+
+791
+00:50:32,500 --> 00:50:35,500
+What will the page count be?
+
+792
+00:50:35,500 --> 00:50:37,500
+The page count, you know what?
+
+793
+00:50:37,500 --> 00:50:48,500
+Uh, I, it will be, um, it's going to be about a hundred, uh, well, the pages themselves,
+
+794
+00:50:48,500 --> 00:50:53,500
+there's like 185 pages, but then I have to include the footnotes at the end.
+
+795
+00:50:53,500 --> 00:51:01,500
+And I don't know exactly how much text will fit onto the pages in like a, the way that
+
+796
+00:51:01,500 --> 00:51:02,500
+I want to format it.
+
+797
+00:51:02,500 --> 00:51:03,500
+So.
+
+798
+00:51:03,500 --> 00:51:04,500
+Yeah, it's hard.
+
+799
+00:51:04,500 --> 00:51:09,500
+It might be like, might be like 200 pages, maybe 200 and maybe a little more than 200.
+
+800
+00:51:09,500 --> 00:51:14,500
+I have no idea what, I have no idea what I'm going to do with the later chapters of
+
+801
+00:51:14,500 --> 00:51:18,500
+Tales of Skid Skull because the page links are like really fucked up.
+
+802
+00:51:18,500 --> 00:51:20,500
+Oh yeah.
+
+803
+00:51:20,500 --> 00:51:26,500
+I'll have to like, cut each, I'll have to like cut each page into a different page.
+
+804
+00:51:26,500 --> 00:51:29,500
+Yeah, probably.
+
+805
+00:51:29,500 --> 00:51:33,500
+Yeah, you got to, you got to do what you got to do with that.
+
+806
+00:51:33,500 --> 00:51:40,500
+It's a little bit, yeah, you'll have to, uh, you'll have to make some editorial decisions
+
+807
+00:51:40,500 --> 00:51:41,500
+there.
+
+808
+00:51:41,500 --> 00:51:45,500
+Yeah, the, um, the first two chapters were pretty easy because they're mostly the same
+
+809
+00:51:45,500 --> 00:51:46,500
+size.
+
+810
+00:51:46,500 --> 00:51:47,500
+Uh-huh.
+
+811
+00:51:47,500 --> 00:51:50,500
+Volumes, shit, I keep fucking up.
+
+812
+00:51:50,500 --> 00:51:54,500
+Yeah, I made the same, I made the same mistake.
+
+813
+00:51:54,500 --> 00:52:00,500
+Um, uh, well I have, how, uh, shit.
+
+814
+00:52:00,500 --> 00:52:03,500
+I wonder if they're the same size as Lord of Ghosts.
+
+815
+00:52:03,500 --> 00:52:04,500
+Probably similar.
+
+816
+00:52:04,500 --> 00:52:08,500
+Like, like page size dimensions so I can fit them all.
+
+817
+00:52:08,500 --> 00:52:10,500
+You know, I don't actually have like a bookshelf.
+
+818
+00:52:10,500 --> 00:52:12,500
+I should get a bookshelf.
+
+819
+00:52:12,500 --> 00:52:17,500
+I just put, I just put the, I just put, I just put the books that I have on the same
+
+820
+00:52:17,500 --> 00:52:22,500
+like shelves that are, my games are on and my movies are on.
+
+821
+00:52:22,500 --> 00:52:27,500
+I only have a few games and they're just in a box in my closet so.
+
+822
+00:52:27,500 --> 00:52:29,500
+Yeah, that's, that's how some of my games are.
+
+823
+00:52:29,500 --> 00:52:32,500
+That's how some of my games are too because I haven't unpacked from when I moved a year
+
+824
+00:52:32,500 --> 00:52:34,500
+and a half ago.
+
+825
+00:52:34,500 --> 00:52:39,500
+Yeah, everything I have is in boxes in my closet because I was convinced that I would
+
+826
+00:52:39,500 --> 00:52:47,500
+be moving out of this shitty house, uh, immediately and it's been like nine months.
+
+827
+00:52:47,500 --> 00:52:49,500
+My lease is already running out.
+
+828
+00:52:49,500 --> 00:52:52,500
+Yeah, well congrats, congratulations on your baby.
+
+829
+00:52:52,500 --> 00:52:55,500
+Because it's been nine months.
+
+830
+00:52:55,500 --> 00:53:02,500
+Yeah, true, I guess.
+
+831
+00:53:02,500 --> 00:53:05,500
+Um, all right.
+
+832
+00:53:05,500 --> 00:53:14,500
+Well, not to, not to kick you, but if you have anything else to say, I do, you know,
+
+833
+00:53:14,500 --> 00:53:21,500
+I will probably, um, I'll probably move on to doing voicemails in a minute.
+
+834
+00:53:21,500 --> 00:53:25,500
+I don't know if you care to hang out for that.
+
+835
+00:53:25,500 --> 00:53:26,500
+Oh, sure.
+
+836
+00:53:26,500 --> 00:53:27,500
+I'll probably not.
+
+837
+00:53:27,500 --> 00:53:28,500
+I'll hang out for that.
+
+838
+00:53:28,500 --> 00:53:30,500
+God, you want to really?
+
+839
+00:53:30,500 --> 00:53:31,500
+Yeah.
+
+840
+00:53:31,500 --> 00:53:37,500
+But, but if I, if I don't have anything to say, then I'll just, you know.
+
+841
+00:53:37,500 --> 00:53:45,500
+Well, let me, um, I have one, I have one other unrelated subject I wanted to touch on
+
+842
+00:53:45,500 --> 00:53:49,500
+before, uh, before I go on to voicemails.
+
+843
+00:53:49,500 --> 00:53:58,500
+And that is that, uh, my, my game, uh, Phantom's Revenge, it is getting featured in a little,
+
+844
+00:53:58,500 --> 00:54:01,500
+uh, indie, um, game.
+
+845
+00:54:01,500 --> 00:54:11,500
+Well, he calls it a zine, but it's really more of a, it's more of a digital download
+
+846
+00:54:11,500 --> 00:54:22,500
+that you can buy on itch, uh, that is, um, hang on, let me, let me find it.
+
+847
+00:54:22,500 --> 00:54:24,500
+It's called Indiepocalypse.
+
+848
+00:54:24,500 --> 00:54:28,500
+It's, I guess you, I guess you could call it a digital zine, and it's basically every month
+
+849
+00:54:28,500 --> 00:54:35,500
+he publishes a little thing that you can buy if you want to, um, on itch, and you get,
+
+850
+00:54:35,500 --> 00:54:41,500
+uh, it's like, it like, features a bunch of indie games, but I think he does like 20,
+
+851
+00:54:41,500 --> 00:54:43,500
+I think he does 10 a month, actually.
+
+852
+00:54:43,500 --> 00:54:49,500
+So anyway, Phantom's Revenge is getting featured in Indiepocalypse, uh, number 28.
+
+853
+00:54:49,500 --> 00:54:56,500
+I think it should be coming out maybe this week, uh, or pretty soon.
+
+854
+00:54:56,500 --> 00:55:01,500
+Anyway, the guy who runs it is called Pizza Pranks, all one word, he's on Twitter at Pizza Pranks.
+
+855
+00:55:01,500 --> 00:55:08,500
+Uh, so I think that'll probably be out by the time this episode goes live, so go check,
+
+856
+00:55:08,500 --> 00:55:10,500
+go check that out, I guess.
+
+857
+00:55:10,500 --> 00:55:13,500
+Uh, I got a feature, I think that's pretty.
+
+858
+00:55:13,500 --> 00:55:20,500
+No, I think it's number, it's number 29 or 28?
+
+859
+00:55:20,500 --> 00:55:21,500
+Fuck, hang on.
+
+860
+00:55:21,500 --> 00:55:25,500
+I gotta find out which, find out which one I'm even in.
+
+861
+00:55:25,500 --> 00:55:28,500
+I hope he's paying, I hope he's paying you.
+
+862
+00:55:29,500 --> 00:55:33,500
+Cause, cause they have to, they have to buy it from him.
+
+863
+00:55:33,500 --> 00:55:39,500
+You know, he is paying me, actually, he's paying me very generously for what it is.
+
+864
+00:55:39,500 --> 00:55:44,500
+I mean, that's not to say that he's giving me a lot of money, but I'm sure he doesn't make,
+
+865
+00:55:44,500 --> 00:55:48,500
+I'm sure he doesn't make like crazy money doing this.
+
+866
+00:55:48,500 --> 00:55:49,500
+Yeah.
+
+867
+00:55:49,500 --> 00:55:51,500
+He is, oh no, it's gonna be number 30.
+
+868
+00:55:51,500 --> 00:55:55,500
+It's gonna be a number 30, and I don't exactly know when it'll come out, sometime this month.
+
+869
+00:55:55,500 --> 00:55:58,500
+Or maybe at the beginning of next month.
+
+870
+00:55:58,500 --> 00:56:00,500
+Anyways, coming out soon.
+
+871
+00:56:00,500 --> 00:56:09,500
+Um, he, he's paid me, apparently like everybody gets, everybody gets $20 up front just for being accepted,
+
+872
+00:56:09,500 --> 00:56:18,500
+and then there's like a, every creator gets like a, like 8% of every like sale that the zine generates or something,
+
+873
+00:56:18,500 --> 00:56:27,500
+which means that like most of it is going to the people featured in the zine, which is very generous.
+
+874
+00:56:27,500 --> 00:56:35,500
+Honestly, I would have let him feature me for nothing, cause I don't, I don't need, I don't need $20, but it's fine.
+
+875
+00:56:35,500 --> 00:56:42,500
+But I appreciate, but I appreciate that he's dedicated to making sure the money goes to the creators.
+
+876
+00:56:42,500 --> 00:56:43,500
+I think that's swell of him.
+
+877
+00:56:43,500 --> 00:56:45,500
+He seems like a swell guy.
+
+878
+00:56:45,500 --> 00:56:47,500
+Yeah, that's nice of him.
+
+879
+00:56:47,500 --> 00:56:52,500
+And you said you wanted to know how big the book was.
+
+880
+00:56:52,500 --> 00:56:53,500
+Sure.
+
+881
+00:56:53,500 --> 00:56:57,500
+It says, it says on the store page how big it is.
+
+882
+00:57:01,500 --> 00:57:02,500
+Does it?
+
+883
+00:57:02,500 --> 00:57:03,500
+Yeah.
+
+884
+00:57:03,500 --> 00:57:07,500
+No, it doesn't.
+
+885
+00:57:07,500 --> 00:57:12,500
+I'm looking at talesgetstroll.org slash store.html.
+
+886
+00:57:12,500 --> 00:57:14,500
+No, on the Amazon page.
+
+887
+00:57:14,500 --> 00:57:16,500
+Oh, okay.
+
+888
+00:57:17,500 --> 00:57:20,500
+It is, fuck.
+
+889
+00:57:20,500 --> 00:57:23,500
+Yeah, I'm sure it's here somewhere.
+
+890
+00:57:23,500 --> 00:57:31,500
+8.27 by 0.33 by 11.69 inches.
+
+891
+00:57:31,500 --> 00:57:32,500
+I'm not sure.
+
+892
+00:57:32,500 --> 00:57:40,500
+I was, I just wanted to compare it to the size of the Lord of Ghosts book, which I'm also not sure it's dimensions, but that sounds about right.
+
+893
+00:57:40,500 --> 00:57:42,500
+Probably.
+
+894
+00:57:42,500 --> 00:57:43,500
+Yeah.
+
+895
+00:57:43,500 --> 00:57:44,500
+No, no.
+
+896
+00:57:44,500 --> 00:57:47,500
+That was the biggest I could make it.
+
+897
+00:57:47,500 --> 00:57:48,500
+Oh, wow.
+
+898
+00:57:48,500 --> 00:57:54,500
+38 global ratings on the Talesgetstroll book.
+
+899
+00:57:54,500 --> 00:57:56,500
+All of them five out of five ratings.
+
+900
+00:57:56,500 --> 00:57:59,500
+Yeah, it's the best rated book I've ever seen on Amazon.
+
+901
+00:57:59,500 --> 00:58:06,500
+It is a perfectly 100% score book on Amazon.
+
+902
+00:58:06,500 --> 00:58:11,500
+Actually, let me, let me read some, let me read some.
+
+903
+00:58:11,500 --> 00:58:12,500
+Here's one.
+
+904
+00:58:12,500 --> 00:58:18,500
+Reed says, I like the part where the bugs asked him to put the coaster.
+
+905
+00:58:18,500 --> 00:58:21,500
+Five people found this helpful.
+
+906
+00:58:21,500 --> 00:58:28,500
+For what felt like a terrible trudge of a comic book year, I was pleasantly surprised to come across this majestic marvel of a book.
+
+907
+00:58:28,500 --> 00:58:34,500
+It's an electric experience that tackles the existential crisis humanity and trolling.
+
+908
+00:58:34,500 --> 00:58:41,500
+A cut and dry encounter quickly escalates into a worldwide crisis that endangers the safety of all fictional and non-fictional characters ever created.
+
+909
+00:58:41,500 --> 00:58:50,500
+With high stakes and bombshell breakthroughs, you'll experience a tale of sacrifice, loss, betrayal, self-reflection, destiny, and trolls.
+
+910
+00:58:50,500 --> 00:58:54,500
+Easily an impulse buy if you are seeking a good read with God to your art.
+
+911
+00:58:54,500 --> 00:59:00,500
+Thank you, Laserbot and Ember Graham for showing this world still has talent, and I look forward to volume two.
+
+912
+00:59:00,500 --> 00:59:02,500
+Fat guys buy in volume two.
+
+913
+00:59:02,500 --> 00:59:03,500
+Yeah.
+
+914
+00:59:03,500 --> 00:59:07,500
+Danny, Danny Bork has said that he will buy volume two.
+
+915
+00:59:07,500 --> 00:59:08,500
+That's his name.
+
+916
+00:59:08,500 --> 00:59:09,500
+Oh yeah, Danny Bork.
+
+917
+00:59:09,500 --> 00:59:11,500
+He said he posted it and posted it publicly.
+
+918
+00:59:11,500 --> 00:59:12,500
+Danny Bork.
+
+919
+00:59:12,500 --> 00:59:13,500
+Yeah.
+
+920
+00:59:20,500 --> 00:59:22,500
+Okay, it's 11.30.
+
+921
+00:59:22,500 --> 00:59:24,500
+I have to catch a train.
+
+922
+00:59:24,500 --> 00:59:25,500
+Oh, I should actually.
+
+923
+00:59:25,500 --> 00:59:26,500
+All right.
+
+924
+00:59:26,500 --> 00:59:29,500
+I want to get going by before noon.
+
+925
+00:59:30,500 --> 00:59:32,500
+I catch a train at like one something.
+
+926
+00:59:32,500 --> 00:59:33,500
+Where are you going?
+
+927
+00:59:33,500 --> 00:59:36,500
+So, I'm going to my parents' house Father's Day.
+
+928
+00:59:36,500 --> 00:59:38,500
+Oh, Happy Father's Day.
+
+929
+00:59:38,500 --> 00:59:40,500
+Happy Father's Day.
+
+930
+00:59:42,500 --> 00:59:44,500
+There's actually not that many voicemails today.
+
+931
+00:59:44,500 --> 00:59:51,500
+I guess everyone got sick of sending voicemails, sending like too many voicemails during our three week absence.
+
+932
+00:59:51,500 --> 00:59:52,500
+And that's fine.
+
+933
+00:59:52,500 --> 00:59:53,500
+Oh yeah, that's true.
+
+934
+00:59:53,500 --> 00:59:55,500
+Why was there an absence?
+
+935
+00:59:56,500 --> 00:59:59,500
+Oh, Gib was on a trip.
+
+936
+00:59:59,500 --> 01:00:05,500
+Gib was visiting America and we were hanging out in real life and we didn't record a podcast for three weeks.
+
+937
+01:00:05,500 --> 01:00:10,500
+You could have done like a live podcast with you guys in the same room and shit.
+
+938
+01:00:10,500 --> 01:00:16,500
+We could have, but guess what we didn't.
+
+939
+01:00:16,500 --> 01:00:21,500
+You could have done like a video podcast where it's like you guys at a news desk or some shit.
+
+940
+01:00:22,500 --> 01:00:23,500
+I know.
+
+941
+01:00:23,500 --> 01:00:28,500
+We could have, well, Gib didn't want it.
+
+942
+01:00:28,500 --> 01:00:29,500
+Yeah.
+
+943
+01:00:29,500 --> 01:00:30,500
+Me neither.
+
+944
+01:00:30,500 --> 01:00:31,500
+Yeah.
+
+945
+01:00:31,500 --> 01:00:32,500
+Yeah.
+
+946
+01:00:32,500 --> 01:00:33,500
+All right.
+
+947
+01:00:35,500 --> 01:00:36,500
+Found it.
+
+948
+01:00:36,500 --> 01:00:37,500
+I found the voicemails.
+
+949
+01:00:37,500 --> 01:00:39,500
+All right, I'm going to post them.
+
+950
+01:00:39,500 --> 01:00:45,500
+This first one is called, it's just called Roro from Roro on Discord.
+
+951
+01:00:45,500 --> 01:00:47,500
+It's a minute 30.
+
+952
+01:00:47,500 --> 01:00:48,500
+Okay.
+
+953
+01:00:48,500 --> 01:00:50,500
+Three, two, one, go.
+
+954
+01:00:51,500 --> 01:00:54,500
+In 2008, the economy functionally collapsed.
+
+955
+01:00:54,500 --> 01:00:56,500
+The basic chain reaction was fixed.
+
+956
+01:00:56,500 --> 01:00:57,500
+I know, it's Dan.
+
+957
+01:00:57,500 --> 01:01:05,500
+Banks came up with a thing called a mortgage-backed security, a financial instrument that could be trained or collected that was based on a bundle of thousands of individual mortgages.
+
+958
+01:01:05,500 --> 01:01:16,500
+Based on the general reluctance of banks to issue mortgages, the risk aversion and lendings of 100s of thousands of dollars that they'll pay off over the course of potentially decades, these bonds were seen as especially stable.
+
+959
+01:01:16,500 --> 01:01:20,500
+However, they were also immensely profitable for the banks to both pay off their mortgages.
+
+960
+01:01:20,500 --> 01:01:21,500
+Got it.
+
+961
+01:01:21,500 --> 01:01:22,500
+Got it.
+
+962
+01:01:22,500 --> 01:01:23,500
+You quoted that video.
+
+963
+01:01:23,500 --> 01:01:24,500
+Thanks for the voicemail.
+
+964
+01:01:24,500 --> 01:01:25,500
+Next.
+
+965
+01:01:25,500 --> 01:01:27,500
+You seen that video?
+
+966
+01:01:27,500 --> 01:01:28,500
+Nope.
+
+967
+01:01:28,500 --> 01:01:31,500
+It's called the problem.
+
+968
+01:01:31,500 --> 01:01:33,500
+I think it's called line go up or line go down.
+
+969
+01:01:33,500 --> 01:01:38,500
+The problem with NFTs, it's from the Folding Ideas channel.
+
+970
+01:01:38,500 --> 01:01:39,500
+It's by Dan Olson.
+
+971
+01:01:39,500 --> 01:01:42,500
+It's got like eight million views.
+
+972
+01:01:42,500 --> 01:01:43,500
+Wow.
+
+973
+01:01:43,500 --> 01:01:47,500
+It's the best video I've seen explaining why NFTs are bad.
+
+974
+01:01:47,500 --> 01:01:52,500
+Well, I already know NFTs are bad, so it's redundant, at least in my case.
+
+975
+01:01:52,500 --> 01:01:54,500
+That's, I mean, fair.
+
+976
+01:01:54,500 --> 01:01:57,500
+I mean, fair.
+
+977
+01:01:57,500 --> 01:01:59,500
+That's because it's good.
+
+978
+01:01:59,500 --> 01:02:00,500
+It's good video.
+
+979
+01:02:00,500 --> 01:02:03,500
+I'm not saying, I'm not saying you got to watch it, but it is a good video.
+
+980
+01:02:03,500 --> 01:02:05,500
+Yeah.
+
+981
+01:02:05,500 --> 01:02:06,500
+Next.
+
+982
+01:02:06,500 --> 01:02:16,500
+It's, I think it became kind of the video that like, when people wanted to explain to someone why are NFTs bad and it's like, it's actually really complicated.
+
+983
+01:02:16,500 --> 01:02:17,500
+Reason.
+
+984
+01:02:17,500 --> 01:02:19,500
+It's actually hard to explain why.
+
+985
+01:02:19,500 --> 01:02:23,500
+I think that sort of became the one that people were like, here, just watch this video.
+
+986
+01:02:23,500 --> 01:02:26,500
+Just watch this two hour YouTube video and you'll understand.
+
+987
+01:02:26,500 --> 01:02:27,500
+Yeah.
+
+988
+01:02:27,500 --> 01:02:39,500
+Well, when I first heard of NFTs, basically the way I understood it was people spend like thousands of dollars on like a link to an image.
+
+989
+01:02:39,500 --> 01:02:41,500
+And I was like, that's stupid.
+
+990
+01:02:41,500 --> 01:02:43,500
+So yeah.
+
+991
+01:02:43,500 --> 01:02:45,500
+That is true.
+
+992
+01:02:45,500 --> 01:02:50,500
+Would you, would you believe that there are even more reasons why they're bad?
+
+993
+01:02:50,500 --> 01:02:51,500
+Yeah.
+
+994
+01:02:51,500 --> 01:02:53,500
+I heard something about the environment or something.
+
+995
+01:02:53,500 --> 01:02:55,500
+There's the environment.
+
+996
+01:02:55,500 --> 01:03:08,500
+There's, there's just the whole, the whole like business model of NFTs is basically in service of consolidating wealth even further.
+
+997
+01:03:08,500 --> 01:03:09,500
+Yeah.
+
+998
+01:03:09,500 --> 01:03:12,500
+It's pretty much the goal of them, et cetera, et cetera.
+
+999
+01:03:12,500 --> 01:03:13,500
+Yeah.
+
+1000
+01:03:13,500 --> 01:03:14,500
+Anyway.
+
+1001
+01:03:14,500 --> 01:03:15,500
+Yeah, shit, whatever.
+
+1002
+01:03:15,500 --> 01:03:17,500
+It's a long ass fucking video.
+
+1003
+01:03:17,500 --> 01:03:19,500
+I can't summarize it here.
+
+1004
+01:03:19,500 --> 01:03:20,500
+Yeah.
+
+1005
+01:03:20,500 --> 01:03:26,500
+Next one is called, well, hang on.
+
+1006
+01:03:26,500 --> 01:03:27,500
+Okay.
+
+1007
+01:03:27,500 --> 01:03:28,500
+It's two image links.
+
+1008
+01:03:28,500 --> 01:03:32,500
+Anyway, I'm going to, I'm going to play the audio three, two, one go.
+
+1009
+01:03:32,500 --> 01:03:35,500
+Look at my fan art.
+
+1010
+01:03:35,500 --> 01:03:36,500
+Okay.
+
+1011
+01:03:36,500 --> 01:03:38,500
+I'm going to look at the fan art.
+
+1012
+01:03:38,500 --> 01:03:39,500
+Let's see this shit.
+
+1013
+01:03:39,500 --> 01:03:41,500
+Is this Mega Man?
+
+1014
+01:03:41,500 --> 01:04:01,500
+Oh, this is, um, yeah, because like I mentioned, when, when the Minecraft stream wouldn't work, I started playing Mega Man X5 and I was complaining about how the dial, the Mavericks all, the Mavericks and X5 are also fucking stupid.
+
+1015
+01:04:01,500 --> 01:04:04,500
+This is, this is Duff McWailin.
+
+1016
+01:04:04,500 --> 01:04:10,500
+That's the, that's the one where the English localizers decided to name them after fucking a.
+
+1017
+01:04:10,500 --> 01:04:11,500
+Yes.
+
+1018
+01:04:11,500 --> 01:04:12,500
+Yes.
+
+1019
+01:04:12,500 --> 01:04:15,500
+Uh, Guns N' Roses musicians.
+
+1020
+01:04:15,500 --> 01:04:16,500
+Yeah.
+
+1021
+01:04:16,500 --> 01:04:18,500
+And they weren't even called that in the Japanese version.
+
+1022
+01:04:18,500 --> 01:04:22,500
+Did, did, did you hear me complaining about this or is this just something you know?
+
+1023
+01:04:22,500 --> 01:04:23,500
+Oh, it's just something I know.
+
+1024
+01:04:23,500 --> 01:04:24,500
+It's a, it's a.
+
+1025
+01:04:24,500 --> 01:04:25,500
+Oh, very nice.
+
+1026
+01:04:25,500 --> 01:04:27,500
+It's a well-known thing in the Mega Man community.
+
+1027
+01:04:27,500 --> 01:04:28,500
+Nothing.
+
+1028
+01:04:28,500 --> 01:04:30,500
+I didn't know you were, I didn't know you were a Mega Maner.
+
+1029
+01:04:30,500 --> 01:04:33,500
+Well, I played Mega Man, but I wouldn't say I'm part of the community.
+
+1030
+01:04:33,500 --> 01:04:37,500
+It's just like, it's just like a well-known thing to people who play Mega Man.
+
+1031
+01:04:38,500 --> 01:04:41,500
+I had never played, um, I had never played past like X3.
+
+1032
+01:04:41,500 --> 01:04:47,500
+So I had never, I didn't know about, I didn't know about Duff McWailin and Axel the Red.
+
+1033
+01:04:47,500 --> 01:04:48,500
+Yeah.
+
+1034
+01:04:48,500 --> 01:04:49,500
+Uh, et cetera, et cetera.
+
+1035
+01:04:49,500 --> 01:04:51,500
+I never played past X3 either.
+
+1036
+01:04:51,500 --> 01:04:53,500
+It's just, I heard about it.
+
+1037
+01:04:53,500 --> 01:04:57,500
+I, actually that's not, I did play a little bit of X4.
+
+1038
+01:04:57,500 --> 01:05:00,500
+It's at one point, but like I never got that far on it.
+
+1039
+01:05:00,500 --> 01:05:01,500
+Yeah.
+
+1040
+01:05:01,500 --> 01:05:03,500
+I didn't like the, I didn't like the art change.
+
+1041
+01:05:03,500 --> 01:05:05,500
+I was, I was, I was, I complained a lot.
+
+1042
+01:05:05,500 --> 01:05:11,500
+I complained a lot about Mega Man, uh, on that stream and on the next one that I did on my Twitch.
+
+1043
+01:05:11,500 --> 01:05:14,500
+Uh, there's a lot, there's a lot to complain about.
+
+1044
+01:05:14,500 --> 01:05:15,500
+Yeah.
+
+1045
+01:05:15,500 --> 01:05:16,500
+Okay.
+
+1046
+01:05:16,500 --> 01:05:17,500
+Okay.
+
+1047
+01:05:17,500 --> 01:05:19,500
+So Duff McWailin says, listen, you know we are friends.
+
+1048
+01:05:19,500 --> 01:05:20,500
+I want to help you.
+
+1049
+01:05:20,500 --> 01:05:25,500
+This might look unreasonable, but, uh, okay.
+
+1050
+01:05:25,500 --> 01:05:31,500
+And then the next one is Mega, Mega Man, McWailin has hit you.
+
+1051
+01:05:31,500 --> 01:05:37,500
+Uh, damn, he hit, he hit your ass.
+
+1052
+01:05:37,500 --> 01:05:39,500
+Lit, I like it.
+
+1053
+01:05:39,500 --> 01:05:40,500
+It's me.
+
+1054
+01:05:40,500 --> 01:05:41,500
+It's me with the helmet.
+
+1055
+01:05:41,500 --> 01:05:42,500
+Yeah.
+
+1056
+01:05:42,500 --> 01:05:43,500
+I'm bleeding.
+
+1057
+01:05:43,500 --> 01:05:48,500
+The, the, when you fight, when you find Duff McWailin, after the most, after the, literally
+
+1058
+01:05:48,500 --> 01:05:52,500
+the most annoying stage in the entire X series up to that point.
+
+1059
+01:05:52,500 --> 01:06:00,500
+Um, he says like, hey, I'm a good guy and I know I, and I have something that you want.
+
+1060
+01:06:00,500 --> 01:06:03,500
+You want to use my ocean to save the world.
+
+1061
+01:06:03,500 --> 01:06:09,500
+Well, I am a good guy and I'd like to help you, but I'm a man of the sea, so I have
+
+1062
+01:06:09,500 --> 01:06:11,500
+to fight you instead.
+
+1063
+01:06:11,500 --> 01:06:12,500
+And then he does.
+
+1064
+01:06:12,500 --> 01:06:17,500
+That comes off as like a bad translation of something because it doesn't make any sense.
+
+1065
+01:06:17,500 --> 01:06:19,500
+Because he's a man of the sea.
+
+1066
+01:06:19,500 --> 01:06:20,500
+Uh, okay.
+
+1067
+01:06:20,500 --> 01:06:28,740
+A Grizzly slash at least explains, he's like, I know I should be on your side, but I'm an
+
+1068
+01:06:28,740 --> 01:06:33,740
+honorable warrior and I, and you're the strongest reploid and I just want to fight you.
+
+1069
+01:06:33,740 --> 01:06:35,740
+Like, I just want to do it.
+
+1070
+01:06:35,740 --> 01:06:40,140
+And it kind of makes sense, even though it's not like reasonable, but Duff McWailin is
+
+1071
+01:06:40,140 --> 01:06:42,740
+just like, I'm a man of the sea.
+
+1072
+01:06:42,740 --> 01:06:45,740
+And that means I always have to fight under all circumstances.
+
+1073
+01:06:45,740 --> 01:06:46,740
+Yeah.
+
+1074
+01:06:46,740 --> 01:06:47,740
+It's just nonsense.
+
+1075
+01:06:47,740 --> 01:06:48,740
+Yeah.
+
+1076
+01:06:48,740 --> 01:06:53,740
+It might be like something that's lost in translation because I don't know what the fuck that means.
+
+1077
+01:06:53,740 --> 01:06:54,740
+Maybe.
+
+1078
+01:06:54,740 --> 01:06:55,740
+Yeah.
+
+1079
+01:06:55,740 --> 01:06:57,740
+And then the other Mega Man games, weren't they have like a virus or something?
+
+1080
+01:06:58,740 --> 01:07:02,740
+But for this one, they're trying to come up with different reasons.
+
+1081
+01:07:02,740 --> 01:07:10,740
+Well, sometimes in one through three, all of the robot masters, not robot masters, all
+
+1082
+01:07:10,740 --> 01:07:16,740
+of the bosses, they're infected with the Maverick virus slash Sigma virus.
+
+1083
+01:07:16,740 --> 01:07:24,740
+And that's why they're crazy and evil in for some of them are infected with the Sigma
+
+1084
+01:07:24,740 --> 01:07:25,740
+virus.
+
+1085
+01:07:25,740 --> 01:07:31,740
+But most of them are just members of Repliforce who are just cops rioting because they were
+
+1086
+01:07:31,740 --> 01:07:36,740
+accused of doing something bad and they decided that instead of like turning over the body
+
+1087
+01:07:36,740 --> 01:07:39,740
+cam footage, they're going to like stage a coup.
+
+1088
+01:07:39,740 --> 01:07:41,740
+That's literally the plot of X4.
+
+1089
+01:07:41,740 --> 01:07:42,740
+Wow, based.
+
+1090
+01:07:42,740 --> 01:07:46,740
+That's literally the plot of X4.
+
+1091
+01:07:46,740 --> 01:07:50,740
+And then in five, in five, it's like the virus is going crazy.
+
+1092
+01:07:50,740 --> 01:07:54,740
+Some of them have the virus and some of them don't have it yet and it's kind of all over
+
+1093
+01:07:54,740 --> 01:07:55,740
+the place.
+
+1094
+01:07:55,740 --> 01:07:56,740
+Yeah.
+
+1095
+01:07:56,740 --> 01:08:01,740
+The plot of X5 is basically everyone gets, like the entire world gets infected with the
+
+1096
+01:08:01,740 --> 01:08:06,740
+virus and Mega Man's like, well, we got a shit's fucking dire now.
+
+1097
+01:08:06,740 --> 01:08:07,740
+Yeah.
+
+1098
+01:08:07,740 --> 01:08:08,740
+Anyway.
+
+1099
+01:08:08,740 --> 01:08:09,740
+Do you see?
+
+1100
+01:08:09,740 --> 01:08:10,740
+Fucking Duff McWailin.
+
+1101
+01:08:10,740 --> 01:08:15,740
+Do you think the cops from X4 or the Valde police department is worse?
+
+1102
+01:08:16,740 --> 01:08:17,740
+I should clarify.
+
+1103
+01:08:17,740 --> 01:08:21,740
+The cops in X4, actually, you're the cops in X4.
+
+1104
+01:08:21,740 --> 01:08:24,740
+It's the military in X4 that is rioting.
+
+1105
+01:08:24,740 --> 01:08:26,740
+Oh, same shit, whatever.
+
+1106
+01:08:26,740 --> 01:08:29,740
+Yeah, same shit, basically.
+
+1107
+01:08:29,740 --> 01:08:37,740
+It's the cops versus the military and the cops actually look good by comparison.
+
+1108
+01:08:37,740 --> 01:08:39,740
+So that should tell you something.
+
+1109
+01:08:39,740 --> 01:08:40,740
+Damn.
+
+1110
+01:08:40,740 --> 01:08:45,740
+I would say that the cops in X4 are better than the Uvalde military.
+
+1111
+01:08:45,740 --> 01:08:47,740
+The Uvalde military.
+
+1112
+01:08:47,740 --> 01:08:54,740
+At least in X4, the cops went into, Mega Man and Zero go into Sky Lagoon as it's crashing
+
+1113
+01:08:54,740 --> 01:08:57,740
+down on whatever city it was destroying.
+
+1114
+01:08:57,740 --> 01:09:01,740
+They're there and they're like, well, I can't do anything about it.
+
+1115
+01:09:01,740 --> 01:09:02,740
+At least they went in.
+
+1116
+01:09:02,740 --> 01:09:03,740
+Yeah, sure.
+
+1117
+01:09:03,740 --> 01:09:05,740
+Even though they weren't able to prevent the tragedy.
+
+1118
+01:09:05,740 --> 01:09:09,740
+Yeah, and they released the body him footage.
+
+1119
+01:09:09,740 --> 01:09:16,740
+They just like, hey, Repliforce, you were here.
+
+1120
+01:09:16,740 --> 01:09:18,740
+Why did you?
+
+1121
+01:09:18,740 --> 01:09:22,740
+We kind of think it looks like you did this terrorism.
+
+1122
+01:09:22,740 --> 01:09:26,740
+Could you please deactivate so we can conduct an investigation?
+
+1123
+01:09:26,740 --> 01:09:28,740
+And they're like, no.
+
+1124
+01:09:28,740 --> 01:09:29,740
+What about our pride?
+
+1125
+01:09:29,740 --> 01:09:30,740
+We'll never lay down our weapons.
+
+1126
+01:09:30,740 --> 01:09:35,740
+We will kill every, quote unquote, human.
+
+1127
+01:09:35,740 --> 01:09:40,740
+We'll kill every Reploid that thinks we did anything wrong.
+
+1128
+01:09:40,740 --> 01:09:44,740
+Turns out it was, in fact, a Repliforce member that crashed Sky Lagoon.
+
+1129
+01:09:44,740 --> 01:09:46,740
+Magma Dragoon did it.
+
+1130
+01:09:46,740 --> 01:09:47,740
+Damn.
+
+1131
+01:09:47,740 --> 01:09:52,740
+And like, yeah, he was infected with the Sigma virus, possibly, but he was still a legitimate
+
+1132
+01:09:52,740 --> 01:09:53,740
+Repliforce member.
+
+1133
+01:09:53,740 --> 01:09:57,740
+So they were just wrong.
+
+1134
+01:09:57,740 --> 01:09:58,740
+Fucking...
+
+1135
+01:09:58,740 --> 01:10:00,740
+Okay, that's enough.
+
+1136
+01:10:00,740 --> 01:10:02,740
+That's enough about this.
+
+1137
+01:10:02,740 --> 01:10:03,740
+Yeah.
+
+1138
+01:10:03,740 --> 01:10:04,740
+ACAB.
+
+1139
+01:10:04,740 --> 01:10:06,740
+ACAB includes Repliforce.
+
+1140
+01:10:06,740 --> 01:10:07,740
+Yeah.
+
+1141
+01:10:07,740 --> 01:10:08,740
+Yeah.
+
+1142
+01:10:08,740 --> 01:10:19,740
+Okay, I'm looking at this next Imgir link, and it's the PCP at Radcon 4, and there's a
+
+1143
+01:10:19,740 --> 01:10:20,740
+lizard.
+
+1144
+01:10:20,740 --> 01:10:23,740
+And I got to be honest, I don't know who this lizard is.
+
+1145
+01:10:23,740 --> 01:10:26,740
+It's one of the members of the PCP.
+
+1146
+01:10:26,740 --> 01:10:31,740
+Oh, Gragel Bestman.
+
+1147
+01:10:31,740 --> 01:10:32,740
+The forgotten...
+
+1148
+01:10:32,740 --> 01:10:33,740
+Oh, I see.
+
+1149
+01:10:33,740 --> 01:10:35,740
+I see what they're doing.
+
+1150
+01:10:35,740 --> 01:10:36,740
+Who remembers Gragel Bestman?
+
+1151
+01:10:36,740 --> 01:10:41,740
+Man, the good old days in Radcon 4 seems like so long ago.
+
+1152
+01:10:41,740 --> 01:10:45,740
+Most people, real heads know about Gragel.
+
+1153
+01:10:45,740 --> 01:10:46,740
+Yeah.
+
+1154
+01:10:46,740 --> 01:10:48,740
+I get it.
+
+1155
+01:10:48,740 --> 01:10:51,740
+I get it.
+
+1156
+01:10:51,740 --> 01:10:55,740
+Let's see.
+
+1157
+01:10:55,740 --> 01:10:58,740
+What was I doing here?
+
+1158
+01:10:58,740 --> 01:11:00,740
+Where am I exactly?
+
+1159
+01:11:00,740 --> 01:11:02,740
+The voicemail.
+
+1160
+01:11:02,740 --> 01:11:03,740
+Right.
+
+1161
+01:11:03,740 --> 01:11:07,740
+Next one is called Interrupting Death Goat.
+
+1162
+01:11:07,740 --> 01:11:08,740
+There's the audio.
+
+1163
+01:11:08,740 --> 01:11:10,740
+Three, two, one, go.
+
+1164
+01:11:10,740 --> 01:11:13,740
+Hello, PCP.
+
+1165
+01:11:13,740 --> 01:11:17,740
+No voice changer, no instrumental.
+
+1166
+01:11:17,740 --> 01:11:24,740
+I am recording this.
+
+1167
+01:11:25,740 --> 01:11:26,740
+Damn.
+
+1168
+01:11:26,740 --> 01:11:30,740
+You really, you really went all out.
+
+1169
+01:11:30,740 --> 01:11:35,740
+I don't know if that was like a clip, or if he just like screamed off mic.
+
+1170
+01:11:35,740 --> 01:11:37,740
+Either way, it sounded good.
+
+1171
+01:11:37,740 --> 01:11:38,740
+Good job.
+
+1172
+01:11:38,740 --> 01:11:40,740
+Yeah.
+
+1173
+01:11:40,740 --> 01:11:46,740
+Next one is called Beefing with a Voicemailer from last week.
+
+1174
+01:11:46,740 --> 01:11:48,740
+There it is.
+
+1175
+01:11:48,740 --> 01:11:50,740
+Three, two, one, go.
+
+1176
+01:11:51,740 --> 01:12:00,740
+Hey, Ben said, did you know, remember that stupid fucking useless drama on
+
+1177
+01:12:00,740 --> 01:12:04,740
+Twitter from two months ago that everyone is sick of hearing about?
+
+1178
+01:12:04,740 --> 01:12:15,740
+Well, I thought that I would bring that back up to tell you that being bad is
+
+1179
+01:12:15,740 --> 01:12:18,740
+bad and being nice is good.
+
+1180
+01:12:18,740 --> 01:12:20,740
+Thank you for saying it.
+
+1181
+01:12:20,740 --> 01:12:21,740
+Brave.
+
+1182
+01:12:21,740 --> 01:12:23,740
+Kind of cringe.
+
+1183
+01:12:23,740 --> 01:12:26,740
+Very good.
+
+1184
+01:12:26,740 --> 01:12:28,740
+Very good.
+
+1185
+01:12:28,740 --> 01:12:29,740
+Very good.
+
+1186
+01:12:29,740 --> 01:12:31,740
+What do you think, CeCe?
+
+1187
+01:12:31,740 --> 01:12:35,740
+Is being nice or is being bad cringe?
+
+1188
+01:12:35,740 --> 01:12:39,740
+I think good things are good and bad things are bad.
+
+1189
+01:12:39,740 --> 01:12:40,740
+Wrong.
+
+1190
+01:12:40,740 --> 01:12:42,740
+There's no difference.
+
+1191
+01:12:42,740 --> 01:12:44,740
+You absolute buffoon.
+
+1192
+01:12:44,740 --> 01:12:47,740
+Well, it depends on what we're talking about.
+
+1193
+01:12:47,740 --> 01:12:49,740
+In what context?
+
+1194
+01:12:49,740 --> 01:12:51,740
+Yeah.
+
+1195
+01:12:51,740 --> 01:12:52,740
+This guy's right.
+
+1196
+01:12:52,740 --> 01:12:54,740
+Last week, some guy.
+
+1197
+01:12:54,740 --> 01:12:55,740
+Is that the Vtuber thing?
+
+1198
+01:12:55,740 --> 01:12:59,740
+Last week, some guy sent in a message asking about some Twitter drama that was
+
+1199
+01:12:59,740 --> 01:13:02,740
+old even before our three week hiatus had gone on.
+
+1200
+01:13:02,740 --> 01:13:04,740
+So there was no excuse for it at all.
+
+1201
+01:13:04,740 --> 01:13:05,740
+Was it the Vtuber thing?
+
+1202
+01:13:05,740 --> 01:13:13,740
+This guy has skewered him, lampooned him in a resounding fashion.
+
+1203
+01:13:13,740 --> 01:13:15,740
+Was it the Vtuber thing?
+
+1204
+01:13:15,740 --> 01:13:16,740
+It was.
+
+1205
+01:13:16,740 --> 01:13:17,740
+Yeah, it was.
+
+1206
+01:13:17,740 --> 01:13:18,740
+Yeah.
+
+1207
+01:13:18,740 --> 01:13:19,740
+That old chestnut.
+
+1208
+01:13:19,740 --> 01:13:25,740
+Actually, I think parasocial relations are bad, but that's just my opinion.
+
+1209
+01:13:25,740 --> 01:13:32,740
+I think, I wouldn't say that they're all bad all the time.
+
+1210
+01:13:32,740 --> 01:13:33,740
+Yeah.
+
+1211
+01:13:33,740 --> 01:13:36,740
+I wouldn't say they're all bad all the time, but yeah.
+
+1212
+01:13:36,740 --> 01:13:40,740
+I mean, I can relate since I don't have any real friends either, but you know.
+
+1213
+01:13:40,740 --> 01:13:44,740
+You don't, you don't want to, you don't want to take it to an unhealthy level.
+
+1214
+01:13:44,740 --> 01:13:45,740
+Absolutely.
+
+1215
+01:13:45,740 --> 01:13:47,740
+For sure.
+
+1216
+01:13:47,740 --> 01:13:48,740
+Okay.
+
+1217
+01:13:48,740 --> 01:13:49,740
+Next one.
+
+1218
+01:13:49,740 --> 01:13:50,740
+Oh man.
+
+1219
+01:13:50,740 --> 01:13:51,740
+I'm looking forward to this one.
+
+1220
+01:13:51,740 --> 01:13:54,740
+Next one is death note fun fact number three.
+
+1221
+01:13:54,740 --> 01:13:57,740
+I remember last week's fun fact was extremely fun.
+
+1222
+01:13:57,740 --> 01:14:00,740
+So I'm ready to be entertained.
+
+1223
+01:14:00,740 --> 01:14:03,740
+Three, two, one, go.
+
+1224
+01:14:03,740 --> 01:14:04,740
+Hey, PCP.
+
+1225
+01:14:04,740 --> 01:14:05,740
+It's the death note fun fact guy.
+
+1226
+01:14:05,740 --> 01:14:07,740
+Here's a death note fun fact.
+
+1227
+01:14:07,740 --> 01:14:11,740
+Did you know that although it's framed as an alias within the series, L is actually
+
+1228
+01:14:11,740 --> 01:14:13,740
+L's real first name.
+
+1229
+01:14:13,740 --> 01:14:15,740
+I didn't know that series itself.
+
+1230
+01:14:15,740 --> 01:14:19,740
+An official guidebook released after the manga concluded called death note how to read in
+
+1231
+01:14:19,740 --> 01:14:20,740
+this book.
+
+1232
+01:14:20,740 --> 01:14:22,740
+L's full name is revealed as L.
+
+1233
+01:14:22,740 --> 01:14:24,740
+That was another death note fun fact.
+
+1234
+01:14:24,740 --> 01:14:26,740
+See you next week for another death note fun fact.
+
+1235
+01:14:26,740 --> 01:14:27,740
+I regret to inform you.
+
+1236
+01:14:27,740 --> 01:14:28,740
+I did know that.
+
+1237
+01:14:28,740 --> 01:14:29,740
+Yeah.
+
+1238
+01:14:29,740 --> 01:14:30,740
+Me too.
+
+1239
+01:14:30,740 --> 01:14:31,740
+My fun.
+
+1240
+01:14:31,740 --> 01:14:33,740
+My fun was diminished significantly.
+
+1241
+01:14:33,740 --> 01:14:36,740
+What was the, what was the one from last week?
+
+1242
+01:14:37,740 --> 01:14:39,740
+Oh, fuck.
+
+1243
+01:14:39,740 --> 01:14:41,740
+The last one was, oh, shit.
+
+1244
+01:14:41,740 --> 01:14:42,740
+I hope I'm not misremembering.
+
+1245
+01:14:42,740 --> 01:14:46,740
+I think it was that like, oh, I remember.
+
+1246
+01:14:46,740 --> 01:14:51,740
+Mellow and near were like in the original draft of the story.
+
+1247
+01:14:51,740 --> 01:14:57,740
+Mellow and near were supposed to be L's children, but the author like changed his mind and they
+
+1248
+01:14:57,740 --> 01:15:02,740
+didn't write it that way because they could not imagine L having sex.
+
+1249
+01:15:02,740 --> 01:15:03,740
+Oh yeah.
+
+1250
+01:15:03,740 --> 01:15:05,740
+That makes sense.
+
+1251
+01:15:05,740 --> 01:15:06,740
+Yeah.
+
+1252
+01:15:06,740 --> 01:15:07,740
+So that was great.
+
+1253
+01:15:07,740 --> 01:15:09,740
+And also he was like, isn't L like 22?
+
+1254
+01:15:09,740 --> 01:15:12,740
+So he would have had to have, they would have.
+
+1255
+01:15:12,740 --> 01:15:13,740
+Yeah.
+
+1256
+01:15:13,740 --> 01:15:16,740
+He would have had sex when he was like 17 and they'd be five years old.
+
+1257
+01:15:16,740 --> 01:15:17,740
+I don't know.
+
+1258
+01:15:17,740 --> 01:15:19,740
+Well, I'm not sure.
+
+1259
+01:15:19,740 --> 01:15:24,740
+Maybe it was like an earlier draft where L was older or maybe there was originally a longer
+
+1260
+01:15:24,740 --> 01:15:27,740
+like time skip in between part one and part two or something like that.
+
+1261
+01:15:27,740 --> 01:15:28,740
+Yeah.
+
+1262
+01:15:28,740 --> 01:15:29,740
+I'm not sure.
+
+1263
+01:15:29,740 --> 01:15:30,740
+Yeah.
+
+1264
+01:15:30,740 --> 01:15:32,740
+But it's a fun fact and it sounds true.
+
+1265
+01:15:32,740 --> 01:15:34,740
+Retweet if it sounds true.
+
+1266
+01:15:34,740 --> 01:15:35,740
+Yeah.
+
+1267
+01:15:35,740 --> 01:15:36,740
+I'll have to tell them.
+
+1268
+01:15:36,740 --> 01:15:37,740
+You see that thing?
+
+1269
+01:15:37,740 --> 01:15:39,740
+You see, do you know what I'm referencing there?
+
+1270
+01:15:39,740 --> 01:15:40,740
+Retweet if it sounds true.
+
+1271
+01:15:40,740 --> 01:15:43,740
+It sounds familiar, but.
+
+1272
+01:15:43,740 --> 01:15:46,740
+Some fucking, some fucking Democrat.
+
+1273
+01:15:46,740 --> 01:15:47,740
+Oh yeah.
+
+1274
+01:15:47,740 --> 01:15:48,740
+Oh yeah.
+
+1275
+01:15:48,740 --> 01:15:49,740
+Oh yeah.
+
+1276
+01:15:49,740 --> 01:15:50,740
+Now I remember it's the.
+
+1277
+01:15:50,740 --> 01:15:54,740
+The Lauren, the Lauren Boebert was like a sex escort and had two abortions.
+
+1278
+01:15:54,740 --> 01:15:56,740
+Retweet if it sounds true.
+
+1279
+01:15:56,740 --> 01:15:57,740
+Yeah.
+
+1280
+01:15:57,740 --> 01:15:58,740
+That sounds, that sounds true.
+
+1281
+01:15:58,740 --> 01:15:59,740
+All right.
+
+1282
+01:15:59,740 --> 01:16:01,740
+Well, why?
+
+1283
+01:16:01,740 --> 01:16:02,740
+I guess.
+
+1284
+01:16:02,740 --> 01:16:03,740
+Why?
+
+1285
+01:16:03,740 --> 01:16:04,740
+I think it would be true.
+
+1286
+01:16:04,740 --> 01:16:05,740
+Yeah.
+
+1287
+01:16:05,740 --> 01:16:10,740
+To, to be fair, like people like that, like make me really like confident in my ability
+
+1288
+01:16:10,740 --> 01:16:15,740
+to run for office because they can win an election.
+
+1289
+01:16:15,740 --> 01:16:20,740
+So can I, but not really because, because I'm on the spectrum and I don't know how to,
+
+1290
+01:16:20,740 --> 01:16:24,740
+like I'm not persuasive enough to tell people to vote for me.
+
+1291
+01:16:24,740 --> 01:16:31,740
+I have, are there any, like, are there any like autistic, I don't know, like house members
+
+1292
+01:16:31,740 --> 01:16:32,740
+or governors or anything?
+
+1293
+01:16:32,740 --> 01:16:35,740
+Or is anyone like openly on the spectrum?
+
+1294
+01:16:35,740 --> 01:16:39,740
+I'm genuinely curious to know if there were.
+
+1295
+01:16:39,740 --> 01:16:45,740
+I don't think so, but there's a, you know, Kirsten Sinema, the greatest senator of,
+
+1296
+01:16:45,740 --> 01:16:47,740
+from Arizona, my state.
+
+1297
+01:16:47,740 --> 01:16:50,740
+She's the only bisexual in Congress.
+
+1298
+01:16:50,740 --> 01:17:00,740
+I am aware of Kirsten Sinema's fabulous slay queen, beautiful by representation.
+
+1299
+01:17:01,740 --> 01:17:02,740
+Yeah.
+
+1300
+01:17:02,740 --> 01:17:03,740
+Yeah.
+
+1301
+01:17:03,740 --> 01:17:06,740
+I'm looking forward to not voting for her in 2024.
+
+1302
+01:17:06,740 --> 01:17:08,740
+Are you in Arizona?
+
+1303
+01:17:08,740 --> 01:17:09,740
+Yeah.
+
+1304
+01:17:09,740 --> 01:17:10,740
+Good for you.
+
+1305
+01:17:10,740 --> 01:17:11,740
+Yeah.
+
+1306
+01:17:11,740 --> 01:17:16,740
+All, all I get to do is choose between Ed Markey and Joe Kennedy.
+
+1307
+01:17:16,740 --> 01:17:19,740
+Oh, Joe Kennedy sucks ass.
+
+1308
+01:17:19,740 --> 01:17:23,740
+He does suck ass, but not as much as like Sinema.
+
+1309
+01:17:23,740 --> 01:17:24,740
+Yeah, obviously.
+
+1310
+01:17:24,740 --> 01:17:26,740
+I mean, that goes without saying.
+
+1311
+01:17:26,740 --> 01:17:28,740
+Pretty much.
+
+1312
+01:17:28,740 --> 01:17:29,740
+Yeah.
+
+1313
+01:17:30,740 --> 01:17:35,740
+Uh, next voicemail is called declaration of war.
+
+1314
+01:17:35,740 --> 01:17:38,740
+Uh, three, two, one, go.
+
+1315
+01:17:38,740 --> 01:17:39,740
+You know what?
+
+1316
+01:17:39,740 --> 01:17:41,740
+It had to be said.
+
+1317
+01:17:41,740 --> 01:17:47,740
+I fucking hate that fucking British Australian, whatever the fuck he is guy who always fucking
+
+1318
+01:17:47,740 --> 01:17:51,740
+leaves voicemails where he's like, Oh, whatever.
+
+1319
+01:17:51,740 --> 01:17:53,740
+Fuck that guy.
+
+1320
+01:17:53,740 --> 01:17:54,740
+I hate that guy.
+
+1321
+01:17:54,740 --> 01:17:57,740
+He's my officially my arch nemesis.
+
+1322
+01:17:57,740 --> 01:18:01,740
+I will fight him to the death on the top of the highest mountain.
+
+1323
+01:18:01,740 --> 01:18:04,740
+I will fucking destroy him.
+
+1324
+01:18:04,740 --> 01:18:05,740
+Can you be more?
+
+1325
+01:18:05,740 --> 01:18:06,740
+He will die.
+
+1326
+01:18:06,740 --> 01:18:07,740
+Can you be more specific?
+
+1327
+01:18:07,740 --> 01:18:08,740
+Declaration of war.
+
+1328
+01:18:08,740 --> 01:18:09,740
+Fuck you.
+
+1329
+01:18:09,740 --> 01:18:10,740
+I don't.
+
+1330
+01:18:10,740 --> 01:18:11,740
+I feel like I should know.
+
+1331
+01:18:11,740 --> 01:18:13,740
+Ben Stain on Block B on Twitter.
+
+1332
+01:18:13,740 --> 01:18:17,740
+I feel like I should know that guy's name.
+
+1333
+01:18:17,740 --> 01:18:21,740
+Who's the Australian guy he's talking about?
+
+1334
+01:18:21,740 --> 01:18:22,740
+I don't.
+
+1335
+01:18:22,740 --> 01:18:23,740
+I don't know his name.
+
+1336
+01:18:23,740 --> 01:18:25,740
+I feel like I should, but I know the voice.
+
+1337
+01:18:25,740 --> 01:18:27,740
+I know the, the, the voicemailer.
+
+1338
+01:18:27,740 --> 01:18:28,740
+Yeah, he does.
+
+1339
+01:18:28,740 --> 01:18:30,740
+He, he sends in voicemails.
+
+1340
+01:18:30,740 --> 01:18:34,740
+No, I mean, I mean, which, which person is he talking about in the voicemail?
+
+1341
+01:18:34,740 --> 01:18:35,740
+No, that's what I mean.
+
+1342
+01:18:35,740 --> 01:18:42,740
+Like it's a guy with an accent who sends in ones and he'll be like an episode, an episode
+
+1343
+01:18:42,740 --> 01:18:43,740
+116.
+
+1344
+01:18:43,740 --> 01:18:46,740
+You said this, but actually there's something.
+
+1345
+01:18:46,740 --> 01:18:47,740
+Oh, okay.
+
+1346
+01:18:47,740 --> 01:18:48,740
+Yeah.
+
+1347
+01:18:48,740 --> 01:18:50,740
+He's talking about a voicemailer.
+
+1348
+01:18:50,740 --> 01:18:51,740
+I don't know.
+
+1349
+01:18:51,740 --> 01:18:52,740
+He's sending a lot of voicemail.
+
+1350
+01:18:52,740 --> 01:18:55,740
+I don't, so I think some of them have been annoying and some of them have been fine.
+
+1351
+01:18:55,740 --> 01:18:56,740
+So I don't even remember.
+
+1352
+01:18:56,740 --> 01:19:00,740
+I don't remember if he said anything like particularly irritating.
+
+1353
+01:19:00,740 --> 01:19:01,740
+Um, okay.
+
+1354
+01:19:01,740 --> 01:19:05,740
+The next one, the next one is not a voicemail.
+
+1355
+01:19:05,740 --> 01:19:08,740
+There's no audio or it's like one second audio.
+
+1356
+01:19:08,740 --> 01:19:09,740
+It's just a question.
+
+1357
+01:19:09,740 --> 01:19:11,740
+Is Nate okay?
+
+1358
+01:19:11,740 --> 01:19:19,740
+Um, I mean, can you, you're going to, you're going to have to explain it to me if there's
+
+1359
+01:19:19,740 --> 01:19:21,740
+reason to think Nate's not okay.
+
+1360
+01:19:21,740 --> 01:19:24,740
+You're going to have to give me a reasoning and then maybe I can respond to it.
+
+1361
+01:19:24,740 --> 01:19:26,740
+Nate's saying the brother has been saying.
+
+1362
+01:19:26,740 --> 01:19:27,740
+All, yeah.
+
+1363
+01:19:27,740 --> 01:19:30,740
+All I can really do with this is just say, yeah, I think so.
+
+1364
+01:19:30,740 --> 01:19:31,740
+I don't know.
+
+1365
+01:19:31,740 --> 01:19:33,740
+Be, be more specific.
+
+1366
+01:19:33,740 --> 01:19:34,740
+Do you know what he's doing?
+
+1367
+01:19:34,740 --> 01:19:35,740
+Uh, the next one.
+
+1368
+01:19:35,740 --> 01:19:36,740
+Huh?
+
+1369
+01:19:36,740 --> 01:19:39,740
+Do you know what Nate is doing up to these days?
+
+1370
+01:19:39,740 --> 01:19:43,740
+Actually, I believe he is visiting our sister.
+
+1371
+01:19:43,740 --> 01:19:45,740
+For Father's Day.
+
+1372
+01:19:45,740 --> 01:19:47,740
+Yeah, I guess.
+
+1373
+01:19:47,740 --> 01:19:50,740
+Uh, I think he's, I think he's visiting our sister.
+
+1374
+01:19:50,740 --> 01:19:54,740
+Him and, him and Michelle are doing that.
+
+1375
+01:19:54,740 --> 01:19:56,740
+I heard from Michelle that was happening.
+
+1376
+01:19:56,740 --> 01:20:01,740
+Um, other than that, I don't really know.
+
+1377
+01:20:01,740 --> 01:20:03,740
+Um, yeah.
+
+1378
+01:20:03,740 --> 01:20:06,740
+Next, next one is a question.
+
+1379
+01:20:06,740 --> 01:20:10,740
+Does the death note fun fact guy sound like Digi?
+
+1380
+01:20:10,740 --> 01:20:12,740
+Uh, let me.
+
+1381
+01:20:12,740 --> 01:20:16,740
+I thought the last guy kind of sounded like Digi, the guy complaining about the Australian.
+
+1382
+01:20:16,740 --> 01:20:18,740
+You think so?
+
+1383
+01:20:18,740 --> 01:20:26,740
+I thought the last one sounded like, the last one reminds me of someone, but I'm not sure who.
+
+1384
+01:20:26,740 --> 01:20:27,740
+Yeah, maybe.
+
+1385
+01:20:27,740 --> 01:20:33,740
+Uh, the next one, sorry, the death note fun fact guy, uh, let me listen again real quick.
+
+1386
+01:20:33,740 --> 01:20:35,740
+Wait, are they the same person?
+
+1387
+01:20:35,740 --> 01:20:39,740
+I think, I think, I think, I think they're the same person.
+
+1388
+01:20:39,740 --> 01:20:41,740
+Yeah, they sound, they sound similar.
+
+1389
+01:20:41,740 --> 01:20:43,740
+They do sound similar.
+
+1390
+01:20:43,740 --> 01:20:46,740
+They don't, I guess they don't really sound like Digi bro to me.
+
+1391
+01:20:46,740 --> 01:20:48,740
+I don't really hear it.
+
+1392
+01:20:48,740 --> 01:20:51,740
+I mean, maybe, maybe before she transitioned.
+
+1393
+01:20:51,740 --> 01:20:53,740
+I don't know.
+
+1394
+01:20:53,740 --> 01:20:55,740
+Yeah.
+
+1395
+01:20:55,740 --> 01:20:58,740
+I kind of, sort of hear it.
+
+1396
+01:20:58,740 --> 01:21:00,740
+I have to, I have to stretch to hear it.
+
+1397
+01:21:00,740 --> 01:21:03,740
+I don't, I don't, kind of.
+
+1398
+01:21:03,740 --> 01:21:06,740
+Um, next one is called does the death note.
+
+1399
+01:21:06,740 --> 01:21:07,740
+No, sorry.
+
+1400
+01:21:07,740 --> 01:21:09,740
+Next one is called also where.
+
+1401
+01:21:09,740 --> 01:21:10,740
+Oh, wait, really?
+
+1402
+01:21:10,740 --> 01:21:12,740
+This one is where is Digi?
+
+1403
+01:21:12,740 --> 01:21:14,740
+Why is he not on?
+
+1404
+01:21:14,740 --> 01:21:16,740
+Uh, bro.
+
+1405
+01:21:16,740 --> 01:21:21,740
+He's, he's, he's even more like out of date with the PCP Lord than I am.
+
+1406
+01:21:21,740 --> 01:21:24,740
+And that's saying, I will tell, I will tell you.
+
+1407
+01:21:24,740 --> 01:21:25,740
+Okay.
+
+1408
+01:21:25,740 --> 01:21:28,740
+Did Digi bro.
+
+1409
+01:21:28,740 --> 01:21:39,740
+He, he Digi bro Demi boy is married to Ethan Ralph and has given birth to a child with Ethan Ralph.
+
+1410
+01:21:39,740 --> 01:21:41,740
+That's where, that's where Digi bro is.
+
+1411
+01:21:41,740 --> 01:21:44,740
+Because remember CC, I don't know if you're aware of it.
+
+1412
+01:21:44,740 --> 01:21:45,740
+Yeah.
+
+1413
+01:21:45,740 --> 01:21:48,740
+Digi bro, Digi bro and Trixie switch names.
+
+1414
+01:21:48,740 --> 01:21:52,740
+They didn't, uh, it was before Trixie, but, uh,
+
+1415
+01:21:52,740 --> 01:21:54,740
+Wait, what, what, what, what, what?
+
+1416
+01:21:54,740 --> 01:22:01,740
+At some point post-transition and pre-breakup, uh, Digi bro, or she was not Trixie at that point.
+
+1417
+01:22:01,740 --> 01:22:03,740
+I think she was still Digi nay.
+
+1418
+01:22:03,740 --> 01:22:04,740
+Right.
+
+1419
+01:22:04,740 --> 01:22:09,740
+But Digi nay stopped being Digi nay and may became Digi nay.
+
+1420
+01:22:09,740 --> 01:22:14,740
+Or Digi bro, no, may became Digi bro, uh, and famously said that, uh,
+
+1421
+01:22:14,740 --> 01:22:19,740
+She doesn't like little black girls, uh, but she is attracted to children.
+
+1422
+01:22:19,740 --> 01:22:20,740
+Wow.
+
+1423
+01:22:20,740 --> 01:22:21,740
+She, she really said.
+
+1424
+01:22:21,740 --> 01:22:22,740
+Just not black ones.
+
+1425
+01:22:22,740 --> 01:22:24,740
+She really, she really said that.
+
+1426
+01:22:24,740 --> 01:22:27,740
+She really, I mean, have you, have you heard the clip?
+
+1427
+01:22:27,740 --> 01:22:30,740
+I, I, oh yeah, cause they're both like lolly con pedophiles.
+
+1428
+01:22:30,740 --> 01:22:31,740
+I forgot.
+
+1429
+01:22:31,740 --> 01:22:32,740
+Yeah.
+
+1430
+01:22:32,740 --> 01:22:36,740
+It's, it's not, it's not, uh, there's a, there's a clip.
+
+1431
+01:22:36,740 --> 01:22:41,740
+It's called, it's called Digi bro's, Digi bro's opinion of Netflix cuties.
+
+1432
+01:22:41,740 --> 01:22:47,740
+And it's may standing there, sort of like attempting to yell.
+
+1433
+01:22:47,740 --> 01:22:49,740
+I am not interested in black little girl.
+
+1434
+01:22:49,740 --> 01:22:52,740
+Trying to do like a stupid angry video game, like yelling voice.
+
+1435
+01:22:52,740 --> 01:22:53,740
+Yeah.
+
+1436
+01:22:53,740 --> 01:22:55,740
+And she said she's not interested in black little girl.
+
+1437
+01:22:55,740 --> 01:23:01,740
+Explaining, explaining, like explaining that she is attracted to children, but not black one.
+
+1438
+01:23:02,740 --> 01:23:08,740
+I, she, she point, no, she points to like a lolly, she points to like a lolly thing on
+
+1439
+01:23:08,740 --> 01:23:11,740
+the wall and says, this, this is what I'm into.
+
+1440
+01:23:11,740 --> 01:23:14,740
+Not black little girl.
+
+1441
+01:23:14,740 --> 01:23:15,740
+Yeah.
+
+1442
+01:23:15,740 --> 01:23:17,740
+That's a great video.
+
+1443
+01:23:17,740 --> 01:23:18,740
+May I love you.
+
+1444
+01:23:18,740 --> 01:23:20,740
+Unblock, unblock me on Twitter.
+
+1445
+01:23:20,740 --> 01:23:23,740
+You're my best friend.
+
+1446
+01:23:23,740 --> 01:23:27,740
+Anyway, uh, what was I talking about?
+
+1447
+01:23:27,740 --> 01:23:29,740
+Uh, something something.
+
+1448
+01:23:29,740 --> 01:23:30,740
+Digi bro's opinion.
+
+1449
+01:23:30,740 --> 01:23:32,740
+Anyway, Digi is married to Ethan Ralph.
+
+1450
+01:23:32,740 --> 01:23:34,740
+That is, that is the answer.
+
+1451
+01:23:34,740 --> 01:23:39,740
+Um, because the title of Digi bro was passed on to me and then never transferred again.
+
+1452
+01:23:39,740 --> 01:23:41,740
+So Ethan Ralph is married to Digi bro.
+
+1453
+01:23:41,740 --> 01:23:42,740
+That's just cannon.
+
+1454
+01:23:42,740 --> 01:23:46,740
+Anyway, that's, that's the answer to the question.
+
+1455
+01:23:46,740 --> 01:23:48,740
+We've got like two more voicemails to get through.
+
+1456
+01:23:48,740 --> 01:23:51,740
+The next one is called happy birthday, Ben.
+
+1457
+01:23:51,740 --> 01:23:53,740
+Uh, there's no audio.
+
+1458
+01:23:53,740 --> 01:23:54,740
+Uh, thanks.
+
+1459
+01:23:54,740 --> 01:23:58,740
+Uh, one after that is called, well, it's a YouTube link.
+
+1460
+01:23:58,740 --> 01:24:00,740
+Uh, let's see what it is.
+
+1461
+01:24:00,740 --> 01:24:02,740
+What the fuck is this?
+
+1462
+01:24:02,740 --> 01:24:05,740
+Sylvain Hunter, what is modern dance dance revolution?
+
+1463
+01:24:05,740 --> 01:24:08,740
+This is probably like a three hour video, right?
+
+1464
+01:24:08,740 --> 01:24:09,740
+13 minutes.
+
+1465
+01:24:09,740 --> 01:24:11,740
+Why would you send me this?
+
+1466
+01:24:11,740 --> 01:24:13,740
+Who would do, who would do this?
+
+1467
+01:24:13,740 --> 01:24:16,740
+Anyway, the last one is called happy birthday, Ben.
+
+1468
+01:24:16,740 --> 01:24:17,740
+Uh, thanks.
+
+1469
+01:24:17,740 --> 01:24:19,740
+Happy birthday, Ben.
+
+1470
+01:24:19,740 --> 01:24:20,740
+Okay.
+
+1471
+01:24:20,740 --> 01:24:21,740
+Happy birthday.
+
+1472
+01:24:21,740 --> 01:24:23,740
+When was your birthday?
+
+1473
+01:24:23,740 --> 01:24:24,740
+April.
+
+1474
+01:24:24,740 --> 01:24:26,740
+Uh, happy.
+
+1475
+01:24:26,740 --> 01:24:29,740
+Two months late birthday.
+
+1476
+01:24:29,740 --> 01:24:35,740
+The last, you know, when I logged into Twitch to stream, to test my stream strength.
+
+1477
+01:24:35,740 --> 01:24:43,740
+Um, the last stream that I did on my Twitch channel was my birthday two years ago in
+
+1478
+01:24:43,740 --> 01:24:46,740
+2020, shortly post radcon four.
+
+1479
+01:24:46,740 --> 01:24:49,740
+I have not like touched the Twitch channel since then.
+
+1480
+01:24:49,740 --> 01:24:55,740
+And that was probably a huge mistake, but that's what happened.
+
+1481
+01:24:55,740 --> 01:25:00,740
+Uh, so you stream on a different channel?
+
+1482
+01:25:00,740 --> 01:25:06,740
+When I have streamed since then, it has mostly been either, um, on the PCP YouTube channel
+
+1483
+01:25:06,740 --> 01:25:11,740
+with Shekels for heckles, or it has been RFCK related.
+
+1484
+01:25:11,740 --> 01:25:12,740
+Okay.
+
+1485
+01:25:12,740 --> 01:25:18,740
+Like mostly judging the RFCK art contests and, and such.
+
+1486
+01:25:18,740 --> 01:25:19,740
+Man.
+
+1487
+01:25:19,740 --> 01:25:24,740
+I used, I had a little bit of, I had a little bit of Twitch traction for a while there for
+
+1488
+01:25:24,740 --> 01:25:25,740
+a little brief stretch there.
+
+1489
+01:25:25,740 --> 01:25:31,740
+I was getting like a hundred viewers a stream, uh, although I think it had dipped a little,
+
+1490
+01:25:31,740 --> 01:25:38,740
+that was, that was during a, like a pre-radcon period of buzz, I think.
+
+1491
+01:25:38,740 --> 01:25:39,740
+Uh, I don't know.
+
+1492
+01:25:39,740 --> 01:25:42,740
+I don't know if my numbers would have stayed like that forever.
+
+1493
+01:25:42,740 --> 01:25:44,740
+Um, I don't know.
+
+1494
+01:25:44,740 --> 01:25:46,740
+Maybe I should start using that.
+
+1495
+01:25:46,740 --> 01:25:49,740
+I've been, I've been, I've been like gaming a little bit more.
+
+1496
+01:25:49,740 --> 01:25:53,740
+You know, I've been, I've been gaming more because after, after I played, uh, Mega Man
+
+1497
+01:25:53,740 --> 01:25:58,740
+on the Shekels for heckles, I played a little bit more of it on the, uh, on my Twitch.
+
+1498
+01:25:58,740 --> 01:26:02,740
+And I think I want to play some more Mega Man in the near future.
+
+1499
+01:26:02,740 --> 01:26:07,740
+So, uh, twitch.tv slash ben saint, or no, is it saint comics?
+
+1500
+01:26:07,740 --> 01:26:08,740
+Hang on.
+
+1501
+01:26:08,740 --> 01:26:11,740
+I don't even know my own, no, it's saint comics.
+
+1502
+01:26:11,740 --> 01:26:12,740
+I'm an idiot.
+
+1503
+01:26:12,740 --> 01:26:16,740
+Twitch.tv slash saint comics with an X is my Twitch.
+
+1504
+01:26:16,740 --> 01:26:23,740
+Everyone follow me over there and, um, watch me play some Mega Man if you want to.
+
+1505
+01:26:23,740 --> 01:26:24,740
+Yeah.
+
+1506
+01:26:24,740 --> 01:26:27,740
+Watch, watch him play Mega Man.
+
+1507
+01:26:27,740 --> 01:26:28,740
+Thank you.
+
+1508
+01:26:28,740 --> 01:26:32,740
+Uh, okay, that was the last voicemail.
+
+1509
+01:26:32,740 --> 01:26:33,740
+Good job.
+
+1510
+01:26:33,740 --> 01:26:34,740
+Thanks.
+
+1511
+01:26:34,740 --> 01:26:40,740
+And it's noon and I think that's good time for me to start getting ready to catch the
+
+1512
+01:26:40,740 --> 01:26:45,740
+train to go give my dad his, uh, Father's Day gummy cubes.
+
+1513
+01:26:45,740 --> 01:26:46,740
+They're not cubes.
+
+1514
+01:26:46,740 --> 01:26:48,740
+They're rectangular prisms.
+
+1515
+01:26:48,740 --> 01:26:51,740
+Oh, that thing you posted earlier.
+
+1516
+01:26:51,740 --> 01:26:52,740
+Yeah.
+
+1517
+01:26:52,740 --> 01:26:53,740
+Yeah.
+
+1518
+01:26:53,740 --> 01:26:54,740
+What did you think about those, by the way?
+
+1519
+01:26:54,740 --> 01:26:55,740
+Oh, they look good.
+
+1520
+01:26:55,740 --> 01:26:56,740
+They are good.
+
+1521
+01:26:56,740 --> 01:26:57,740
+They are pretty tasty.
+
+1522
+01:26:57,740 --> 01:27:00,740
+Um, they're quite chewy.
+
+1523
+01:27:00,740 --> 01:27:03,740
+I wish I could, I wish I could make them even denser.
+
+1524
+01:27:03,740 --> 01:27:07,740
+I wish I could make them, I feel like if I could reduce the water content even further,
+
+1525
+01:27:07,740 --> 01:27:10,740
+make them like really dense, they might be like chewy, like a now and later, which would
+
+1526
+01:27:10,740 --> 01:27:12,740
+be like, oh, beautiful.
+
+1527
+01:27:12,740 --> 01:27:14,740
+You made them from scratch.
+
+1528
+01:27:14,740 --> 01:27:16,740
+I did make, I did make them from scratch.
+
+1529
+01:27:16,740 --> 01:27:17,740
+Yeah.
+
+1530
+01:27:17,740 --> 01:27:18,740
+Wow.
+
+1531
+01:27:18,740 --> 01:27:23,740
+They are made of, um, they are made of, uh, corn, corn, corn fiber, gelatin and sugar.
+
+1532
+01:27:23,740 --> 01:27:24,740
+Wow.
+
+1533
+01:27:24,740 --> 01:27:26,740
+Oh, and some, and some acid.
+
+1534
+01:27:26,740 --> 01:27:27,740
+Yeah.
+
+1535
+01:27:27,740 --> 01:27:29,740
+And like, you know, flavors and stuff.
+
+1536
+01:27:29,740 --> 01:27:31,740
+Looks good.
+
+1537
+01:27:31,740 --> 01:27:37,740
+Anyway, I'm, yeah, I, that was like the first thing I talked about on the episode is how
+
+1538
+01:27:37,740 --> 01:27:40,740
+I've, I've mostly perfected a recipe for them.
+
+1539
+01:27:40,740 --> 01:27:45,740
+So when, um, so when no one else is on the podcast, you just talk to yourself?
+
+1540
+01:27:45,740 --> 01:27:48,740
+Yeah, that's the Bencast.
+
+1541
+01:27:48,740 --> 01:27:49,740
+I don't know.
+
+1542
+01:27:49,740 --> 01:27:55,740
+I've done like, I've done like three of them, maybe this might be, this might be the fourth,
+
+1543
+01:27:55,740 --> 01:27:59,740
+if you count, if you count it, even though you joined me halfway through.
+
+1544
+01:27:59,740 --> 01:28:00,740
+Yeah.
+
+1545
+01:28:00,740 --> 01:28:01,740
+So, so it depends how you count.
+
+1546
+01:28:01,740 --> 01:28:05,740
+I think I've done two that were like just me and nobody else.
+
+1547
+01:28:05,740 --> 01:28:06,740
+I see.
+
+1548
+01:28:06,740 --> 01:28:09,740
+Uh, it's a, yeah, it's dire.
+
+1549
+01:28:09,740 --> 01:28:10,740
+It's grim.
+
+1550
+01:28:10,740 --> 01:28:11,740
+Yeah.
+
+1551
+01:28:11,740 --> 01:28:13,740
+I could do, I could do that because, you know, it would be really easy.
+
+1552
+01:28:13,740 --> 01:28:15,740
+I don't have to collaborate with anyone.
+
+1553
+01:28:15,740 --> 01:28:19,740
+I could just talk to myself, which is what I usually do anyway.
+
+1554
+01:28:19,740 --> 01:28:25,740
+It is, I can do it, but I usually run out of things to say, like within an hour or so.
+
+1555
+01:28:25,740 --> 01:28:30,740
+So they usually go shorter than a regular episode, obviously.
+
+1556
+01:28:30,740 --> 01:28:32,740
+That's still pretty long though.
+
+1557
+01:28:32,740 --> 01:28:33,740
+Yeah.
+
+1558
+01:28:33,740 --> 01:28:34,740
+Yeah.
+
+1559
+01:28:34,740 --> 01:28:39,740
+The, the, the voice, the voicemails are there to pad the runtime if necessary.
+
+1560
+01:28:39,740 --> 01:28:41,740
+Oh yeah, that's true.
+
+1561
+01:28:41,740 --> 01:28:42,740
+Okay.
+
+1562
+01:28:42,740 --> 01:28:46,740
+Uh, but yeah, I gotta, I gotta go and take a shower and then catch a train.
+
+1563
+01:28:46,740 --> 01:28:48,740
+So let's, uh, let's wrap this up.
+
+1564
+01:28:48,740 --> 01:28:51,740
+Do you want to say anything before we conclude?
+
+1565
+01:28:51,740 --> 01:28:56,740
+Uh, yeah, by the, um, by the tails gets told volume one and two.
+
+1566
+01:28:56,740 --> 01:29:01,740
+Definitely by volume two and probably by one.
+
+1567
+01:29:01,740 --> 01:29:02,740
+Why not?
+
+1568
+01:29:02,740 --> 01:29:04,740
+Why not also by one and also while you're at it?
+
+1569
+01:29:04,740 --> 01:29:09,740
+We'll put a, we'll put a link in the description to the tail gets rolled store page, I guess,
+
+1570
+01:29:09,740 --> 01:29:17,740
+which links, which from there you can find links to the Amazon by pages or whatever.
+
+1571
+01:29:17,740 --> 01:29:18,740
+Yeah.
+
+1572
+01:29:18,740 --> 01:29:24,740
+And also, uh, follow the tails gets told Twitter for updates on the comic chapter 20 and 26
+
+1573
+01:29:24,740 --> 01:29:26,740
+will be there soon.
+
+1574
+01:29:26,740 --> 01:29:29,740
+I have a, I have a insane idea.
+
+1575
+01:29:29,740 --> 01:29:30,740
+What?
+
+1576
+01:29:30,740 --> 01:29:31,740
+Okay.
+
+1577
+01:29:31,740 --> 01:29:34,740
+You know, you know about affiliate links like Amazon affiliate links?
+
+1578
+01:29:34,740 --> 01:29:35,740
+Yeah.
+
+1579
+01:29:35,740 --> 01:29:41,740
+Could you, could you get an affiliate link for your own product?
+
+1580
+01:29:41,740 --> 01:29:44,740
+I have no idea, but that would be cool.
+
+1581
+01:29:44,740 --> 01:29:48,740
+Like what, like what if you, cause like affiliate links, like it gives like a percentage of
+
+1582
+01:29:48,740 --> 01:29:52,740
+the sale price to the person who link, use the affiliate link.
+
+1583
+01:29:52,740 --> 01:29:58,740
+So what if you got an affiliate link for your own books and then you use that affiliate
+
+1584
+01:29:58,740 --> 01:30:03,740
+link on, so would you get like an additional percentage of the sale?
+
+1585
+01:30:03,740 --> 01:30:09,740
+I have no idea or would it just like take the percentage of what I get and then give
+
+1586
+01:30:09,740 --> 01:30:11,740
+it to them, which was, which is also me.
+
+1587
+01:30:11,740 --> 01:30:13,740
+So it wouldn't change anything.
+
+1588
+01:30:13,740 --> 01:30:14,740
+Yeah.
+
+1589
+01:30:14,740 --> 01:30:15,740
+I don't know.
+
+1590
+01:30:15,740 --> 01:30:16,740
+Maybe.
+
+1591
+01:30:16,740 --> 01:30:17,740
+I don't know how it works.
+
+1592
+01:30:17,740 --> 01:30:19,740
+That's a, it might.
+
+1593
+01:30:19,740 --> 01:30:20,740
+Maybe all might work.
+
+1594
+01:30:20,740 --> 01:30:22,740
+Maybe I'll look into it, but I don't know.
+
+1595
+01:30:22,740 --> 01:30:27,740
+But yeah, honestly, I would be curious, I would be curious to know whether that would
+
+1596
+01:30:27,740 --> 01:30:30,740
+be, or if you find, if you find out, let me know.
+
+1597
+01:30:30,740 --> 01:30:31,740
+Yeah.
+
+1598
+01:30:31,740 --> 01:30:32,740
+Yeah, I will.
+
+1599
+01:30:32,740 --> 01:30:37,740
+And also follow the, follow the tails gets trolled Twitter to see updates on whenever
+
+1600
+01:30:37,740 --> 01:30:41,740
+chapter 26 is coming, which is probably in a few months.
+
+1601
+01:30:41,740 --> 01:30:42,740
+Keep.
+
+1602
+01:30:42,740 --> 01:30:43,740
+Tails gets trolled Twitter.
+
+1603
+01:30:43,740 --> 01:30:46,740
+You, you post good, you post funny stuff on there.
+
+1604
+01:30:46,740 --> 01:30:47,740
+Yeah.
+
+1605
+01:30:47,740 --> 01:30:48,740
+Thanks.
+
+1606
+01:30:48,740 --> 01:30:49,740
+And I like it.
+
+1607
+01:30:49,740 --> 01:30:50,740
+And also every time.
+
+1608
+01:30:50,740 --> 01:30:51,740
+Huh?
+
+1609
+01:30:51,740 --> 01:30:52,740
+What?
+
+1610
+01:30:52,740 --> 01:30:53,740
+Nothing.
+
+1611
+01:30:53,740 --> 01:30:58,740
+I was going to say follow my main Twitter also since I don't have any followers.
+
+1612
+01:30:58,740 --> 01:30:59,740
+Chaff and Heimer.
+
+1613
+01:30:59,740 --> 01:31:01,740
+It's CC Chimer.
+
+1614
+01:31:01,740 --> 01:31:02,740
+CC Chimer.
+
+1615
+01:31:02,740 --> 01:31:03,740
+Yeah.
+
+1616
+01:31:03,740 --> 01:31:05,740
+Is it not Chaff and Heimer?
+
+1617
+01:31:05,740 --> 01:31:06,740
+Am I crazy?
+
+1618
+01:31:06,740 --> 01:31:08,740
+It used to be that, but I changed it.
+
+1619
+01:31:08,740 --> 01:31:10,740
+Oh, okay.
+
+1620
+01:31:10,740 --> 01:31:13,740
+C H I M E R.
+
+1621
+01:31:13,740 --> 01:31:14,740
+Yeah.
+
+1622
+01:31:14,740 --> 01:31:15,740
+CC Chimer.
+
+1623
+01:31:15,740 --> 01:31:16,740
+So it's three C's.
+
+1624
+01:31:16,740 --> 01:31:19,740
+CC Chimer is a three CC Chimer.
+
+1625
+01:31:19,740 --> 01:31:20,740
+Yeah.
+
+1626
+01:31:20,740 --> 01:31:21,740
+Three C's.
+
+1627
+01:31:21,740 --> 01:31:22,740
+Yeah.
+
+1628
+01:31:22,740 --> 01:31:23,740
+All right.
+
+1629
+01:31:23,740 --> 01:31:24,740
+Uh, let's, I'm going to wrap.
+
+1630
+01:31:24,740 --> 01:31:26,740
+I'm going to call it at the end.
+
+1631
+01:31:26,740 --> 01:31:28,740
+Uh, follow my Twitch, StComics.
+
+1632
+01:31:28,740 --> 01:31:31,740
+Uh, by, by Tails gets trolled.
+
+1633
+01:31:31,740 --> 01:31:32,740
+Bye-bye.
+
+1634
+01:31:32,740 --> 01:31:33,740
+Bye-bye.
+
+1635
+01:31:33,740 --> 01:31:34,740
+That's it.
+
+1636
+01:31:34,740 --> 01:31:35,740
+Thanks for listening.
+
+1637
+01:31:35,740 --> 01:31:36,740
+Bye.
+
+1638
+01:31:36,740 --> 01:31:37,740
+Bye-bye.
+
+1639
+01:31:37,740 --> 01:31:38,740
+Bye.
+
+1640
+01:31:38,740 --> 01:31:39,740
+Bye.
+

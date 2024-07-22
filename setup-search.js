@@ -27,12 +27,12 @@ db.serialize(() => {
     CREATE TABLE IF NOT EXISTS episodes (
       id INTEGER PRIMARY KEY AUTOINCREMENT,
       fileName TEXT NOT NULL,
-      description TEXT NOT NULL
+      title TEXT NOT NULL
     )
   `);
 
   // Insert data
-  const stmt = db.prepare("INSERT INTO episodes (fileName, description) VALUES (?, ?)");
+  const stmt = db.prepare("INSERT INTO episodes (fileName, title) VALUES (?, ?)");
 
   episodes.forEach(episode => {
     stmt.run(episode.fileName, episode.innerHTML);
@@ -72,12 +72,12 @@ db.serialize(() => {
     stmt.finalize();
   }
 
-  // Read and insert all SRT files from the 'whisper_output' directory
-  fs.readdirSync('./whisper_output').forEach(file => {
-    if (path.extname(file) === '.srt') {
-      insertData(path.join('./whisper_output', file));
-    }
-  });
+  // Read and insert all SRT files from the 'srt_output' directory
+  // fs.readdirSync('./srt_output').forEach(file => {
+  //   if (path.extname(file) === '.srt') {
+  //     insertData(path.join('./srt_output', file));
+  //   }
+  // });
   
   console.log('Database setup.');
 });

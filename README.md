@@ -19,9 +19,11 @@ whisper downloads/Pro-Crastinators-Podcast-0001.mp3 --language English --output_
 
 to run whisper on all the downloaded files (This took like 5 days)
 `node batch-run-whisper.js` 
-
 `run.sh` to manually whisper for when i just had a few left
 
+created a copy of whisper_output and removed all non .srt files
+`cp -r whisper_output srt_output` 
+`rm !(*.lnx)`
 
 # Search setup (~1hr)
 `npm install sqlite3`

@@ -1,7 +1,7 @@
 const sqlite3 = require('sqlite3').verbose();
 
 // Create or open the database
-const db = new sqlite3.Database('srt_files copy.db');
+const db = new sqlite3.Database('db_output/pcp-archive-search.db');
 
 // Function to search the FTS table
 function searchSrtFiles(query) {
