@@ -17,5 +17,12 @@ ran the download episodes program courtesy of chat-GPT
 ## example whisper command for reference
 whisper downloads/Pro-Crastinators-Podcast-0001.mp3 --language English --output_dir whisper_output --initial_prompt "This is a podcast called The Pro Crastinators Podcast. A variety podcast running since 2015. Currently hosted by are Ben Saint and Gibbontake(or Hippocrit). Members have included Nate Bestman, Endless Jess, Digibro, Mumkey Jones, Geoff Thew, Tom Oliver, The Davoo, Mage, and Munchy."
 
-to run whisper on all the downloaded files
+to run whisper on all the downloaded files (This took like 5 days)
 `node batch-run-whisper.js` 
+
+`run.sh` to manually whisper for when i just had a few left
+
+
+# Search setup (~1hr)
+`npm install sqlite3`
+`node setup-search.js`

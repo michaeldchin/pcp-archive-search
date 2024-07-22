@@ -3,7 +3,9 @@
     "axios": "^1.7.2",
     "cheerio": "^1.0.0-rc.12",
     "fs": "^0.0.1-security",
-    "readline": "^1.3.0"
+    "jsdom": "^24.1.1",
+    "readline": "^1.3.0",
+    "sqlite3": "^5.1.7"
   },
   "name": "pcp-archive-search",
   "description": "``` write a node js script to download all the files from a site https://www.theprocrastinatorspodcast.com/  with the format of each link url being like  <p><a href=\"mp3s/Pro-Crastinators-Podcast-0001.mp3\" download>Episode 1: Best Game Ever (12/05/2015)</a></p> ```",
