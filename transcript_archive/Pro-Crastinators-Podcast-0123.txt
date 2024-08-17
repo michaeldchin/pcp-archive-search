@@ -1,0 +1,4428 @@
+00:00:00 Hello everyone and welcome to another episode of The Pro Crastinators Podcast.
+00:00:25 I'm the best guy ever. Today we're joined by Hippocrit.
+00:00:38 Mage.
+00:00:39 I was ill but I got better just in time for this podcast so you won't get to miss me.
+00:00:46 I've become games so much I'm dreaming in code. I'm starting to think in if else statements
+00:01:11 in real time.
+00:01:24 How long has it been?
+00:01:25 It's been months.
+00:01:26 It's been over two months.
+00:01:27 It's been all I ever needed.
+00:01:28 Congratulations.
+00:01:29 I remember that the world is a nihilistic nightmare and that you're not supposed to live
+00:01:35 it sober.
+00:01:36 I'm, I'm, well, you disgust me.
+00:01:40 I don't know, what's, what's up with that?
+00:01:41 Hey, hey, you didn't introduce me, you fuck.
+00:01:44 Oh, oh shit.
+00:01:45 Don't you know I have feelings?
+00:01:46 In my weed induced stupor, I forgot that Ben Saint is also here.
+00:01:51 Yeah, don't you forget it. Don't, don't wear, that's my name, don't wear it out.
+00:01:58 Patreon.
+00:01:59 There he is.
+00:02:00 That's my name. Don't wear it out by not saying Ben ever again.
+00:02:07 Here's a thought. Should you ever do drugs?
+00:02:10 Yeah.
+00:02:11 Like ever.
+00:02:12 I think I want to say no.
+00:02:13 I want to say no.
+00:02:14 I want to say, all right, I was talking to a guy in my discord who was saying fuck alcohol,
+00:02:20 I hate it, sucks.
+00:02:22 And I was arguing the case for trying alcohol once in your life to at least know whether
+00:02:28 you enjoy the feeling of being tipsy and getting a bit loose.
+00:02:33 Well, why don't you try jumping off a cliff, go to try it once, you know, see how it goes.
+00:02:38 Cause like, it's, it's undeniably does good things if you take a little bit of it every
+00:02:45 so often in the right context, in the right circumstances.
+00:02:47 Are you talking about like the health benefits of drinking wine or something?
+00:02:50 No, I'm just, I'm just talking about like the social benefits and the relaxation that
+00:02:54 it brings.
+00:02:55 Yeah.
+00:02:56 And you don't need to think so hard about everything and you're not anxious anymore.
+00:03:01 I wish it had that effect on me.
+00:03:03 The most important thing is that when you're at a party, you have something in your hand
+00:03:06 and you don't look weird and you don't think you look weird because you have something
+00:03:09 in your hand.
+00:03:10 I mean, you didn't get my hand at every party I'm at.
+00:03:13 It looked great.
+00:03:14 You can drink anything.
+00:03:15 I, you know, I always am walking around just carrying something to make me feel less weird,
+00:03:19 but then half the time what I'm carrying is weird.
+00:03:22 And then I get low down.
+00:03:23 I'm literally at the shrug walking around.
+00:03:25 But I am atlas.
+00:03:26 You know what you do?
+00:03:27 Here's a, here's a move.
+00:03:28 Here's a move that I have never successfully tried out, but one day I intend to do it because
+00:03:34 it sounds great and I see no downsides is you go to a party or to a bar or you go to
+00:03:39 a bar where everybody's drinking like beer and you, you order a champagne flute.
+00:03:45 You order a flute of champagne and then you go around and you toast everyone with your
+00:03:50 flute of champagne and you, I mean, I can imagine that you would look like the coolest
+00:03:55 guy in the world doing this.
+00:03:56 When you say flutes, do you mean like the musical instrument?
+00:03:59 Yeah, I was going to ask.
+00:04:00 No, God damn it.
+00:04:01 You fucking, you fucking Euro trash.
+00:04:03 Don't you speak English?
+00:04:04 No.
+00:04:05 The flute is the musical instrument.
+00:04:09 When you see people drinking champagne on New Year's Eve, that's a flute.
+00:04:14 Is it a flute or a flume?
+00:04:16 It's a flute.
+00:04:17 I, I, I just imagine a glass, I, who, what, I'm walking around with a trombone full
+00:04:24 of beer.
+00:04:25 My brain is just colliding the ideas of a flute and like a glass, it's like, what,
+00:04:30 just imagine a wine glass, what thinner.
+00:04:33 I, I, I, I'm just thinking, no, it isn't, it's round, a regular wine glass, round.
+00:04:40 This has got to be the most boring discussion we've ever had on the protest.
+00:04:44 I know.
+00:04:45 I know.
+00:04:46 I guess of all time.
+00:04:47 I mean, we've got a couple of strong contenders for that role, for that title.
+00:04:51 Yeah, I guess so.
+00:04:52 For that dubious distinction.
+00:04:53 I had a great dream the other day.
+00:04:55 It was a great dream.
+00:04:57 I was never saying that, but I was thinking it.
+00:05:01 Oh, hashtag kick mage 2018.
+00:05:05 Yeah.
+00:05:06 Listen, listen, everybody.
+00:05:07 You didn't kick me with anything.
+00:05:08 I'm just going to make the case that, you know what, let me, I'm just going to get
+00:05:12 into a topic.
+00:05:13 Here's a topic.
+00:05:14 I'm throwing it out there.
+00:05:15 Not one of these.
+00:05:16 Here's the topic.
+00:05:17 I've been saving this for like a month now.
+00:05:19 We haven't gotten this fine.
+00:05:20 I don't care.
+00:05:21 But here's what it is.
+00:05:22 In fact, that thing that you've been waiting for forever to come out, examples, Card Saga's
+00:05:29 Wars was this game that took literally 15 years to come out.
+00:05:32 Are we just talking about Kingdom Hearts 3 right now?
+00:05:34 Kingdom Hearts 3, yes.
+00:05:35 Here's the, my topic is, those things.
+00:05:37 First problem waiting and wanting things to come out.
+00:05:40 Just quick interruption.
+00:05:41 I actually.
+00:05:42 Having emotions and wanting and liking things.
+00:05:45 Quick interruption quickly.
+00:05:47 I Google champion flute and it's less thinner.
+00:05:50 It's longer than, no, you're English.
+00:05:52 It's fucking thinner than a wine glass.
+00:05:55 Jesus.
+00:05:56 Jesus Christ.
+00:05:57 Why do you doubt me?
+00:05:58 Why do you undermine me, Mage?
+00:06:02 Here's what the topic is.
+00:06:03 The topic is that those things that you've been waiting to come out forever will be massively
+00:06:09 disappointing 100% of the time and that it is never, ever worth the wait and that you're
+00:06:14 fucking yourself over to even continue to care like for any amount of time.
+00:06:19 Well Nate, you solved the discussion and now we can move on.
+00:06:22 Did anyone, I mean, here's like a counter example.
+00:06:25 Ridley getting it to smash was the opposite of that and that was a good thing.
+00:06:30 That wasn't announced.
+00:06:31 That was like said, no, it's not happening and so to cling to it is a meme and therefore
+00:06:37 just fine.
+00:06:38 Well, that's exactly what it is.
+00:06:40 To counter a little bit here, Nate, what about an example that you've done a video
+00:06:44 on?
+00:06:45 Doom 2016 was in hell forever and then it came out and it fucking ruled and it was the best
+00:06:50 thing of all time.
+00:06:52 Wait, what was this?
+00:06:53 I missed it.
+00:06:54 Doom 2016.
+00:06:55 That game was in.
+00:06:56 Oh, Doom 2016.
+00:06:57 Was in a miasma development hell and it almost became Call of Doom and that looked really
+00:07:01 bad but then they fixed it and now it looks fantastic.
+00:07:04 Okay, it's been two years here, man.
+00:07:05 Were people actually waiting for that game specifically though?
+00:07:08 Was that happen or was that like a game that they're like, oh God, okay, we've got the
+00:07:12 Doom IP.
+00:07:13 Okay, I guess now we'll make a new game.
+00:07:15 It's been forever but we'll finally make something and then they make it.
+00:07:18 The distinction of what you're talking about is when there is a promise and you're waiting
+00:07:23 for it to be fulfilled, like I don't know who was waiting for Doom.
+00:07:27 I guess maybe it was announced but I never heard about it until it was a real game.
+00:07:32 So potentially Doom 2016.
+00:07:33 I mean, I was never big in the FPS Doom scene.
+00:07:36 I guess I'm still not but I played that game and loved it but yeah, I don't think that
+00:07:40 game was announced.
+00:07:41 Anyway, the Final Fantasy XV was announced as a different game 10 years ago and transformed
+00:07:48 and changed and all these new trailers came out and stuff and that comes out and it was
+00:07:52 some people like it.
+00:07:53 I have many criticisms of it.
+00:07:55 Kingdom Hearts 3, still not out.
+00:07:57 I can already tell 100%.
+00:07:59 It's not going to be as good as everyone wants it to be in all these millions of ways.
+00:08:03 Maybe it'll be good in other ways.
+00:08:04 You've got to live your life by the coda.
+00:08:07 High hopes, low expectations, always.
+00:08:11 Expect the worst.
+00:08:13 Never expect it to be good.
+00:08:15 Never go into anything like, cause Yatsy Kroshaw, Yatsy Kroshaw broke this down perfectly
+00:08:22 one time.
+00:08:23 He said, if you go into something with high expectations, there's two possibilities.
+00:08:28 They'll be met and you'll be happy or they won't be and you'll be upset.
+00:08:32 If you go into everything with low expectations, the two possibilities are that it will suck
+00:08:37 and you'll be like, well, I expected this, or it will be great and you'll be like, wow,
+00:08:41 what a pleasant surprise.
+00:08:44 No matter what, if you go in with low expectations, the odds are always in your emotional favor,
+00:08:49 so just never expect anything to be good.
+00:08:50 But you're just miserable and you're not as happy as you would be otherwise.
+00:08:53 How is it miserable?
+00:08:54 Why would you be happy cleaning up on something that ultimately fails?
+00:08:58 You're operating under a cynical lens 100% of the time.
+00:09:02 I don't consider it cynical to approach life that way.
+00:09:06 I gotta go with Digi on this one.
+00:09:09 It's like fucking Buddhism.
+00:09:12 You gotta release your attachment.
+00:09:15 Getting hype for things is just a form of attachment to material things.
+00:09:20 And not even this material thing, just attachment to an idea.
+00:09:23 An idea that may fail to come to pass and will cause you pain.
+00:09:26 Relinquishing your attachment to these things will save you pain.
+00:09:30 The idea is not to force yourself to artificially expect things to be worse than you think they are.
+00:09:41 It's to strive to have that viewpoint, because I don't think of it like that,
+00:09:45 but I do operate on that low expectations sort of thing.
+00:09:49 I don't think anything's good until I see a lot of praise by a lot of people that I respect.
+00:09:53 I don't see any reason, and I don't like it.
+00:09:56 I see no reason to expect anything to be good.
+00:09:59 There's nothing that would convince me other than...
+00:10:03 Digi people are so depressing.
+00:10:06 I don't get how you find this depressing.
+00:10:08 Because being hype is fun as fuck.
+00:10:12 No, it's not.
+00:10:14 It's immoral to be hype.
+00:10:17 Super fun.
+00:10:19 Being excited for something is fun, and when you're let down, your excitement becomes righteous for you.
+00:10:25 Okay, guys, guys, guys.
+00:10:27 Tom is like, it's about the journey, not the destination sort of guy.
+00:10:31 Digi is more about the destination, not the journey.
+00:10:33 You're not taking a journey by waiting for something to come out.
+00:10:36 No, no, no, no, Digi.
+00:10:38 She's right.
+00:10:39 I don't know what you're talking about.
+00:10:41 I kind of get what you're talking about.
+00:10:43 I remember, okay, I guess I have mixed feelings,
+00:10:45 I'm mostly on Digi's side.
+00:10:47 I wasted two years of my life being hype for Spore to come out,
+00:10:50 and I admit that following Spore and waiting for its development was a journey,
+00:10:54 but it was a journey from happiness to sadness.
+00:10:58 It was a purely masturbatory exercise.
+00:11:01 I like being a sidekick.
+00:11:03 None of us here can talk about it.
+00:11:05 It felt like something was happening, but it was nothing.
+00:11:09 It was wasted time, and it was dumb.
+00:11:11 I'm just, I just, I don't get why being like naturally cynical.
+00:11:18 I don't go out of my way to push down happy thoughts,
+00:11:21 and if I am hype for something, I don't like destroy that.
+00:11:23 I just naturally through having a cynical lens of things.
+00:11:27 Why would you be hype in the first place?
+00:11:28 That's the mistake.
+00:11:29 Because it's fun.
+00:11:30 It's fun to be hype.
+00:11:31 I'm very sensible when I'm hype.
+00:11:32 Like, I was hype for Dark Souls 3 because I knew Miyazaki was coming back,
+00:11:36 and I had a pretty good idea that that was...
+00:11:38 That was the only game I've ever been really hype for is Dark Souls 3.
+00:11:42 I legit let myself get hype because I was very confident it would be good,
+00:11:46 but that's because there were like gameplay trailers where like you can see people play the game,
+00:11:51 and I could tell, okay, all the things I hated about Dark Souls 2 are rectified,
+00:11:55 and I could tell that just by looking at it for a second, you know?
+00:11:58 I'm hype for a bunch of things right now, and I'm not ashamed.
+00:12:03 I'm excited.
+00:12:04 Tom, you don't have to be ashamed.
+00:12:05 You need to replace, you gotta replace the excitement that you get from being hype
+00:12:08 with the power that you can draw from looking down on people who get hype about things.
+00:12:13 No.
+00:12:14 That's why my eyes are as evidenced by this conversation.
+00:12:18 You all discussed me.
+00:12:20 Look, me-hype isn't a moral action that no one should do,
+00:12:23 but we're human, and we sin, and we're flawed.
+00:12:26 So like, for example, I would say that I'm somewhat hype about the trigger show Pro-Mare.
+00:12:31 That is, it's like the next, you know, girl-logging, kill-a-kill-a-pro-mare.
+00:12:35 Let me get an argument in Mayushi.
+00:12:37 Okay, I should be the most hype about that show out of anything, right?
+00:12:40 Because kill-a-kill and girl-logging are both in my top ten.
+00:12:43 Mayushi is my favorite director.
+00:12:45 But, first of all, the show looks like it's gonna be in CG.
+00:12:50 I'm not the biggest fan of CG.
+00:12:52 The details are where you hit questions.
+00:12:54 You know, and then I've also known that trigger doesn't always make the best show I've ever seen.
+00:13:00 You know, wasn't into Darling and the Franks really.
+00:13:03 So, I look at the show and I-
+00:13:05 Unpopular opinion.
+00:13:06 I didn't like that one.
+00:13:07 I didn't like Luluko.
+00:13:09 I thought Luluko was really dumb and a waste of my time.
+00:13:12 I said it.
+00:13:13 I said it.
+00:13:14 It was pretty short, though.
+00:13:16 So, what was the waste of much time?
+00:13:18 I think Pro-Mare, like on the one, I have high hopes for it.
+00:13:21 I hope it's great.
+00:13:23 But why would I expect it to be great?
+00:13:26 Because that's just setting myself up for potential disappointment.
+00:13:28 If it turns out to be great, I'll be like, fuck yeah.
+00:13:32 And then I can be hype about it for the rest of my life once it's great.
+00:13:36 You know, like, why would I want to be hype in the year and a half leading up to it
+00:13:39 when I can be hype for the next 70 years afterwards that I live with the show existing?
+00:13:44 Because my life is so empty of meaning and hope and dreams and good things going on
+00:13:49 that I have to vicariously live through the excitement of other things that aren't out yet.
+00:13:53 People want something to say.
+00:13:55 Okay, guys.
+00:13:56 People.
+00:13:58 Oh.
+00:13:59 Well, I think the thing that I'm having, like,
+00:14:03 I'm not feeling the trying to think of the way to say it.
+00:14:07 I feel this way, but I can't control it.
+00:14:10 Like, I just am the sort of person who is more cynical
+00:14:15 and expects things to be not that interesting or not that good.
+00:14:18 And I see things like that.
+00:14:19 I don't think of it as like a thing you can switch off or change.
+00:14:22 Tisk, tisk, tisk.
+00:14:24 You can't switch it off.
+00:14:26 You can't switch it off.
+00:14:27 You got to burn it out of yourself.
+00:14:29 You got to sear it out with a red high.
+00:14:32 What I'm saying is that when Tom is saying, like, how can you live like that?
+00:14:35 I'm like, well, how can you live like that?
+00:14:37 How do I do this?
+00:14:38 Okay, guys.
+00:14:39 Let me, let me, let me say how I deal with this.
+00:14:42 Then shut up, please.
+00:14:43 I'm going to write this down and I'm going to publish a book about it.
+00:14:45 And I'm not going to say it out loud ever because it's not possible.
+00:14:48 Okay.
+00:14:49 But, okay.
+00:14:50 So this is how I deal.
+00:14:51 And I don't expect anyone else to be able to deal with stuff like this the way I do.
+00:14:56 And so this is how I do it.
+00:14:58 So I hear about a thing.
+00:14:59 And I was like, oh, neat.
+00:15:00 I kind of like the idea of this thing.
+00:15:02 And then I completely forget about it until it actually comes out.
+00:15:05 And when it comes out, I go like, oh, neat.
+00:15:07 That's, that's fun.
+00:15:09 That's, that's exactly what I'm describing as like the perfect way to be.
+00:15:13 I just, because like, what's the point of waiting one and a half years and like expecting
+00:15:18 and just being on edge.
+00:15:19 It, it, it's not doesn't frustrate me.
+00:15:21 It just, it's like, it makes me anxious.
+00:15:23 It's just like, I wanted to come out and wanted to come out and just taking the time out of
+00:15:27 my day thinking about it.
+00:15:28 And like, that's how you live.
+00:15:29 But I bet if like your favorite thing was getting a sequel, you would share like, I would
+00:15:34 I'm like, I like Dragon Age and I'm kind of worried about it because of what EA's been
+00:15:40 up to and why, why are you on stuff?
+00:15:43 But I don't spend time thinking about it or stressing over it.
+00:15:47 And there's another game, an indie game that's going to come out in like two or three years
+00:15:52 called Temp Temps or something like that.
+00:15:54 It's going to like a Pokemon MMO sort of, but it's not Pokemon.
+00:15:58 And I was pretty excited to see about that.
+00:16:01 Yeah.
+00:16:02 Like, I don't remember what exactly they predicted the launch or whatever.
+00:16:05 It was like, oh, that looks neat.
+00:16:07 I really want to play it right now.
+00:16:09 Best forget about it for the next two or three years.
+00:16:12 It's an unfortunate reality that we've gone into a time in the world where we're, it's
+00:16:17 now very common to like be introduced to something two or three years before it will come out.
+00:16:22 And that's not even that long.
+00:16:24 I got it.
+00:16:25 I want to make the argument.
+00:16:26 That's a fucking lifetime.
+00:16:27 That is a lifetime.
+00:16:28 I really look down on people who get hype about shit because of the fact that I think it
+00:16:33 is ignorant consumer practice.
+00:16:35 We live in a world where most of the time, the shit that they post about something before
+00:16:40 it comes out is a fucking lie.
+00:16:42 Like either it's not going to be that way, even if it's not necessarily a lie, it just
+00:16:47 probably won't turn out that way.
+00:16:48 And like after Dark Souls 2, like there's no, like that game literally looks completely
+00:16:53 different from the final product or like Watch Dogs or any of these games that had like
+00:16:57 this crazy marketing push and the game comes out and is nothing like that.
+00:17:01 It's like, if you get hype for a game before it's out, before there's reviews telling you,
+00:17:06 you know, that you trust telling you that it's good, like you are just that.
+00:17:11 You know what people should keep in mind for this?
+00:17:13 I've written down the thing.
+00:17:15 The fact that like, okay, the day that Steve Jobs did the demo for the original iPhone when
+00:17:21 it was first announced and he showed off so many features that could go all in one.
+00:17:25 Like it could do all this stuff at the same time.
+00:17:27 He could call people.
+00:17:28 He could use these apps, et cetera, et cetera.
+00:17:30 Behind the scenes, like this was basically a lie that people just don't care about because
+00:17:34 what was actually going on was behind the scenes, they had slapped together this like hodgepodge
+00:17:40 piece of shit that technically was able to do just the exact features that were demonstrated.
+00:17:46 But if he had done like anything out of sequence, the whole phone like would have exploded
+00:17:51 and broke and things would have gone to shit.
+00:17:53 Like it happened to work correctly in this one small way that they created the demo for,
+00:17:58 but like was this a functional piece that was actually ready to be shipped?
+00:18:01 No.
+00:18:02 And in a way, there is a deception there, which is similar to how like, for example,
+00:18:06 like all these game trailers that are made and all this stuff is made like on super high-rig
+00:18:10 PCs and shit that can run these kind of games at way better resolution,
+00:18:14 have all kinds of like better graphics and they're eventually going to ship the thing with.
+00:18:18 So you've got to know every time there's something like this, you're being lied to at least a little bit.
+00:18:23 Hippo, you said you wrote something down?
+00:18:25 Yeah, I wrote down my stance.
+00:18:27 I now understand what it is until I have experienced a thing.
+00:18:34 It doesn't exist and there's no reason to have an opinion on it.
+00:18:37 That's the best way to be.
+00:18:39 Also, I'm mostly hype about the things that I am going to make or I'm trying to make
+00:18:43 because they're in my brain and I kind of skate there.
+00:18:46 Yeah.
+00:18:47 So I'm hype about whatever I'm doing.
+00:18:49 But other things that I don't know the entire backstory of,
+00:18:52 I can only really feel anything about it once I have or as I am experiencing it.
+00:18:58 The world should work like this.
+00:19:00 People, and I wish it worked like this 100% of the time all the time.
+00:19:03 A person who's making something is obsessed about it, is deep into it,
+00:19:07 and doesn't talk about it to anyone.
+00:19:10 They keep it to themselves.
+00:19:11 They then release it and instantly completely forget about it
+00:19:15 because it just exists as an isolated art piece that can never be touched or edited.
+00:19:19 Then they move on to something else and they do it again.
+00:19:21 And everyone, they only know about this thing once it's out
+00:19:24 and then can actually see what was produced.
+00:19:26 Judge it and then we work on it.
+00:19:27 Literally unworkable, but okay.
+00:19:29 I normally don't know.
+00:19:31 Why is that unworkable?
+00:19:33 Because we live in a capitalist society where you have to make money,
+00:19:36 so the hype cycle is necessary from a business standpoint.
+00:19:40 Don't say that.
+00:19:41 Don't sound so disappointed, Tom.
+00:19:43 You fucking call me this.
+00:19:44 I'm not, because I like the hype cycle.
+00:19:46 I'm hype for Devil May Cry 5.
+00:19:48 I'm hype for the Doom Eternal.
+00:19:49 I'm hype for fucking something else.
+00:19:53 Metroid Prime 3.
+00:19:54 Hey, did you see that?
+00:19:55 Let me tell you, Tom.
+00:19:56 You're making me realize, well not realize, I was already thinking about it,
+00:19:59 but my big problem with what I call hype beasts
+00:20:03 and specifically games that get that super hype culture around them,
+00:20:09 not just games, I guess, anything,
+00:20:11 but what I hate about the hype beast culture is that
+00:20:14 so much energy and excitement gets put into something that's not out yet
+00:20:19 and it makes it so nobody goes back.
+00:20:22 People get so excited about what's coming next
+00:20:25 and that's all they fixate on.
+00:20:27 It's like, oh man, I can't wait for this game.
+00:20:29 I'm saving up for this game.
+00:20:30 You're already mentally making space for this game in your life
+00:20:33 and it's like, dude, take that energy and just go play an old game.
+00:20:37 That's great that you haven't played yet.
+00:20:39 You can hype about that.
+00:20:40 You can do both.
+00:20:42 It's funny you mentioned that because I get the same,
+00:20:44 I mean, I'm hype for all these new games
+00:20:46 but at the same time, I'm working on a 16-bit retro style game right now
+00:20:50 so I've just been blasting, I don't know if you've been hearing it from my room,
+00:20:53 but like Mega Drive music like the entire time,
+00:20:56 just to keep me in the mindset of it
+00:20:58 and one of the tracks came on for TMNT Hyperstone Heights
+00:21:01 and I'm like, whoa, this soundtrack is fucking legit
+00:21:03 and then I got hype to play that game
+00:21:05 and I want to go on eBand, I want to buy it, I want to play it
+00:21:07 because it sounds cool.
+00:21:09 I've always experienced-
+00:21:10 Just get hype for everything.
+00:21:11 Just be hype for everything that's cool.
+00:21:12 I've always experienced from my friends
+00:21:14 but nothing's cool.
+00:21:16 Oh my god.
+00:21:17 God damn.
+00:21:18 I can't even remember the last time I was hype.
+00:21:21 That's why you're miserable then.
+00:21:23 Here's how I feel.
+00:21:24 Like, I see a thing, I see a cool game
+00:21:27 and I think, boy, I wish that could make me feel something.
+00:21:34 There's some deeper issues there, unfortunately.
+00:21:38 I've always been around people who like,
+00:21:42 they are just constantly looking forward to the next one
+00:21:45 and like, my brother Victor,
+00:21:48 he plays dozens and dozens of games.
+00:21:51 God damn.
+00:21:52 Not at all.
+00:21:53 When people complain about modern games-
+00:21:55 What's in a century something interesting comes around?
+00:21:58 I blame stagnation entirely on this hype culture
+00:22:01 because it's always people getting hype about a new thing
+00:22:04 and then it comes out and they all play it
+00:22:06 and whether it ultimately turns out to be good or disappointing
+00:22:10 will be sussed out in the aftermath
+00:22:12 but the only reason that game gets played by so many people
+00:22:15 is that it was hyped, is that the hype cycle existed
+00:22:18 and so there's so many times where people will be like,
+00:22:21 oh, modern games, they're so shitty
+00:22:23 because every new big game that comes out sucks
+00:22:26 and it's like, well, stop making big games,
+00:22:28 stop making a big deal about a new game,
+00:22:31 just go play something else that is revealed well.
+00:22:35 It reminds me of a thing I wanted to,
+00:22:37 because it's related to hype culture.
+00:22:39 I don't particularly mind people getting hype,
+00:22:41 people getting happy about things,
+00:22:43 because it's not going to bother me, you know?
+00:22:45 But what bothers me, though, a little bit
+00:22:47 is pre-order culture, which is kind of like tied with...
+00:22:52 I consider that a part of hype culture.
+00:22:54 I've never pre-ordered a game and I never will.
+00:22:58 Same here.
+00:23:00 God damn it.
+00:23:01 I was going to say, oh yeah, I'm big on...
+00:23:04 Alright, so I'm like a super late adopter of anything.
+00:23:07 I really believe in letting other people do the work for me.
+00:23:11 That's why you'll be happy someday, Ben.
+00:23:13 You're just a late adopter of it.
+00:23:15 Yeah, yeah, yeah.
+00:23:17 I don't get hype for things that are coming out.
+00:23:20 Ben's a late adopter of food?
+00:23:22 He prefers to let other people try it first
+00:23:24 and then reach into the garbage to try what they've already tested.
+00:23:27 Cuts, let me fucking get this out.
+00:23:29 I don't get hype for shit.
+00:23:31 I'll be like, okay, whatever.
+00:23:33 I'll let it come out, I'll let it be out for a year,
+00:23:36 and I'll wait, and if people...
+00:23:38 I only try anything if I hear it recommended by multiple people.
+00:23:44 This is kind of my sort of...
+00:23:46 The pattern I've fallen into is that I basically don't check out anything
+00:23:49 unless multiple unrelated sources have told me,
+00:23:52 like, this is cool, you should check it out.
+00:23:54 You're the late majority slash laggard of the bell curve.
+00:23:57 I am a laggard, yes.
+00:23:59 I am a big laggard.
+00:24:02 But at least I'm not a blaggard.
+00:24:04 Did anyone fucking get that joke?
+00:24:06 Yes, because I know that word.
+00:24:08 You guys know that word?
+00:24:09 Okay, cool.
+00:24:10 What does it mean?
+00:24:11 Viewers, if you don't know that word, fuck you.
+00:24:12 How dare you?
+00:24:13 Laggard.
+00:24:14 You probably say viewer...
+00:24:15 Hey, I'm calling you out.
+00:24:17 You probably...
+00:24:18 You probably say blackguard, you bitch.
+00:24:21 That's a cool word, too, but...
+00:24:23 Yeah, but it's wrong.
+00:24:24 Yeah, alright.
+00:24:25 All those times you played a Dungeons & Dragons
+00:24:28 and you were a paladin and your DM was like,
+00:24:31 I'm gonna be real clever and trick you into falling,
+00:24:34 you were a blackguard, nope, you were wrong the whole time.
+00:24:37 I always play an angel.
+00:24:38 You were, in fact, a blaggard.
+00:24:40 Get fucked.
+00:24:41 Well, I mean, this topic is essentially,
+00:24:43 I sure hate how reality is,
+00:24:45 wish I could do anything about it,
+00:24:47 you know, that's a shame.
+00:24:49 I mean, yeah, that was my next point.
+00:24:52 Yeah, what's the deal with reality, anyway?
+00:24:55 My next point was like the hype cycle,
+00:24:57 like Tom was saying, that's like capitalism,
+00:24:59 you have to do it, and I'm like, well,
+00:25:01 I don't like it then, I don't like the system.
+00:25:04 Break the system.
+00:25:05 If there's no way to change and there's nothing better,
+00:25:07 I'm gonna make video games in the woods
+00:25:09 and release them in the woods,
+00:25:11 and you can only find them by digging under the trees
+00:25:13 to find little cartridges.
+00:25:15 Ironically, if you did that and talked about it,
+00:25:17 it would generate some hype.
+00:25:19 I would only do it after it has fallen out of relevancy,
+00:25:23 so they can't pre-order it.
+00:25:25 Pre-order your ditch and then you have to go find it.
+00:25:30 Um, yeah, I don't know, whatever.
+00:25:34 We've talked about this enough.
+00:25:36 In closing, Cyberpunk 2077 looks fucking lit
+00:25:39 and I can't wait to see more of it.
+00:25:41 Get fucked.
+00:25:42 I haven't looked into it.
+00:25:43 I think it's also that I'm very easily
+00:25:46 sated by things I've already done.
+00:25:50 Like, I replay a lot of games,
+00:25:52 I rewatch a lot of things,
+00:25:54 you know, I've rewatched like most of John Grumps
+00:25:57 and a lot of Dan Grumps, like multiple times over,
+00:26:01 and all that.
+00:26:03 I find a thing that I like and I stay with it
+00:26:05 and I don't really feel the need to see anything new.
+00:26:08 That brings me to a question for everybody.
+00:26:11 How easy is it for you to get recommendations?
+00:26:16 Because for me, the reason that I go out of my way
+00:26:19 to watch every single anime
+00:26:21 is that I've never known anybody
+00:26:23 with close enough taste of mine to rely on them.
+00:26:26 And that kind of goes for all mediums.
+00:26:29 I think most people have a critic who they're like,
+00:26:32 oh, this guy has the same taste as me,
+00:26:34 so whatever he gives a positive score, I'll check out.
+00:26:37 Or they more broadly can just go to Metacritic
+00:26:40 and whatever is broadly considered good,
+00:26:43 they end up liking.
+00:26:45 In my case, it's so unreliable
+00:26:47 because so often the thing I like
+00:26:49 will be talked about by nobody
+00:26:51 or it'll be totally underrated,
+00:26:53 and then the thing that everybody loves I watch
+00:26:55 is fucking terrible.
+00:26:57 I've just been like, fuck it, I can't rely on anyone,
+00:26:59 I'm just going to consume absolutely everything.
+00:27:01 I used to be entirely Metacritic and stuff-driven.
+00:27:03 I used to be like, oh, this game got a good review
+00:27:05 because I had GamePro and EGM
+00:27:07 and all those mags back in the day,
+00:27:09 and that's how I made my purchasing decisions.
+00:27:11 But there were a couple of times when I've played games,
+00:27:13 like the last five or so years,
+00:27:16 that were critically either panned
+00:27:18 or just okay that I thought were fantastic.
+00:27:21 So my new thing is just like,
+00:27:23 it just looks cool, I'm going to give it a shot.
+00:27:25 I don't care if it has like a one, maybe I'll like it
+00:27:28 because they're not me and they don't know
+00:27:30 what I would enjoy, they just know what they enjoy
+00:27:32 and fuck them, I'm better.
+00:27:35 When it comes to getting recommendations,
+00:27:37 and I feel like a lot of people
+00:27:39 probably feel the same way,
+00:27:41 it's incredibly hard for me to like,
+00:27:43 even you people,
+00:27:45 even anyone in my life,
+00:27:47 it's incredibly hard for me to take a recommendation seriously.
+00:27:50 Like for example,
+00:27:52 I've been doing streams for a while
+00:27:54 and there's been people in there saying like,
+00:27:56 Nate, watch this movie Gattica
+00:27:58 from 1997, this guy Chakuto
+00:28:00 and a bunch of other people
+00:28:02 were meming me to watch Gattica
+00:28:04 and they were trying in little ways to tell me
+00:28:06 why I would like it so much.
+00:28:08 It's very utilitarian, it's very like,
+00:28:10 try real hard and overcome the odds
+00:28:12 and I finally gave it a watch.
+00:28:14 Battlestar Gattica.
+00:28:16 Gattica, yeah, that's it.
+00:28:18 Yeah, classic.
+00:28:20 It was good and I did enjoy it,
+00:28:22 but it took literally months
+00:28:24 of these people meming me over and over
+00:28:26 to watch it before I would give in.
+00:28:28 Whereas, if I just go,
+00:28:30 this is what I do, this is how I actually get recommendations.
+00:28:32 I go to people who I don't know who they are
+00:28:34 so I don't know if I should
+00:28:36 or should not trust them, which is just 4chan.
+00:28:38 I just go to 4chan,
+00:28:40 look to see what anybody likes
+00:28:42 and I'm like, that's the thing.
+00:28:44 This person, they've got no stake in this,
+00:28:46 I'll go watch the thing they recommended
+00:28:48 because they liked it.
+00:28:50 The best thing, I'll tell you, the best board on 4chan
+00:28:52 for recommending things is Mew
+00:28:54 and it's because not only do they have
+00:28:56 tons of charts for every conceivable genre,
+00:28:58 so if you like a specific genre you can use that,
+00:29:00 but it's pretty normal
+00:29:02 on there to post chart threads
+00:29:04 where people will have literally their top 100 albums
+00:29:06 and that's such a huge sample size
+00:29:08 that if I find someone
+00:29:10 who's got 20 of the same albums I like,
+00:29:12 I can be like, okay,
+00:29:14 I'll listen to some of the shit in this guy's top 10
+00:29:16 and see if I'll like it
+00:29:18 and even then it's rare that I even find anything
+00:29:20 but I don't know,
+00:29:22 it seems like I've just got
+00:29:24 to traverse this insane amount
+00:29:26 of crap to find anything
+00:29:28 that I'm going to like
+00:29:30 but I consider myself really good
+00:29:32 at recommending stuff to people.
+00:29:34 I don't recommend things often, but if I see something
+00:29:36 I think one of you guys will like,
+00:29:38 I'm usually pretty confident about it
+00:29:40 and I usually get positive feedback
+00:29:42 on it, so I hope I've been
+00:29:44 a good recommender.
+00:29:46 Music seems like a format
+00:29:48 where you'll like,
+00:29:50 because it's like brief, you can consume a lot
+00:29:52 so I can see why you do a lot.
+00:29:54 It's a lot easier to just burn through,
+00:29:56 and you can tell pretty quickly
+00:29:58 you can listen to the first song on an album
+00:30:00 and usually get a good sense
+00:30:02 of if this is your vibe,
+00:30:04 you know?
+00:30:06 I feel the same way about anime though,
+00:30:08 I can watch like three minutes
+00:30:10 of how contentious.
+00:30:12 For me, it's a little hard
+00:30:14 if someone comes up to me and they're like,
+00:30:16 hey, it seems like you're singing
+00:30:18 and it depends on my mood
+00:30:20 and how I'm feeling that day,
+00:30:22 if I feel like watching anime,
+00:30:24 I might give it a watch, but that's a very big might,
+00:30:26 but most of the time
+00:30:28 the more people recommend something to me,
+00:30:30 the less inclined I am to watch it,
+00:30:32 so for instance a lot of people,
+00:30:34 I haven't watched Evangelion
+00:30:36 and people always greet me
+00:30:38 like, yes, whenever I say that,
+00:30:40 it's like, you haven't seen that.
+00:30:42 I don't really think you would like Ava.
+00:30:44 That would not strike me as your taste.
+00:30:46 I recommend you Angels of Death.
+00:30:48 I know you'll like that show.
+00:30:50 I don't know about Ava.
+00:30:52 Yeah, I don't like Mecha's
+00:30:54 and it's an old anime,
+00:30:56 which, I mean, all the enemies can be good,
+00:30:58 but first of all, Ava's not old
+00:31:00 and second of all, it's not really
+00:31:02 that mecha-driven.
+00:31:04 You know what they say?
+00:31:06 Mecha-driven anime of my anime is my friend.
+00:31:08 Well, it's just like
+00:31:10 the mecha genre
+00:31:12 is probably the most sorely
+00:31:14 misunderstood genre in anime
+00:31:16 because people always say like,
+00:31:18 oh, I don't care about mecha
+00:31:20 and it's like mecha shows are always about characters.
+00:31:22 They're always about...
+00:31:24 they're just like any other show.
+00:31:26 They're just a show where,
+00:31:28 instead of superpowers, we have robots.
+00:31:30 That's the only difference.
+00:31:32 That's the thing to like...
+00:31:34 I know, you said this before
+00:31:36 and I did take note,
+00:31:38 but the thing is for me,
+00:31:40 there's a lot of anime
+00:31:42 out there and
+00:31:44 why should I force myself to watch
+00:31:46 an anime in a setting
+00:31:48 that I don't particularly like?
+00:31:50 I don't really like sci-fi or robots.
+00:31:52 I really think that with anime,
+00:31:54 the fetish is the point,
+00:31:56 as I've said in my
+00:31:58 the purpose of anime video.
+00:32:00 And I really would say this about all art
+00:32:02 is all basically saying the same shit.
+00:32:04 The messages are all pretty
+00:32:06 similar at the core of it.
+00:32:08 It's either about understanding yourself
+00:32:10 or about understanding how you fit into society.
+00:32:12 That's a good summary of
+00:32:14 my point in my last
+00:32:16 We Agua, why manga is better than anime.
+00:32:18 Where I just said, look, I just like anime.
+00:32:20 That's why I watch it.
+00:32:22 I could just read a book about the same shit.
+00:32:24 I just like the things that are generally going on here.
+00:32:26 Yeah, and that's the thing.
+00:32:28 All art
+00:32:30 is basically trying to get to the same couple of
+00:32:32 points. So the question is
+00:32:34 what is it that resonates with you
+00:32:36 specifically?
+00:32:38 Let's say that there's a hero's journey,
+00:32:40 for instance. There's like 10 million things
+00:32:42 that are the hero's journey.
+00:32:44 But if you
+00:32:46 don't feel like you connect
+00:32:48 with the broad bell
+00:32:50 curve idea of the hero,
+00:32:52 then you need a different hero
+00:32:54 to take that journey.
+00:32:56 So that's why
+00:32:58 there's always people who are like...
+00:33:00 They try to make the same show
+00:33:02 except the protagonist is a girl.
+00:33:04 Or the same show except it's a black guy.
+00:33:06 Just because it might be easier
+00:33:08 for certain people to connect with
+00:33:10 even though it's basically the same story.
+00:33:12 There's a value to that.
+00:33:14 So I think that with anime
+00:33:16 it's for autistic people.
+00:33:18 If you can't
+00:33:20 relate to live action stuff,
+00:33:22 then you need something where the characters
+00:33:24 are openly expressive
+00:33:26 and have big Mimi
+00:33:28 hype shit because you're dumb.
+00:33:30 So that's why we all...
+00:33:32 You can't just like the aesthetic of anime
+00:33:34 without being literally autistic.
+00:33:36 Why is that not allowed?
+00:33:38 Why?
+00:33:40 Because have you ever met someone
+00:33:42 who liked anime and wasn't autistic?
+00:33:44 Have you looked in the mirror, Nate?
+00:33:46 My parents' generation don't even understand
+00:33:48 what cartoons are
+00:33:50 or that you can convey emotion in animation.
+00:33:52 But I do get... What am I going to do?
+00:33:54 I'm going to watch Seinfeld and pretend
+00:33:56 that that gives me all the stuff that...
+00:33:58 Like you said, I'm sure there's a live action
+00:34:00 movie with a hero's journey in it
+00:34:02 that means... I don't know
+00:34:04 with themes of overpopulation exactly the same
+00:34:06 as like Gurren Lagan. Why can't I
+00:34:08 just like the way
+00:34:10 Gurren Lagan tells that story
+00:34:12 without being literally autistic
+00:34:14 because I'm not looking at
+00:34:16 actual live actors, whatever.
+00:34:18 What's with this obsession
+00:34:20 with autism all the time, dude? I don't get it.
+00:34:22 What's going on here? You're always bringing it up.
+00:34:24 Please explain to me why everything's
+00:34:26 about autism. Am I missing something here?
+00:34:28 It would take too long. I don't want to go through that again.
+00:34:30 Did you watch the Only Yesterday podcast?
+00:34:32 Uh, no, but I...
+00:34:34 Go watch that. I go on and on
+00:34:36 and on about it in that.
+00:34:38 But anyway,
+00:34:40 I'm sorry.
+00:34:42 Point just being that it's all about
+00:34:44 the fetishistic elements.
+00:34:46 There's no reason to watch one anime
+00:34:48 over another other than
+00:34:50 that this one resonates with you
+00:34:52 as opposed to that one.
+00:34:54 There's no real... I don't think it's
+00:34:56 defensible to say like, oh
+00:34:58 you have to watch this show because
+00:35:00 it's deep. It's like, no.
+00:35:02 All anime is about the same shit. Ava
+00:35:04 is about the same goddamn shit as anything else.
+00:35:06 It's an extremely well
+00:35:08 told story and that makes it
+00:35:10 a great show. I fucking love it.
+00:35:12 But if someone's like, oh, I
+00:35:14 don't care for this aesthetic, I'd be like,
+00:35:16 well then go watch something with
+00:35:18 an aesthetic you do care for.
+00:35:20 Which is why Mage needs to watch Angels of Death
+00:35:22 because it is literally
+00:35:24 mage the show.
+00:35:26 It has a cute spooky boy with the
+00:35:28 scythe and they like it already.
+00:35:30 Excellent.
+00:35:32 Getting back
+00:35:34 to the whole recommendation
+00:35:36 thing, I've thought about it
+00:35:38 and it's always been really
+00:35:40 difficult for people to recommend me things
+00:35:42 and I don't think
+00:35:44 anyone can. When it comes to like
+00:35:46 gaming at YouTube
+00:35:48 reviews of things
+00:35:50 there's no like gaming
+00:35:52 reviewer that I actually go to for advice
+00:35:54 or like a recommendation.
+00:35:56 I usually just watch them for entertainment
+00:35:58 or just like
+00:36:00 an exhaustive look at something.
+00:36:02 Mathematosis comes the closest
+00:36:04 but that's because what he talks about is basically
+00:36:06 everything. The only actual reviewer
+00:36:08 who's like decent
+00:36:10 the only actual reviewer I could actually watch
+00:36:12 not for the jokes is basically
+00:36:14 Super Bunny Hop because everyone else
+00:36:16 will put it like, for example like a
+00:36:18 Kadikaris or even a ProJarad. They put
+00:36:20 too many terrible jokes in their
+00:36:22 content to actually be enjoyable
+00:36:24 whereas Super Bunny Hop is like kind of light hearted
+00:36:26 but really it's just like a real journalist
+00:36:28 who will do the due diligence and I can respect.
+00:36:30 I was going to say that
+00:36:32 because it's so difficult
+00:36:34 for people to recommend me things and there's nobody
+00:36:36 out there that really understands
+00:36:38 exactly my thing, the way that
+00:36:40 I do, that's the reason I
+00:36:42 have this whole thing of wanting
+00:36:44 to analyze the games that I like
+00:36:46 so that I understand
+00:36:48 what about them is the good part
+00:36:50 and so I can understand that in new
+00:36:52 games if I see them. I'm pretty confident
+00:36:54 that I could recommend you things
+00:36:56 it's just that I feel like you've played
+00:36:58 anything I would recommend you
+00:37:00 and I don't know if that's because
+00:37:02 there's not enough games you would like or if
+00:37:04 it's because I don't know enough games
+00:37:06 but like I feel confident
+00:37:08 I could find you shit you'd enjoy
+00:37:10 well maybe. Have you ever played
+00:37:12 Shantelies?
+00:37:14 I think you'd probably enjoy that.
+00:37:16 That's the one with the
+00:37:18 I did cool girl games on it
+00:37:20 yeah, way back
+00:37:22 the biggest failure of my entire channel
+00:37:24 I liked the look of that, that was kind of cute looking
+00:37:26 yeah I think you'd enjoy that game
+00:37:28 it's pretty short too so
+00:37:30 if you felt like playing a random steam game
+00:37:32 I don't think it would be like your favorite or anything
+00:37:34 but I think
+00:37:36 well we need a new topic here
+00:37:38 I'm sorry I wasn't
+00:37:40 paying attention I've been swiping
+00:37:42 Tinder sluts
+00:37:44 that's what I'm up to bitches
+00:37:46 yeah
+00:37:48 just a cavalcade
+00:37:50 just a cavalcade of fucking
+00:37:52 sluts
+00:37:54 I wonder how that's going Ben
+00:37:56 oh it's just
+00:37:58 who's this we got Angela
+00:38:00 sounds like a slut
+00:38:02 yeah
+00:38:04 she's got a nose ring
+00:38:06 what? yeah we're in
+00:38:08 we're in boys
+00:38:10 this is going down
+00:38:14 Angela I would like to apologize
+00:38:16 on behalf of the procrastinators podcast
+00:38:18 for the words we've said against you
+00:38:20 so you know
+00:38:22 that's what I'm up to
+00:38:24 locking them down left and right
+00:38:26 back on the games though
+00:38:28 I've been
+00:38:30 oh god damn it
+00:38:32 not more games
+00:38:34 last week I was ill like I said
+00:38:36 and during my ill time
+00:38:38 I found a game on 3DS
+00:38:40 and I've been playing it
+00:38:42 and it's like it's really mediocre
+00:38:44 like it doesn't stand out too much
+00:38:46 it has some interesting ideas and stuff
+00:38:48 that's what I want to hear about mage on my podcast
+00:38:50 tell me about these mediocre games
+00:38:52 the thing is like I've been
+00:38:54 having so much fun with it
+00:38:56 despite like it's like I kind of
+00:38:58 wanted to recommend it to someone
+00:39:00 but then I thought like
+00:39:02 well it doesn't really stand out too much
+00:39:04 from other like JRPGs
+00:39:06 what is it what game is it
+00:39:08 it has a long title one of my gripes with it
+00:39:10 seventh dragon 3
+00:39:12 code
+00:39:14 something something it's like a three letter word code
+00:39:16 god what is this is this the next kingdom hearts
+00:39:18 spin off kingdom hearts
+00:39:20 seventh dragon 3
+00:39:24 that's less ridiculous than you'd think
+00:39:26 it has a really neat system of like
+00:39:28 all the playable characters that you can play
+00:39:30 can actually choose the appearance
+00:39:32 of the name even voice
+00:39:34 I really like that you can choose their voices
+00:39:36 and class as well
+00:39:38 and you can change those at any time
+00:39:40 so
+00:39:42 I do feel sometimes
+00:39:44 that I enjoy
+00:39:46 complete shit
+00:39:48 and I don't know why
+00:39:50 that's how I feel about music
+00:39:52 like sometimes there'll be like
+00:39:54 my love of nightcore is well documented
+00:39:56 oh I actually made a video about that
+00:39:58 the puzzle
+00:40:00 the puzzle pirates video is a video about a game
+00:40:02 that is kind of terrible but I just
+00:40:04 enjoy it so much for no reason
+00:40:06 then I think that nightcore
+00:40:08 much like Eurobeat
+00:40:10 is inherently good
+00:40:12 like I don't really
+00:40:14 I don't really think you can make
+00:40:16 I don't think you can make a nightcore
+00:40:18 or Eurobeat song that is not enjoyable
+00:40:20 are you sure
+00:40:22 you guys are talking about the same kind of nightcore
+00:40:24 you could definitely pick the wrong song
+00:40:26 I haven't listened to that much nightcore
+00:40:28 but like it's one of those things
+00:40:30 where like just inherently the style of it
+00:40:32 is there all the same song basically
+00:40:34 are we I mean technically
+00:40:36 all you have to do is to find a nightcore
+00:40:38 as speeding up a song and raising the pitch
+00:40:40 technically all nightcore is
+00:40:42 is just a song sped up
+00:40:44 do that and technically it's nightcore
+00:40:46 what happens if you speed up a nightcore song
+00:40:48 that's a good question
+00:40:50 what a nightcore song always is though
+00:40:52 is some kind of Japanese dance song
+00:40:54 sped up and pitch shifted up
+00:40:56 or
+00:40:58 come clean by Hilary Duff
+00:41:00 recommendation
+00:41:02 obviously there's a lot of meme nightcore out there
+00:41:04 that doesn't fall into the category of
+00:41:06 what I'm talking about but like
+00:41:08 the vast majority of nightcore
+00:41:10 is just sped up Japanese dance songs
+00:41:12 I can't agree that
+00:41:14 I want to relate a story
+00:41:16 because like of the beats
+00:41:18 like being fast
+00:41:20 and stuff and it's fun
+00:41:22 I wouldn't say
+00:41:24 I wouldn't go as far as to say all nightcore
+00:41:26 is inherently good
+00:41:28 I want to relate a story
+00:41:30 from my real life from my real internet life
+00:41:32 so me and Munchie
+00:41:34 were commentating on the soul cup
+00:41:36 on the twitch.tv
+00:41:38 slash rowdy frickers cop killers
+00:41:40 the stakes were high
+00:41:42 I won't go into what that was all about
+00:41:44 but it was a Pokemon tournament with incredibly high narrative
+00:41:46 stakes and
+00:41:48 I've developed a habit
+00:41:50 of when people use
+00:41:52 weather conditions I play nightcore songs
+00:41:54 and when people use rain
+00:41:56 when people use rain dance and summon the rain
+00:41:58 in a Pokemon tournament
+00:42:00 I always put on
+00:42:02 come clean by Hilary Duff
+00:42:04 because the lyrics of that song are about rain
+00:42:06 and it's really
+00:42:08 let the rain fall down and break my dreams
+00:42:10 let it wash away
+00:42:12 my sanity, yes
+00:42:14 and it's great
+00:42:16 low-fi hip-hop also is a genre
+00:42:18 that's just inherently good
+00:42:20 and that's when I have very little exposure to it
+00:42:22 granted all of you
+00:42:24 have watched some YouTube analysis
+00:42:26 all of these genres I'm talking about
+00:42:28 none of them are ever great
+00:42:30 except for
+00:42:32 running in the 90s is the only great Eurobeat song
+00:42:34 that's a great song
+00:42:36 but all of these genres
+00:42:38 every song is basically the same
+00:42:40 and
+00:42:42 none of them are memorable
+00:42:44 you just kind of listen to it
+00:42:46 and you can leave it on for hours
+00:42:48 and it just creates a feeling
+00:42:50 that you can perpetuate all day
+00:42:52 and that's why low-fi hip-hop is always in a stream
+00:42:54 because it's just like a 24 hour stream
+00:42:56 of fucking
+00:42:58 this vibe
+00:43:00 and you'll never pay attention to it
+00:43:02 maybe you'll catch an Alan Watts quote here
+00:43:04 in there
+00:43:06 it's like going into
+00:43:08 a restaurant where there's just a guy
+00:43:10 doodling on the piano
+00:43:12 the room of vibe
+00:43:14 of some sort of jazziness
+00:43:16 oh no he's doodling on the piano
+00:43:18 doodling
+00:43:20 incidentally
+00:43:22 I know that probably this is how a lot of people
+00:43:24 feel about Future Funk
+00:43:26 but I would say that Future Funk is boring
+00:43:28 and shitty
+00:43:30 I got some Future Spunk for ya
+00:43:32 how about that
+00:43:34 I like the electricity
+00:43:36 I should listen more to that
+00:43:38 save that
+00:43:40 Future Spunk for the Tinder Sluts
+00:43:42 let's talk some more about Tinder Sluts guys
+00:43:44 okay
+00:43:46 did she respond yet
+00:43:48 that whore
+00:43:50 she did actually
+00:43:52 but talking about a real conversation
+00:43:54 is a little uncomfortable for me
+00:43:56 so let's change the topic on second thought
+00:43:58 I have nothing but respect for all women
+00:44:00 especially Angela
+00:44:02 but moving on
+00:44:04 I uh
+00:44:06 what
+00:44:08 responding to a man on Tinder
+00:44:10 Jesus Christ Angela
+00:44:12 what the fuck
+00:44:14 every time a girl responds to me I just roll
+00:44:16 I was like oh god
+00:44:18 desperate much
+00:44:24 I would have topics but I'm still
+00:44:26 like trying to pull my mind back
+00:44:28 from the august void
+00:44:30 of making a video every day
+00:44:32 yeah hey that was something
+00:44:34 I mean you've done it before
+00:44:36 I did Miyama but better and for free
+00:44:40 you know you're not wrong
+00:44:42 but I mean uh
+00:44:44 people don't like give you credit
+00:44:46 I guess just cause you didn't talk about but you did a Miyama
+00:44:48 for long before I did
+00:44:50 and for what it's worth
+00:44:52 you just didn't give it a catchy name
+00:44:54 that was your problem
+00:44:56 and you did this one either
+00:44:58 back in October 2014
+00:45:00 the one from last time was like
+00:45:02 way worse
+00:45:04 cause like by the end
+00:45:06 like the whole last week of it was like
+00:45:08 horse shit like just vlogs
+00:45:10 and like bad memes and
+00:45:12 and even before then most of the videos were just like
+00:45:14 not that amazing like
+00:45:16 with this month it was I was holding myself
+00:45:18 to a higher standard I wanted every video to at
+00:45:20 minimum be something that you would go back
+00:45:22 and watch again conceivably
+00:45:24 like not just stuff that was there to
+00:45:26 just fill a day
+00:45:28 though there were a couple of vlogs that were kind of like that
+00:45:30 in our town but um
+00:45:32 it was a fucking waking nightmare it was hell
+00:45:34 and I regretted it
+00:45:36 except that it worked so
+00:45:38 I was curious about that how much prep work did you put in
+00:45:40 like cause obviously some big videos
+00:45:42 zero did it all during that month
+00:45:44 literally I didn't have
+00:45:46 a plan to do this until like 7pm
+00:45:48 the night before
+00:45:50 like I just I was sitting there
+00:45:52 trying to figure out like what am I gonna do
+00:45:54 to resurrect my channel
+00:45:56 I have no idea and then I was like
+00:45:58 I guess if I did a video every day for a month
+00:46:00 that would make something happen
+00:46:02 so I just went into my discord and I said
+00:46:04 who wants to bet against me that I can't do a video every day
+00:46:06 all month and uh
+00:46:08 and then I did it
+00:46:10 no one has ever regretted to my knowledge
+00:46:12 this whole like do a
+00:46:14 video per month thing
+00:46:16 unless they gave up and failed
+00:46:18 or if they uh
+00:46:20 I mean you'll feel tired and exhausted
+00:46:22 but no one has ever regretted doing it
+00:46:24 if they want their channel to grow
+00:46:26 like a fucking million view video
+00:46:28 that you made in there
+00:46:30 I think I could have gotten away with doing a video
+00:46:32 every other day
+00:46:34 and spent a little bit more time on each video
+00:46:36 and therefore been able to make stuff that was like
+00:46:38 that had more growth potential
+00:46:40 even that
+00:46:42 people like
+00:46:44 even just like one gap
+00:46:46 of a day makes
+00:46:48 so much of a difference in like the viewing habits
+00:46:50 of people when they're expecting a digital
+00:46:52 video every day
+00:46:54 and people like PewDiePie
+00:46:56 they do it every single day
+00:46:58 so we know this is a winning formula
+00:47:00 that's what I would love to do
+00:47:02 someday if I could eventually get to that point
+00:47:04 generate that much content and stuff
+00:47:06 though obviously the kind of content I ideally want to make
+00:47:08 is a little more high effort
+00:47:10 but still
+00:47:12 I'm a big fan of this kind of shotgun approach
+00:47:14 of like forcing yourself to make content
+00:47:16 to a timeline
+00:47:18 like you said you would not have made
+00:47:20 this fucking your million view video
+00:47:22 by the way it was a great video that I was totally
+00:47:24 on board with and absolutely loved
+00:47:26 I think that the thing about it is that
+00:47:28 at some point
+00:47:30 I was like waking up at like 3pm
+00:47:32 for most of the month
+00:47:34 and I'd set myself
+00:47:36 like the stipulation
+00:47:38 no one really made me do this
+00:47:40 but I just kind of took it for granted
+00:47:42 that I had to get them out by midnight
+00:47:44 so it was usually like wake up at 3pm
+00:47:46 and then spend the next 7 hours
+00:47:48 in a cold sweat
+00:47:50 trying to figure out
+00:47:52 what the hell am I going to do by midnight
+00:47:54 fuck fuck fuck fuck fuck
+00:47:56 and then there's a few times
+00:47:58 I'd have to like throw out the thing
+00:48:00 and in the meantime
+00:48:02 in order to keep my soul in any way active
+00:48:04 like usually what would happen is
+00:48:06 I would get the video done
+00:48:08 right around midnight
+00:48:10 post it and then afterwards
+00:48:12 instead of working on the next day's video
+00:48:14 I would do anything else
+00:48:16 creative with my time
+00:48:18 make some songs or like do anything else
+00:48:20 because like
+00:48:22 it was just so exhausting to be thinking about the videos
+00:48:24 all the time but then that meant every day
+00:48:26 it was like a crunch
+00:48:28 it was always like
+00:48:30 I don't really get started until like 8pm
+00:48:32 and then it's just like a mad dash till midnight
+00:48:34 damn son
+00:48:36 but I
+00:48:38 explained this to Tom on a
+00:48:40 livestream last night that I think
+00:48:42 what it
+00:48:44 the approach that I took to it that made it work
+00:48:46 I would advise this to anybody who's trying to like
+00:48:48 make content on a timetable
+00:48:50 or make content fast is
+00:48:52 that
+00:48:54 the first thing you should think about is
+00:48:56 what can I do
+00:48:58 in this time frame
+00:49:00 not what do I have ideas for
+00:49:02 but like okay I have
+00:49:04 5 hours to work with
+00:49:06 what can I do in 5 hours
+00:49:08 and then like figure that out
+00:49:10 and so the whole month was just like
+00:49:12 it was just nonstop experiments
+00:49:14 and like what is a style of video
+00:49:16 I can do that would be relatively satisfying
+00:49:18 that can be done in this short of a time
+00:49:20 so like a single
+00:49:22 episode analysis or
+00:49:24 like a reaction
+00:49:26 watch along kind of thing or just like
+00:49:28 you know any random opinion piece
+00:49:30 that I don't require
+00:49:32 like editing that would require me to
+00:49:34 like go through a show and find specific moments
+00:49:36 if it's something that I could just
+00:49:38 you know brain blast and then like record screen footage
+00:49:40 or hand held footage
+00:49:42 like anything that is
+00:49:44 easier to create
+00:49:46 you know go for that
+00:49:48 and so take note of this people this is
+00:49:50 important stuff if you want to be a content creator
+00:49:52 it's so important to shape
+00:49:54 the stuff that you make to the reality
+00:49:56 of your life and the world you're in
+00:49:58 you gotta think of that first
+00:50:00 that's exactly how I fucked up
+00:50:02 my career so badly as to necessitate
+00:50:04 this because
+00:50:06 at the time when we were planning to move to Boston
+00:50:08 I decided to launch into doing this
+00:50:10 how they marketed thing
+00:50:12 and the conceit of that series was that it was
+00:50:14 going to take a lot of time
+00:50:16 to make the reality like
+00:50:18 it was going to take a lot of actual marketing
+00:50:20 I was going to pay a lot of people to be involved
+00:50:22 and it was like
+00:50:24 the videos were going to be huge so it was going to be like
+00:50:26 one a month at best
+00:50:28 and
+00:50:30 that took me away
+00:50:32 like it meant that I wasn't putting anything out and so
+00:50:34 I kind of disappeared and then
+00:50:36 I had to move so that extended
+00:50:38 me disappearing and so there's like two months where I wasn't
+00:50:40 really doing anything and my Patreon just plummeted
+00:50:42 and granted that's partly because
+00:50:44 I didn't have everyone's goodwill
+00:50:46 necessarily because I was making
+00:50:48 videos in so many different styles that
+00:50:50 everything I was making would satisfy
+00:50:52 someone but none of it
+00:50:54 satisfied everyone so like
+00:50:56 for instance early this year
+00:50:58 in like January or February
+00:51:00 I put like a lot of effort
+00:51:02 into these two videos that I made on the turntable channel
+00:51:04 that have like 2,000 views
+00:51:06 a piece so like
+00:51:08 you know that's like a lot of
+00:51:10 my energy that's me putting as much effort
+00:51:12 into those as I would into
+00:51:14 probably more into those than I would
+00:51:16 into a main channel video and yet
+00:51:18 like even among my Patrons not that many people
+00:51:20 watched it so from their perspective
+00:51:22 I just didn't make anything from their perspective
+00:51:24 it's like oh I haven't gotten any Digi content
+00:51:26 and so like it's from
+00:51:28 that point that standpoint of like
+00:51:30 everyone's a little disappointed
+00:51:32 that I then was like oh well
+00:51:34 I'll make everybody happy again by making
+00:51:36 a big thing and then I
+00:51:38 disappear to go make the big thing and they're all like
+00:51:40 oh I guess Digi's fucked off let's unpatron
+00:51:42 and now I'm like oh I couldn't
+00:51:44 I can't afford that I can't
+00:51:46 afford to make big thing while everyone's
+00:51:48 unpatroning and I just moved into a more expensive
+00:51:50 place so you know and then that
+00:51:52 becomes well alright
+00:51:54 because me and Tom throughout July
+00:51:56 were planning some like really big
+00:51:58 shit that would have also
+00:52:00 been like a long time build up kind of
+00:52:02 thing and it was a great idea
+00:52:04 and I'll talk to you guys about it
+00:52:06 sometime but like
+00:52:08 it was just like this will take time to make
+00:52:10 real that's not the right time
+00:52:12 to be doing that yeah I don't have time
+00:52:14 like I need money now I am like
+00:52:16 you know I am coming at
+00:52:18 out of each month with less money than I
+00:52:20 went into the month with and that is terrifying
+00:52:22 you know so
+00:52:24 so like yeah so that's
+00:52:26 that's why it became okay let's take
+00:52:28 the opposite approach what can I do
+00:52:30 in three hours that can get a million views
+00:52:32 you know well just one one thing I was
+00:52:34 wondering about was just like your Shinsekai
+00:52:36 your video is like a 40 minute analysis
+00:52:38 video that clearly was like
+00:52:40 was like DeVu working on that like during the
+00:52:42 month DeVu worked on that literally
+00:52:44 the entire month and
+00:52:46 still alright that's what I thought
+00:52:48 but and you got it up like
+00:52:50 so close to the edge right but you did
+00:52:52 it was it was late actually but I
+00:52:54 put out a I put out a contingency
+00:52:56 video right before midnight
+00:52:58 that was just like a two minute meme video
+00:53:00 oh that's funny and then
+00:53:02 and then I unlisted that but you can find
+00:53:04 it in the every every YouTube video featuring
+00:53:06 DigiBro playlist Nate you'll love that I check the thing
+00:53:08 it says it came out the 31st at least on my
+00:53:10 on my YouTube it depends on your time zone
+00:53:12 because YouTube is
+00:53:14 in California time so it was on time
+00:53:16 in California time well see I'm not holding
+00:53:18 you to any kind of crazy standard here because I got
+00:53:20 many of my meme amount of videos out
+00:53:22 after midnight but before I like went to sleep
+00:53:24 or anything right the nights that I
+00:53:26 so day doesn't end until you sleep
+00:53:28 but yeah the how
+00:53:30 because how they marketed is also like a
+00:53:32 fully edited experience and that one
+00:53:34 DeVu had finished before the month started
+00:53:36 and like I
+00:53:38 I had to do a bit for
+00:53:40 question about how they marketed
+00:53:42 did someone request
+00:53:44 an ad for patreon.com
+00:53:46 slash Ben saying who
+00:53:48 because I saw it and I was like
+00:53:50 I didn't what's this
+00:53:52 almost nothing that was advertised was
+00:53:54 like the person themselves
+00:53:56 you know it was like always people asking
+00:53:58 it seemed like it was a bunch of a bunch
+00:54:00 of goofs a bunch of goofs and memes
+00:54:02 for the most part I mean I guess I actually
+00:54:04 you know don't have anything that they
+00:54:06 want to advertise so I was thinking about
+00:54:08 this did you I've actually been seriously thinking
+00:54:10 about like how to like increase like ad
+00:54:12 presence in my stuff I haven't done anything yet
+00:54:14 but I'm thinking about it and what you've done with
+00:54:16 with how they market has given
+00:54:18 me some very good ideas I'm just thinking
+00:54:20 about like I don't know whatever Alex Jones
+00:54:22 got banned on YouTube etc everyone's getting
+00:54:24 banned if you do bad things I'm like okay
+00:54:26 what can we do if like ads
+00:54:28 go away main YouTube ads
+00:54:30 the solution is pretty clear
+00:54:32 and obviously this would take a lot of work to get into place
+00:54:34 but like like
+00:54:35 like this individual paid ads
+00:54:37 during ad breaks that you would otherwise have which
+00:54:39 I built into me a math from the start
+00:54:41 Arab we ag was that is
+00:54:43 and then like you do through
+00:54:45 through patreon but like you could do it through any
+00:54:47 means and having specific people
+00:54:49 advertise stuff whether it's like a dick
+00:54:51 shaving butt or whatever the fuck that is
+00:54:53 or individual people on patreon or any kind of connection
+00:54:55 thing I'm just like this is just such a good
+00:54:57 idea to do something like this
+00:54:59 makes all the sense in the world and it doesn't
+00:55:01 rely on YouTube to like
+00:55:03 you suck a lot I mean there is a
+00:55:05 thing about that because yeah I think YouTube
+00:55:07 doesn't can tell
+00:55:09 if like if somebody says
+00:55:11 like reports you for having a paid
+00:55:13 promotion in the video and you don't list it
+00:55:15 and well I would just make sure that I
+00:55:17 like it then YouTube can just take your
+00:55:19 video down if you're promoting Alex Jones
+00:55:21 or something well like something
+00:55:23 controversial things then I guess you know
+00:55:25 like you have the option as a businessman
+00:55:27 to choose what you do and do not use as an
+00:55:29 advertisement in your content so I
+00:55:31 certainly would exercise that authority
+00:55:33 if I was going to but like it's
+00:55:35 still you're still under the
+00:55:37 jurisdiction of YouTube it's not like an escape
+00:55:39 from all that well yeah
+00:55:41 but I mean let's if you got well you could do
+00:55:43 this on another site like daily motion or
+00:55:45 what the fuck
+00:55:47 hey the bonus episode for the PCP went live
+00:55:49 nine minutes ago is what that
+00:55:51 is telling me how nice
+00:55:53 there it is everybody
+00:55:55 tell him
+00:55:57 tell him tell him how fucking cool it is
+00:55:59 tell him how fucking cool I made
+00:56:01 it you you you friend
+00:56:03 friends family listening to this
+00:56:05 Ben Saint here you might have heard
+00:56:07 him he did the editing
+00:56:09 and the animation
+00:56:11 for the new bonus episode
+00:56:13 what's it about oh talking while eating
+00:56:15 talking while eating
+00:56:17 five dollars people patreon.com
+00:56:19 slash the procrastinators
+00:56:21 the editing and the animation
+00:56:23 Ben did is truly
+00:56:25 I would say
+00:56:27 that I would say that I took Hippo's
+00:56:29 seed of an idea
+00:56:31 for how to make an episode look good
+00:56:33 and then rendered it completely
+00:56:35 obsolete
+00:56:37 no
+00:56:39 wrong
+00:56:41 see if you can post last episode
+00:56:43 make you look stupid
+00:56:45 I'm loving this arms race
+00:56:47 of increasingly good PCP animation
+00:56:49 by the way
+00:56:51 that's what made the early PCP
+00:56:53 great was the arms race of editing
+00:56:55 I still want to try and edit
+00:56:57 once I'm back home
+00:56:59 do it mage just get
+00:57:01 after effects
+00:57:03 but in the early days it was mostly about
+00:57:05 the intro segments
+00:57:07 there was a brief flirtation
+00:57:09 with the animated
+00:57:11 color bars around the names
+00:57:13 and then it was kind of like dropped
+00:57:15 and then the arms race was in the intros
+00:57:17 and then nobody cared for a while
+00:57:19 and then now we're back to being
+00:57:21 we're holding ourselves to a higher standard
+00:57:23 now now that we're making more money
+00:57:25 it's worth our time
+00:57:27 what the hell are we talking about
+00:57:29 before we got sidetracked by this
+00:57:31 we were talking about
+00:57:33 your month of videos
+00:57:35 and the shinsukai yori and timing
+00:57:37 and stuff
+00:57:39 that's what it was
+00:57:41 I got to tell ben that it was
+00:57:43 someone named heavy roman
+00:57:45 who paid for that ad
+00:57:47 he is not a patron of you
+00:57:49 heavy roman
+00:57:51 kippo you wanted to say something
+00:57:53 well
+00:57:55 he's done his part
+00:57:57 so he's excused from patroning
+00:57:59 did you think of that ad by the way
+00:58:01 did you like it
+00:58:03 I kind of like
+00:58:05 just didn't notice it at first
+00:58:07 I don't really remember
+00:58:09 the actual content of it
+00:58:11 it's just
+00:58:13 the four panels of the guy
+00:58:15 sniffing that rock and then exploding
+00:58:17 oh yeah
+00:58:19 all that's right
+00:58:21 sent to the metroid theme
+00:58:23 did he make the ad
+00:58:25 no I made all the ads
+00:58:27 oh you made the ad
+00:58:29 well I was surprised that you went with beastcapades
+00:58:31 but I'm not against it
+00:58:33 it's the thing what I requested
+00:58:35 it was your suggestion
+00:58:37 yes I am happy I am pleased
+00:58:39 what was her suggestion
+00:58:41 that commands
+00:58:43 eat the rain
+00:58:45 oh yeah
+00:58:47 the thing is
+00:58:49 that with your comics
+00:58:51 making
+00:58:53 I don't know how to convert your art to video
+00:58:55 because most of it's black and white
+00:58:57 and it's in a page
+00:58:59 I don't know how to convey it
+00:59:01 with beastcapades because all the images are the same size
+00:59:03 and there was more color
+00:59:05 I knew it would be easier to
+00:59:07 represent
+00:59:09 to do a paneling on screen
+00:59:11 where they'd all be the same size
+00:59:13 and it was just a really exciting page
+00:59:15 because it was all visual
+00:59:17 there's no text or anything
+00:59:19 I remember now
+00:59:21 and I remember that
+00:59:23 the beat drops or whatever
+00:59:25 when it explodes
+00:59:27 and I was like yeah
+00:59:29 bring back beastcapades right fucking now
+00:59:31 no vapors 3 is done
+00:59:33 throw it in trash bin
+00:59:35 nobody likes vapors it's gone
+00:59:37 at least of all me
+00:59:39 and yet I am bound
+00:59:41 fair enough
+00:59:43 it also makes sense because the aesthetic
+00:59:45 of beastcapades is kind of metroidish
+00:59:47 so
+00:59:49 it's the metroid theme
+00:59:51 that plays over the comic
+00:59:53 beastcapades
+00:59:55 is the best thing
+00:59:57 and it does render everything else
+00:59:59 beastcapades yet
+01:00:01 well I mean it's not done
+01:00:03 you might as well hold off
+01:00:05 I didn't know it was something
+01:00:07 that was going to happen
+01:00:09 I'm patron from patreon.com
+01:00:11 speaking of
+01:00:13 like video
+01:00:15 speaking of like the whole
+01:00:17 loads of videos in a month
+01:00:19 I have not been making videos and I'm stupid
+01:00:21 but like
+01:00:23 where's the videos at
+01:00:25 oh you know
+01:00:27 there's things coming up
+01:00:29 I talk about it
+01:00:31 more on my patreon podcast
+01:00:33 patreon.com
+01:00:35 but
+01:00:37 at the moment
+01:00:39 the thing that's coming up
+01:00:41 is october which is curby month
+01:00:43 so that will be full of things
+01:00:45 and I will be trying
+01:00:47 curby month like every october
+01:00:49 every october
+01:00:51 I'm really happy about that
+01:00:53 cause I hate that literally everyone does
+01:00:55 like spooktober
+01:00:57 and I'm like I don't like horror
+01:00:59 so it just means everyone becomes worthless to me
+01:01:01 basically for an entire month
+01:01:03 which also means that
+01:01:05 I kind of want to finish
+01:01:07 belljap in September
+01:01:09 so that I don't have anything else
+01:01:11 like creative so that's my plan
+01:01:13 is to do belljap this month
+01:01:15 and then curby month
+01:01:17 next month and hopefully after that
+01:01:19 I will be making videos a bit more frequently
+01:01:21 I'm very sorry
+01:01:23 people like him
+01:01:25 I want more give and take videos
+01:01:27 cause that's like my favorite channel on youtube
+01:01:29 I forget
+01:01:31 I just do anything on that
+01:01:33 what is your favorite
+01:01:35 give and take review
+01:01:37 video type that comes out
+01:01:39 my favorite is chain mail saga
+01:01:41 more chain mail videos
+01:01:43 I like the stuff that just feels like
+01:01:45 a fucking psychic brain blast
+01:01:47 where it feels like this idea
+01:01:49 just like hit you and you did it
+01:01:51 15 minutes and like
+01:01:53 and it's utterly like
+01:01:55 nothing I could have possibly predicted
+01:01:57 that's my favorite type
+01:01:59 of youtube video in general
+01:02:01 it's just like when someone just makes something
+01:02:03 because clearly like it crawled into
+01:02:05 their psyche and they had to expel it as fast
+01:02:07 as possible
+01:02:09 kind of like uh I mean that's sort of
+01:02:11 what I forget how to say it's like GMC
+01:02:13 fo sho or GMC
+01:02:15 GMC fo sho is pretty fucking great
+01:02:17 that only he kind of expands that joke and he makes it
+01:02:19 a big production it's dope
+01:02:21 did any of you watch my video raw beef
+01:02:23 probably
+01:02:25 I did see raw beef
+01:02:27 yeah raw beef is a perfect example of what I'm talking about
+01:02:29 where I just like
+01:02:31 I just like I gotta make a song about being the raw beef
+01:02:33 and then it's just a video
+01:02:35 of like a piece of beef spinning around
+01:02:37 it's actually a pork shoulder turns out but like
+01:02:39 it's just me screaming
+01:02:41 about raw beef over like this crazy
+01:02:43 ass beat I made and uh that's it
+01:02:45 that's the whole video
+01:02:47 wait was that like a minute long
+01:02:49 raw beef it's like 20 seconds
+01:02:51 yeah I okay I think I saw that
+01:02:53 yeah
+01:02:55 so I want more like that I want more raw
+01:02:57 I mean and that that was kind of the premise
+01:02:59 of the song what I meant the deeper
+01:03:01 coded meaning behind raw beef
+01:03:03 yeah tell is that
+01:03:05 like that is what I consider that type of content
+01:03:07 to be is the raw beef
+01:03:09 it's that that uncooked
+01:03:11 shit that shit that just goes right
+01:03:13 from the cow into your mouth and you get the most
+01:03:15 nutrients out of it because
+01:03:17 they didn't cook nothing out of it
+01:03:19 you get fucking salmonella
+01:03:21 I want the salmonella god damn it
+01:03:23 this is exactly why it's good to have
+01:03:25 something like the the mea math of a style
+01:03:27 thing that forces you to not
+01:03:29 be afraid of producing
+01:03:31 those into a video like how many times this
+01:03:33 happens to me less and less but I remember so clearly
+01:03:35 being like I'm making a video
+01:03:37 when I was making the Ridley video that now is like
+01:03:39 110,000 views or something
+01:03:41 at many points along
+01:03:43 like oh is this actually gonna be good does anyone actually
+01:03:45 give a shit is this funny
+01:03:47 they're gonna laugh and like it's wildly
+01:03:49 successful for my channel like it's great
+01:03:51 everybody loves it
+01:03:53 to destroy those fears
+01:03:55 by just being like I have to make it
+01:03:57 I have to put my brain out for people to judge
+01:03:59 generally goes pretty well
+01:04:01 those are my favorite videos
+01:04:03 of yours too are the ones that
+01:04:05 like I said in general my favorite is
+01:04:07 anytime it's something that I couldn't imagine
+01:04:09 anyone else making because it just
+01:04:11 feels like it it
+01:04:13 blasted right from the back
+01:04:15 of your mind and like there was no thought put
+01:04:17 into like oh I gotta make
+01:04:19 something successful or formulaic or
+01:04:21 like something that people will like it's just
+01:04:23 like yep how can I realize
+01:04:25 my favorite video of yours
+01:04:27 is uncovered final fantasy
+01:04:29 15 yeah because I returned
+01:04:31 to it all the time like I'll watch it
+01:04:33 again and again because every part of it is
+01:04:35 so unique and none of it feels
+01:04:37 like anybody else's video you know
+01:04:39 I love that fucking
+01:04:41 video and the musical at the end it's
+01:04:43 everything like that
+01:04:45 just
+01:04:47 shoot in my fucking head
+01:04:49 what a great time
+01:04:51 that video was yeah it's great make
+01:04:53 another one for my best bitch
+01:04:55 I'm working on it
+01:04:57 do it
+01:04:59 don't make me sit
+01:05:01 in 15 minutes of you explaining that manga
+01:05:03 it takes less time to read than anime
+01:05:05 I know I know
+01:05:07 I know
+01:05:09 wow Saab everyone fucking gets it
+01:05:11 point pointless
+01:05:13 thing to note a
+01:05:15 video of mine went big and is now
+01:05:17 my most watched
+01:05:19 video and I didn't realize it
+01:05:21 which one what
+01:05:23 it's just it's one of the ones I did
+01:05:25 during Igmovo tour didge that I sort of
+01:05:27 slapped together which was the
+01:05:29 PS2 memory card models video or I just
+01:05:31 looked at all the PS2
+01:05:33 like you know how in PS2 memory
+01:05:35 cards you look at the data and they have
+01:05:37 like little 3D models representing
+01:05:39 the save files and I just looked at
+01:05:41 them and said things about them
+01:05:43 and that's got 80,000 views out of nowhere
+01:05:45 that's such a gib thing and it's something
+01:05:47 that like someone would only make when
+01:05:49 there's like a time crunch to get something out
+01:05:51 and they have to like think of what to do
+01:05:53 the comments for that video were all like this is really cool
+01:05:55 and I don't know why more people don't talk about this right
+01:05:57 because that was yeah and it's funny that
+01:05:59 people are like oh yeah this is a video
+01:06:01 that happened my favorite genre was
+01:06:03 always PS2 memory card
+01:06:05 icons that's my that's the peak
+01:06:07 artistic medium it is now because gib
+01:06:09 invented it that's right
+01:06:11 he started a whole business a whole
+01:06:13 thriving industry
+01:06:15 I certainly have a very successful video
+01:06:17 I think I googled it to
+01:06:19 see if somebody else had done a similar video
+01:06:21 and they had there was this one guy
+01:06:23 who had done it already and I was like
+01:06:25 damn but I'll make it anyway
+01:06:27 and his video wasn't very good so I'm like
+01:06:29 I can do better was his like rating them like out of 10 or
+01:06:31 something he did like the top 10 or something
+01:06:33 I don't remember I think after watching yours
+01:06:35 I watched a couple other ones also about
+01:06:37 like PS2 memory cards and I was fascinated
+01:06:39 by the whole thing what was the best one
+01:06:41 there was one that was like obviously the best
+01:06:43 but I can't remember what it was
+01:06:45 it was like super well animated
+01:06:47 watch the video link in the description
+01:06:49 people
+01:06:51 I'm just happy that that
+01:06:53 could ever happen to me a video
+01:06:55 that I thought is done for
+01:06:57 suddenly gets views out of nowhere I mean
+01:06:59 it's quite kind of died down but that just doesn't happen
+01:07:01 I usually just to me I get
+01:07:03 a bit of a boost sometimes but it sort of
+01:07:05 never really goes anywhere I've accepted
+01:07:07 the fact personally that I'm
+01:07:09 I'm not super smart genius
+01:07:11 who will know exactly what's
+01:07:13 going to do great on YouTube my approaches
+01:07:15 I'm just going to try to make stuff
+01:07:17 relatively fast and throw as
+01:07:19 many ideas out there as possible that I think are like
+01:07:21 kind of good and just
+01:07:23 see what that's when it comes like making like a popular
+01:07:25 video I've given up I don't know
+01:07:27 what's going to be popular well I don't
+01:07:29 really try to do the popular
+01:07:31 video I just hope that I do
+01:07:33 becomes popular kind of the same
+01:07:35 I mean right now I know I should make a video
+01:07:37 darling in the Franks I'm 100% sure
+01:07:39 that's what I should be making right now in the
+01:07:41 DeVoo Bay right now
+01:07:43 DeVoo Bay
+01:07:45 it's soaking in
+01:07:47 the DeVoo goo at this very moment absorbing
+01:07:49 all the juices the DeGoo and the good
+01:07:51 he just finished watching the show
+01:07:53 he posted just now in
+01:07:55 the chat like that
+01:07:57 the ad on the page
+01:07:59 is he listening is he listening
+01:08:01 hippo's shirts no
+01:08:03 no I didn't know
+01:08:05 yeah yeah I saw that that's because
+01:08:07 I'm sure you guys are seeing
+01:08:09 this but like you get ads now
+01:08:11 for like things that you've bought or have looked at
+01:08:13 like on the sides of page because like Google is
+01:08:15 tracking what you do and if I already bought it why
+01:08:17 would I want another one stop
+01:08:19 hey here's a here's a thing this is
+01:08:21 definitely real this is 100% real
+01:08:23 I forget the exact example
+01:08:25 but have you guys
+01:08:27 like recently I forget what it was
+01:08:29 me and Michelle were like talking about something
+01:08:31 and like I went and I bought
+01:08:33 something it might have been like I was talking
+01:08:35 about like the new smash or something and like
+01:08:37 talking about how much I love my switch as I all
+01:08:39 do every day all hours of the day
+01:08:41 and like Michelle
+01:08:43 who has never bought a video game
+01:08:45 in her life because she isn't allowed to by me
+01:08:47 what a fake gamer girl
+01:08:49 I know right
+01:08:51 like she starts to get ads
+01:08:53 on her phone for like
+01:08:55 like the switch and like video games
+01:08:57 and at this point they're not even
+01:08:59 like pretending like they're not doing
+01:09:01 they just listen to us
+01:09:03 like she didn't search for it they're listening
+01:09:05 to us and they're catering to it
+01:09:07 by audio they're listening every second
+01:09:09 of every fucking day
+01:09:11 I'm not constantly getting ads for fucking
+01:09:13 like lolliporn like what's going on
+01:09:15 I've had that conversation
+01:09:17 how come I'm not getting ads for guns
+01:09:19 yeah
+01:09:21 I should try that
+01:09:23 I should try that
+01:09:25 I should try repeating
+01:09:27 how come I'm not getting ads for guns
+01:09:29 here's a test
+01:09:31 I guess like
+01:09:33 keep repeating the same words
+01:09:35 for like a while and see
+01:09:37 dude mage people have done that
+01:09:39 people have done that
+01:09:41 but not only that
+01:09:43 somethings can buy
+01:09:45 it is objectively true that this is
+01:09:47 something that is happening
+01:09:49 there's enough testament to
+01:09:51 I mean this is why they had to update the privacy
+01:09:53 policies on like every fucking website
+01:09:55 because the EU is currently hammering
+01:09:57 Google about this
+01:09:59 Google is no longer naughty
+01:10:01 yeah
+01:10:03 they took that out of their fucking thing
+01:10:05 they literally took that out
+01:10:07 of their company policy
+01:10:09 the do no evil they straight up removed it
+01:10:11 well this is
+01:10:13 all I'm saying is
+01:10:15 sometimes evil is
+01:10:17 I just can't
+01:10:19 you could not
+01:10:21 that is the funniest thing that I've heard
+01:10:23 all year
+01:10:25 is Google literally
+01:10:27 first of all it was always goofy that they had that
+01:10:29 in their thing but like to have to remove
+01:10:31 it because they have to acknowledge that what
+01:10:33 they are doing is evil
+01:10:35 surely their official
+01:10:37 stance is that they took it out
+01:10:39 because it was goofy in the first place right
+01:10:41 they had it in there
+01:10:43 and now they're removing it
+01:10:45 now is not the time
+01:10:47 have they said why
+01:10:49 I mean there's probably a PR
+01:10:51 statement on why they took it out that has to do
+01:10:53 with like professionalism or we revolving
+01:10:55 as a company and you know evil and good
+01:10:57 or subjective terms so you know we're just
+01:10:59 like it's all good man
+01:11:01 like maybe
+01:11:03 Satan was right you know like who says God
+01:11:05 should reign in heaven above you know
+01:11:07 hey Satan gave us
+01:11:09 the fruit of the tree of knowledge
+01:11:11 everything we've done is all because of
+01:11:13 Satan
+01:11:15 and Google is used for
+01:11:17 searching knowledge so
+01:11:19 we were Satan all along guys
+01:11:21 are you saying that
+01:11:23 Google came down
+01:11:25 from the heavens and gave us the Google search
+01:11:27 bar the fruit of the tree of
+01:11:29 knowledge and we've all eaten from it
+01:11:31 and now we're being tracked
+01:11:33 okay guys but Satan is actually bad rap
+01:11:35 he's not evil he just takes care of people
+01:11:37 in hell like it's not a fun job
+01:11:39 hey guys
+01:11:41 yeah he's like he's like Hades
+01:11:43 from like the Gris Pantheon
+01:11:45 who was forced to control a little hell
+01:11:47 oh god just test it down and he's like
+01:11:49 stay there and now everyone will hate you
+01:11:53 the apple logo actually isn't that
+01:11:55 the apple logo because like the original apple logo
+01:11:57 before they made it like actually cool was
+01:11:59 way more complicated it was an entire
+01:12:01 illustration of Isaac Newton and the apple
+01:12:03 falling on his head that was what the apple is
+01:12:05 it's supposed to represent
+01:12:07 a moment of genius because of course
+01:12:09 this is apple we're talking about and they have to be
+01:12:11 well yeah of course
+01:12:13 you know what's funny wait was there
+01:12:15 a biblical reference wait did someone just say
+01:12:17 something about like it's the apple of sin
+01:12:19 well I was making a comparison
+01:12:21 with their logo that now it's
+01:12:23 like an apple with a bite out of it seems relevant to
+01:12:25 like original sin kind of but it's actually
+01:12:27 it was never supposed to be that but
+01:12:29 alright yeah
+01:12:31 do you know what's funny
+01:12:33 is that tell me
+01:12:35 scary things
+01:12:37 scary things are now funny things
+01:12:39 upon hearing
+01:12:41 upon hearing that
+01:12:43 upon hearing that google is now listening
+01:12:45 to everything
+01:12:47 hearing that like
+01:12:49 google is listening in on us
+01:12:51 and watching us fap
+01:12:53 all I can think of is
+01:12:55 I can't wait for the memes about this
+01:12:57 I'm really excited to see all the funny
+01:12:59 fucking things I just feel
+01:13:01 I feel this is just funny
+01:13:03 it is the decadent slide to the destruction
+01:13:05 of civilization and I will fight against it
+01:13:07 scary things are now funny things
+01:13:09 people will meme
+01:13:11 into the dystopian future
+01:13:13 they will meme all the way down
+01:13:15 we are meming all the way to the bottom
+01:13:17 that's absolutely true
+01:13:19 exerbia just made a funny meme video
+01:13:21 about this very situation
+01:13:23 that you're describing hippo so
+01:13:25 you're right
+01:13:27 exerbia never heard of him
+01:13:29 exerbia is a youtuber who does
+01:13:31 comedic videos about existential dread
+01:13:33 that sounds good
+01:13:35 and sci-fi
+01:13:37 he's like a comedy sci-fi author
+01:13:39 with an english accent
+01:13:41 his videos are fun
+01:13:43 they can get a little repetitive because all of them are about
+01:13:45 existential dread
+01:13:47 and the smallness of man in the face of the universe
+01:13:49 I bet google gives him
+01:13:51 tons of ads for existential dread
+01:13:53 cause he talks about it so much
+01:13:57 we don't need ads for that
+01:13:59 speaking of ads
+01:14:01 to address the ad situation
+01:14:03 in how they marketed
+01:14:05 it actually did not go
+01:14:07 I don't really like the ads being
+01:14:09 I think ultimately it came out
+01:14:11 as well as it possibly could
+01:14:13 but the way that the video
+01:14:15 was planned was not to be like
+01:14:17 what it is at all
+01:14:19 I cut the first 6 minutes of the video out
+01:14:21 there was supposed to be a huge amount of outro
+01:14:23 and like
+01:14:25 if you remember the finisher fail video
+01:14:27 where it was like
+01:14:29 the last 15 minutes
+01:14:31 were like something entirely else
+01:14:33 that was supposed to be how they marketed it
+01:14:35 it was supposed to have
+01:14:37 more of an intro than go through the main bulk
+01:14:39 of me talking about the show
+01:14:41 and then spiral out into this whole other thing
+01:14:43 so the ads were not actually supposed to be
+01:14:45 sprinkled throughout the video like that
+01:14:47 they were supposed to be sprinkled throughout the outro section
+01:14:49 but because of the fact that
+01:14:51 I'm not doing it as
+01:14:53 the complete series anymore
+01:14:55 that would have come out
+01:14:57 I just cut all the extraneous shit
+01:14:59 but because people had already paid for the ads
+01:15:01 I felt like I had to do them
+01:15:03 and if I put them all at the end
+01:15:05 people would just click off the video as soon as they got to the ads section
+01:15:07 so I wanted it to feel like
+01:15:09 they were integrated in a way that made sense
+01:15:11 for them to be there and to make people watch them
+01:15:13 but like ultimately that
+01:15:15 particular video would have been better
+01:15:17 without the ads
+01:15:19 it's not every time
+01:15:21 that I'm like with you on like
+01:15:23 I'm pushing bullshit that you're trying
+01:15:25 whatever shit that is
+01:15:27 but in this case I actually
+01:15:29 I saw a bunch of people being like I really didn't like the ad breaks
+01:15:31 they really took me out of it
+01:15:33 maybe it's because I'm thinking of like from a business perspective
+01:15:35 but I'm like I mean would these people have preferred
+01:15:37 use like because I would
+01:15:39 I would absolutely put like ads in my videos
+01:15:41 at opportune times that are like the Google ones
+01:15:43 like what's the difference
+01:15:45 putting like just someone's paid for ads
+01:15:47 because of your ad blocker
+01:15:49 well fuck the people with ad blocker
+01:15:51 which includes me
+01:15:53 ultimately like if you
+01:15:55 aren't paying me in any way
+01:15:57 if you're not watching ads
+01:15:59 and you're not a patron
+01:16:01 I don't feel bad for you
+01:16:03 I mean for me personally
+01:16:05 I just
+01:16:07 I'm very particular about like the video structure
+01:16:09 you know I want it to be like a clean
+01:16:11 just go through and everything's fine
+01:16:13 now granted I do think
+01:16:15 I could stand to be a lot more selfish
+01:16:17 with my videos probably
+01:16:19 for my own benefit
+01:16:21 but like I've only seen it as like the reason
+01:16:23 that I have a Patreon
+01:16:25 and that the Patreon is able to be so successful
+01:16:27 is that I don't do that shit
+01:16:29 that like you know people respect
+01:16:31 that I don't put in ad breaks
+01:16:33 I don't put in you know
+01:16:35 I don't put in shilling or anything like that
+01:16:37 but like in this
+01:16:39 case again like in the
+01:16:41 original context of video was planned for
+01:16:43 it would have made more sense and like
+01:16:45 how they marketed would have been a video series
+01:16:47 about once a month and the format of it
+01:16:49 would have lent itself to this and so
+01:16:51 it would have continually made sense going forward
+01:16:53 I think that
+01:16:55 a big part of what inspired the format
+01:16:57 of how they marketed was Weagawa
+01:16:59 so I think it would make sense for you
+01:17:01 because what I love about
+01:17:03 Weagawa is that because
+01:17:05 there's this looseness to it
+01:17:07 and that it has like multiple phases
+01:17:09 you can basically throw in anything
+01:17:11 like any random
+01:17:13 clip any random meme
+01:17:15 like you could just toss in there
+01:17:17 and it'll make perfect sense and it all flows together
+01:17:19 and that's
+01:17:21 it's just an excuse to make a video
+01:17:23 that's all it is
+01:17:25 so like I admire that but
+01:17:27 I don't know how to replicate it
+01:17:29 in my style
+01:17:31 it'd be like making a movie
+01:17:33 and then like sticking in like an ad in the middle
+01:17:35 and again like
+01:17:37 because of the fact that the original format was to have
+01:17:39 these super long outros where I could do that
+01:17:41 where it would be like
+01:17:43 it's already just a random mishmash of stuff
+01:17:45 it would make sense for there to be
+01:17:47 even more random stuff in there
+01:17:49 because like a big part of
+01:17:51 how they marketed was going to be that
+01:17:53 I would take clips from shows that are
+01:17:55 like marketing gimmicks and just
+01:17:57 play those clips
+01:17:59 kind of like in finisher fail there's like
+01:18:01 how they marketed episode zero
+01:18:03 and it's just like a bunch of scenes from
+01:18:05 Takunomi where they're advertising beer
+01:18:07 like in the show and I'm like literally saying
+01:18:09 this is how they marketed it
+01:18:11 with these beer ads
+01:18:13 so there was going to be a lot of like
+01:18:15 just random segments of like
+01:18:17 funny scenes from shows where they
+01:18:19 they obviously made this
+01:18:21 scene to market the show
+01:18:23 and then intercut with that would be ads
+01:18:25 that I made for my fans and like
+01:18:27 the only stipulation I had on the ads was that they were all going to be less than 10 seconds
+01:18:29 so it's basically just
+01:18:31 hey I'm going to and I said
+01:18:33 it's going to be less than 10 seconds and I said all the rules
+01:18:35 so like don't expect to get
+01:18:37 like a glowing review of your thing
+01:18:39 it's just going to be a fucking
+01:18:41 a little meme that
+01:18:43 you know puts the name of the thing you want in the video
+01:18:45 it's like a TV ad you know it's a few seconds long
+01:18:47 you've got to get your message out fast
+01:18:49 and I did them all
+01:18:51 just like a TV ad it's a couple
+01:18:53 seconds long and it says nothing in particular
+01:18:55 about the thing being advertised
+01:18:57 I mean you sound like you're making a joke
+01:18:59 but that's pretty commonly the case
+01:19:01 like you know
+01:19:03 TV ads in 30 seconds
+01:19:05 well what about those total non-secret
+01:19:07 commercial where like they're just talking about a lifestyle
+01:19:09 and then they're like Jeep Durango
+01:19:11 you know it's
+01:19:13 what's the thing
+01:19:15 like sure you can make a point that those guys have such brand recognition already
+01:19:17 you already know
+01:19:19 like what they're selling and they don't need to
+01:19:21 but whatever
+01:19:23 why is every car
+01:19:25 at the same like structurally
+01:19:27 because all it does
+01:19:29 driving up a mountain saying about
+01:19:31 if you can't do this with your normal car
+01:19:33 buy this new car
+01:19:35 like none of them
+01:19:37 they all end with the car
+01:19:39 like displayed
+01:19:41 at a three quarters angle
+01:19:43 and in my brain I combine
+01:19:45 every single one of those ads
+01:19:47 to the point where I don't know any car ad
+01:19:49 specifically
+01:19:51 I'm not being advertised a single brand
+01:19:53 I'm just being advertised
+01:19:55 speaking of cars
+01:19:57 was it on the PCP that I shared my idea
+01:19:59 for the perfect
+01:20:01 way to end the Fast and the Furious series
+01:20:03 I don't think so
+01:20:05 imagine it
+01:20:07 the year is 2020
+01:20:09 or 2022
+01:20:11 either one doesn't matter
+01:20:13 not 2021 now it's not okay
+01:20:15 but the year is 20 whatever
+01:20:17 and Fast and the Furious 10 is coming out
+01:20:19 and it is 150 minutes
+01:20:21 of extremely expensive
+01:20:23 cars being driven off of a cliff
+01:20:25 in one continuous shot
+01:20:27 is the most expensive
+01:20:29 movie ever made
+01:20:31 the only sort of car
+01:20:33 and that's it
+01:20:35 that's it
+01:20:37 why is it 155 minutes
+01:20:39 was there some significance to that number
+01:20:41 that's usually
+01:20:43 you want it to be a decent length for your money
+01:20:45 you're paying like $10 to get in there
+01:20:47 I thought there was going to be a reason for that
+01:20:49 because he doesn't want the number
+01:20:51 seems like a reasonable time frame
+01:20:53 for Fast and the Furious 10 to come out
+01:20:55 okay
+01:20:57 the only car advertisement
+01:20:59 I'm not even sure if it's a car advertisement
+01:21:01 but he had a car in it
+01:21:03 I'm pretty sure it had a car in it
+01:21:05 I just remembered like this
+01:21:07 it was kind of funny
+01:21:09 it was shot from the back
+01:21:11 it appeared like a very attractive lady
+01:21:13 it was walking up to a guy
+01:21:15 with a car I'm guessing
+01:21:17 and then like boom
+01:21:19 actually the attractive lady is a guy all along
+01:21:21 and it was
+01:21:23 got him, you're gay now
+01:21:25 it was
+01:21:27 really makes me want to buy their car
+01:21:29 for tricking me about my sexuality
+01:21:31 you bully
+01:21:33 yeah at the bottom
+01:21:35 it says buy our car fair
+01:21:41 I would remember that
+01:21:43 they should do that
+01:21:45 you see that one
+01:21:47 you see that one where the guy
+01:21:49 you see that one where the guy is eating a baby Ruth
+01:21:51 and he just like pulls out
+01:21:53 pulls out a gun, pulls out an assault rifle
+01:21:55 and just lays waste to like
+01:21:57 a school
+01:21:59 a school playground
+01:22:01 he's just standing there eating the baby Ruth
+01:22:03 that one really made me want a baby Ruth
+01:22:05 that sounds good
+01:22:07 I enjoy that
+01:22:09 Tom I didn't hear a word you said
+01:22:11 oh Ben that wasn't a commercial
+01:22:13 that was the actual school shooting
+01:22:15 that's just how you're coping
+01:22:17 oh is that where I was
+01:22:19 on the last full moon
+01:22:21 that's a full moon mentor
+01:22:23 he's a lichen school shooter
+01:22:25 or a school shooter
+01:22:27 what is it called
+01:22:29 what is it called a baby Ruth
+01:22:31 can you explain that to me
+01:22:33 it's just the name of the candy
+01:22:35 it's named after Babe Ruth
+01:22:37 I really don't like the word baby
+01:22:39 in any sort of food that I consume
+01:22:41 I'm eating a baby
+01:22:43 what about sugar baby
+01:22:45 I don't want to eat baby carrots
+01:22:47 they're just normal carrots
+01:22:49 I'm stuck on the
+01:22:51 I'm stuck on the where
+01:22:53 school shooter
+01:22:55 the full moon comes out and he looks at it
+01:22:57 and he's like oh no it's happening again
+01:22:59 and then an AK-47 appears in his hands
+01:23:01 it grows out of his hand
+01:23:03 and his virginity regrows
+01:23:05 and his registration
+01:23:07 to incel is like r slash incels
+01:23:09 it activates once again
+01:23:11 and his jacket grows
+01:23:13 and becomes leathery
+01:23:15 you know what
+01:23:17 I could believe oh my god I got a perfect
+01:23:19 I got a perfect joke and a segue
+01:23:21 all in one are you ready
+01:23:23 here we fucking go
+01:23:25 I could believe that that was me
+01:23:27 because I do like baby Ruth
+01:23:29 and I would say
+01:23:31 that I wouldn't eat one because I'm keto
+01:23:33 but if I was asleep
+01:23:35 it was a full moon so it was like I was dream
+01:23:37 it was like I was having one of my keto
+01:23:39 keto dreams you dream of eating carbs
+01:23:41 and you wake up because it's a nightmare
+01:23:43 and that's it perfect transition
+01:23:45 to tell you all know that I am on
+01:23:47 day two of a fast
+01:23:49 I have not eaten in almost two days
+01:23:51 and I feel wonderful
+01:23:53 dude fasting does make you feel like you become a god
+01:23:55 no I'm not hungry
+01:23:57 sometimes I kind of want to eat
+01:23:59 because like it would taste good
+01:24:01 and it would be something to do
+01:24:03 but I'm not like hungry
+01:24:05 it's funny you mentioned that Ben
+01:24:07 because I'm fasting today
+01:24:09 I decided yesterday that I'm not eating today
+01:24:11 I decided yesterday too
+01:24:13 oh my god what the fuck
+01:24:15 guess what I had for breakfast
+01:24:17 I did every Monday by the way guys
+01:24:19 I had a big ol' slice of cake for breakfast
+01:24:21 that's what I had
+01:24:23 that is not posted
+01:24:25 every week
+01:24:27 why do you fast every Monday
+01:24:29 I decided like one day a week
+01:24:31 would be neat
+01:24:33 so I decided on Monday
+01:24:35 it feels great it makes you feel like a god
+01:24:37 no I hate it
+01:24:39 but I go through with it
+01:24:41 well
+01:24:43 it's fun
+01:24:45 it does have its health benefits for at least one day
+01:24:47 I'm not sure about two things
+01:24:49 are you guys achieving your stated goals
+01:24:51 of losing gaining weight or whatever
+01:24:53 well I wasn't really
+01:24:55 I had lost a bit
+01:24:57 I had lost like 10 pounds
+01:24:59 and I had been stable for maybe like two weeks
+01:25:01 and I was like okay I'm at a plateau
+01:25:03 so it's time to fast
+01:25:05 time to break this plateau
+01:25:07 alright
+01:25:09 time will tell
+01:25:11 just don't like
+01:25:13 I sometimes don't eat
+01:25:15 as that much and I sort of like
+01:25:17 I'm too lazy to go and
+01:25:19 make something so I'm like
+01:25:21 I'll be hungry for a little bit
+01:25:23 like I'm hungry right now and I could
+01:25:25 go and run away
+01:25:27 and like eat something
+01:25:29 but like I'm okay with just
+01:25:31 even after this is finished just sitting here
+01:25:33 for a bit not eating
+01:25:35 I don't know whether I'm gaining the benefits of all this like fasting stuff
+01:25:37 because I don't do it every single day
+01:25:39 I very often like it wasn't
+01:25:41 that uncommon for me
+01:25:43 even like before I was thinking about
+01:25:45 what I wanted to eat well
+01:25:47 to like well when I lived
+01:25:49 on my own it was common for me to just
+01:25:51 like wake up
+01:25:53 and not be hungry and then
+01:25:55 go the rest of the day doing something
+01:25:57 and just not get hungry because I was like
+01:25:59 focused on other things and I would go like the entire
+01:26:01 day without eating and maybe at
+01:26:03 night I'd be like oh I guess I should eat something and I need something
+01:26:05 well we're talking about food
+01:26:07 my fucking oven broke
+01:26:09 and it's a
+01:26:11 big gay boy and so
+01:26:13 I called the seers and
+01:26:15 a guy came and I paid him $100
+01:26:17 to tell me your oven's
+01:26:19 broke
+01:26:21 because
+01:26:23 apparently what happened is that
+01:26:25 the panel broke your oven's broken now you're
+01:26:27 gonna be give me a thousand dollars to fix it
+01:26:29 yeah well okay so this
+01:26:31 this dude's like the panel
+01:26:33 is broken that like controls the oven
+01:26:35 and to replace the panel and he
+01:26:37 points me to some numbers and he's like
+01:26:39 here's how much the part itself costs
+01:26:41 which is like $360
+01:26:43 and I'm already like holy fuck
+01:26:45 right and then he's like and here's the
+01:26:47 total cost after repairs
+01:26:49 $618
+01:26:51 and I look at it
+01:26:53 and I look over at the stove and I look at him
+01:26:55 and I say how much does the stove cost
+01:26:57 and he says $600
+01:26:59 and I was just like I'll
+01:27:01 just buy a new stove
+01:27:03 and he's like yeah fuck
+01:27:05 that right so then
+01:27:07 this one's got sentimental value
+01:27:09 no this is
+01:27:11 apparently a new stove that was bought
+01:27:13 right before we moved in
+01:27:15 does it not have any sort of
+01:27:17 warranties or anything
+01:27:19 apparently they didn't get a warranty
+01:27:21 on the guy
+01:27:23 fantastic
+01:27:25 if it's a new product they have to have a warranty
+01:27:27 it's like by law
+01:27:29 you have to have a year warranty
+01:27:31 the guy said that if there was a warranty
+01:27:33 it would have come up when he looked up
+01:27:35 the stove in his system
+01:27:37 then someone's broken the law federal law mandates
+01:27:39 a year warranty on every consumer product
+01:27:41 well we don't know how long ago it was actually bought
+01:27:43 and put into place or anything
+01:27:45 I was told that they had just bought it
+01:27:47 not long before they moved out and I know they moved out
+01:27:49 in February
+01:27:51 I think you need to call bullshit on
+01:27:53 whoever said that
+01:27:55 you might want to actually call the manufacturer
+01:27:57 I might do something because I didn't buy a new
+01:27:59 stove because what I
+01:28:01 me and May were talking about
+01:28:03 and then we're like is it
+01:28:05 possible that we can just get a
+01:28:07 toaster oven and it'll be just as good
+01:28:09 yes
+01:28:11 and I'm like
+01:28:13 because I didn't want to believe that that was true
+01:28:15 because it seems wrong
+01:28:17 but then
+01:28:19 it does doesn't it
+01:28:21 I'm in my page so I told the people
+01:28:23 on my page in discord about this oven situation
+01:28:25 and this guy Kaisimir
+01:28:27 in his 30s and he lives in Japan
+01:28:29 is like man I haven't owned an oven
+01:28:31 in years
+01:28:33 and I was like and then he points out
+01:28:35 that in Japan
+01:28:37 almost no one has an oven
+01:28:39 apparently in Japan
+01:28:41 full ovens are just extremely rare
+01:28:43 they just use toaster ovens
+01:28:45 like they just have like
+01:28:47 I mean I know that a lot of okay I've seen like
+01:28:49 you ever watched cooking with dog no
+01:28:51 it's weird
+01:28:53 how many recipes
+01:28:55 of microwaving like this seems like
+01:28:57 a lot of Japanese food
+01:28:59 is like involves a microwave
+01:29:01 I think it's just because of space concerns
+01:29:03 they just don't have room for full ovens
+01:29:05 and then so I'm looking into it and I'm realizing
+01:29:07 like a toaster oven is literally just
+01:29:09 an oven that's not that big
+01:29:11 and like the only reason that you would need
+01:29:13 a full-size oven is to
+01:29:15 have a full-size
+01:29:17 oven and I'm like well I never cook
+01:29:19 for more than two people all we really use
+01:29:21 our oven for is make a chicken cord on blue anyway
+01:29:23 so
+01:29:25 so we went to Walmart
+01:29:27 and found a $50 oven
+01:29:29 that was on sale for $30
+01:29:31 and now I have a $30 toaster oven
+01:29:33 instead of a $600 stove
+01:29:35 and I haven't yet confirmed that it can do
+01:29:37 everything I want because if it can't make
+01:29:39 chicken cord on blue then I'm going to be a sad boy
+01:29:41 I don't know if I want to spend $600
+01:29:43 just so I can make chicken cord on blue
+01:29:45 can't fry things on toaster ovens
+01:29:47 can you do that?
+01:29:49 this is like fried egg or something
+01:29:51 but you can't do that in an oven either
+01:29:53 well did you
+01:29:55 did you do your stove?
+01:29:57 the stove top still works
+01:29:59 it's just the oven
+01:30:01 to be honest I almost
+01:30:03 I almost never cook in
+01:30:05 like my oven oven
+01:30:07 I use the stove almost exclusively
+01:30:09 back at my old place I used the oven a lot
+01:30:11 because I used to eat lots of mozzarella sticks
+01:30:13 and like
+01:30:15 cheesy bread and garlic bread and shit
+01:30:17 but like the only reason I had to use
+01:30:19 the oven is that the toaster oven is a little slower
+01:30:21 and ours was too small
+01:30:23 to like really fit anything in it
+01:30:25 but we just bought a bigger one
+01:30:27 like they make bigger toaster ovens
+01:30:29 this is basically just a fucking oven
+01:30:31 I'm sitting here and I'm like I just bought an oven
+01:30:33 for $30 and this motherfucker
+01:30:35 was going to charge me $618
+01:30:37 to fix the one I already fucking
+01:30:39 ahhh what is this world
+01:30:41 like I just
+01:30:43 I never even heard of a toaster oven
+01:30:45 I had never even considered the idea
+01:30:47 I had never considered
+01:30:49 the idea of a living life without an oven
+01:30:51 until
+01:30:53 that guy said like oh I haven't had an oven in years
+01:30:55 and I was like what?
+01:30:57 and then I thought about it and I was like there's nothing I make
+01:30:59 in the oven I can't make in a toaster oven
+01:31:01 so why would I need an oven
+01:31:03 if you want to make a big
+01:31:05 Sunday roast
+01:31:07 why would I ever do that
+01:31:09 and even then
+01:31:11 you can get pretty big toaster ovens
+01:31:13 I didn't go for like a gigantic oven
+01:31:15 I was just seeing a toaster oven that was big enough
+01:31:17 that you could like bake I don't know a pie
+01:31:19 the biggest one that they had at Walmart
+01:31:21 was like $100
+01:31:23 and it was pretty fucking huge
+01:31:25 and it literally advertises that you can cook
+01:31:27 a full chicken inside of it
+01:31:29 like they had a picture of a full roasted chicken
+01:31:31 on there
+01:31:33 I think yep
+01:31:35 yep
+01:31:37 so you never had a toaster oven growing up
+01:31:39 but like yes the answer is yes
+01:31:41 you can do everything you want
+01:31:43 just because I heard the oven
+01:31:45 because I didn't want to fuck with it
+01:31:47 it takes like 15 minutes to heat up
+01:31:49 and I'm not that hungry
+01:31:51 apparently the toaster oven
+01:31:53 is more power cost effective too
+01:31:55 like heating up a stove costs more
+01:31:57 this is just another example
+01:31:59 of American excess that we just don't need
+01:32:01 I guess so
+01:32:03 this looks too powerful
+01:32:05 look at that fucking thing
+01:32:07 that's like extreme
+01:32:09 it's got a top one too
+01:32:11 holy fuck
+01:32:13 whoa
+01:32:15 okay well hold on
+01:32:17 get that toast out of there
+01:32:19 who the fuck is cooking bacon this way
+01:32:21 who's cooking bacon in a toaster oven
+01:32:23 in like a bacon tray that's a thing
+01:32:25 yeah
+01:32:27 why not
+01:32:29 does that coffee pot say nostalgia
+01:32:31 on it
+01:32:33 what
+01:32:35 wait yes
+01:32:37 no hold on
+01:32:39 it does
+01:32:41 it says nostalgia
+01:32:43 where does it say
+01:32:45 I guess it's a retro design
+01:32:47 obviously it's made by white industries
+01:32:49 anyone get it
+01:32:51 anyone get it
+01:32:53 dude
+01:32:55 we've changed
+01:32:57 we've changed from using the word retro
+01:32:59 now we're using the word nostalgia
+01:33:01 I'm nostalgic for retro
+01:33:03 that's why it has nostalgia
+01:33:05 it's like an oldish
+01:33:07 cream plastic
+01:33:09 yeah it really is
+01:33:11 you used to call that a retro design
+01:33:13 now they're calling it nostalgia
+01:33:15 retro is too mainstream
+01:33:17 it's a toaster oven
+01:33:19 now I'm hungry
+01:33:21 now I wasn't hungry
+01:33:23 and I was totally good with my fast
+01:33:25 the fast is ruined
+01:33:27 give it 10 minutes it'll pass
+01:33:29 well you know what guys we've been talking about some bullshit for a while
+01:33:31 I say we change tax
+01:33:33 and we get some fucking coal
+01:33:35 please god
+01:33:37 do we have a fucking
+01:33:39 do we have a thing now
+01:33:41 this is gonna be awesome
+01:33:43 I'm actually really excited about this piece
+01:33:45 it better just be someone screaming fuckers in the franks over and over again
+01:33:47 that's what I want
+01:33:49 did we screen these
+01:33:51 or are these just like
+01:33:53 yeah but I mean they don't get
+01:33:55 automatically recorded we get to edit them
+01:33:57 so if anyone says something real bad we can always cut it out
+01:33:59 so I'm not too worried about it
+01:34:01 what could they possibly say
+01:34:03 would it be bad enough for us to cut it
+01:34:05 oh I don't know maybe actual
+01:34:07 advocating violence against a specific group
+01:34:09 who knows I don't know
+01:34:11 but it's speakpipe.com
+01:34:13 slash the procrastinators
+01:34:15 I think the link to the description regardless
+01:34:17 so go to that and leave us voicemail
+01:34:19 this is why I don't go to the meetings because I like to be surprised
+01:34:21 I believe the link is PCP voicemail
+01:34:23 what is it
+01:34:25 speakpipe.com slash PCP voicemail
+01:34:27 thank you PCP voicemail that's the one
+01:34:29 yeah do that click the link the description is there
+01:34:31 and leave us a message and here we go
+01:34:33 alright let's see what we got first on deck
+01:34:35 okay here we go this is from
+01:34:37 Gavin at
+01:34:39 her booty poppin
+01:34:41 is he wanted us to know that's his name on twitter
+01:34:43 let's see what he's got for us
+01:34:45 here we go
+01:34:47 hey guys I have a question for y'all
+01:34:49 if a significant other
+01:34:51 had gotten sexually unattractive
+01:34:53 to the point where you have
+01:34:55 no desire to have sex with them in particular
+01:34:57 during the time you've been in a relationship with one another
+01:34:59 but you still have a desire to have sex
+01:35:01 would you wait it out
+01:35:03 to see if they could become sexually attractive again
+01:35:05 and if so how long would you wait
+01:35:07 until you decide to look for a sex elsewhere
+01:35:09 if you're not willing to wait indefinitely
+01:35:11 also would you stop dating
+01:35:13 or in your romantic relationship with this person
+01:35:15 if you decided upon yourself
+01:35:17 that you've waited long enough for them to become
+01:35:19 sexually attractive again
+01:35:21 so is he just saying she got fat
+01:35:23 yeah he's saying his bitch got fat
+01:35:25 basically
+01:35:27 what else could you mean
+01:35:29 okay
+01:35:31 oh yeah you know my girl
+01:35:33 got acid attacked in the face
+01:35:35 by a terrorist
+01:35:37 for not being a proper
+01:35:39 enough Muslim woman
+01:35:41 so she's not attractive anymore
+01:35:43 but maybe I'll wait it out and see if it gets better
+01:35:45 Ben I'm assuming this is a joke
+01:35:47 because no lie
+01:35:49 if that happened
+01:35:51 there comes a time
+01:35:53 why saddle yourself
+01:35:55 that you're not attracted to
+01:35:57 for your whole fucking life
+01:35:59 just because something bad happened to them
+01:36:01 why isn't your responsibility to put up with that forever
+01:36:03 oh yeah
+01:36:05 of course
+01:36:07 this guy's thing
+01:36:09 the only way
+01:36:11 that it could be reversible
+01:36:13 is if he's just talking about getting fat
+01:36:15 he's talking about getting fat
+01:36:17 so I don't know
+01:36:19 why he didn't just say that
+01:36:21 but like
+01:36:23 so this literally is not a problem for me
+01:36:25 so
+01:36:27 the way I see it
+01:36:29 if I'm attracted to someone
+01:36:31 on
+01:36:33 I'm not attracted to someone just because they're thin
+01:36:35 if getting fat is enough
+01:36:37 to make a girl completely
+01:36:39 sexually unattractive to me
+01:36:41 she probably wasn't that attractive
+01:36:43 in the first place
+01:36:45 I don't think there's a certain point
+01:36:47 if she gets
+01:36:49 if a girl
+01:36:51 if a girl got that fat
+01:36:53 and you couldn't
+01:36:55 steer that ship away from it happening
+01:36:57 you have not done your job as a partner
+01:36:59 oh come on
+01:37:01 it's not your problem
+01:37:03 no I'm not saying it's your problem
+01:37:05 I'm just saying
+01:37:07 right
+01:37:09 this had to happen over the course of years
+01:37:11 you don't just balloon
+01:37:13 to a point of being completely
+01:37:15 okay
+01:37:17 if you're saying that your girl
+01:37:19 is no longer attractive because she gained
+01:37:21 like 30 pounds
+01:37:23 you need to
+01:37:25 your standards are a little too
+01:37:27 30 pounds is a lot of weight
+01:37:29 I don't think it's enough to make a girl
+01:37:31 who has a hot face
+01:37:33 unattractive
+01:37:35 if a girl is attractive it's not
+01:37:37 I mean
+01:37:39 he's not saying
+01:37:41 my girl gained X amount of weight
+01:37:43 is it okay that I no longer find her attractive
+01:37:45 he's saying
+01:37:47 the only way you can get there
+01:37:49 that's all it comes down to
+01:37:51 the only way you can get there is
+01:37:53 like I said
+01:37:55 the only possible scenario where this can happen
+01:37:57 is that they gained a lot of weight
+01:37:59 because he's implying that it has to be
+01:38:01 something reversible
+01:38:03 so we're assuming that she gained X amount of weight
+01:38:05 if a girl is attractive enough
+01:38:07 for me
+01:38:09 the weight is not
+01:38:11 the biggest factor of sexual attraction
+01:38:13 it's her face
+01:38:15 it's her
+01:38:17 general shape and demeanor
+01:38:19 so like
+01:38:21 a girl would have to put on a considerable amount of weight
+01:38:23 before I would be like
+01:38:25 I can't fuck you anymore
+01:38:27 and I think that if there's no way
+01:38:29 that I would allow that to happen
+01:38:31 like at some point
+01:38:33 as it's happening I'd be like hey we need to
+01:38:35 we need to move, we need to back pedal
+01:38:37 and to answer this question
+01:38:39 I guess if it got to a point where
+01:38:41 you could not correct that course
+01:38:43 and she's just let herself go
+01:38:45 and she doesn't give a fuck
+01:38:47 we're not even having a relationship
+01:38:49 because we're not participating together
+01:38:51 at that point it's just a breakdown
+01:38:53 of communication and issue between
+01:38:55 the two people
+01:38:57 you gotta say something
+01:38:59 if the girl has no idea that you feel this way
+01:39:01 that's a huge problem
+01:39:03 that means you're failing
+01:39:05 but also I feel like
+01:39:07 if it is weight
+01:39:09 and it's
+01:39:11 something that he just let happen
+01:39:13 and didn't talk about it, that's one thing
+01:39:15 but I also think that if somebody puts on
+01:39:17 just a bit of weight
+01:39:19 and then you're no longer attracted to them
+01:39:21 and you're considering breaking up
+01:39:23 I don't think you were that connected to them in the first place
+01:39:25 that's how I feel
+01:39:27 it's gonna be possible
+01:39:29 if you've got a guy who prides himself
+01:39:31 on his physique and wants to date a girl
+01:39:33 who feels the same way
+01:39:35 and maybe they even bonded over their physical fitness
+01:39:37 if the girl starts to slip
+01:39:39 and it's not
+01:39:41 it doesn't matter
+01:39:43 but then the person is not doing this thing
+01:39:45 that is important to the other person
+01:39:47 I'm never gonna judge anybody
+01:39:49 for breaking up with anybody for any reason
+01:39:51 because this is a voluntary opt-in situation
+01:39:53 I feel like this is not something that you would need
+01:39:55 to ask for advice from us for
+01:39:57 this is something that would be a topic
+01:39:59 of conversation with you and this girl
+01:40:01 you know why he's asking
+01:40:03 it's because he's not attracted
+01:40:05 maybe it's not the specific guy
+01:40:07 the idea here is he's not attracted
+01:40:09 or something like that
+01:40:11 and he feels guilty about feeling this way
+01:40:13 that's what's going on
+01:40:15 I wanna say something
+01:40:17 like okay
+01:40:19 the circumstances don't really matter
+01:40:21 the specifics of how much weight was
+01:40:23 gained or whether it was an acid attack
+01:40:25 it's all whatever
+01:40:27 I'm still on that
+01:40:29 acid attack joke by the way
+01:40:31 still just ringing the comedy out of that one
+01:40:33 if you're
+01:40:35 not attracted
+01:40:37 the whole idea of
+01:40:39 well let's wait and see
+01:40:41 if we can get back
+01:40:43 let's wait and see if we can
+01:40:45 get her attractive again
+01:40:47 if she'll do that
+01:40:49 it shouldn't be a wait and see
+01:40:51 it should be working towards that
+01:40:53 it shouldn't be like hopefully my girlfriend
+01:40:55 is gonna start losing weight
+01:40:57 be like hey I don't want to fuck you anymore
+01:40:59 you need to lose weight or this is ending
+01:41:01 I think if you're at the point
+01:41:03 where you're past the point
+01:41:05 if you're not attracted to them anymore
+01:41:07 I think it would be kind of
+01:41:09 asking for a miracle
+01:41:11 I think the odds that
+01:41:13 weighting are gonna pan out and be worth it
+01:41:15 are really low
+01:41:17 I mean you know
+01:41:19 he's gotta make that calculation himself
+01:41:21 maybe this is a really meaningful
+01:41:23 if you're married to someone and then they get fat
+01:41:25 it's like well Jesus what are we gonna do here
+01:41:27 time for a divorce
+01:41:29 sure you might break up with him over this
+01:41:31 trying to imagine a circumstance
+01:41:33 where she's like
+01:41:35 I imagine if you come to her
+01:41:37 like hey I'm not okay with this
+01:41:39 we need to work through this
+01:41:41 like if her answer is
+01:41:43 no I want to
+01:41:45 be fat then just break up with her
+01:41:47 if her answer is
+01:41:49 if her answer is like oh I will try to work through this
+01:41:51 with you like let's work together
+01:41:53 if you do this you will be the bad guy
+01:41:55 unfortunately
+01:41:57 that's okay
+01:41:59 we're talking about breaking up with her
+01:42:01 if she doesn't
+01:42:03 you just have to be firm on your stance
+01:42:05 talking out of my ass
+01:42:07 I will break up with you if you don't lose weight
+01:42:09 but I'm willing to help
+01:42:11 and then if she won't do the steps
+01:42:13 that you're trying to take
+01:42:15 then you just gotta keep making it clear
+01:42:17 you know the problem is
+01:42:19 this situation is framed by society
+01:42:21 that the person
+01:42:23 making the complaint is wrong
+01:42:25 because society now is like
+01:42:27 healthy at any size
+01:42:29 you're just being a shallow, vapid person
+01:42:31 but it's not that you're being a shallow, vapid person
+01:42:33 it's that this is like Nate said
+01:42:35 a voluntary kind of relationship
+01:42:37 that both parties entered into
+01:42:39 and now one of the conditions
+01:42:41 that brought you into it has changed
+01:42:43 and so it's not you being shallow
+01:42:45 it's that one of the main reasons
+01:42:47 you were invested in it to begin with
+01:42:49 is no longer valid and so the entire contract
+01:42:51 is now null and void and so
+01:42:53 it is not rude, it is not shallow
+01:42:55 it completely makes sense
+01:42:57 you say society but I think most people
+01:42:59 would agree with our stance here
+01:43:01 I think it would have to
+01:43:03 I think even today this would not be
+01:43:05 considered unreasonable
+01:43:07 I'm sure people would do it
+01:43:09 I'm only saying more that society
+01:43:11 would say that
+01:43:13 the culture would present someone
+01:43:15 doing this as being kind of a dick
+01:43:17 I mean I think you could
+01:43:19 probably spin it
+01:43:21 either way
+01:43:23 I don't think there's an argument to be made that you're a dick
+01:43:25 if you're trying to help them lose the weight
+01:43:27 it'd be one thing if you're just like you need to burn weight
+01:43:29 or else fuck you
+01:43:31 I don't think you should have to
+01:43:33 help them
+01:43:35 I don't think you should be responsible for them at all
+01:43:37 you don't have to
+01:43:39 I think if you're in a good relationship
+01:43:41 then there should be some
+01:43:43 like I'm not saying you have to
+01:43:45 literally like take them to the classes
+01:43:47 and everything I'm just saying that like
+01:43:49 if you just break up with someone out of nowhere
+01:43:51 and you didn't mention this was a problem
+01:43:53 that would be a dick move
+01:43:55 if you're like telling them like hey this is something
+01:43:57 that I have a problem with
+01:43:59 there needs to be an effort made on your part
+01:44:01 then I don't think that's being a dick
+01:44:03 yeah
+01:44:05 seems reasonable to me
+01:44:07 you know
+01:44:09 you guys may or may not be aware
+01:44:11 you guys may or may not be aware
+01:44:13 that I not too long ago got out of a relationship
+01:44:15 and
+01:44:17 it's not
+01:44:19 but it feels kind of the same
+01:44:21 like in my case
+01:44:23 it was the personality that got
+01:44:25 fat in this case
+01:44:27 but you know
+01:44:33 there's this great market
+01:44:35 my only point is that
+01:44:37 you can't like wait for it to get better
+01:44:39 like you gotta
+01:44:41 you should
+01:44:43 9 times out of 10, 99 times out of 100
+01:44:45 it's better to cut that cord sooner rather than later
+01:44:47 then there's this amazing
+01:44:49 there's this manga called
+01:44:51 Enclosed Called Fat
+01:44:53 by Moyoko Anno
+01:44:55 and there's an amazing line
+01:44:57 where the main girl is like
+01:44:59 fat and
+01:45:01 there's a lot of people who wrong her
+01:45:03 throughout the story but her solution
+01:45:05 to that is to become a cunt
+01:45:07 and like she loses a bunch of weight
+01:45:09 by just purging and shit
+01:45:11 and then like once she gets skinny
+01:45:13 she's just like a total bitch
+01:45:15 there's a scene where this personal trainer
+01:45:17 who had like wanted to work with her
+01:45:19 but she like blew off the personal trainer
+01:45:21 she didn't want to have to work for it
+01:45:23 she just wanted to vomit her way to victory basically
+01:45:25 and she meets the personal trainer again
+01:45:27 and she's just saying some like some cunty shit to her
+01:45:29 and then she leaves the restaurant
+01:45:31 or whatever that they're at
+01:45:33 and the trainer says to her assistant
+01:45:35 the assistant's like oh well she lost a lot of weight
+01:45:37 and she goes no
+01:45:39 the fat was in her soul
+01:45:41 there you go
+01:45:43 I think I've seen that panel
+01:45:45 like on 4chan or something
+01:45:47 I know the comic
+01:45:49 and I've definitely seen that panel
+01:45:51 the fat was in her soul
+01:45:53 you know it just makes me think I know we spent a while on this
+01:45:55 but like it just I think like
+01:45:57 people will get mad at you
+01:45:59 like the thing that keeps coming to my mind is like
+01:46:01 what if your wife has a baby
+01:46:03 and she gains like a hundred pounds
+01:46:05 while having the baby
+01:46:07 it's like okay of course
+01:46:09 and then help her work it back down
+01:46:11 two years later
+01:46:13 and we're still
+01:46:15 I mean that's a thing
+01:46:17 your first mistake was you got married
+01:46:19 alright that was your first problem
+01:46:21 and your second mistake was
+01:46:23 once you have a kid
+01:46:25 I don't know pity at all
+01:46:27 I think if you have a kid
+01:46:29 then you're not gonna be like
+01:46:31 so concerned about how sexually attractive
+01:46:33 your wife is you're a little more concerned about other things
+01:46:35 it seems like a lot of guys
+01:46:37 cheat after their fucking wife has
+01:46:39 a baby and they get fat and unattractive
+01:46:41 like let's avoid it
+01:46:43 men's libido doesn't die down
+01:46:45 what do you do
+01:46:47 what do you expect
+01:46:49 what you do is that you're clear to like your wife
+01:46:51 in this case that like listen I love you
+01:46:53 we had a kid I want to raise together
+01:46:55 I gotta tell you though your fat as hell
+01:46:57 and hashtag no fat checks
+01:46:59 we need to work on this
+01:47:01 you said I had like 10 more
+01:47:03 voicemails right
+01:47:05 look we're not gonna listen to all of them
+01:47:07 wait we're not
+01:47:09 well I mean we got like
+01:47:11 like 50 there's no point
+01:47:13 we probably got like 15 of them
+01:47:15 that's like way too many to listen to all of I think
+01:47:17 I just grabbed some random ones
+01:47:19 we could probably go through them faster
+01:47:21 I mean we 100% could
+01:47:23 should we
+01:47:25 play the next one
+01:47:27 should we have it that
+01:47:29 voicemail shouldn't be for questions
+01:47:31 since we already have a question section
+01:47:33 I mean
+01:47:35 what would we prefer
+01:47:37 I feel like if we're getting questions from voicemails
+01:47:39 um
+01:47:41 then we don't do questions but then that just means
+01:47:43 people have to record and we won't take any
+01:47:45 I mean we could do that I mean
+01:47:47 I don't know I'm just throwing that out there we can think on it
+01:47:49 depends on what we discuss it later
+01:47:51 leave a comment
+01:47:53 alright well let's get to another one here's one from
+01:47:55 Mishin
+01:47:57 this guy's a big patron guy
+01:47:59 see him around alright let's see what he has to say here
+01:48:01 Nate
+01:48:03 he's pronounced Trafalgar
+01:48:05 say it with me
+01:48:07 Trafalgar
+01:48:09 Trafalgar
+01:48:11 okay this guy
+01:48:13 this guy has been told me that I say Trafalgar
+01:48:15 or Trafalgar
+01:48:17 Trafalgar
+01:48:19 Trafalgar
+01:48:21 Trafalgar
+01:48:23 Trafalgar
+01:48:25 Trafalgar law
+01:48:27 there's a character in one piece
+01:48:29 that is named after a real person
+01:48:31 who is called
+01:48:33 he's named after
+01:48:35 a battle
+01:48:37 where somebody
+01:48:39 was a pirate or a sailor
+01:48:41 I don't know what I'm talking about
+01:48:43 in London there's a place
+01:48:45 called Trafalgar Square that's how you say it
+01:48:47 Trafalgar
+01:48:49 more like Trafalgar
+01:48:51 Trafalgar we hold on
+01:48:53 now I'm confused
+01:48:55 because I go
+01:48:57 to the underground
+01:48:59 sometimes and I swear
+01:49:01 they said the word before
+01:49:03 I'll have to listen because I'll be traveling soon
+01:49:05 so I'll have to pay attention if I pass it
+01:49:07 how they pronounce it
+01:49:09 yeah if you're around there let me know
+01:49:11 let's get the real shit
+01:49:13 Nate am I crazy
+01:49:15 or did one of our weird
+01:49:17 smattering of ritualistically
+01:49:19 sung birthday songs in our family
+01:49:21 did one of them mention Trafalgar Square
+01:49:23 no way
+01:49:25 I don't think so
+01:49:27 let's review those
+01:49:29 and get back to them
+01:49:31 let's go through the entire list
+01:49:33 right now
+01:49:35 maybe we did
+01:49:37 here's another one from
+01:49:39 Gamer Dan
+01:49:41 oh I love Game Grumps
+01:49:43 yeah me too
+01:49:45 hey guys
+01:49:47 Gamer Dan here
+01:49:49 I wanna know your opinion on
+01:49:51 diegetic
+01:49:53 things in games
+01:49:55 they're good
+01:49:57 diegetic
+01:49:59 diegetic things
+01:50:01 what do you mean by diegetic
+01:50:03 non-diegetic
+01:50:05 he's just fucking joking around
+01:50:07 he doesn't mean anything that's not a real question
+01:50:09 he's just goofing around
+01:50:11 I thought we screened these
+01:50:13 what do you mean no
+01:50:15 diegesis explicit that we do not screen
+01:50:17 I'm coming out
+01:50:19 I'm coming out as anti-diegesis right now
+01:50:21 I don't believe in it
+01:50:23 is the next fucking call
+01:50:25 that doesn't mean let's just move on
+01:50:27 fucking hero trash you don't even speak
+01:50:29 ok next one
+01:50:31 this one's from Gazy Eric
+01:50:33 Gazy Eric or something
+01:50:35 alright what do you got
+01:50:37 hey guys
+01:50:39 girls like me
+01:50:41 because you sound like that
+01:50:43 you can't just live in the woods bro
+01:50:45 you will be raped by bears
+01:50:47 the bears will rape you
+01:50:49 stop being afraid of the government
+01:50:51 you need to be afraid of the bears
+01:50:53 the government
+01:50:55 you see the government works for you
+01:50:57 but who do the bears work for
+01:50:59 they just want to
+01:51:01 right and that's why
+01:51:03 you need to be afraid of the bears
+01:51:05 they make bear mace
+01:51:07 this
+01:51:09 alright I pause it
+01:51:11 this fucking Canadian idiot
+01:51:13 there are no bears in the UK
+01:51:15 I thought this was so random for you
+01:51:17 probably
+01:51:19 you really
+01:51:21 you really just poked a hole
+01:51:23 right in his
+01:51:25 argument
+01:51:27 you didn't even need to live in the UK
+01:51:29 there is bear mace and there are shotguns
+01:51:31 they are made to deal with bears
+01:51:33 what if they sneak up on you
+01:51:35 it's a fucking bear
+01:51:37 you get bear dar
+01:51:39 alright next one
+01:51:41 yeah we sell bear dar
+01:51:43 so we got that covered
+01:51:45 if only Steve Hornet had that
+01:51:47 you know sting radar
+01:51:49 that is
+01:51:51 alright here we go
+01:51:53 Ligma
+01:51:55 no PCP
+01:51:57 you are stupid for being called the PCP
+01:51:59 while your logo explicitly says
+01:52:01 TPC
+01:52:03 it's incongruent
+01:52:05 it's a call out
+01:52:07 wait what was that last bit
+01:52:09 he said it's incongruent
+01:52:11 it is incongruent
+01:52:13 it is incongruent
+01:52:15 we talked about this
+01:52:17 we talked about changing it
+01:52:19 and we all agreed we should change it
+01:52:21 just like everything else we do
+01:52:23 we need more follow through
+01:52:25 we have discussed this
+01:52:27 the idea is that the channel and the group
+01:52:29 are the procrastinators
+01:52:31 and this particular podcast is the
+01:52:33 procrastinators podcast
+01:52:35 but we refer to ourselves as the PCP
+01:52:37 for short because it sounds better
+01:52:39 than TPC
+01:52:41 also we can't say the TPC
+01:52:43 just be the PCP
+01:52:45 the PCP makes more sense
+01:52:47 it's a clusterfuck our names are terrible
+01:52:49 but
+01:52:51 I still like the idea
+01:52:53 despite
+01:52:55 how difficult it is to say
+01:52:57 we always say we're the PCP blah blah blah
+01:52:59 I still prefer
+01:53:01 the fact that we are the procrastinators
+01:53:03 and this is one of the podcasts
+01:53:05 we have the procrastinators drawcast
+01:53:07 the PCD
+01:53:09 we just don't use those abbreviations
+01:53:11 and
+01:53:13 we have other things
+01:53:15 we kind of have a new thing
+01:53:17 the races
+01:53:19 actually
+01:53:21 there's a thing that you'll
+01:53:23 by now you'll have seen it already
+01:53:25 it's the fucking
+01:53:27 backseat gamers
+01:53:29 backseat gaming
+01:53:31 we should google that
+01:53:33 we'll confirm that
+01:53:35 you'll know what the actual title is
+01:53:37 but this is the procrastinators present
+01:53:39 backseat gaming live
+01:53:41 there is a
+01:53:43 show done by smosh
+01:53:45 called backseat gaming
+01:53:47 there is no channel called backseat gaming
+01:53:49 but you know
+01:53:51 it is smosh
+01:53:53 so these videos have like a million views each
+01:53:55 alright well whatever
+01:53:57 here's another one
+01:53:59 here's one from
+01:54:01 slightly better guy ever
+01:54:03 alright
+01:54:05 well played
+01:54:07 hello
+01:54:09 I love that wine
+01:54:11 podcast
+01:54:13 Nate
+01:54:15 in the same episode of the podcast
+01:54:17 which is
+01:54:19 expressed as a desire for
+01:54:21 on the one hand
+01:54:23 small government
+01:54:25 in a libertarian sense of the word
+01:54:27 and on the other hand
+01:54:29 the goal of humanity should be
+01:54:31 starfleet
+01:54:33 I believe
+01:54:35 should be pointed out to him
+01:54:37 that star trek
+01:54:39 is literally communism
+01:54:41 no it's not
+01:54:43 they're post scarcity
+01:54:45 does communism even mean anything
+01:54:47 in a post scarcity society
+01:54:49 anytime someone says that they are missing
+01:54:51 that in star trek you are allowed
+01:54:53 to do whatever you want
+01:54:55 there is no obligation
+01:54:57 whatsoever there are people who live their whole lives
+01:54:59 in hollow rooms just
+01:55:01 fapping like all day
+01:55:03 explicitly stated there are people who just
+01:55:05 have escaped into hollow
+01:55:07 reality because there is no
+01:55:09 obligation to do anything in that world
+01:55:11 I hear this too much it's disconcerting how
+01:55:13 many times I hear this point so
+01:55:15 slightly better guy ever you are in fact not
+01:55:17 you're slightly worse guy ever
+01:55:19 look star trek exists in a world
+01:55:21 just to be super explicit where
+01:55:23 like the economic system
+01:55:25 known as capitalism and communism are
+01:55:27 completely obsolete because there is
+01:55:29 no need to control the distribution
+01:55:31 of resources because everyone effectively
+01:55:33 has infinite resources
+01:55:35 at least in terms of like you can generate
+01:55:37 food there is no need to worry about it
+01:55:39 they've got whatever food generator
+01:55:41 things I forget what they're called
+01:55:43 to say that we need to still adhere
+01:55:45 to the same paradigm as capitalism
+01:55:47 or communism it doesn't work that same way
+01:55:49 things have completely changed
+01:55:51 because they've got the food assemblers
+01:55:53 and whatever and like
+01:55:55 sure it's fair to say that like I'm sure
+01:55:57 big businesses are still out there
+01:55:59 but like currency has
+01:56:01 not really
+01:56:03 you know what okay there is actually something to the argument
+01:56:05 because trade still exists
+01:56:07 there is still things and items
+01:56:09 that you can't just replicate replicators
+01:56:11 that's what they're called but like
+01:56:13 people do exchange those
+01:56:15 god you know what am I wrong here
+01:56:17 I'm because like
+01:56:19 when they trade with the Ferengi the
+01:56:21 the Starfleet has to actually use things of value
+01:56:23 like things that can't just be generated
+01:56:25 and what is it it's like a gold
+01:56:27 gold pressed latinum that's like
+01:56:29 the currency that they love
+01:56:31 gold pressed latinum
+01:56:33 it's gold pressed latinum and you see what they do
+01:56:35 is they take worthless gold
+01:56:37 they take worthless gold that can be replicated
+01:56:39 and they encase liquid
+01:56:41 latinum within these gold bars
+01:56:43 what the fuck is latinum
+01:56:45 latinum is a fictional thing that is very valuable
+01:56:47 and is like used for stuff
+01:56:49 it's like it's like latinum but you without the
+01:56:51 P in it it's valuable for some reason that I
+01:56:53 can't remember um so you can use that like
+01:56:55 they put it in gold because the stupid
+01:56:57 people watching the show will know that it's
+01:56:59 gold and shiny and worth something
+01:57:01 that's right they encase it in worthless gold
+01:57:03 explicitly worthless gold
+01:57:05 because the human brain is wired
+01:57:07 to respond to gold as if it were money
+01:57:09 or something I'm sure that's why the show writers
+01:57:11 chose to do that yeah I think that makes sense
+01:57:13 in world as well but like
+01:57:15 okay but in Starfleet alright if you're
+01:57:17 let's say you're a person in the Federation
+01:57:19 you've got like for example
+01:57:21 there are like shipyards where they build
+01:57:23 starfleets they use giant like
+01:57:25 they use giant replicators
+01:57:27 to produce ship parts that are then assembled
+01:57:29 they have to like do that okay
+01:57:31 if you've got a businessman who has one of
+01:57:33 those and you've got somebody else
+01:57:35 who like doesn't have one okay you know what
+01:57:37 here's the issue is that the Federation
+01:57:39 Federation itself is post scarcity
+01:57:41 but there is a whole entire galaxy out
+01:57:43 there still operating within
+01:57:45 you know capitalistic enterprise in order to
+01:57:47 interact with them you have to kind of lower yourself
+01:57:49 down to these ancient capitalist
+01:57:51 tradition and so well kind of kind of
+01:57:53 but like there's like
+01:57:55 within the Federation there's nothing
+01:57:57 that's for like like communism enforces
+01:57:59 you to say no you get this
+01:58:01 and nothing else within the Federation
+01:58:03 you can be a capitalist
+01:58:05 it's just that like there's no point in
+01:58:07 trading things like food because
+01:58:09 everyone can just get infinite food all the time
+01:58:11 so that industry gone doesn't matter anymore
+01:58:13 you could trade like minerals and stuff
+01:58:15 which you absolutely can do and
+01:58:17 people do all the time so it's still
+01:58:19 how does the how does how do you
+01:58:21 stock a replicator with the
+01:58:23 I'll tell you how the only thing a replicator
+01:58:25 needs is power because a replicator
+01:58:27 what it does is where'd you get that
+01:58:29 well I know because the way replicator works
+01:58:31 is it doesn't use anything except the
+01:58:33 subatomic subatomic particles
+01:58:35 that are scattered throughout the universe
+01:58:37 in a basically infinite amount
+01:58:39 it just reassembles those particles
+01:58:41 from like the space within the replicator
+01:58:43 just fucking makes it out of
+01:58:45 cosmic background radiation
+01:58:47 so you've got like
+01:58:49 does it like suck up space dust
+01:58:51 on the way and then it's got a full tank
+01:58:53 of atoms
+01:58:55 subatomic particles exist everywhere
+01:58:57 all the time subatomic particles
+01:58:59 you're a subatomic
+01:59:01 tarticle
+01:59:03 nailed it there's no amount of
+01:59:05 like
+01:59:07 stuff that you could make that would like use them up
+01:59:09 they're just everywhere all the time
+01:59:11 so that's how it works
+01:59:13 dude what about a
+01:59:15 scared post-it society
+01:59:17 where the male doesn't arrive
+01:59:19 we could like replicate our
+01:59:21 wait shit I missed it
+01:59:23 he said a
+01:59:25 scared post-it society
+01:59:27 where the male
+01:59:29 never shows up on time
+01:59:31 I have bad news for you
+01:59:33 that's a real life
+01:59:35 alright that was good
+01:59:37 alright I think we answered this question
+01:59:39 it's not a cognizant
+01:59:41 what if we could replicate our weed bro
+01:59:43 the point is like you can still
+01:59:45 be a businessman at a federation
+01:59:47 like if it was actual communism they would like kill you
+01:59:49 if you try to be like
+01:59:51 a businessman in a capitalist way
+01:59:53 so don't worry about it
+01:59:55 alright here's one and this will be like the last one
+01:59:57 I think
+01:59:59 this is the best idea
+02:00:01 this is the best idea
+02:00:03 this is actually the best addition to the show
+02:00:05 I'm the one who did this
+02:00:07 I'm making all the credit
+02:00:09 Tom's the one who set it up for us
+02:00:11 really we'll escape from people
+02:00:13 framing their shit exactly like
+02:00:15 the biggest problem in the universe
+02:00:17 voicemails
+02:00:19 hopefully when they see the freedom
+02:00:21 that they're given here
+02:00:23 this is another one from our good friend
+02:00:25 xxx epic gamer 420
+02:00:27 xxx
+02:00:29 let's see what he's got for us
+02:00:33 is it playing?
+02:00:35 nothing I don't hear anything
+02:00:37 hang on let me disconnect
+02:00:39 I'll try this
+02:00:41 I did do that right
+02:00:43 play go
+02:00:45 how dare you insult my god damn
+02:00:47 my quality munchie
+02:00:49 this isn't okay
+02:00:51 I was not dealing with this
+02:00:53 I challenge you on the name of the lord
+02:00:55 as a battle
+02:00:57 on trek super slam
+02:00:59 next week 5 o'clock
+02:01:01 time zone you do see
+02:01:03 okay
+02:01:05 this is real shit I'm not gonna stand for this boy
+02:01:09 okay I guess our good friend epic gamer
+02:01:11 we'll have to pass this along
+02:01:13 yeah we'll have to pass this along
+02:01:15 also like it's weird that the PCPs come out like a week later
+02:01:17 so I don't know exactly what like time
+02:01:19 but apparently munchie's been challenged
+02:01:21 for the game of epic shrek super slam
+02:01:23 was that the game?
+02:01:25 it appears to be a Nintendo DS
+02:01:27 like a brawl game
+02:01:31 that sounds good
+02:01:33 it's also on gamecube
+02:01:35 I guess
+02:01:37 okay that's what he's talking about
+02:01:39 and playstation 2
+02:01:41 Jesus fuck
+02:01:43 how is this even real
+02:01:45 here's another one
+02:01:47 this is from hentai is a japanese colloquialism
+02:01:49 alright
+02:01:51 what do we got
+02:01:53 this question goes out to all the members of the pcp
+02:01:55 if you can switch bodies with any member of the pcp
+02:01:57 for a limited amount of time
+02:01:59 and do whatever you want
+02:02:01 side to body
+02:02:03 and why
+02:02:05 before we address that question
+02:02:07 I just want to point out that hentai
+02:02:09 is not a japanese colloquialism
+02:02:11 but it is an american colloquialism
+02:02:13 because that's true
+02:02:15 the way that we use the word hentai
+02:02:17 is not how it's used in japan
+02:02:19 do they use it that same way
+02:02:21 I mean what do they call it
+02:02:23 the word hentai just means pervert
+02:02:25 or strange over there
+02:02:27 but the word ecchi means sex
+02:02:29 and when they call something
+02:02:31 like an ecchi game
+02:02:33 this is like an h game
+02:02:35 and I think that because of the fact that the word hentai
+02:02:37 is used a lot in anime
+02:02:39 especially in the 90's
+02:02:41 like characters would call each other hentai all the time
+02:02:43 and so like
+02:02:45 when they call someone hentai
+02:02:47 when in an anime they say
+02:02:49 when a boy breaks into a girl's room
+02:02:51 and she is naked and she screams hentai
+02:02:53 she's actually using that as an adjective
+02:02:55 she's describing how pervert she is
+02:02:57 she's saying you are a pervert
+02:02:59 she's calling him a pervert
+02:03:01 now it's an adjective
+02:03:03 she's describing the situation with this
+02:03:05 adjective phrase
+02:03:07 she's calling him a pervert
+02:03:09 literally saying you pervert
+02:03:11 hentai is mostly an insult to
+02:03:13 it can mean pervert
+02:03:15 or it can just be weirdo
+02:03:17 if you called someone a hentai in another context
+02:03:19 you might just be saying they are warped
+02:03:21 in the head kind of thing
+02:03:23 but it was a popular insult
+02:03:25 especially in the 90's in anime
+02:03:27 so when that shit came to America
+02:03:29 we tried to give a name to porn
+02:03:31 and we saw that they were called like h anime
+02:03:33 which would be read as ecchi anime
+02:03:35 we called it hentai
+02:03:37 because we are conflating these two terms
+02:03:39 this is how I understand the history anyways
+02:03:41 so
+02:03:43 hentai as a description of porn
+02:03:45 is an American colloquialism
+02:03:47 that's true
+02:03:49 anyway what the fuck was the question
+02:03:51 oh yeah if we could switch
+02:03:53 be in someone's body
+02:03:55 I would switch with Tom
+02:03:57 I would draw something from a top down perspective
+02:03:59 much more easily
+02:04:01 and then I would leave
+02:04:03 I would inhabit munchies body
+02:04:05 so I could enslave humanity and bend them to my will
+02:04:07 that's what I would do
+02:04:09 yeah
+02:04:13 I would inhabit munchies body
+02:04:15 and then just jump through windows
+02:04:21 I would probably inhabit any of you American guys
+02:04:23 and eat all the American things I haven't tasted before
+02:04:25 like a peanut burger and jelly sandwich
+02:04:27 I still want to have them
+02:04:29 do it to Ben so he could ruin his keto
+02:04:35 it's the baby roost school
+02:04:37 shooting all over again
+02:04:39 oh that gives me a good idea
+02:04:41 I would go into
+02:04:43 any one of you American
+02:04:45 boys bodies
+02:04:47 and I would log into my pokemon go
+02:04:49 catch loads of toys
+02:04:51 spin loads of pokeballs
+02:04:53 stop thinking
+02:04:55 it saves on
+02:04:57 flight money
+02:04:59 and I could be at red corn
+02:05:01 for as someone else
+02:05:03 convenient
+02:05:05 then we'd have to pay for the plane ticket
+02:05:07 with your money
+02:05:09 I would go into mage's body
+02:05:11 and then I'd just look in a mirror and be like ah
+02:05:13 this is what mage looks like
+02:05:15 and then I'd go talk to biter in real life
+02:05:17 I'd be like what's he like IRL
+02:05:19 I'm gonna learn
+02:05:21 the year you would do that though
+02:05:23 because one fourth
+02:05:25 of the year I'm in Lithuania
+02:05:27 hence no biter
+02:05:29 if I end up in Lithuania I will just
+02:05:31 use your money that's not my money
+02:05:33 to fly back
+02:05:35 then you could meet the mysterious
+02:05:37 cryptid that is
+02:05:39 Grammy mage
+02:05:41 see you later grandma
+02:05:43 don'ts your head is in the toilet
+02:05:45 I'm leaving
+02:05:47 Grammy mage behind
+02:05:49 goodbye
+02:05:51 she's not called that
+02:05:53 she's Archmage
+02:05:55 she's an ancient wizard
+02:05:57 the Archmage beckons
+02:05:59 I just really like the prefix Arch
+02:06:01 I would enter Tom's body
+02:06:03 and commit crimes
+02:06:05 because
+02:06:07 he's too poor
+02:06:09 to sue me
+02:06:11 and bring a claim to court that it was actually
+02:06:13 me
+02:06:15 so he gets stuck with the rat
+02:06:17 yeah
+02:06:19 if you guys entered my body
+02:06:21 would you be able to speak Lithuanian
+02:06:25 I'm gonna go with it
+02:06:27 I don't think so
+02:06:29 oh I changed your mind you were saying yeah
+02:06:31 I was bullied
+02:06:33 I mean come on
+02:06:35 what do you get the other person's knowledge
+02:06:37 that's crazy
+02:06:39 if you jump into their body
+02:06:41 and you gain their knowledge then how much of it is
+02:06:43 I mean if I gain their knowledge
+02:06:45 then how much of it is she's body
+02:06:47 just so I can understand
+02:06:49 this is not a headmate
+02:06:51 this is not a headmate situation
+02:06:53 this is a freaking fighter
+02:06:55 I agree
+02:06:57 obvious
+02:06:59 we've milked this question enough
+02:07:01 it's a gold standard
+02:07:03 I feel like we've had this question before
+02:07:05 I don't remember ever answering
+02:07:07 I like their answers better this time
+02:07:09 well the problem with the question is that
+02:07:11 the only person with a body
+02:07:13 there to be in is Munchie
+02:07:15 because the rest of us are all like
+02:07:17 exactly the same and Munchie is like
+02:07:19 like a towering monument
+02:07:21 to Carnage
+02:07:23 you should all want to swap into my body
+02:07:25 to experience
+02:07:27 to experience the mental and physical powers
+02:07:31 I thought about going into Ben's body
+02:07:33 so that I could be a human skunk
+02:07:35 and just run people out of rooms that I don't like
+02:07:39 Ben when you come over we have to take you to Keto World
+02:07:41 that's an exaggeration
+02:07:43 it's all the benefit none of the consequences
+02:07:45 here's one more thing
+02:07:47 if I couldn't be one of you guys
+02:07:49 I would also want to be in Hippo's body
+02:07:51 because then I could be like
+02:07:53 I could have like this British accent
+02:07:55 and then record funny stuff
+02:07:57 with the funny accent
+02:07:59 that's true
+02:08:01 that's true
+02:08:03 but it's not
+02:08:05 like Hippo's accent
+02:08:07 I like his accent more
+02:08:09 when he says things
+02:08:11 it's funnier than when I say things
+02:08:13 that's of mysterious
+02:08:15 that's true
+02:08:17 okay here we go
+02:08:19 next one from Munchie
+02:08:21 you're right mage I can't take Hippo's
+02:08:23 that's not funny
+02:08:25 alright everyone shut the hell up
+02:08:27 Munchie what do you got for us
+02:08:29 I'm really passionate about
+02:08:31 that land ownership topic
+02:08:33 you guys touched on in the last episode
+02:08:35 like if you live somewhere
+02:08:37 for like 5 to 10 years
+02:08:39 or whatever you get to own that place
+02:08:41 so why are my parents kicking me out of the basement
+02:08:43 this is fucking bullshit
+02:08:49 I think
+02:08:51 you got a case
+02:08:53 just because
+02:08:55 I don't have a job
+02:08:57 I own this
+02:08:59 it's the law
+02:09:03 I think he's got a case
+02:09:05 I'll give you a review of the aesthetics
+02:09:07 of Isis's flag
+02:09:09 thank you
+02:09:11 I haven't seen that
+02:09:13 I'll look that up
+02:09:15 I know what it looks like
+02:09:17 it's got that minimalism going on
+02:09:19 oh
+02:09:21 it looks like a fucking
+02:09:23 Blackbeard's Jolly Roger
+02:09:25 it looks like the cover of a Godspeed You Black Emperor album
+02:09:27 yeah I like it
+02:09:29 I gotta say
+02:09:31 this is really turning me around
+02:09:33 look at
+02:09:35 I just googled it
+02:09:37 it is kind of piratey
+02:09:39 it's really piratey
+02:09:41 it's sort of
+02:09:43 I don't really care for the
+02:09:45 font they used
+02:09:47 I don't like how imperfect the circle is
+02:09:49 what is with this bullshit
+02:09:51 I like that
+02:09:53 I think this would look
+02:09:55 it's got that DIY aesthetic
+02:09:57 I think it's pretty nice
+02:09:59 it would be right at home in a zine
+02:10:01 I guess that's true
+02:10:03 this flag just screams India
+02:10:05 they're pretty handy
+02:10:07 I guess it does
+02:10:09 but I will always prefer the Nazi
+02:10:11 rigid German
+02:10:13 efficiencies
+02:10:15 perfect symbol
+02:10:17 I know I think
+02:10:19 I'm going with Isis
+02:10:21 I think I'm going with Isis
+02:10:23 it was inevitable
+02:10:25 Ben's Isis I'm a Nazi
+02:10:27 stay tuned for the next bonus episode
+02:10:29 oh shit
+02:10:31 not bad
+02:10:33 we have to learn the languages
+02:10:35 alright
+02:10:37 what else we got here
+02:10:39 do we want to comment on his whole
+02:10:41 I think we all agree he deserves to live there
+02:10:43 in the basement
+02:10:45 yeah yeah yeah
+02:10:47 contact your representative
+02:10:49 call up Joe Biden
+02:10:51 to join us
+02:10:53 you know who I hear is
+02:10:55 pretty good about property ownership
+02:10:57 is Donald Trump
+02:10:59 maybe give him a call
+02:11:01 he probably would know how to handle this
+02:11:03 you got to call the law offices
+02:11:05 of Barry Feinstein
+02:11:07 he's absolutely convinced you have a case
+02:11:09 he can
+02:11:11 probably talk your dad into giving you a small
+02:11:13 loan of a million dollars
+02:11:15 alright
+02:11:17 this will be our last one
+02:11:19 I could do these for another hour
+02:11:21 but we got to get to the end
+02:11:23 the other questions and stuff
+02:11:25 alright this is our last one
+02:11:27 this is from Shankins
+02:11:29 let's see what you got brother
+02:11:31 hey during Radcon 3
+02:11:33 you guys did a Katamari LP
+02:11:35 I paid a five dollars
+02:11:37 to ask a question on the
+02:11:39 live stream chat
+02:11:41 but you guys never responded and ended up
+02:11:43 ending the stream without looking at the chat
+02:11:45 so I'll ask you guys
+02:11:47 the same question that I did back then
+02:11:49 again
+02:11:51 is there any hard evidence
+02:11:53 really hard evidence
+02:11:55 just incredibly erect evidence
+02:11:57 that the female orgasm exists
+02:11:59 please respond
+02:12:01 well
+02:12:03 I've seen some hard evidence
+02:12:05 I think
+02:12:07 how do you know it's not faking
+02:12:09 we can't perceive anything to be true
+02:12:11 I'm going with no
+02:12:13 I mean
+02:12:15 wait no
+02:12:17 I want to hear what you have to say about this
+02:12:19 so that I can just
+02:12:21 as I can tell you
+02:12:23 that it does exist
+02:12:25 but
+02:12:27 ok but consider this
+02:12:29 we can only be sure that our own
+02:12:31 consciousness exists
+02:12:33 with that logic
+02:12:35 you guys' orgasms don't exist
+02:12:37 so to say
+02:12:39 I completely agree you can't prove the male orgasm
+02:12:41 I mean there's like a physical
+02:12:43 product of a male
+02:12:45 orgasm you know
+02:12:47 is it also for the other one
+02:12:49 there's no yes
+02:12:51 I mean you can't tell the difference between
+02:12:53 what even is it
+02:12:55 like what is expelled there and what is expelled there
+02:12:57 I mean really what are we talking about here
+02:12:59 I'm going to stop
+02:13:01 by the way
+02:13:03 I'm going to stop now
+02:13:05 how embarrassing for her
+02:13:07 it's because we're getting close to the truth
+02:13:09 and we can't
+02:13:11 yeah exactly I think we have to call it here
+02:13:13 there's no evidence provided to this day
+02:13:15 would you be more comfortable if we were debating
+02:13:17 the male orgasm
+02:13:19 they're equally non-existent as far as I'm concerned
+02:13:21 I think that's really
+02:13:23 regardless of the gender
+02:13:25 orgasm is a social construct
+02:13:27 doesn't actually exist
+02:13:29 that is true actually
+02:13:31 I think that that
+02:13:33 well
+02:13:35 well it depends on if you consider
+02:13:37 we didn't have sex we just sort of came out of the ground
+02:13:39 I think there's
+02:13:41 a difference between
+02:13:43 I think there's a difference between coming and
+02:13:45 orgasm and
+02:13:47 I think that that difference
+02:13:49 are you sure about that
+02:13:51 is that based on anything
+02:13:53 no I'm not sure anything anymore
+02:13:55 oh I'm going to cooom and then you do it
+02:13:57 do you have to say is that what makes it an orgasm
+02:13:59 it's like a dragon ball of the attack
+02:14:01 you have to do it in the name of the attack before you do it
+02:14:03 I consider an orgasm
+02:14:05 to be when it's like a full body experience
+02:14:07 what
+02:14:09 well I don't think that's medically
+02:14:11 an orgasm this is
+02:14:13 what it is
+02:14:15 I don't feel it in my whole body
+02:14:17 but like I definitely know what it is
+02:14:19 and when it's happening
+02:14:21 maybe it does exist but like no one has truly
+02:14:23 no human could possibly experience it
+02:14:25 because it would like explode
+02:14:27 like a nuclear bomb
+02:14:29 I guess it all just depends on where you draw the line
+02:14:31 on what is or isn't an orgasm
+02:14:33 I'm just looking at pictures of baby ducks
+02:14:37 alright I think it's like the speed force
+02:14:39 it's like a force that exists outside
+02:14:41 of us that we tap into
+02:14:43 when we reach that higher level existence
+02:14:45 I think that makes sense
+02:14:47 I'm going to run with that
+02:14:49 so an answer to your question
+02:14:51 dear viewer, no
+02:14:53 as fake as you are to us
+02:14:55 as we are to each other
+02:14:57 it makes sense to me
+02:14:59 we're all just phantoms
+02:15:01 we're all just shadow phantoms
+02:15:03 you're the only thing that exists
+02:15:05 we're all humans of each other
+02:15:07 but phantoms in a dream
+02:15:09 alright with that said
+02:15:11 I think that was all the ones that I converted
+02:15:13 I have to fucking go through and download
+02:15:15 and put them on SoundCloud anyway
+02:15:17 I think that was all of them so we're done with that
+02:15:19 alright let's get a pity question too in here
+02:15:21 wrap this motherfucker up
+02:15:23 oh there's a question directed at me
+02:15:25 that I want to answer because
+02:15:27 it's about my favorite topic ever
+02:15:31 Kajiro's bitter story
+02:15:33 do you dream about monsters mage?
+02:15:35 that's a good question Tom
+02:15:37 Kajiro's bitter story
+02:15:39 I think
+02:15:41 Kajiro, Kajiro, but yeah
+02:15:43 mage have you ever had a dream
+02:15:45 that predicted the future
+02:15:47 like how I saw the title of the next bonus
+02:15:49 I dreamed a dream that mage wouldn't talk about her dreams
+02:15:51 shush shush shush
+02:15:53 I am talking
+02:15:55 alright
+02:15:57 like how I saw the title of the next bonus episode
+02:15:59 talking while eating in a dream yesterday
+02:16:01 I was finishing his question
+02:16:03 that's cool that you did
+02:16:05 yes I actually
+02:16:07 I think there were several occasions
+02:16:09 but one that I remember clearly
+02:16:11 to this day that it still freaks me out
+02:16:13 is like okay so like I was like
+02:16:15 11 to 12 years old
+02:16:17 and I had a dream about like this
+02:16:19 amazing park and this big ass tree
+02:16:21 that I never saw before I never been there
+02:16:23 but I had a dream that I was walking there
+02:16:25 and then like fast forward to like two years later
+02:16:27 I'm in England
+02:16:29 for the first time in my life 14 years old
+02:16:31 walking in this park
+02:16:33 like holy crap
+02:16:35 this is the park I had a dream about
+02:16:37 and there we go
+02:16:39 and I think
+02:16:41 you can continue
+02:16:43 oh thank god
+02:16:45 I had a dream about 9-11 happening
+02:16:47 the day after it happened
+02:16:49 because I was so distraught
+02:16:51 and I love
+02:16:53 9-11
+02:16:55 good
+02:16:57 you were distraught that it was over
+02:16:59 and you'd never get to experience it again
+02:17:01 yeah I was too young
+02:17:03 it's before my time
+02:17:05 it's not fair I never got to see the original broadcast
+02:17:07 so that was a pity question
+02:17:09 from Twitter right?
+02:17:11 no I think that was from the thing
+02:17:13 that was from the chat
+02:17:15 I see a question here
+02:17:17 from Rusty Shackleford were any of you
+02:17:19 ever chunebio when you were younger
+02:17:21 and I want to say I'm still chunebio
+02:17:23 sometimes
+02:17:25 when I'm alone I mean sometimes I still
+02:17:27 just strike a pose
+02:17:29 I'm like conjuring energy blasts
+02:17:31 from my hands just to make myself feel good
+02:17:33 about myself
+02:17:35 I don't think we need to remind you about Nate in high school
+02:17:37 with the vampire hunter D hat
+02:17:39 and the fucking
+02:17:41 you know and when I was a kid
+02:17:43 and being completely silent
+02:17:45 at all times because he thought
+02:17:47 it would make you more mysterious
+02:17:49 I wasn't much better
+02:17:51 I had that red leather coat
+02:17:53 that I got for a red mage cosplay
+02:17:55 and then I wore it to school
+02:17:57 even though it was way too hot
+02:17:59 and more chune I'd say
+02:18:01 I mean I guess we were just playing
+02:18:03 when I was a kid at summer camp
+02:18:05 me and this kid I think his name was David
+02:18:07 I can't really remember
+02:18:09 we literally said to each other
+02:18:11 no no no David, Nate
+02:18:13 I have superpowers
+02:18:15 I have superpowers
+02:18:17 wait you did this?
+02:18:19 I just lied I just told vicious lies
+02:18:21 that I just had superpowers
+02:18:23 I said like dude
+02:18:25 I'm gonna rub my feet on the floor
+02:18:27 and then I'll touch something felt
+02:18:29 and it'll be a zap
+02:18:31 it'll be nuts
+02:18:33 that's clearly me having superpowers
+02:18:35 and then I lied about how I one time made a big energy ball
+02:18:37 and it was fucking dope
+02:18:39 I spent a while believing
+02:18:41 that I was God
+02:18:43 and that everyone else was just my dream
+02:18:45 my brother Victor
+02:18:47 I still think
+02:18:49 at one point that he could manipulate fire
+02:18:51 if he tried hard enough
+02:18:53 me and my friends in high school
+02:18:55 we were
+02:18:57 vociferously researching
+02:18:59 developing telekinetic powers
+02:19:01 and we were trying to develop them
+02:19:03 we were doing research and reading articles
+02:19:05 and trying to do it
+02:19:07 one time he told me that he did do it successfully
+02:19:09 I didn't believe him
+02:19:11 but it was an actual
+02:19:13 hardcore effort for a while
+02:19:15 well that's cool
+02:19:17 to develop telekinetic powers
+02:19:19 when I was
+02:19:21 I respect that
+02:19:23 I seriously believed
+02:19:25 for like a number of months
+02:19:27 after reading
+02:19:29 the volume 2
+02:19:31 of Dragon Ball the Manga in the library
+02:19:33 alone
+02:19:35 that Kamihameha could be possible
+02:19:37 I've tried many times
+02:19:39 I've tried as well
+02:19:41 but I realized that that was stupid
+02:19:43 and then I thought the much more rational explanation
+02:19:45 the much more rational way to become Goku
+02:19:47 is just to wear
+02:19:49 weights around my feet
+02:19:51 and never take them off
+02:19:53 and I would walk around all the time
+02:19:55 I asked for Christmas as a present leg weight
+02:19:57 and I would wear them a lot
+02:19:59 and I tried to jump
+02:20:01 and I was convinced that it was working
+02:20:03 because when it took off the heavy weights
+02:20:05 I felt lighter therefore I'm jumping high
+02:20:07 remember when Krillin and Goku
+02:20:09 wore the turtle shells and they took them off
+02:20:11 and they jumped so high
+02:20:13 I was actually thinking about Samurai Jack
+02:20:15 when you were talking about the leg weights and jumping
+02:20:17 when I was like 10 or younger
+02:20:19 I think I was absolutely convinced
+02:20:21 I will become a magical girl
+02:20:27 didn't you
+02:20:29 her magic was just knives
+02:20:31 and guns
+02:20:33 when I was like 15
+02:20:35 when I was like 15
+02:20:37 God damn it
+02:20:39 when I was like 15 I was convinced
+02:20:41 I was going to become a magical girl
+02:20:43 and you did
+02:20:45 you know
+02:20:47 Hummer is the kind of magical girl that I like
+02:20:49 she just uses tons of weapons
+02:20:51 that was pretty dope
+02:20:53 but she does have like a void closet
+02:20:55 where she keeps them
+02:20:57 yeah she does have hammer space
+02:20:59 it's not like she's totally not powerful
+02:21:01 I never thought that I had
+02:21:03 powers I don't think
+02:21:05 but I did think
+02:21:07 that I was like a super genius
+02:21:09 who could basically do anything
+02:21:11 given the proper
+02:21:13 like if I put my mind to it
+02:21:15 like if I put my mind to it
+02:21:17 yeah
+02:21:19 and I was pretty edgy
+02:21:21 I also made like origami shuriken
+02:21:23 threw them around
+02:21:25 when I was 8
+02:21:27 I told my friends I could see pokemon
+02:21:29 which I didn't
+02:21:31 yeah I was like oh they're all around
+02:21:33 no that was pokemon go that's on the game
+02:21:35 yeah that was pokemon go
+02:21:37 I guess that was another dream that predicted the future
+02:21:39 kind of
+02:21:41 it kind of
+02:21:43 went really far though
+02:21:45 we all like
+02:21:47 I don't even want to get into that story
+02:21:49 but one of the things we did
+02:21:51 that kind of surprised me to this day
+02:21:53 that it didn't freak me out
+02:21:55 there was like this kindergarten
+02:21:57 next to one of my friends houses
+02:21:59 and I was like well you see
+02:22:01 you can't see the pokemon
+02:22:03 but when they died they leave bones behind
+02:22:05 so let's try and find all of the bones
+02:22:07 that are scattered in this kindergarten
+02:22:09 and assemble a pokemon skeleton
+02:22:11 and one thing is
+02:22:13 in the kindergarten
+02:22:15 we found enough
+02:22:17 fucking bones to actually assemble
+02:22:19 something that looked like a creature
+02:22:21 whoa
+02:22:23 yeah is this real?
+02:22:25 did this really happen?
+02:22:27 it was a war zone after all
+02:22:29 yeah this like
+02:22:31 horrifying ghost apocalypse
+02:22:33 that is
+02:22:35 what mage forgot to
+02:22:37 tell her gullible friends
+02:22:39 that she was actually just
+02:22:41 assembling all the bones of the corpses
+02:22:43 she'd murdered here
+02:22:45 and she was getting rid of the evidence
+02:22:47 she was getting them to dispose of the evidence
+02:22:49 the violent violence does not leave any traces behind
+02:22:51 yeah
+02:22:53 also
+02:22:55 guileful
+02:22:57 clever and guileful
+02:22:59 in her violence
+02:23:01 here's a question
+02:23:03 here's a pity question that is intriguing me
+02:23:05 from a dank wizard
+02:23:07 aka flameonfieri
+02:23:09 um
+02:23:11 have y'all seen those
+02:23:13 new CGI animated
+02:23:15 sex ads of fucking fortnite
+02:23:17 and overwatch characters
+02:23:19 then play almost every porn video now
+02:23:21 and it plays a wicked loud
+02:23:23 annoying ass song during it
+02:23:25 how is no one talking about this
+02:23:27 why don't you have adblock?
+02:23:29 why are you on porn sites without adblock?
+02:23:31 that seems like you don't understand
+02:23:33 adblock?
+02:23:35 i have adblock
+02:23:37 adblock was created to avoid situations like this
+02:23:39 i'm gonna go to you porn right now
+02:23:41 well apparently it doesn't work
+02:23:43 adguard is bulletproof
+02:23:45 alright
+02:23:47 i've watched a lot of CGI
+02:23:49 overwatch porn
+02:23:51 but that's of my own volition
+02:23:53 that is like the least appealing thing
+02:23:55 i can imagine
+02:23:57 i just really like CGI porn
+02:23:59 overwatch has great porn
+02:24:01 not the CGI porn
+02:24:03 the source filmmaker
+02:24:05 wait
+02:24:07 wait hold on
+02:24:09 hold on somebody fucking likes CGI porn
+02:24:11 what the fuck
+02:24:13 CGI porn is like my favorite porn
+02:24:15 CGI is like
+02:24:17 literally the worst thing porn
+02:24:19 i mean it's like that's a big negative
+02:24:21 that's a big minus
+02:24:23 points in my book
+02:24:25 i like it a lot
+02:24:27 i'll have to show you
+02:24:29 i gotta send you some
+02:24:31 i gotta send you some of the really impressive shit
+02:24:33 cause there's every
+02:24:35 most of it is really lazily done
+02:24:37 but every once in a while someone will like
+02:24:39 actually go out of their way to like
+02:24:41 animate entirely through like a whole
+02:24:43 scene you know
+02:24:45 like not just repetitive motion but like an actual
+02:24:47 animation and that shit is fucking
+02:24:49 mind blowing
+02:24:51 yeah it can be pretty impressive
+02:24:53 it's blowing something besides your mind
+02:24:55 alright
+02:24:57 okay okay yeah like
+02:24:59 like anything i'm sure it can be done well
+02:25:01 i have seen some that is done well
+02:25:03 but yeah that
+02:25:05 alright but i mean aside from the CG
+02:25:07 thing just the overwatch
+02:25:09 characters i hate them they make me mad
+02:25:11 i think diva is so popular
+02:25:13 they just make tons of it
+02:25:15 it's not so much a matter of that i would
+02:25:17 seek it out as that if you are
+02:25:19 someone who is trying to find CG porn
+02:25:21 and like you think
+02:25:23 diva is acceptable then you're gonna end up
+02:25:25 watching a lot of it
+02:25:27 yep of course
+02:25:29 well none of the other ones are hot
+02:25:31 they have a question for me but i don't want
+02:25:33 to answer it because i feel like
+02:25:35 i'll drag out the joke too much this episode
+02:25:39 okay fair enough
+02:25:41 i think
+02:25:43 i think may is pretty hot is she the eskimo
+02:25:45 oh yeah the big
+02:25:47 the chinese lady
+02:25:49 she's not an eskimo she's chinese but she does wear that big bulky coat
+02:25:51 she's
+02:25:53 like an iso climber
+02:25:55 because she's like working at the south pole or something
+02:25:57 she's doing like she's an environmentalist
+02:25:59 well she's cute i like her
+02:26:01 yeah i mean yeah she's pretty cute
+02:26:03 although she's
+02:26:05 her actual body type is excellent
+02:26:07 but she looks like she would
+02:26:09 be fat when she's wearing her coat
+02:26:11 but she is in fact not fat
+02:26:13 that's probably my favorite like great
+02:26:15 cucking that happened in recent years is that
+02:26:17 like after oh like the fatties were like
+02:26:19 yeah we've got fat representation
+02:26:21 i feel it until like well into
+02:26:23 the game being out like what she actually
+02:26:25 looks like under the coat so like fan artists
+02:26:27 had largely drawn her as fat for like
+02:26:29 fucking eight months or something
+02:26:31 don't get me wrong i can understand fat people
+02:26:33 like wanting fat representation to feel like
+02:26:35 that's fine but i would always prefer just a way
+02:26:37 hotter chick i'm always gonna want that
+02:26:39 plus it was just hilarious to watch
+02:26:41 that happen
+02:26:43 agreed
+02:26:45 do we want any more questions
+02:26:47 we're pretty much
+02:26:49 ben what were you saying
+02:26:51 i was saying i'm trying to find like
+02:26:53 some official image of what she looks like
+02:26:55 under the coat because i haven't seen it
+02:26:57 okay watch there's a whole CGI short
+02:26:59 of her like the official overwatch one
+02:27:01 like that is tons of like you can see
+02:27:03 i think that you might you might be able
+02:27:05 to find an image where
+02:27:07 it was like a song festival thing
+02:27:09 there was like a spray you could get
+02:27:11 that had an image of her like playing
+02:27:13 like tennis or something and she was
+02:27:15 not fat and i
+02:27:17 remember that was like the spark that set off
+02:27:19 the whole social justice
+02:27:21 fucking insanity
+02:27:23 because they were just like she's not
+02:27:25 the where the roles i can't do it
+02:27:27 and just like thank god thank god this character
+02:27:29 isn't ruined the where the roles
+02:27:31 um the
+02:27:33 uh diva's probably
+02:27:35 number two
+02:27:37 i mean i think widowmaker is pretty much number one
+02:27:39 i am o
+02:27:41 i like tracer
+02:27:43 the blue one but she's a lesboy
+02:27:45 in you can't you can't
+02:27:47 tracers tracers alright
+02:27:49 tracers alright
+02:27:51 it's all about widowmaker widowmaker's ass is
+02:27:53 absolutely ungodly alright i don't want to hear
+02:27:55 about fucking overwatch bitches anymore
+02:27:57 alright this is actually terrible and i feel
+02:27:59 that
+02:28:01 um alright
+02:28:03 is there anything else going on here um
+02:28:05 um these questions are all shit
+02:28:07 um how do you
+02:28:09 how do you deal with aging parents
+02:28:11 leave them on the hills if they're not polite
+02:28:13 yeah make guy from geyser
+02:28:15 oh by the way the other oh yeah
+02:28:17 from geyser how do you deal with aging parents
+02:28:19 uh pray that pray that they don't call
+02:28:21 uh put off answering them
+02:28:23 for as long as possible and just wait for important
+02:28:25 there is one important question in here fridgen
+02:28:27 asks what's your favorite sandwich
+02:28:29 uh steak bomb
+02:28:31 and or just philly cheese steak
+02:28:33 in general
+02:28:35 i like i like a ham sandwich
+02:28:37 that's just i need to eat more sandwiches
+02:28:39 that's a sandwich huh um
+02:28:41 if you want if you want to get my if you
+02:28:43 want to curry my favor in a public setting
+02:28:45 buy me a philly cheese
+02:28:47 is a wrap a sandwich
+02:28:49 i'll tell you what my favorite is
+02:28:51 if it counts i'm going with a straight up
+02:28:53 lobster roll
+02:28:55 i love lobster rolls so much
+02:28:57 they are the best they're always super expensive
+02:28:59 and they're delicious i think it's
+02:29:01 i love them but wait
+02:29:03 but wait is it is it a sandwich
+02:29:05 if it's on a roll that's the question
+02:29:07 i need two slices of red
+02:29:09 if i just take the bun
+02:29:11 dude is cereal a sandwich
+02:29:13 because it's sandwiched between two layers
+02:29:15 of the bowl on each side
+02:29:17 isn't lasagna just a stack
+02:29:19 of pasta sandwiches
+02:29:21 alright guys
+02:29:23 let's
+02:29:25 i want to answer that
+02:29:27 pre keto
+02:29:29 i probably would have said the ruben
+02:29:31 although now that you mentioned the lobster roll
+02:29:33 that's a pretty strong contender too
+02:29:35 but i really like rubens
+02:29:37 but now that i'm keto
+02:29:39 lettuce wrap burgers go to fucking
+02:29:41 i don't know
+02:29:43 what part of a lettuce wrap burger is a sandwich
+02:29:45 well the lettuce is the
+02:29:47 and it's meat between things
+02:29:49 yeah fair enough
+02:29:51 what was the place between
+02:29:53 two things completely wrapped
+02:29:55 it's enclosed
+02:29:57 let's just count in the wraps
+02:29:59 because i haven't had that many sandwiches
+02:30:01 tell them the place
+02:30:03 i'm dying to know the place
+02:30:05 but what was the place we went
+02:30:07 after the miyazaki movie
+02:30:09 after nine inch nails
+02:30:11 miyazaki's classic film
+02:30:13 oh it was called
+02:30:15 burger stop
+02:30:17 or some shit like that
+02:30:19 it's just like a regular ass name
+02:30:21 whatever anyway the gorgonzola
+02:30:23 burger there is a great burger
+02:30:25 get a lettuce wrap
+02:30:27 i think it was literally called burger stop
+02:30:29 it was not burger stop
+02:30:31 it was called burger go
+02:30:33 oh how silly
+02:30:35 i don't remember what it was called
+02:30:37 all i know is that i like italian subs a lot
+02:30:39 they're delicious
+02:30:41 i got an italian sausage right here
+02:30:43 it's an italian sausage
+02:30:45 it's an italian sausage
+02:30:47 if we're counting wraps
+02:30:49 i would actually really like to
+02:30:51 have a taste of all the
+02:30:53 oh it's tasty burger
+02:30:55 i would like to have a taste of all these burgers
+02:30:57 wraps and sandwiches you guys mentioned
+02:30:59 because i haven't tasted
+02:31:01 i haven't
+02:31:03 seen them being sold
+02:31:05 in the uk
+02:31:07 and it's usually like your standard BLT
+02:31:09 in ham and
+02:31:11 mage come down for radcon
+02:31:13 we'll take you on the sandwich tour
+02:31:15 if we're
+02:31:17 next radcon's in boston though
+02:31:19 let's get some lobster rolls
+02:31:21 oh it's the best
+02:31:23 mage
+02:31:25 mage
+02:31:27 there are pizza places
+02:31:29 but when i'm in lefina
+02:31:31 i don't eat much pizza
+02:31:33 when i'm in the uk i eat some pizza
+02:31:35 i'm just
+02:31:37 i'm just asking because in poland
+02:31:39 i noticed there were a lot fewer
+02:31:41 there were way fewer pizza places
+02:31:43 than there are in america
+02:31:45 in america there's lots of them
+02:31:47 there's lots of chains but in poland
+02:31:49 there was like one in lublin
+02:31:51 there was like one or two places you could get a pizza
+02:31:53 and they were kind of weird
+02:31:55 something was just a little different
+02:31:57 about the pizza that they made over there
+02:31:59 i don't know
+02:32:01 japan pizza was like a big special thing
+02:32:03 same with the burgers
+02:32:05 no place that wasn't mcdonald's
+02:32:07 served a burger that just tasted
+02:32:09 like a burger
+02:32:11 there was a different quality
+02:32:13 it's not like
+02:32:15 you ran into the culture
+02:32:17 the place i live in currently in lefina
+02:32:19 the nearest mcdonald
+02:32:21 is like
+02:32:23 a over a 60 minute walk
+02:32:25 on foot and i can be bothered
+02:32:27 what is the
+02:32:29 what type of food restaurant
+02:32:31 is the most common surrounding
+02:32:33 let me think
+02:32:35 about lefianian
+02:32:37 restaurants i guess
+02:32:39 question mark
+02:32:41 just like what is a food
+02:32:43 what would be the main item
+02:32:45 on the menu at the places around you
+02:32:47 the thing that everybody gets
+02:32:49 i have a follow up question
+02:32:51 in the philippines everywhere sells adobo
+02:32:53 like chicken adobo
+02:32:55 is just like it's a staple
+02:32:57 it's on every menu at every store
+02:32:59 i don't go to many restaurants
+02:33:01 that's the thing though but
+02:33:03 oh well
+02:33:05 ok mage i am curious
+02:33:07 what are some chains
+02:33:09 what are some restaurant chains
+02:33:11 that are common around here
+02:33:13 there's a chili pizza
+02:33:17 never heard of it
+02:33:19 like the pepper
+02:33:21 like the chili pepper
+02:33:23 i know i've got one
+02:33:25 what other ones
+02:33:27 boy you got me
+02:33:29 i don't pay attention
+02:33:31 too much because i don't go to restaurants too much
+02:33:33 alright fair enough
+02:33:35 there's definitely a few pizza chains
+02:33:37 i can tell you that much
+02:33:39 i just don't pay attention to them
+02:33:41 i'm not asking just about pizza
+02:33:43 the only chains i know
+02:33:45 i can remember seeing
+02:33:47 usually pizza chains
+02:33:49 all mage eats his pizza
+02:33:51 yeah that makes sense
+02:33:53 well she also eats birds milk
+02:33:55 as we learned
+02:33:57 in the bonus episode
+02:33:59 pageruns.com
+02:34:01 let's answer the question
+02:34:03 to find out what the fuck birds milk is
+02:34:05 i didn't know birds produced milk
+02:34:07 ah
+02:34:09 well then you'll find out
+02:34:11 we'll learn something new every day
+02:34:13 i actually answered the question
+02:34:15 from the very small amount
+02:34:17 of sandwich like things that i've eaten
+02:34:19 i really like hoisin duck wraps
+02:34:21 but only if i add mayo to them
+02:34:23 so there we go
+02:34:25 hoisin duck wraps
+02:34:27 whoa i wanna try that
+02:34:29 that's not a thing i could find easily here
+02:34:31 it's not too fancy but it's nice
+02:34:33 it's just like basically duck meat
+02:34:35 and lettuce in a wrap
+02:34:37 that's why i add mayo
+02:34:39 because it adds to them
+02:34:41 swap that you
+02:34:43 and that sounds like my kind of meat
+02:34:45 if you know what i'm saying
+02:34:47 do you understand the joke
+02:34:49 i mean the serious point
+02:34:51 that's it everybody thanks for listening this episode
+02:34:53 you see calculations appearing on screen
+02:34:55 mathematical formulas everywhere
+02:34:57 okay i just got it
+02:34:59 right as you said
+02:35:01 thanks for listening everybody
+02:35:03 pageruns.com
+02:35:04 the procrastinators
+02:35:05 one dollar get in the lounge
+02:35:07 questions answered you know the whole fucking drill
+02:35:09 five dollars bonus episodes
+02:35:11 talk while eating it's a masterpiece
+02:35:13 you're gonna want to see that shit
+02:35:15 it is a masterpiece i made sure of it
+02:35:17 there's that and 15 other old episodes
+02:35:19 for a mere five dollar pledge
+02:35:21 oh what a steal it is at this point
+02:35:23 get in there give us money
+02:35:25 listen to them and have a great time
+02:35:27 follow us on twitter at tpcrastinators
+02:35:29 we forget a notification
+02:35:31 remember to ask us those fucking questions
+02:35:33 and subscribe
+02:35:35 so you get our live streams
+02:35:37 and then also subscribe to imgames
+02:35:39 more games
+02:35:41 indeed
+02:35:43 we're playing red dead redemption now
+02:35:45 and uh
+02:35:47 also subscribe
+02:35:49 to twitch.tv
+02:35:51 slash saint comics
+02:35:53 just go to the description
+02:35:55 and go to everybody's shit we all do shit
+02:35:57 we're all people we all got a million things
+02:35:59 look at all our things look at everything
+02:36:01 spread us to your friends tell your kids
+02:36:03 tell your wife hide your kids hide your wife
+02:36:05 then bring them back out then tell them again
+02:36:07 force feed everybody everything
+02:36:09 give me money
+02:36:11 please
+02:36:13 there you go
+02:36:15 i asked nicely you can't say no
+02:36:17 thanks for being here people
+02:36:19 we'll see you next week
+02:36:21 go have a beautiful time
+02:36:23 goodbye

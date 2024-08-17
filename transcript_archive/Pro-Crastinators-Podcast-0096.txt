@@ -1,0 +1,2357 @@
+00:00:00 Hello everyone and welcome to The Pro Crastinators Podcast. Hello, this is us. We have a special
+00:00:18 guest today, Gamers Tavern. Here he is. Hello. Gamers Tavern is a reviewer of video games and
+00:00:30 does Let's Plays, which is the topic of today's podcast. And with me, Hippocrit, we have other
+00:00:38 members of the show who are usually here. You're an expert at this. I really am good, aren't I?
+00:00:43 He knows what he's doing. Where'd you get that green fucking trash, Ben?
+00:00:49 Yes. And here we have Munchy Jones. Welcome to the only podcast on the internet where one
+00:00:55 six of its hosts consistently has severe, mold-induced respiratory issues. I cannot breathe
+00:01:01 right now. There's too much mold in my room. Oh no. We have Tom Oliver. Hello. I have risen from
+00:01:11 the grave to bring you more fantastic ramblings. We have Best Guy Ever. It's about that time,
+00:01:20 everybody. And we have Ben Sainte. Discord, I'm hallowed at the moon. In the middle of the summer
+00:01:28 afternoon. Discord, remember whatever we do. Take my pain away. All right. Now, I guess I should have
+00:01:36 left Gamers Tavern at the end. I was going to reintroduce him. Gamers Tavern is here.
+00:01:42 Hey. There he is. Yeah. Yeah, we're happy to have you. I'd just like to say right off the bat
+00:01:50 that I and a bunch of us here are longtime fans of Gamers Tavern, a tragically underappreciated
+00:01:57 channel who back in the day was putting out some really great, some really enjoyable Let's Play
+00:02:03 content. There can be no doubt. Link in the description to his channel. I'm very flattered
+00:02:10 to hear that. We, I think at the very least, I think Jesse originally was the guy who found
+00:02:15 your content first. Is that accurate, Kim? Was it? I think it was me or Jesse who found his content
+00:02:20 and we shared it amongst ourselves and we said, this guy has got the best dry comedy. I think
+00:02:28 that's why you call it dry comedy. Like Let's Plays of just the, it was so funny. We were
+00:02:36 laughing the whole time. It was great. We loved your videos so much and we subscribed and we watched
+00:02:42 your podcasts and we love Gamers Tavern, we say it. I would like to throw out that I,
+00:02:50 unequivocally, wish to preemptively crown Gamers Tavern the king of Let's Plays. I have not seen
+00:02:58 one that's better. It is, you guys, you have to watch, please go watch some of his videos,
+00:03:03 like his Sonic Let's Plays or any of them, the Rocket Knight Adventures. We got Rocket Knight,
+00:03:08 Kirby, Sonic. There's more. I'm blanking. There's a whole bunch. Listeners, just look inside your
+00:03:16 heart and think, do you want unscripted podcasts like a banter between two unqualified, unprofessional
+00:03:24 internet hacks long since their prime, like the Digi Pros or the Game Grumps? Or do you want
+00:03:31 masterfully paced, beautifully executed, pure art Let's Plays such as the Gamers Tavern offers?
+00:03:38 The puns are off the charts and so is the quality. Mr. Tavern, I'm curious. How would you describe?
+00:03:44 That's his official name and title. Please be respectful, everyone. Mr. Tavern,
+00:03:48 how would you describe your Let's Plays style?
+00:03:53 I don't really know. I just think up of things that are funny and I just try to do them.
+00:04:03 I've been dying to ask you for years at years at this point.
+00:04:06 I think I know what you're going to ask, because I was just about to ask the same thing.
+00:04:11 Were you going to ask him whether he...
+00:04:14 Whether he does them right as he's doing it or if he goes back over and dubs over them.
+00:04:18 Or is it dubbed in after? Because it's so tight, your lines, the stuff you say is so tight,
+00:04:25 one after another, and it's really funny. I feel like it has to be scripted.
+00:04:32 It has to be scripted. It has to be put in afterwards.
+00:04:36 Well, you're correct on both of those accounts. It's post commentary, so it's done after I record
+00:04:42 the gameplay footage, and it is scripted. Okay. Fantastic.
+00:04:48 And as we've established in the pre-show, by the way, Ben St. D value is all scripted content.
+00:04:55 Any rehearsed media is invalid and worthless artistically, so that's the major problems here.
+00:05:02 I mean, it's less. It's made less. It's a good thing that the champion,
+00:05:08 heralded comic, never had a script at all. The champion was all improv.
+00:05:15 You know, my whole life is just a big improv. That's true. That's true. A tanking improv session
+00:05:21 one day at a time. If I could be that funny without a script, I certainly would.
+00:05:30 Of course. I just want to share. I don't know if you remember Mr. T for short.
+00:05:38 But there was one occasion where I hooked up at the old house I lived in with a bunch of friends.
+00:05:43 I hooked up a projector, and we projected your Let's Plays onto the wall, and we all hung out
+00:05:51 for the evening and just relaxed to the sounds of Gamer's Tavern. It was really great. And I
+00:05:57 tweeted a picture of it. Yeah, actually, I remember seeing that. I saw that on Twitter.
+00:06:02 Yeah, yeah, yeah. That was me. That was pretty cool. That's awesome. Thanks.
+00:06:06 You know what's great about your content? Okay, so guys, in case we haven't made it clear,
+00:06:10 the whole shtick that Gamer's Tavern does is he's got his Let's Play footage that he's playing
+00:06:16 games, and he just mercilessly, unyieldingly, one after another after another, just lumbasts you
+00:06:24 with puns, unceasing, unpityless, or pitpityless, merciless puns. Well, I mean, it's not all puns,
+00:06:31 but there are quite a few. It's not all puns, but some of it is just commentary on the game,
+00:06:37 which is also cool. Sometimes. What I love about it is that it's not like completely,
+00:06:43 like there's no, there is like comedic timing and pauses in between the jokes that is just long
+00:06:49 enough for it to feel like a realistic pause, which is why people, like why we were wondering
+00:06:55 whether you do it off the cuff, because there's like, you know, you're playing the game and there's
+00:07:00 a pause that is like, it's not so long that it's like nothing is happening, but it's long enough
+00:07:05 to make it everything really funny and just like, and not like you just, you know, you just sit back
+00:07:11 and you just let it all wash over you. It's almost sort of anti-humor in the sense that like, the
+00:07:16 pauses are just long enough to give you room to breathe in between the puns, at least for my
+00:07:21 favorite of your videos, I always think of like the sonic ones, when you're on like the ice levels,
+00:07:26 ice to meet you. Oh, it's snow, snow problem.
+00:07:35 But it's like, it's like an Andy Warhol, if I, is that, wait, is that the right, who's the guy
+00:07:40 who, uh, who's the guy who Jim Carrey played? Uh, uh, Jim Carrey. Andy Kaufman. Andy Kaufman,
+00:07:46 that's the one. It's almost Andy Kaufman style of like anti-humor, because the puns are super,
+00:07:52 you know, they're just incredibly obvious, but it's the way that they're done just over and over
+00:07:57 and over again, just builds up this like, it doesn't start, it's a slow build until eventually you
+00:08:02 just hit this peak, like this combo of just hilarity after one after another. It's such an
+00:08:08 experience. I don't know what it is, sometimes with your delivery, it sounds almost like,
+00:08:13 like you'll make a pun, and then like the one I remember is, I think I remember you made a bunch
+00:08:18 of cloud puns about when, um, when Kirby is walking around in the clouds, like you'll make a
+00:08:23 cloud pun, and then there'll be a pause, and then you'll kind of, you'll come back in with your dry
+00:08:27 delivery, and you'll make some more, and it's like, it's, it's like, it's almost like a self-aware kind
+00:08:33 of like, well, I made one, I have to make some more, I'm just gonna do it again.
+00:08:40 Uh, do you feel that kind of compulsion to just keep going with the theme as long as possible?
+00:08:46 Is there, yeah, what's your, what's your thought process as you're coming up with these?
+00:08:50 Is it just really just, I'm going to keep doing this as long as it's on screen. I'll just keep
+00:08:54 making the joke about clouds or ice or whatever it might be. Uh, yeah, it's something like that.
+00:09:01 I mean, uh, to me, I feel like, uh, what's the point of watching it? Let's play anymore if the
+00:09:06 commentary isn't funny or interesting. Damn right. Absolutely. So, um, I work really hard to always
+00:09:13 have something to say about whatever's on screen or maybe, uh, you know, just jokes or puns or
+00:09:20 whatever. So, um, I have to find inspiration somewhere, so I kind of look at what's on screen,
+00:09:27 and I try to make puns about it. And then when it's not on screen anymore, I make puns about
+00:09:33 whatever else ends up being on screen later. Yeah, and it's, and then sometimes I'll make jokes.
+00:09:38 I love the distinction between puns and jokes. Yes. I feel like I'm getting played right now.
+00:09:45 I feel like you're on a higher level and you're meming me at this very moment. Like I'm just not,
+00:09:50 I don't know, like you're, you're some sort of ancient Egyptian alien pharaoh who understands
+00:09:55 things in a higher plane than I do. We've only read about this game of Tavern on pyramid walls
+00:10:01 in ancient hieroglyphs, and now we've done the summoning circle. We have him here today. We
+00:10:06 can already believe it. It's anonic. Well, uh, I guess ancient manuscripts describes me well,
+00:10:12 because, uh, I, uh, I started my website in, in 2002. Whoa. Yeah, we should talk about that.
+00:10:19 We should talk about that. That, that's pretty impressive. And I'm actually looking here. Um,
+00:10:23 you haven't updated, I think a lot of your Let's Plays in, in a little while, but I'm looking
+00:10:27 at your review updates and you put out your Golden Axe Warrior one, uh, what, like three,
+00:10:32 four days ago or something, and then like a two weeks or so before that Axe Battler two weeks
+00:10:36 before that, um, Golden Axe the Dual. So you, you really churn these things out on your website.
+00:10:41 I haven't really read too many of them myself, but, uh, is this more of your passion or this more
+00:10:46 of your interest kind of doing the reviews as opposed to the Let's Plays? Well, uh, that's
+00:10:52 where I started, you know, I started writing reviews back in 2003. I started a website in 2002
+00:10:58 by the first review I published in 2003, which, uh, that's also when I first named the website, uh,
+00:11:05 Gamer's Tower. Because before that, I didn't really have a name or design it. Before that,
+00:11:10 I was basically like, uh, those all GeoCity sites from the late 90s. That's how it looked like.
+00:11:17 Just full of anime gifts, no doubt, I'm sure. Well, actually it was even less than that. It was
+00:11:22 basically a black background with red text to make your eyes. Oh, perfect. Yes. The most delicious.
+00:11:30 No, I had an old website just like that. So we would have been brothers in arms back in the day.
+00:11:38 Gaia online. So I just didn't have the good sense to stop. I kept it going over 15 years.
+00:11:44 I'm curious what your professional background is. Do you have any like programming or any,
+00:11:49 is your field of work related to this in any kind of capacity?
+00:11:54 Yeah, I guess you could say that. I know a little bit of programming. Obviously, I know
+00:11:59 web, HTML stuff, CSS and things of that nature. That's cool. That's cool. Well, I mean, okay,
+00:12:06 I mean, we've gone pretty in-depth with your content, which obviously we all love. Maybe we
+00:12:09 should open up the floor a little bit and just see what we feel about. I mean, I don't know about you
+00:12:14 guys, but I kind of want to talk about things like other popular let's plays in comparison to
+00:12:18 Gamer's Tavern and why he is vastly superior by every metric. There's a few ways to make a let's
+00:12:24 play and true. A bunch of us, I mean, a bunch of us have done it. So we've got we've got insights.
+00:12:31 The legendary T-Bat plays cannot be questioned as the pinnacle of all let's plays. It's just that
+00:12:37 they've retired. I think I've told this before, but at the peak of all of that, my involvement
+00:12:44 with the horseshoe crew and my, you know, my whole deal with those bastards, I tried watching
+00:12:52 T-Bat plays and I couldn't get past one episode and I quit halfway through because it was the
+00:12:57 worst video I've ever seen in my life and I was so bewildered and disappointed that I couldn't
+00:13:01 even stand looking at my computer anymore and I had to go for a walk. I couldn't believe what I had
+00:13:06 witnessed heroes had let you down. Yeah. Yeah. Literally exactly. I couldn't believe that Phantom
+00:13:13 Orcheg did this. Like what happened? Like, like, do they have a ghostwriter for the normal videos?
+00:13:18 Like, what is happening? Yes. Geez. I mean, I didn't think it was bad. Hey, remember the first
+00:13:28 fighting game? Remember the one we did the fighting game? Like the very first episode we did that was
+00:13:32 on our main channel that eventually we poured it over as like the first episode of T-Bat plays.
+00:13:36 Yeah. That was that. That was that sick like fighting is magic or whatever. And that when I
+00:13:40 put a bunch of like edits in and was pretty sick. Yeah. That one was good. That was a quality,
+00:13:44 quality thing. I mean, maybe I'm crazy, but I enjoyed T-Bat plays Equestria Bound. Yeah.
+00:13:51 Over a hundred episodes. Over a hundred. We were having more time. I mean, yeah.
+00:13:59 I guess that's one way to phrase it. No, that's like, it's kind of weird that there is so much
+00:14:04 content that I have not consumed because I'm normally the content minor. I mined as much
+00:14:12 content as I produced Bitcoin on my computer. But I don't like, was there anything worth listening to?
+00:14:19 Let me see that's the thing. The Let's Play is coming a few camps and T-Bat plays is probably,
+00:14:26 is easily the champion of the terrible Let's Play camp. It is not good. It is like we simply
+00:14:33 describe the things happening on screen and like talk about, you know, it's boring. I think that
+00:14:38 the true nadir of T-Bat plays was T-Bat plays super lesbian horse RPG because no, no, I liked that.
+00:14:49 I thought it was terrible because the game was really text heavy and a lot of what we did was
+00:14:55 just reading text on the screen. At least we did voices. We did some voices, but like how long
+00:15:02 do those stay interesting really? How long will a funny voice buoy a piece of content? I will tell
+00:15:07 you this though. I'll tell you this though, Ben. The only video I ever go back to watch from T-Bat
+00:15:12 plays is the finale of horseshoe whatever. Super lesbian horse RPG. When the Anamanaguchi song
+00:15:20 drops at the end and it's us reacting to it, that was good. Do you actually go back and revisit that?
+00:15:27 That one moment, yes I do. I have several times. I have not, but that's interesting.
+00:15:32 Maybe I will. Maybe I will just for old time sake. It's always funny to see what kind of weird,
+00:15:39 like not important, not grandiose videos that we all secretly have in infinity before and go back
+00:15:44 and listen to from our past. Like that episode, I'm sure does not rake in the view. I'm sure it's
+00:15:50 not that popular or that like remembered or celebrated. There's just something about that
+00:15:55 will just stick out in your mind forever. I have a lot of views like that from the past that don't
+00:15:59 like like Measurement Man. I fucking love Measurement Man. Measurement Man is my
+00:16:03 shit. I love that video. I forget which episode it's from, but the moment, I mean,
+00:16:08 I put this in one of my videos because I loved it so much, but it's when,
+00:16:11 fuck, it's the dude, what the freak? Like that one moment of duties is so great.
+00:16:19 Well, okay. What do you guys think of the Game Grumps? Game Grumps. You get to say something
+00:16:24 first. Well, I'll talk about Game Grumps. The Game Grumps introduced me to the idea that Let's
+00:16:30 Plays were not terrible. Because before that, I had only heard of the idea of like Let's Plays.
+00:16:40 I'd seen things on the side of YouTube. We all used to try some quite a bit. Let's play this.
+00:16:44 Why would I want to watch someone else play a game? And Game Grumps, they were just really funny
+00:16:51 from day one. I saw the video from Egoraptor linking to it, and I clicked on it, and it was great.
+00:16:58 And to this day, I think there hasn't been like a daily upload Let's Play show that is good.
+00:17:06 Aaron! We got a certain nation just for the white race, Aaron!
+00:17:10 Oh my gosh. That's John for you. Yeah, I guess so.
+00:17:14 Gamestaven, do you have any experience watching other Let's Plays?
+00:17:21 Loads. I've been watching them since 2008 or 2007 or something like that.
+00:17:30 But I kind of lost interest in watching them because once the novelty wore off,
+00:17:37 kind of found them boring. But there is one guy in particular I like still,
+00:17:44 one Let's Spare. And if you like my stuff, you'll probably like his stuff a lot as well.
+00:17:51 His name is Karma Jolt. I don't know if you've heard of him. Probably not,
+00:17:55 because he only has like 500 subscribers. He's really funny and he does the same scripted style
+00:18:03 of commentary that I do. How do you spell that? He's been doing it before. Karma Jolt is just,
+00:18:08 you know, the word karma and Jolt. Oh, Karma Jolt, okay. Oh god, his last video one month ago
+00:18:14 is channel update moving on. Oh no, we caught him at the tail end. Rest in peace. He's not quitting,
+00:18:21 he's just on a break. Oh, okay, cool. Glad to hear it. He kind of updates infrequently,
+00:18:26 kind of like me. Actually, it's more accurate to say that I'm kind of like him because he came
+00:18:32 before I did. Oh, he must be old school. I mean, I'm seeing like 30 videos uploaded over the course
+00:18:41 of a month. Yeah, okay. Well, recently he's been updating more frequently. He sure has.
+00:18:48 And his recent videos aren't scripted. Okay. Oh, so Ben would like them is what you're saying.
+00:18:54 Yeah, they'd be vastly superior. Just in principle. I would just like to mention for the crowd,
+00:19:03 so I can be, I can be vaunted and approved of in the comment section. I will wear on my badge,
+00:19:10 much like call cost victims wore the Golden Juden star on their shirt proudly. I will wear the badge
+00:19:17 of being one of the few people who found Gingrumps through John first and I clicked on
+00:19:23 his link from his channel. Talk about GamerCred. Talk about GamerCred. I know. I was talking to John
+00:19:29 before and I was like, John knows Egoraptor? Egoraptor like has friends and is like a person
+00:19:35 that like exists in the physical material world. I'm losing my shit and I couldn't believe that
+00:19:42 my rinky dink god, god king, John Tron knew Egoraptor. It obliterated my perception of reality.
+00:19:50 It was incredible. How big was John at that time? Was he like a 500,000 kind of guy or something?
+00:19:55 No, no. It was like, yeah, 10,000, 50,000 sort of. Geez. When he made Gingrumps, he was that size?
+00:20:01 He was not big. He got big from Reddit and it was like, you know, a big front page post and he got
+00:20:07 like a couple thousand subscribers from, well not a couple, like maybe 10,000, 20,000 subscribers.
+00:20:13 And Gingrumps is what like five years old now or something? Yep. Damn. What do you know?
+00:20:19 The thing with like, let's plays, I feel like there's certain types and they usually fall
+00:20:26 into two main categories. One is about the game and the other is about the personalities.
+00:20:32 And you can sort of like mix and match like a slider. Like are you talking about the game more
+00:20:39 and or are you just playing a game and not even talking? You're just talking and it's got
+00:20:44 gameplay in the background. T-Bap, I feel like was talking about the game, which is why I didn't
+00:20:49 find it that interesting because I would rather listen to you talk about cool things. And then
+00:20:53 things like Digi's Let's Plays were mostly not about the game at all. Victor would be playing
+00:20:59 something. Digi's were way better. And he was just talking about stuff and he even called it a podcast.
+00:21:06 Yeah. And like Gingrumps was about the personalities. But after a certain point,
+00:21:14 they run out of stuff to say. They just... Well, a few life things change for those boys and they
+00:21:24 had to change. Like for Digi Bros, they had to like, you know, it wasn't just they ran out of
+00:21:29 things to say. Oh, no, no, not Digi. I was thinking about Gingrumps. But yeah. Oh, okay. Yeah.
+00:21:35 Were you talking about like the Jontron leaving stuff? No, I'm talking about, well, I mean,
+00:21:39 at the end of the Jontron era, that it was sort of winding down as well. And then Dan era, as you
+00:21:46 call it, it was also sort of like, occasionally, I'll click on a Game Grumps. But most it used
+00:21:54 to be I would watch every single episode because they were always really funny bits. But now I
+00:22:00 spread out. I started watching Grumps like pretty like a little bit after John left. And I got into
+00:22:08 Dan and I listened to a lot of like the early Dan stuff and I really liked it. But yeah, eventually
+00:22:15 it came to be like, I feel like we're now like revisiting old topics or we're just talking about
+00:22:21 nothing, you know? Yeah. Well, it's just it's been every day for like years at this point. Like,
+00:22:28 like human experiences and lives are like a physical, what's the word, like fossil fuel
+00:22:36 mine. Like eventually it will all be used up all of your experiences. You all of the reminiscing
+00:22:41 you do is like a plus one Bitcoin you are mining and you will eventually run out of life experiences.
+00:22:47 That graphics card is going to wear out. Exactly. Exactly. So you're not going to be able to, you
+00:22:52 know, fucking survive on that for that long and they've just been talking nonstop every
+00:22:58 fucking day for years. Of course, it's just going to become nothing. Makes sense. So like this way
+00:23:05 is for like the personality driven Let's Plays to get old because the personality is overexposed
+00:23:14 to like the internet, like people just see them over and over and then they run out of,
+00:23:18 they run out of like, yeah, you've been hanging around my house for too long, go away, you know,
+00:23:23 that sort of feeling. You know, that's why. But then the opposite is when the like it's usually
+00:23:30 things like Gamer's Tavern or maybe even like some of Spoonie's early Let's Plays where it's
+00:23:36 either like a hybrid or like entirely scripted and talking about the stuff on the screen to the
+00:23:43 point where it can't really get old because as long as it's funny, you know, as long as you
+00:23:49 find a way to continue to make it funny, you can keep doing this forever.
+00:23:54 Yeah, it's kind of like, I know the Game Grumps at certain points and maybe still we're taking
+00:24:00 like comedy classes, like professional actual, you know, like acting classes and that kind of
+00:24:04 stuff. So like it seems like they're, by doing that, they're kind of preparing themselves for
+00:24:09 like a long term, actually delivering like a show and working on like, what's the running for,
+00:24:14 Extemporaneous Comedy or whatever it is. Yeah, Improv. Improv, exactly. Improv. And then like
+00:24:20 in the same way, like Gamer's Tavern for here, for example, like the way he like, you know,
+00:24:24 writes scripts and stuff, and I suppose it's a little bit different than just like live Let's Plays
+00:24:28 or anything. But he's also, he's like generating content with which he, you know, will stick in
+00:24:33 his episodes versus when you, as much was saying, if you just talk about your life, you will definitely
+00:24:39 at some point just run out of interesting things to say, which I think is a lot of people have
+00:24:43 experienced that with Game Grumps. If you do that for long enough, and if you do Let's Plays,
+00:24:49 you know, a lot of the time, like a Game Grumps does, then your life becomes telling stories
+00:24:54 about your life. So once you tell your eventual life story, and then you get to the part where
+00:24:58 you start Let's Play, where you're gonna say like, oh, remember the story that I told? Wasn't it funny
+00:25:02 how I told that? Remember that one time we played a game on the show? Wasn't that crazy? That will
+00:25:07 be your story. Yeah. Yeah. And then it just gets less and less like interesting because it's less
+00:25:11 and less like fresh new information for people. So I think you really got to do something to like,
+00:25:17 maybe you just like take a break, I don't know, maybe even for a year, and then just like go live
+00:25:21 a life and have experiences. Then I mean, you'll have built up some experiences that you can bring
+00:25:26 back and just like dump onto the table again. So that's maybe that's the cycle. Is it maybe it's
+00:25:30 inevitable that happened? I feel like that's like a good idea to like make good content is like,
+00:25:35 oh, take a break, experience two things from a regular perspective. The problem is like,
+00:25:39 you just basically torpedo your entire business during that because like, if you stop for a week,
+00:25:43 YouTube will fucking kill you. So like, you have to be on their dick 24 seven or the algorithm
+00:25:49 will murder you. Well, what about this is a theoretical business model, like a Game Grumps
+00:25:54 style channel, where you have like hosts, maybe kind of cycling in and out of the channel. So
+00:25:59 the channel is always putting out content, but the individual contributors have time to go off and
+00:26:03 kind of mind Bitcoin. And then you can remove the game entirely and just have it be the people
+00:26:11 talking. And then you can, you know, you can cycle through the members. Yeah, yeah, it's kind of
+00:26:17 like it's too fancy to actually join. So it'll just be consistent group people is normally
+00:26:21 bother show fucking up. Yeah, you know, eventually the hosts just start procrastinating. You know,
+00:26:26 it's fucking it's a it's a disaster. It's a disaster. Well, I get it. I would like to bring
+00:26:35 up moment depending on depending on how many tomatoes are thrown my way. I'd like to bring up
+00:26:41 the shitty juvenile embarrassing that I would even talk about this topic of Game Grumps drama.
+00:26:48 Just what happened? I'm the kind of guy I will not be, I will not be, you know,
+00:26:56 I won't be shy about this fact. I am the kind of guy who when John, you know, left, I was the kind
+00:27:02 of guy was like typing like, like haunted Game Grumps ARG explain explain to me this content
+00:27:09 mansion story. This is a good opportunity for me to reveal the truth because John is me and I have
+00:27:15 told myself the truth. And here's what happened. John and Aaron, they started Game Grumps and then
+00:27:23 he hit Susie didn't he? Huh? He hit Susie. Yeah, he beat Susie to shit. Yeah, she's a zombie now.
+00:27:32 John and Aaron started the Game Grumps and they didn't know it was going to be a big thing.
+00:27:36 And then it was and then they had to start a they made a joint bank account to have funds go from
+00:27:42 that so they could both think. But there's like hints here and there that John, I mean, you know,
+00:27:48 Freudian slips, but like he thought of it as his show. So what I think happened, this is all like
+00:27:54 out of my brain, is that John wanted to stop Game Grumps because he wanted to work more on
+00:27:59 John Tron. He also wanted to go to New York because the continued guys were there and a girl he was
+00:28:04 talking to was over there and he wanted to go live with her. And so what John said is like her name.
+00:28:11 I love Kim Possible. And then what he did is he said, OK, I want to quit the Game Grumps.
+00:28:19 But he didn't just say that he wanted Game Grumps to end. And Aaron was like, well, wait, why can't
+00:28:25 we just continue without you? And he's like, well, I don't know. I don't I and it's like there's a
+00:28:29 big argument because the John wanted it to be ended. And Aaron wanted to continue without John.
+00:28:35 And John was like, fuck you. And he left. And that's why they were angry at each other.
+00:28:41 And then Danny was brought in to replace him. And nobody really wanted to talk about it.
+00:28:47 Aaron didn't want to make John look like an evil piece of shit. And John didn't want to make Aaron
+00:28:51 look like a piece of shit. So they just both kept quiet and it became really awkward. And that's
+00:28:55 what I think happened. And then, of course, eventually things eventually warmed up and they,
+00:29:00 you know, are talking. And, you know, they were on the Star Wars thing together. So things,
+00:29:04 obviously, if Danny was smaller, I could brush my teeth with them.
+00:29:08 Well, I was just going to say, he's just like you. That's a good little summary of the whole
+00:29:14 thing. I think we now at this point, we pretty much all know prove all the details that I mean,
+00:29:20 I still think, you know, Susie, you know, talking sexy time. But no.
+00:29:26 Why? Yeah, on top of all that, John was fucking Susie the whole time.
+00:29:33 She was always there. But that didn't have anything to do with it.
+00:29:35 There's the hot goss I came here for. Indeed. Well, cool. All right. So I mean,
+00:29:41 are there any other Let's Players? What about the Yahtzee? Who talked about, people were big
+00:29:45 fans of Yahtzee, right? Yahtzee and the, God, there was the Ego.
+00:29:49 The insufferable game social media crapcast, right? No. Hang on. God, what was the name of Yahtzee's
+00:29:55 Let's Play show that he did with that fuckface Gabe? Oh, was it? I think it was called Let's Drown
+00:30:01 Out. That's the one. I'm also a fan of Yahtzee's reviews. Of course, me too. Yeah, I love Yahtzee.
+00:30:07 He's great. And I really like Let's Drown Out. And I don't even mind his co-host, Gabe, most of
+00:30:13 the time. It's just sometimes I just get the feeling that he's the biggest douchebag and I hate him.
+00:30:18 In what way? Is this Gabe with Penny Arcade fame? They'll argue a bunch. Wait,
+00:30:25 is that Gabe from Penny Arcade? Is that who that is? No, no, it's an Australian guy.
+00:30:30 They'll argue a bunch and Yahtzee will accuse Gabe of waffling. Like, Gabe will say something and
+00:30:38 Yahtzee will be like, well, I don't think that's true. And Gabe will be like, well, neither do I,
+00:30:42 but da, da, da, da. And Gabe will be like, you're waffling. Like, just out with it,
+00:30:47 you're waffling. Gabe will be like, fuck you. I'm not waffling. I'm just saying what I think.
+00:30:51 And I always agree with Yahtzee. Gabe is a total waffler. Just like fucking John Kerry. And he'll
+00:30:57 just get killed. And he'll talk about how he's studying to be a teacher. It's really important
+00:31:05 and relevant to anything that's going on and it never is. I can't fucking stand it.
+00:31:11 Did he ever become that teacher? Did he do it? Not to the best of my knowledge.
+00:31:16 By the way, I'm looking at the channel right now. The last Let's Drown Out I Can See was
+00:31:20 uploaded over a year ago. Oh, wait, wait, no. One, oh wait, yep, a year ago. Yep. Looks like
+00:31:26 they stopped. Looks like they stopped. I guess they stopped because Yahtzee moved to America,
+00:31:31 I think. He did. That's news to me. He's on our soil. We can track him down. Yahtzee once.
+00:31:39 If we're just listing off the people who we watched or do watch currently, I'm in the
+00:31:45 class, you know, electrical beast, billion seat, you know, Lyme Pop School, my personal
+00:31:51 giants of the industry. Please. You know, I wouldn't be where I am today without watching
+00:31:58 Billiam C's incredible spine-cracking Mario Let's Plays. I'm sorry, are you saying Billiam C?
+00:32:07 Yeah, you don't know who Billiam C is? I don't think so.
+00:32:11 Billiam like William, but with a B? Yeah, yeah, yeah. Okay, okay. Here, here,
+00:32:17 Gamerstab, you know who Billiam C is, don't you? Yeah, I do. Yeah, yeah, what do you think about him?
+00:32:23 I think he's great, but he doesn't appear to be aware of it.
+00:32:27 Yeah. What does that mean? Strapolate on that a little bit?
+00:32:31 I know what you mean. I know what you mean, Gamerstab.
+00:32:36 You gotta watch Red Supri to find out. Yeah, I was just about to say I watch Red Supri all the
+00:32:40 time. I kind of stopped since they started doing like weird Kickstarter videos. It wasn't too into
+00:32:45 those, but I love Red Supri. I know about all, you know, shit through there. Red Supri, to my
+00:32:52 knowledge, correct me if I'm wrong, Gamerstab, but Red Supri is sort of a, it's a commentary channel
+00:32:59 where they take Let's Plays and then they commentate over the Let's Plays, and these
+00:33:03 Let's Plays are of dubious quality at best. Are we talking about like the greatest Let's
+00:33:09 Play of all time, Dark Side Fill with his How Not to Play, kind of like those? I suppose so. No,
+00:33:15 those are commentated. These are, this is like, they're like a Mystery Science Theater 3000-ing
+00:33:22 these Let's Plays. Yes. Well, that's kind of, okay, fair enough, fair enough. And the thing
+00:33:28 that's interesting about it is I'm fairly certain that one of the co-hosts is the guy who like
+00:33:33 invented Let's Play. Yeah, his name is Slow Beef, or I think it was either Slow Beef or
+00:33:39 Diabetes that did the first Let's Play. I think it's Slow Beef, I think it's Slow Beef. Yeah,
+00:33:44 it was Slow Beef. Well, and so it's interesting to see like this guy who like created this like
+00:33:52 weird like cultural worldwide phenomenon looking at like the worst of the worst of his spawn and
+00:33:59 ridiculing them extensively. You know, that is a fantastic angle. Is he popular with this series?
+00:34:06 Retsu Prey is pretty big. Yeah, yeah, they're pretty big. Okay. I've seen, they don't do actual
+00:34:12 Retsu Prey's that much anymore. I'm not sure why. I just realized that Retsu Prey is a joke on Let's
+00:34:20 Play. Yeah, that's what it is. Fantastic. I would highly recommend a lot of old ones. My favorite one
+00:34:27 is... The Billy MC ones are good. Yeah, Billy MC ones are great. My favorite one is when you're here,
+00:34:32 your family. I fucking love that one. These all sound fantastic. I want to watch all of them.
+00:34:38 But I think it's time that we crack open the nut I referenced earlier and talk about the
+00:34:43 unequivocally greatest Let's Player in the World, with of course the exception of Gamer's Tavern
+00:34:48 and the King of Hate and the original Fighting Game Master. And it's Darkseid Phil. Darkseid
+00:34:56 fucking Phil. He is the only V-approved YouTuber, the only one. He is incredible. He is a god. Gamer
+00:35:04 Staphen, what is your take on Darkseid Phil, if you're familiar with his work? I've heard of him,
+00:35:10 but I'm honestly not very familiar with the guy, unfortunately. Okay, fair enough. I mean,
+00:35:16 you've been spared a little bit. I'd just like to throw out... Actually, you know what? I won't
+00:35:20 say that. Okay, I will say it since I brought it up, but someone just linked me this very morning
+00:35:25 saying that for the second time, give. Your creaky haunted house needs to shut up for recording
+00:35:31 her podcast. They say Darkseid Phil was caught masturbating on stream for the second time ever.
+00:35:39 Okay, that is not real, I don't think, because it was just audio. He could have just
+00:35:46 been yawning loudly. So, frankly, I think people are exaggerating with that, but he definitely
+00:35:50 did one time. I am not familiar with this phenomenon. How does one even make such a
+00:35:57 fault? There's something wrong with your yawns. That's how I yawn. That's how I yawn.
+00:36:07 I mean, you know, when you stream like all day, every day, you know, sometimes you make a slip
+00:36:12 Yeah, you leave your camera on and you just, you know, just the other day, just the other day,
+00:36:16 I had just finished a live stream and, you know, me and The Misses were getting up to some activities
+00:36:22 and, you know, I was kind of petrified. I had continued to stream by, you know, but luckily,
+00:36:27 I had not, but it's just as easy as forgetting to click one button sometime and there you go.
+00:36:32 This is why no one should ever live stream. It's the worst idea in history.
+00:36:35 I thought you were going to say no one should associate with women. Concentration camps now,
+00:36:39 that's all I'm saying. You know, that's a safe thing too, but...
+00:36:45 Darkseid Phil is a legend and it's kind of amazing to watch him. He's gone through so many
+00:36:52 ups and downs over his career. He really is a, he's like a slightly, well, okay,
+00:36:56 he's honestly significantly more together version of like Christian Weston Chandler,
+00:37:01 but like he has his own massive weaknesses as a man. Like he's terrible with money,
+00:37:08 he like is not, when he started to get big, like doing Let's Plays and stuff, he just like bought
+00:37:12 a big old house and like a new car or something and moved out. I don't know, like to Seattle or
+00:37:17 something and just like, and now he's paying for it. Like his girlfriend left him a little while ago.
+00:37:21 I don't know exactly what, I don't want to speculate on his life too much. I just want to state the
+00:37:25 facts here. The fact are that he overextended himself and continues to bring up how like he
+00:37:31 is one of the, he is one of the guys who started like Let's Plays and before it got big and,
+00:37:36 you know, continued it getting well. I don't know if he was, it sounds like this Retsu Prey guy is
+00:37:40 actually the first, but he was certainly one of the formative people on YouTube doing Let's Plays.
+00:37:45 And just to watch his life and to watch him be such a terrible, just like guy kind of in general,
+00:37:53 I actually am in no way with like these assholes, the sons of Kojima who are like that whole crowd
+00:37:59 that like go, they find like every reason to shit on the guy that I think is just like way beyond
+00:38:04 the pale and like not actually fair to him whatsoever. Like I hate when people take it too far,
+00:38:09 but the tangible things he has done of just being such an asshole and he tells the story one time
+00:38:14 of like what an inconvenience his like girlfriend was for like something like having like a mental
+00:38:20 breakdown at work and like making him go like take care of her and stuff. Like it's entirely possible
+00:38:26 that she was very inconsiderate at some point in that story, but the way that he told it certainly
+00:38:32 did not paint him with any degree of sympathy. And he sounds like a big asshole. So, but just
+00:38:37 he's such a character. I really want to dive in and I've been thinking of doing a PCB lecture on
+00:38:41 him specifically. So let me know people if that's something that interests you. People really want
+00:38:46 that. They've been asking for that. I think they do want it one day. I can't guarantee it for
+00:38:50 Radcon through anything, but one day I will have to do it. I did see the down the rabbit hole about
+00:38:55 Darkseid Phil. Yes. And my only real exposure to him before that was through the let's have the
+00:39:01 how not to play with Dark Souls. And I mean, I don't know how much I don't know how much you can
+00:39:06 infer about a guy based on like what he says while he's fucking playing Dark Souls or whatever,
+00:39:11 but he was a huge asshole and just the most obnoxious dude. Like especially the way he would
+00:39:17 like just he would blame the game. Like his blaming the game is the biggest meme. It is the biggest
+00:39:23 meme about Darkseid Phil. It's and the wow, really? You know, when the are you saying that it's not
+00:39:30 true? I am. No, no, I'm completely agreeing with you. He blames the game for like the vast majority
+00:39:36 of everything that goes wrong when he's playing. See the thing with that is that I like I do it too.
+00:39:43 I mean, I blame the game like verbally, but like when I calm down later, I'm like, well, that was
+00:39:47 just me fucking up. See, not him, not him. He does not. It's his worldview that like the games
+00:39:53 cheat. My only exposure to Darkseid Phil was like knowing vaguely that he is not good at video games
+00:40:02 and then watching several Street Fighter Street Fighter Terminancy was in where he kicked ass.
+00:40:09 Darkseid Phil has been riding on this wave of being like a super sick, nasty Street Fighter
+00:40:14 player like for his entire career and like refuses to play anyone in it. It's it's exactly like
+00:40:20 the episode of Seinfeld where Jerry is like gonna race the guys and he like he chooses not to play.
+00:40:26 He chooses not to play. So he doesn't lose his title. It's just like that. It's just like and
+00:40:31 you know, I honestly, I honestly do not have that much hatred for the guy. He just seems like kind
+00:40:35 of a jerk. I actually respect him in a lot of ways. In other ways, I don't, you know, just because he
+00:40:40 seems kind of like a jerk. But like, I mean, hey, man, he was out there. He was one of the pioneers
+00:40:44 of the Let's Players. He is this guy who realized why don't I just set up my fucking camera behind
+00:40:48 me, film the TV that I'm playing games on and upload these full Let's Plays. You know, I
+00:40:54 it's that's that's creativity. I don't ironically love camcorder LPs. Like when you can actually
+00:40:59 see the screen, it's super comfy and it's super fucking aesthetic. And really honestly grossed
+00:41:05 to me. I fucking love camcorder LPs when they're when you and of course, you can actually see
+00:41:09 the screen and it's not blinding light. I gotta look up how many Let's Plays Darkseid Phil has
+00:41:15 uploaded on his channel. Okay, DSP Gaming has, okay, no, sorry, that's the number of subs. Okay,
+00:41:20 I can't check right now, but I think he has like hundreds of thousands of uploads or like the most
+00:41:25 out of like anyone in all of YouTube, something like that. It's been doing multiple times a day
+00:41:32 for like, since like YouTube was young. Yeah. And we're talking like 10 a day or something like
+00:41:37 that for, because he splits up his Let's Plays into so many small individual parts. Let me just
+00:41:43 see what he's done today or possibly yesterday. You gotta get those ad dollars, man. You gotta run
+00:41:47 an ad on every video. Let me tell you how many videos were uploaded 11 hours ago. One, two, three,
+00:41:54 four, five, six, seven, eight, nine, 10, 11, 12, 13, 14 videos were uploaded 11 hours ago. And how
+00:42:04 about 16 hours ago, you might ask, one, two, three, four, five, six, seven, eight, nine, 10, 11,
+00:42:13 12, 13, and then 17 hours ago, 14, 15, 16, hang on, 17, 18, 19, 20. He's uploading. He's uploading.
+00:42:24 34 videos yesterday, 34 videos. He's uploading over one video an hour, like one and a half videos
+00:42:31 an hour. That's insane. They're all like 10 minutes, you know, snippets of this Let's Play. Just,
+00:42:37 wow. Unbelievable. That's like the brute force as sense method right there.
+00:42:45 Damn right it is. Is this the like most optimal way to do this? Because all these videos have like
+00:42:50 150 views or so. No, it is definitely not. Nobody has the time for that. Even if they're only 10
+00:42:56 minutes long each. Yeah. It just feels overwhelming to just click on the next one every so. That's
+00:43:02 around the views I get. Yeah, exactly. And I mean, he does put out again so many videos. So like,
+00:43:07 I suppose all the views add up to some degree. But like, I'm looking at his videos from like a
+00:43:11 while ago, they get like 500 views a piece. So even if you upload 30 views or 30 videos of this
+00:43:17 thing, if they each get around 500 videos or 500 views, that's a total of 15,000 views in one day.
+00:43:22 And that's not terrible, I guess. But for a guy who's trying to make it is so living,
+00:43:28 I mean, that's not, that's not sustainable. I mean, you know what, I'm not here to critique
+00:43:31 his business model, really. I'm just here to point out that he is a man of legend, you know,
+00:43:36 and I wish him well. I hope he keeps it up. Is that what this is about about wishing him well?
+00:43:43 Well, sort of. I don't hate the guy. I don't hate the guy. I want to talk about like,
+00:43:48 the whole like, cutting episodes up into 10 minute chunks. I have, I used to do Let's Plays,
+00:43:54 and part of the fun, for some reason, was like having my big recording and then splitting it up
+00:44:01 into 10 minute chunks, and, and, and like uploading like 10, and like spreading them out to release
+00:44:07 scheduled over like one per day. And I don't know, it's just that that was a cool thing. But like,
+00:44:14 those videos, if you ever look at my Let's Plays on Gibbon Gaming, the very first ones are like,
+00:44:19 I'm the meekest you could ever imagine. Even meeker than, than currently. And it's like,
+00:44:25 over the course of the Let's Plays, and then into streams. You, you, like, you can see me grow
+00:44:30 into a real person. Yeah, I sound like, I sound like a mouse in the Rayman 2 Let's Plays.
+00:44:37 You're like a chiapet, only far less entertaining.
+00:44:40 Yeah, yeah, they're not even good. They're never, they've never been good. I kind, I kind of like gave
+00:44:45 up the, the, even though I liked splitting episodes up into 10 minute chunks, and, and seeing the
+00:44:51 uploads, like, oh yeah, look at all these uploads, because Digi used to say, yeah, I've made like
+00:44:56 100 videos this month, and most of them are Let's Plays. I'm like, yeah, I like numbers.
+00:45:00 Yeah, no kidding. I, I like numbers too. I like saying I can make, I can upload a bunch of videos,
+00:45:05 but nobody cared. And, and the live streams, the live streams are so much less editing intensive,
+00:45:11 so much more fun, and there are some incredible moments in those, like the Minecraft times with,
+00:45:18 with Munchie here. That's right. Me, I was there. If there's, if there's anything that I can say
+00:45:24 video games have impacted my life in such a way, it would be that now, unequivocally, because of
+00:45:30 video games, I love seeing numbers go up. That's what I live for. When I wake up, I, I'm like,
+00:45:36 what if I see a six turn into an eight today? I would lose my fucking mind. I love seeing numbers
+00:45:42 go up. I am, I am, you, you guys know very well that I have grown into watching analytics and
+00:45:47 compiling spreadsheets as in a fetishistic style fixation. And I, it's great and I love it. And
+00:45:54 I definitely think video games, like I think of it as a video game in the way that, like,
+00:45:59 my stats are rising. I'm going to unlock the ultimate weapon at some point.
+00:46:03 Nate is totally stoked this month to play taxes 20, 2018. It's going to be a great time.
+00:46:09 I have been prepping. I've been, I've been grinding out my skills, preparing all my
+00:46:13 documentation. Basically, I've been basically specking into taxation mode for the last,
+00:46:18 like six months or so. And it's time to read my rewards.
+00:46:23 I want to comment. This is kind of like a weird tangent, but I think it's interesting.
+00:46:27 Okay. Nate. So like, Darkseid Phil is like one of the, like one of the founding fathers of the,
+00:46:32 of the let's play ethno stay. Right. Without question. Without question. Yes.
+00:46:36 And, but, but he's averaging like shit views. That's true. This just reminds me, like, like a
+00:46:41 month or so ago, I was just, you know, searching for homesick music because that's just the kind
+00:46:46 of guy I am. And I found a video called a doctor explained by George Bunziaki and, and you know,
+00:46:53 linking the comments or something. And it's, it's, it's the guy who made doctor,
+00:46:58 like the Homestuck track doctor, John's land. Okay. And it has like 5,000 views. He has like
+00:47:06 less than 300 subscribers. And it's really think like the guy who made Dr. Like, like
+00:47:11 probably the most popular, like well received favorite of the homesick entire like OTST
+00:47:18 doctor, like is a fucking nobody. Like he's dead in addition, fucking Africa now. No one remembers
+00:47:24 him. Like no one gives a single shit about this guy, even though he made like the most successful
+00:47:29 fucking track in Homestuck. See that, that's the thing right there. And it's the fact it, it strikes
+00:47:34 me as a little bit unjust. Like it's not, it's so unjust. Illegal or anything. But it's, it's so weird
+00:47:39 to me that all these people are honestly like significantly successful. Have their little
+00:47:44 communities based on I should get that guy to work for me. Yeah. Yeah. Good. Maybe he would,
+00:47:50 you know, I mean, obviously he's got skills, but like these guys who just like, for example,
+00:47:54 with dark side fill, he gets pretty shit views. But people just, you know, like mock him and
+00:48:01 take his content and like retool it in a mocking way and get just so many more views than he gets
+00:48:07 and obviously more ad revenue and everything that comes with it. And like that's fine. That's not
+00:48:10 criminal. It is relatively transformative. It just strikes me as like, I wish dark side fill
+00:48:16 was in some way capitalizing on this too, because he's just languishing and just, it's sound, it's
+00:48:22 seeing, it's my, you know, my, my, my faint hints of socialism buried deep down in my sake. You make
+00:48:27 me think, God damn it. I wish he was getting a share of this too. Hashtag bash the fash.
+00:48:34 I wanted to mention earlier that like going from let's place to live streams is what I did.
+00:48:39 And, and a lot of other people have done that. Some successfully, some not.
+00:48:44 One of my favorite, who's not really considered, yeah, it was German and, and star to maybe bring
+00:48:51 up Demolition D a little bit. He's a little different, but still. Yeah. Well, what they did
+00:48:56 was they used to make videos about, you know, they, they played a game and then they would
+00:49:01 heavily edit it. So it's like, right. It's a let's play, but without the, the boring parts.
+00:49:06 And, and it was really funny. And they were really funny. And they would often
+00:49:10 collab with each other. And both of them have migrated over to Twitch, which is much more
+00:49:16 critical. But in very different ways, in, in very, very different ways. And it's clear that,
+00:49:22 that star is shit now. He sucks. He's real bad. He's got like, he's got really cool.
+00:49:29 A new cool like intro graphic. He's way more successful. Like, like, okay, okay. Like, he,
+00:49:34 he, he sucks. Like I would never watch a star stream. That would be poison. But like he, he,
+00:49:39 he's way more successful. He, he's like, okay, okay. Well, just to explain. Star and German are
+00:49:43 both like Team Fortress 2 players who basically did almost exclusively Team Fortress 2 content.
+00:49:48 And then Overwatch came out and, and, and, and, and German just kind of, you know, stopped doing
+00:49:51 TF2, but not like, you know, gotten to Overwatch a little bit, but that wasn't just his main thing.
+00:49:55 But Star got super in Overwatch. And now he's like a, like a serious Overwatch streamer,
+00:50:00 commentator guy. And he goes like Overwatch events. He's like a real esports boy and does that whole
+00:50:05 scene. And it's just dreadful. It's just the most, the entire world. Like he was never that funny,
+00:50:13 but it was sort of like the understated like, yeah, I'm just playing a game and he does something
+00:50:16 really cool. And he's like, yeah, yeah, you're dead, you know, whatever. But now he's like screaming.
+00:50:20 He's screaming constantly in his Overwatch, let's please. Is that good or bad? It sounds bad.
+00:50:26 The screaming is, he's not good at it. And he's like, screams are never funny.
+00:50:31 So these guys are like bros though, right? Are they like a team?
+00:50:34 Well, I mean, they're their friends. I don't know what the situation is, but they haven't
+00:50:40 like, collabed or done anything together in a long time. I just noticed they have a channel
+00:50:44 called stir slash germa stream archive. That's someone else like a third party just uploads them.
+00:50:52 Germa has, has, has changed from, he's streaming and he's doing like any game,
+00:51:01 like any game that could be funny. And he just makes it like, he tries really hard to make like
+00:51:06 funny comedy videos. And he's really good. And he's my favorite boy.
+00:51:11 We know this is a very interesting topic. The idea of maybe there's like a cultural shift
+00:51:15 happening now from let's plays to streaming. I mean, I'm certainly, I'm streaming.
+00:51:19 It's way more profitable, dude. Yeah.
+00:51:21 I mean, you got your super chats, you got your stream labs, you got your Twitch,
+00:51:24 you know, money stuff. And obviously that's going to drive people to do it.
+00:51:27 Like I've been thinking about, I've really only tried on YouTube so far,
+00:51:30 but at some point I'll probably try to switch out and, or Twitch out and like the stream lab
+00:51:34 stuff and whatnot. But like what I'm, what I'm thinking about is just like, I had been doubting
+00:51:39 myself like for a long time again, we'd all doubted like let's plays. And again, I don't think
+00:51:42 they're obviously like going to stand the test of time as well as, I don't know, for example,
+00:51:46 a Plinkett review. I want to get into that later.
+00:51:49 But no need to get into that. But like the other day, I saw something that really rocked my
+00:51:53 fucking world and it was, it was just like a snippet of, are you guys familiar with Dr. Disrespect?
+00:51:59 You know that guy? No.
+00:52:01 So he's like an extremely popular YouTuber, a Twitch streamer who recently had just gotten
+00:52:06 into, he had like a little scandal or whatever. I don't care. But like he had, I think this is
+00:52:10 as after he had come back and I just saw someone who uploaded a thing and here's what happened.
+00:52:15 He's just like, he was like hanging out and like someone donated like five grand or something
+00:52:20 all at once. He's like, wow, holy shit. And so he's just, you know, he's like playing the game
+00:52:23 and he's, you know, he's got the face cam on him obviously. He's green screened a little bit
+00:52:27 and he's like, wow, holy shit, hang on guys. We just got like a big donation. Hold up. And so
+00:52:31 he presses a button like on his thing and like the visual changes and the visual is now we're
+00:52:37 looking at like a big like night sky skyscraper field with like, like there's a big building
+00:52:42 with like Twitch HQ, like on the top of the building. And I had never seen this before because
+00:52:46 I haven't actually watched any of his actual streams. And it's all of a sudden, like on his
+00:52:51 stream, we're now looking at a big image of like this, this nightline skyscape or whatever. And
+00:52:56 we see Twitch HQ in the distance. All of a sudden, like on the bottom left of the screen onto this
+00:53:03 like animation, Dr. Disrespect himself walks out into the animation. So, and then he points
+00:53:09 up at Twitch HQ and he's like, there it is guys, Twitch HQ. I'm taking it for my own today or like
+00:53:16 and I'm like, what is happening? How is he doing this? And so, so clearly, like at home,
+00:53:22 he's got like a setup going on where he's got like a green screen somewhere and he can press a button
+00:53:27 to like switch the viewer to like go to that and he's got it set up so that he can like suddenly
+00:53:31 be in this cityscape, like looking up at Twitch HQ with like his green screen and like camera
+00:53:38 set up at like any time he wants to. He's got this ready to go. So he can just like, he can be in
+00:53:42 like this weird cyberpunk Twitch future looking up at the fucking Twitch HQ. I was like, this is
+00:53:47 the most creative use of streaming I've ever seen in my entire goddamn life. And I'm starting to get
+00:53:52 why this might be where things are going in the future. That sounds incredible. That sounds
+00:53:56 indescribable. It was so, I was, I was rocked to my core. I could not believe someone had done
+00:54:02 this, but it was like the coolest thing I've ever seen. By far the coolest thing I've ever seen
+00:54:06 anyone do on Twitch or like while streaming, it was nuts. Like he must have had another camera,
+00:54:10 a green screen setup, everything's ready to go. He must do this all the time, but just unbelievable,
+00:54:16 incredible. I loved it. That's sort of like, like real broadcasting sort of, you must have a team of
+00:54:22 people setting that up so you could click, click, click, change camera, everything. I mean, I was,
+00:54:26 I was just thinking to myself like how I could do it and Xsplit, which is what I use, has like a
+00:54:31 function where you can just like basically click to switch like views and it automatically does
+00:54:35 just like changes the inputs. And if you set everything up, you can have it at like the push
+00:54:39 of a button. If you set up everything ahead of time to just like have that ready to go while
+00:54:43 you're streaming, but still like to put that whole production together is like, even the idea, the idea
+00:54:50 just like, this is what I'm going to set up. This is what I'm going to do. Like that's just,
+00:54:53 this guy just is like, he made this animation or something. He's just like, I'm just going to go
+00:54:58 now, stand for a while, look up at this fictional Twitch HQ that I've invented in my own little
+00:55:04 narrative on my stream. Like, holy shit, that's like the best idea I've ever heard. Just, I mean,
+00:55:10 if he gets like a regular huge donations of like five grand, then I guess it's easy to pay for that.
+00:55:17 They call him, yeah, he's doing very, very well. But like any of us could do this too if we just
+00:55:21 had like a second camera running and a green screen. And all you do is like put the image up
+00:55:25 or something. First video, first video of Radcon 3 checking the Kickstarter. Wow, guys, we got a
+00:55:32 big donation coming, like cuts cuts to a recording of us. There it is guys, PCPHQ, we're going to
+00:55:38 take it for ourselves. All I'm saying is, if we have PCPHQ and we have like a live stream room or
+00:55:44 some sort of like talking room, we could definitely set something like this up. And I very much want
+00:55:49 to. I would love that. I'm actually super into streaming. I love streaming. I think it's really
+00:55:55 nice. I used to stream a lot, but I've fallen off the wagon now, but I really like it. I think
+00:56:00 it's the way of the fucking future. I'm curious though. Mr. Tavern, what do you think of streaming?
+00:56:04 Do you see it as possibly the way the future is going? Or do you think it's going to be
+00:56:08 equal or just kind of parallel to let's playing stuff? Or what are your thoughts on the matter?
+00:56:13 Well, I have no idea really. I've never been much for the wave of the future kind of thing,
+00:56:20 if you know what I mean. Sure, fair enough. I usually review old games and play older games.
+00:56:25 But on a personal level, it's really hard for me to watch streams because they usually
+00:56:32 happen at very specific times. And I prefer YouTube videos because I can just watch them
+00:56:38 whenever I want. I do like that. That's kind of the main advantage, isn't it? That's probably
+00:56:42 one of the reasons why I've never gotten into watching streams. I do stream sometimes and I
+00:56:47 like doing them a lot, but I've never gotten into watching them. I guess.
+00:56:55 It's fun to stream just because there's no extra editing work you have to do. You just do it and
+00:57:01 once it's done, it's up somewhere. That's great. It's a very relieving feeling to just know you're
+00:57:06 done at the end. It's a different feeling from making a product because the whole thing with
+00:57:11 let's plays is that if it's a personality driven let's play, you're basically hanging out with
+00:57:16 the people on the let's play. Exactly. And a stream is just more directly adding to that so
+00:57:22 that you can chat to the person in real time. The reason I like streaming is also one of the
+00:57:28 reasons I don't like streaming. It's a two headed thing. It's a Hydra. I like the fact that I get
+00:57:35 instant input and satisfaction from my trials and tribulations within the virtual world.
+00:57:43 But then I also feel like it's kind of sometimes too fan oriented where it just
+00:57:50 especially if you're watching stream archives and there is no streamer hasn't put up a
+00:57:55 visual of the chat, who's just responding to things in chat and you'll have no idea what the
+00:57:59 fuck is going on. So it's super archaic and hard to get into from an archive's point of view,
+00:58:04 but I guess that's not the way streams are meant to be played. I'm wondering if maybe it makes the
+00:58:08 most sense. I was thinking exactly that. If the point of streaming is to get the engagement,
+00:58:13 from an audience perspective, you get to feel like you're part of the action as it's going on,
+00:58:17 which I think a lot of kids will really enjoy because kids have no sense of self and they want
+00:58:21 to attach themselves to a powerful figure in their eyes, et cetera, et cetera. But maybe stream
+00:58:28 archives are fun and all, but you totally lose that sense. That's why maybe stream highlights
+00:58:33 are the thing to go for. That's what German does. I don't want to say I found a solution,
+00:58:40 but if you archive something on Twitch and you go back and you rewatch it,
+00:58:46 it archives the chat as well. That feature is amazing. That's so good. Your archive is on
+00:58:52 Twitch. The chat will go in real time with the replay. That is why, unfortunately, all my racist
+00:58:58 slurs I post in the Twitch chats every day are forever more be seen by everyone watching.
+00:59:03 I was going to be, I guess, the sole contrarian just be like, I hate live streaming. I hate doing
+00:59:08 it a lot because I don't know. I feel really stressed out when I do it. I think the reason
+00:59:14 is that I either live stream me doing artwork or I live stream playing video games. The reason
+00:59:19 I do work is to get work done and I want to stay focused. When I'm sure, and I have to not be focused,
+00:59:25 I got to keep tabs on the chat and stuff and make sure I'm not just because if I'm just sitting there
+00:59:29 doing work, I must just do work. Why split my time? Well, I'm curious. I mean,
+00:59:35 we've been talking about the idea of possibly streaming the PCP recordings. Haven't you been
+00:59:40 kind of advocating for that? Is that a different situation? Yes, I think that is different. The
+00:59:45 reason I hate streaming solo is because if I'm doing work, I want to stay focused. Dealing with
+00:59:51 the chat is just like, I'm not good at multitasking. They'll be like, half an hour blocks me just
+00:59:55 sitting there working and then I'll check the chat and I'm like, oh, hey. Half the people aren't
+00:59:59 talking anymore because no one's paying attention. When I stream playing video games, I play video
+01:00:04 games to relax. And so I can't relax because I have to like try and keep a persona up and be
+01:00:09 entertaining. Yeah. So both scenarios suck. But streaming the PCP would be fine because I'm just
+01:00:15 talking. And that's true. That's true. You know, like we'd all be able to keep tabs in the chat
+01:00:20 if we had a chat going. So I wouldn't be my sole responsibility. Like there's been huge lulls in
+01:00:25 the conversation for me. While you guys are going off about dark side folks, I don't know shit about
+01:00:29 them. I could be in the chat just fucking bomb and shit out or whatever. So like, I feel like
+01:00:33 that would make more sense just for my comfort in terms of like being able to do it. But when I
+01:00:38 just stream solo, I hate it. Like I'm trying to get better because like, I think there is going
+01:00:41 to be a big market for that. And I think a lot of people are into it. But I just, I'm not naturally
+01:00:46 attuned to that medium at all. And this is uphill battle for me. I like, I genuinely like the fact
+01:00:53 that I have a small stream audience that I get like maybe 20 viewers, like, like, you know,
+01:01:00 after it goes on for a long time, like 10 people like that. You know, that statement,
+01:01:03 Munchy is like the equivalent of that old line Ben used to say about how he loved
+01:01:06 average looking girls. He liked, he like normal looking girls. You know, I don't want those tens.
+01:01:11 I don't want those actually attractive girls. I just want to really say that.
+01:01:17 King of five. That's not the same at all. Everybody knows what I'm talking about. Everybody
+01:01:23 knows about like, you know, the like the blonde tan look is not for everybody. You know, the
+01:01:28 classic 10 out of 10 is not for everybody. Ben likes attainable girls, everybody. That's not
+01:01:33 even true. And if I said that one time, it was ironic. The reason I like it is because then I
+01:01:40 can just play the game. And the chat is not always going, I don't have to always look at my phone and
+01:01:45 you know, see the chat open and respond to it. It can be a slow, you know, drip of a fan interaction
+01:01:51 so I can pace myself. I can respond to the game. It's like a let's play. But occasionally I can
+01:01:56 have fan input. And this is the second thing I'm about to say here goes into my weird two-headed
+01:02:03 double think about streaming is whenever I like put a joke in a Twitch chat and the streamer is
+01:02:10 like, haha, like I see that like, like, like very funny, munchy, W tiny hats. I'm like, I've been
+01:02:15 validated. My life is worth living. I can go to sleep a happy man. If I were to, if I were to die
+01:02:21 today, I would die fulfilled a happy life. But then when I'm in a chat or I'm in a stream
+01:02:27 archive, I'm just like watching. And then like, like, I see, I see the fucking face cam. I see
+01:02:32 the streamer with his dopey fucking expression. Look and like lean forward at the monitor, like,
+01:02:38 like looking and like reading chat. And I see him go, that's a funny one Excalibur 2007. I get
+01:02:47 flying to find to an uncontrollable rage that this interaction in the place of my of my timeless
+01:02:55 media is getting the place of my timeless content. And it's ruining the fucking experience. And I
+01:03:00 and I fly off the handle and I cannot accept it as valid artistically. I fucking I hate it when
+01:03:07 it's not happening to me. I definitely feel like there's a place for both like, let's plays as like
+01:03:15 rewatchable things that aren't like in the moment stuff. And then also streams, I feel like you
+01:03:21 can do you can be a streamer who also does let's plays. I don't know if anyone actually does that.
+01:03:26 But like, I mean, the the Spoonie experiment let's plays, where he's just he does like
+01:03:32 Fantasmagoria and this this Ripper game, they're like old Windows PC pointing click games with
+01:03:40 like full motion video sequences. And he he riffs on the game. He's just he's playing it. And he's
+01:03:47 occasionally he explains something to the audience. But most of the time he's just,
+01:03:50 you know, doing like that guy with the glasses reactions to things. But he's not like on camera
+01:03:54 or anything. It's just like a let's play show of, you know, him playing through the game and
+01:03:59 reacting to things as they come. And you know, it's kind of like a hybrid of like, it recorded at
+01:04:05 the time and also scripted stuff. And the scripted stuff, the aspect of that that's like scripted
+01:04:12 and cutting out like really boring parts is what makes it so rewatchable. I think I've rewatched
+01:04:18 him play Fantasmagoria to like eight times, and it's like a six hour let's play.
+01:04:23 Like they're just like, they're so so rewatchable. So like, I try to rewatch Digi Bros. But because
+01:04:31 because it's all about like stuff that's currently happening to Digi and Victor,
+01:04:35 it's hard to like get into it again, because it's so long in the past. And it's not even that
+01:04:39 particularly interesting. It's just sort of anywhere in an episode. You have to start from
+01:04:45 the beginning of each series. Yeah. And it's like the things like the what Gamers Teven does and
+01:04:52 what was the guy you recommended? Darkseid Phil? No, no. The one he recommended.
+01:04:59 Retsu Prey? Yeah, Retsu Prey.
+01:05:02 Was that your frame to Hippo? No, no, the the other one.
+01:05:06 Are you talking about who I recommended? Yeah.
+01:05:09 Cormor Jolt. That's the one. I'm gonna I'm gonna look at him because like I feel like if if there
+01:05:14 anything like yours, they're gonna look at this early early stuff. Yeah, they're gonna be like
+01:05:18 things that you can just rewatch and put on at any time to just like, oh man, remember this,
+01:05:24 like you I could come back like 10 years later and watch a Gamers Teven let's play because
+01:05:28 they're just like funny things. They are basically timeless. They are basically timeless.
+01:05:33 You just filed for your second mortgage and your wife has left you and you're stuck with two rotten
+01:05:38 kids who don't respect you or love you in any way. You can look back on the old times and just
+01:05:42 play a playlist of Gamers Teven videos while you put the fucking pistol in your mouth ready to meet
+01:05:48 your fucking maker. Oh, looking a little cloudy outside, gets hit by a cloudy with a chance of
+01:05:57 pain balls. Got him. Classic Gamers Teven quotes. You're fucking gray matters.
+01:06:08 Well, hell guys, we've got quite a journey here. Maybe are we done here? Should we get to the
+01:06:13 questions at this point? I'm feeling pretty pretty good. What about me? What about me and my legendary
+01:06:20 let's play pieces such as nobody going to bring up the elephant in the room? Oh, of course,
+01:06:28 the Nuzlocke's. You know, I wasn't thinking the most let's play in the room. I was thinking of
+01:06:32 this like more like Nuzlocke's to me are like a subcategory of let's plays, I suppose, that are
+01:06:37 just infinitely better in every way. Well, yeah, the Ben St. Nuzlocke's are of that sort of same
+01:06:43 like rewatchable quality, although I have not gone and rewatch them. I probably should. I just,
+01:06:50 since we're on the subject, I want to say about that whole thing that I was really going for,
+01:06:56 I was really going to like take an extemporaneous improvised format like a let's play and turn
+01:07:03 it into, not a scripted, but turn it into like a narrative experience. Of course not. You can't
+01:07:09 discredit your own statements from earlier. It can't be scripted. Well, yeah, yeah, no, it was
+01:07:14 totally unscripted. It was totally raw. Ben put like the basic plot points in order, like he's,
+01:07:22 you know, a weird dictator murdering Pokemon and whatnot. Delete from the watch later right now.
+01:07:30 That came up kind of off the cuff. Like I wasn't planning that when I started it.
+01:07:35 Right. With your first one, that's true. That's true. More for the second one. Yeah,
+01:07:38 like that was all kind of. And it was just like, oh, anything that comes up, anything that gets
+01:07:41 brought up as like a joke will continue to be relevant and will become lore, you know, was the
+01:07:47 goal there. And yeah, you're right. It's, I don't know if I would even really call it a let's play.
+01:07:53 I mean, it is, but it's really its own animal. It's really just its own piece. You know, it's
+01:07:57 something greater. It's something greater than anything. It's greater than let's play. It's
+01:08:01 more artistic than your commonplace peasant let's play. The Ben St. let's play is truly, you know,
+01:08:08 a breed its own. Yeah, yeah, yeah. I would certainly recommend Ben's Nuzlocke's. If you
+01:08:13 have the slightest interest in Pokemon or Nuzlocke's, I would say a genocide is better than
+01:08:18 conquest. Um, oh yeah, which one do you like more? Uh, yeah, it's tough. I would probably have to go
+01:08:24 with genocide. Um, but they both got their, they both got their, their charms. They've both got
+01:08:31 bananas. Which is the one with bananas? Which is the one with bananas? That's genocide.
+01:08:35 Then genocide's better. Yeah. Yeah. Bananas is a pretty legendary moment.
+01:08:41 Also, which is the one with, uh, uh, the radicate, uh, whipstitch? That is all. Yeah,
+01:08:45 that's also genocide. Yep. Genocide wins. Genocide wins. Whenever we bring him up, I have,
+01:08:49 I have to mention how I famously ripped off whipstitch with a lowland radicate and named him
+01:08:55 which whipstache and use Ben's own tactic against him. I have to bring that up every
+01:08:59 sometimes. Did you beat Ben using that? Yeah, I did. I'm so proud of myself. I, I, that, that's
+01:09:05 what I think about when I go to sleep. I, I, I, I sue the pain and all the, all the dead souls
+01:09:10 looming in my ear by just thinking about how, how I pull that off expertly. Fantastic. Well done.
+01:09:16 Congratulations. That, that did happen. It was canon. Uh, former vice president, Joe Biden did
+01:09:22 do all of the things Munchy just described. Oh, that's right. That's right. I, I, I, I actually
+01:09:28 want to extend this a little bit here. Nate, if that's all right. I've been brushed up upon
+01:09:32 something that I would like to mention, uh, how the, I'd not, not, not, he did not actually mean
+01:09:38 this. It was me, me saying this, but, uh, how some like, like the, the let's plays that are two
+01:09:44 dudes talking and let's plays that are, you know, two or, you know, people talking about the game.
+01:09:48 There's various types of let's plays of varying quality. And I would like to get to the hard
+01:09:52 matter here. Are let's plays like, like good, are, are, are they good? Does just playing a
+01:10:01 game and coming to a constant being good content and you know, it's, it's a fuzzy area, but it's,
+01:10:08 it's lofty and retarded. But I, I think like the two different types of let's plays, personality
+01:10:15 or like a presentation or like a show, like an edited show. Uh, it just depends on a, like if
+01:10:21 it's a personality thing that you don't do it too much, I guess. Well, actually, no, that's not
+01:10:27 really a question. The question is, are they good in general? They can be good. Are they art? Are
+01:10:33 they art? Are we using the super narrow definition of art? No, what I think it is, is that my, my
+01:10:39 opinion is that let's plays playing a video game in and of itself is not art. Uh, there's nothing
+01:10:46 artistic about it. And if you're making a let's play, just because you're like, I want to play
+01:10:50 video games and get paid for that's the dream. You're going about it wrong. A let's play is a
+01:10:54 foundation on what's, which to build art on top of playing the game has to facilitate some sort of
+01:11:00 creativity or some sort of, well, you know, entertainment value, whether it's presentation
+01:11:05 or personality, or it's a, it's a, it's a platform to showcase something beyond just playing the
+01:11:10 game itself. I feel like this is sort of wrapped up in the fair use question where it's kind of
+01:11:15 unclear whether or not, uh, like a let's play is a transformative work, legally speaking. Um,
+01:11:21 but like, just as like, I think there's things that like long plays are probably the least, um,
+01:11:29 aren't it, which is just showing especially when there's no commentary commentary. I love watching
+01:11:35 long plays. So I have to actually play the game. Yeah, that's what they do. But, but there's other
+01:11:39 things that don't really require a personality or like, um, an edited show, which is speedruns,
+01:11:47 which is basically like, it's the same as a long play. It's just less long.
+01:11:55 In a way, in a way that's true. Um, um, there's a lot going on in a, in a speedrun, but Ben, go
+01:12:01 ahead. Speedruns are really great when it's a game that you know really well, you know, because
+01:12:08 like these people are, they're showcasing their mastery of the game and really breaking the mechanics
+01:12:14 to like optimize, you know, completion time and whatnot, which is in and of itself sort of,
+01:12:19 you know, like changing the game. I mean, it's not actually changing. It's all within the
+01:12:23 parameters, what the game allows, but it's, I think, I think it's a documentations. Things
+01:12:28 like speedruns are like, like just a document. They're kind of like a technical manual of a
+01:12:32 thing. I guess if somebody makes, if somebody makes a documentary about people's speedrunning,
+01:12:37 then it's, uh, but before that it's just like, here's like footage of me trying my best.
+01:12:42 Is a, here's a question. Is a comedy routine art that like a comedian does on stage, is that art,
+01:12:47 or does it become art? If you film it, are either of those art?
+01:12:51 Both are clearly inherently.
+01:12:53 Both are. Okay. So we can all agree at the very least that what Gamer's Tavern does, for sure,
+01:12:57 is art.
+01:12:58 Absolutely.
+01:12:59 Oh, yes.
+01:12:59 When I say art, I know that obviously.
+01:13:02 Thank you very much.
+01:13:03 It's a vague term, but what I mean is, does it hold the same like cultural, like culture per
+01:13:10 turn output, or like societal, you know, pressure, like, like, like, you know, the Holy Titans,
+01:13:16 like 3D anime, or like Super Hals?
+01:13:18 Here's a good example, though. Like, uh, Egoraptor did, of course, his famous sequelitis on Mega Man X,
+01:13:24 but then he also did a long solo Let's Play. I think he most, either completely or mostly finished
+01:13:29 Mega Man X. Is one of those art, and the other isn't? If so, why? Because they basically do the
+01:13:35 same thing.
+01:13:37 Wait, so I've never seen the second video you're talking about.
+01:13:40 It was a single Let's Play on Game Grumps where Dan was sick or away or something.
+01:13:46 Was he just talking about the game?
+01:13:49 Yeah.
+01:13:49 He was playing it and talking about it. I mean, you've got to just ask the question,
+01:13:54 is somebody talking art?
+01:13:56 That's exactly what I was about to say. Are two people playing a game,
+01:14:01 commenting on it, constitute art? Well, are six people talking about Let's Play's art?
+01:14:06 Is this art right now?
+01:14:07 Well, see, that's the thing. That's the thing.
+01:14:08 No.
+01:14:08 We have to completely put aside the question of quality.
+01:14:11 Quality is completely irrelevant to whether or not it's art or not.
+01:14:14 If quality is irrelevant, I would say that yes, it is art.
+01:14:17 Yeah.
+01:14:18 It's a sort of performance art.
+01:14:19 Because, yeah, it's kind of performance. It's recorded.
+01:14:23 It could be edited, you know.
+01:14:24 I guess it depends on the presentation or the intention, I guess.
+01:14:29 Because I wouldn't say if you go to college, you sit down in a big fucking auditorium
+01:14:34 and someone presents you biology. I wouldn't call that presentation art.
+01:14:39 But what if the man makes a single joke within the context of this lecture?
+01:14:44 Then the joke is art.
+01:14:47 But not the whole thing, just the joke.
+01:14:48 I don't think so.
+01:14:49 I just think that this whole idea, it's silly.
+01:14:54 If it's a recorded product put somewhere for people, if it's made for an audience.
+01:14:58 The definition of art is really unduable and at the end of the day, rather irrelevant.
+01:15:06 It's all gray. It's an unspoken truth that we all have fuzzy artwork legitimacy hierarchies.
+01:15:13 Oh, for sure.
+01:15:14 Like subtlety, it'll change for each genre or medium, which we consider more art,
+01:15:23 regardless of how retarded that is or how conceited that is.
+01:15:26 Like how I famously set fire to the petrol black, oil doused wooden altar of porn and books.
+01:15:36 Their artistic credibility ruined literature and porn forever and no one could view them
+01:15:42 as anything that have our artistic quality to them.
+01:15:45 But at the end of the day, all art is art and there's nothing but pretension and segregation,
+01:15:49 but we all do it.
+01:15:51 You're asking for an authority here and luckily for you, I have the authority right here.
+01:15:55 It's name is UrbanDictionary.com and we've got the definition of art,
+01:15:59 allowing me to provide it to you so we can settle this debate for all time.
+01:16:02 Here we go, art.
+01:16:04 Art is used as the shorter version of the common British greeting all right.
+01:16:08 It means that you are okay with something and accept.
+01:16:11 Jim wants to go to Walmart.
+01:16:13 Quinn, hell yeah.
+01:16:14 Jim, I'll pick you up in 10.
+01:16:16 Quinn, art, the end.
+01:16:18 That's it.
+01:16:18 Wow.
+01:16:19 If, Sue, we're going to have to saw you apart.
+01:16:22 No, no, right.
+01:16:23 That's wrong.
+01:16:24 That's incorrect.
+01:16:25 It's right.
+01:16:27 We don't say the A bit.
+01:16:28 We don't.
+01:16:29 We just say right.
+01:16:31 That's how we say all right over here.
+01:16:33 Okay, fair enough.
+01:16:34 So you can't make that.
+01:16:35 Well, now we know how they say all right in the UK.
+01:16:42 Exactly, that was what we really achieved our goal here.
+01:16:44 I just want to say one thing.
+01:16:47 If say Munchie was not any internet guy, I just, I saw him on the street and he was
+01:16:53 saying a speech.
+01:16:54 He was just talking funny and I was like, yeah, that's funny.
+01:16:56 If I was just doing arm retrieval alone behind the fucking dominoes, yeah.
+01:17:02 Walking down the streets doing an arm retrieval and I was like, huh, that's a funny talker.
+01:17:07 I like that wordsmith right there.
+01:17:09 Would that, would me watching him or listening to him just in person as a human being,
+01:17:14 would that be considered art?
+01:17:16 Yes.
+01:17:18 I have something to say about this.
+01:17:19 Okay, okay, okay.
+01:17:20 Imagine you're in a quirky, comedic or otherwise interesting scenario,
+01:17:24 like Kimbo just mentioned, waiting explicit.
+01:17:29 Like it doesn't matter what you just, you know,
+01:17:31 you're something in your life is unfolding and entertaining and provoking way.
+01:17:36 And it's something that you would, you know, present to others, to the unwashed message.
+01:17:40 First of all, is the experience of this scenario are inherent or, and secondly, what would be,
+01:17:48 this is what I want to, what would be more artistic?
+01:17:51 You telling your story to someone or you recording the scenario?
+01:17:56 Let me break here.
+01:17:57 Okay, here's definition two is the answer to this question.
+01:18:00 I think this is actually a very good definition from Urban Dictionary on what art is.
+01:18:04 Once when asked, or art, once when asked what Trans-Siberian Orchestra was about,
+01:18:10 Paul O'Neill replied, it's about creating great art.
+01:18:13 When asked to define what great art was, Paul said,
+01:18:16 the purpose of art is to create an emotional response in the person that is exposed to that art.
+01:18:21 And there are three categories of art, bad art, good art and great art.
+01:18:26 Bad art will elicit no emotional response in the person that is exposed to it.
+01:18:30 Good art will make you feel an emotion as you have felt before.
+01:18:33 You say blah, blah, blah.
+01:18:34 And great art will make you feel an emotion that you have never felt before, et cetera, et cetera,
+01:18:38 that's the rest.
+01:18:40 I think that's, I like his first statement before delineating between them.
+01:18:43 If you feel an emotion, that's it.
+01:18:44 You're, it's art.
+01:18:46 And, and I mean this podcast and any and all Let's Plays by that definition are do qualify.
+01:18:53 So, so, so if I, if I touch a burning stove and I go, ouch, does that mean that's art?
+01:18:58 That experience was art.
+01:19:00 The experience is art.
+01:19:02 Your decision, your decision to touch the, the, the stove was.
+01:19:06 There's always going to be arbitrary lines.
+01:19:08 I don't know if, but yeah, like some gatekeeper.
+01:19:11 The reason it's so like everybody always argues about what art is and like the parameters of
+01:19:18 what you can define as art and like, oh, but what about this?
+01:19:21 And then everyone's like, oh, fuck, what about.
+01:19:25 And it's like, the reason is, is that art is, if it like applies in that way,
+01:19:31 which I probably would agree with, it becomes mostly useless and you just have to use it
+01:19:36 colloquially.
+01:19:37 Like if you see a painting, people generally accept that a painting is art.
+01:19:41 You see it on the wall and you're like, yeah, that's a good piece of art.
+01:19:45 And even if something else would qualify, most people like, like somebody just talking on the
+01:19:50 street really in a funny accent, you're like, whoa, that's cool.
+01:19:53 I feel an emotion.
+01:19:54 Nobody would say that's art.
+01:19:56 They just say, I saw this real cool guy today and that's what they would say.
+01:20:00 Give us right.
+01:20:00 Give us right.
+01:20:01 Ethnic minorities are art, for sure, for sure.
+01:20:04 I would say that art needs to be created.
+01:20:08 So, so this means in your scenario, if I had wrote a script for Armoryville and then was
+01:20:13 reciting that script while banging trash cans and pushing over homeless people,
+01:20:18 walking down the street, then that would be art.
+01:20:20 But if it was, well, that would rule out improv, I guess.
+01:20:25 I don't know.
+01:20:26 It's never going to be something that anyone can define.
+01:20:30 But except for what the wider consciousness of the world of people generally think of as art is
+01:20:37 like media and things that are like things that we like.
+01:20:41 Yeah, that's art.
+01:20:42 Even if other things qualify, we'll just say, here's a cool thing.
+01:20:46 It's here's a cool art.
+01:20:48 I think I have it.
+01:20:49 It has to be a creation for an audience.
+01:20:53 So, so if I were to like touch a stove and get my hand burned, that would not be art.
+01:20:58 But if I was like, hey, check out this.
+01:21:00 Watch me touch the stove.
+01:21:02 Yeah, exactly.
+01:21:02 Watch me touch the stove.
+01:21:03 And I was like, ow.
+01:21:04 And then I did like a like a cartoonish like suck my my my dick afterward.
+01:21:09 Get that nice and wet.
+01:21:11 Okay, but what if, okay, here's a thought though.
+01:21:13 What if like a lightning hits a beach one day and forms like this beautiful like circle of
+01:21:19 glass somehow?
+01:21:20 Okay, let's say maybe that's not even art right then and there.
+01:21:23 Not art.
+01:21:23 But what if a guy discovers this is like, wow, this is beautiful.
+01:21:26 Comes by like puts a frame around it and starts selling tickets to come see this artwork,
+01:21:31 this natural artwork.
+01:21:33 At what point did it become art, if any?
+01:21:36 It's not art.
+01:21:36 It's a product at that point.
+01:21:38 No, that is totally art in the same way that photography is art.
+01:21:42 Because you can take a picture of something that naturally exists.
+01:21:46 And it becomes art because you've curated it.
+01:21:49 Because you've excluded, you've chosen what to include and exclude for show.
+01:21:55 But he hasn't done that to just put a frame around something.
+01:21:58 But that's what you did choose.
+01:22:00 That framing is delineating what is and isn't part of the artwork.
+01:22:03 You can say if they put the frame in a specific way to frame like that natural formation and
+01:22:11 the background and you were only supposed to view it from this specific angle, then fine.
+01:22:16 But if you're someone who's just like, hey, check out this thing on the beach.
+01:22:19 Here's, give me $5 to look at it.
+01:22:21 That wouldn't be art.
+01:22:23 Well, he had to choose the frame.
+01:22:26 This comes to what I was asking earlier, where what is more artistic?
+01:22:31 Like telling the story of a scenario or recording the scenario?
+01:22:35 Because recording is like the obvious like, oh, you have the video file.
+01:22:40 There's a difference in scale.
+01:22:42 I definitely think so.
+01:22:42 I definitely think so.
+01:22:43 I think that the story is more artistic.
+01:22:45 Because you're using words in specific ways and telling because, you know, when you're
+01:22:49 telling a story, it's not going to be completely factual.
+01:22:51 You're going to make work.
+01:22:52 You're going to use different words that will have a different meaning in everyone's
+01:22:56 else's heads.
+01:22:57 Like one word will be different for different people.
+01:22:59 But if it's like a recording, it will just be like, you know, a recording.
+01:23:02 All I know is that this week can go back and forth on what's artistic, what isn't all I want.
+01:23:07 But this entire conversation is definitely autistic.
+01:23:10 And I'm done with this.
+01:23:11 Well, I was going to bring it back around.
+01:23:13 The best way to solve this is art is whatever you want it to be.
+01:23:17 Yeah, it really is.
+01:23:18 That's pretty much what it comes down to.
+01:23:19 And that's why Game of Seven is the best Let's Player of the World.
+01:23:22 Is the European Union art?
+01:23:25 Oh, definitely.
+01:23:26 Because they had to curate it.
+01:23:28 Because it was created for an audience and that audience is God.
+01:23:32 Indeed.
+01:23:32 All right, guys, I think we've hit the wall here.
+01:23:34 I think we've done all we can do.
+01:23:36 Please God end us.
+01:23:37 We just have to let the audience sort out our science that we have witnessed before them.
+01:23:43 Our patantic bullshit arguments that mean nothing.
+01:23:46 But nevertheless, we care intensely about.
+01:23:49 Of course.
+01:23:50 Of course.
+01:23:50 Well, that being said, everybody, I should have said this at the very beginning,
+01:23:54 by the way, but I just want to make an announcement.
+01:23:56 RadCon3 Arena is 100% funded and is 100% happening now.
+01:24:01 The five members here, plus Digi, March 14th or so, it's entering the arena.
+01:24:08 Hashtag enter the arena.
+01:24:10 It's happening.
+01:24:10 Get us the next stretch goal so we can get some fucking go pros and I can shoot the shit.
+01:24:15 I can fucking strip Abraham Lincoln.
+01:24:18 Nate, best guy ever.
+01:24:19 You give me the money.
+01:24:21 Wouldn't it be John Wilkes Booth?
+01:24:23 Well, I guess not.
+01:24:24 I guess they're both.
+01:24:25 I guess you will be Abraham Lincoln.
+01:24:26 You fucking bigoted fuck.
+01:24:28 Bear it up.
+01:24:29 Bear it up.
+01:24:31 Me and Nate can 1v1 best guy ever versus worst guy ever in the arena.
+01:24:36 It's ultimate battle.
+01:24:38 And remember, please, if there's a link in the description, of course,
+01:24:41 to the Kickstarter.
+01:24:42 If you would just want to give money, thanks.
+01:24:43 Well, we can always use that.
+01:24:45 Again, fund the stretch goal for the enter the arena, the RadCon3 Arena IRL,
+01:24:51 shooting each other with guns and go pros and whatnot.
+01:24:53 I really hope that happens.
+01:24:54 Real guns.
+01:24:55 Hopefully going to.
+01:24:55 We're buying Glocks for everyone.
+01:24:58 Indeed.
+01:24:58 It's going to be great.
+01:24:58 And then also, we're going to have to invest in double jump jet boots for everyone as well.
+01:25:03 That's going to be pretty pricey, but we'll see what we can do.
+01:25:06 We'll make it happen.
+01:25:07 I'll keep you guys posted on Twitter.
+01:25:09 I'll let you know when I locate the quad damage and the mega health inside the arena.
+01:25:13 I'll let you know as we can keep up.
+01:25:16 And also, feel free to keep giving money if you want to pledge the $50 thing for the,
+01:25:20 for the shirts, the $100 for the shout out during RadCon.
+01:25:24 And if you want to get that $1,000, if you want to be in the Royal Rumble,
+01:25:27 is there still time?
+01:25:29 There is still time, my friends, as well as, you know, $20 for the, for the pin and $10 at
+01:25:33 least for the behind the scenes content.
+01:25:35 That's something that people might want, you know, at any time behind the scene stuff.
+01:25:39 Wait, there is.
+01:25:40 I want to shout something out real quick, but I have to find it.
+01:25:44 There's a comment that I want to shout out on the Kickstarter or where?
+01:25:48 No, on a previous video.
+01:25:51 Okay.
+01:25:53 Well, while you look for that, Nate, would you like to show us the, the, the pity poor
+01:25:58 fuck peasant surf question from the Twitter?
+01:26:01 Indeed, I would.
+01:26:02 Actually, I want to give a shout out to the Twitter boys, because there was a couple of
+01:26:06 questions here that are actually pretty good that I'm, I'm fond of.
+01:26:09 So we might do more than one pity question.
+01:26:10 Oh my goodness.
+01:26:11 Oh my God.
+01:26:12 And again, that's on at TPCrasnators as our Twitter and using hashtag asked PCP when we
+01:26:17 record on these Saturdays.
+01:26:19 That's generally when we're going to see your question.
+01:26:20 So keep it as follow us so that you see the notification so you can send your questions
+01:26:24 in there.
+01:26:24 But here we go from this is, this is one of my favorite questions of all time at
+01:26:29 Newer Borno asks, why do bitches have time to hit the club every night, but don't have
+01:26:35 time to attend one parent teacher conference?
+01:26:39 Because they're too busy hitting the clubs because they didn't have any kids in the
+01:26:43 world.
+01:26:44 You should never be allowed ever seen.
+01:26:47 If there's any failure here, it's my delivery.
+01:26:49 That question is awesome and hilarious.
+01:26:51 And I want, I'm glad everyone saw it when you, when you, when you were like, finally,
+01:26:56 we were going to have a good question on this show.
+01:26:58 We found the one good question and we found the needle in the haystack of these shitty
+01:27:02 horrible questions.
+01:27:03 We finally got, we've started on a strong foot here.
+01:27:06 I have found the best question we've ever been asked.
+01:27:09 Yeah.
+01:27:09 Best guy ever.
+01:27:10 Reading from the sacred text that is the Twitter.
+01:27:14 I was prepared.
+01:27:15 I was pumped up, but you have shoveled me shit.
+01:27:17 And I will rue the day you were born.
+01:27:21 All right.
+01:27:21 All right.
+01:27:22 Here's one that's actually got substance to it.
+01:27:24 Again, from the, from the Twitter at LibRplex, I think.
+01:27:28 From LibRcock.
+01:27:30 Exactly.
+01:27:30 Aside from the things immediately relevant to your career, what other internet slash
+01:27:34 IRL communities are you part of?
+01:27:37 That's an interesting question, I think.
+01:27:40 Communities?
+01:27:41 Yeah.
+01:27:41 I mean, for example, just as one that I, I'm kind of part of is like the fit board on
+01:27:45 4chan.
+01:27:46 Like it's in no way really relevant to like any of my content or whatever.
+01:27:49 But I sure hang out with those guys and talk about stuff and we talk about fitness and
+01:27:53 whatnot.
+01:27:54 So that, that, that's one for me.
+01:27:56 That's one for me.
+01:27:58 Pretty cool, dude.
+01:27:59 It's pretty cool.
+01:28:00 My, my answer is kind of sad because my 2017.
+01:28:04 Our incels, our incels.
+01:28:06 Yeah, yeah, they had.
+01:28:06 Yeah.
+01:28:07 Yeah.
+01:28:07 2017 was the year of, of the shrinking circle for me where I, I went from, you
+01:28:15 know, not particularly a lot of communities, but over the course of my
+01:28:17 involvement with the PCP, my, my, my soul has been sucked and my life has been
+01:28:21 drained.
+01:28:22 And, and, and I've, I've found myself becoming a part of less and less communities.
+01:28:26 Obviously not part of the PCP.
+01:28:27 You know, I was not doing that, but I just know coincidence, uh, you know, time frame
+01:28:32 reference.
+01:28:32 As, as a man focuses on the things important to him in his life, he'll have less time to
+01:28:37 deal with the things that are less important.
+01:28:38 And you know, I think that's a natural consequence.
+01:28:40 So, so, you know, I used to frequent like, you know, like, like V and stuff, you know,
+01:28:46 not, not super in depth.
+01:28:47 I used to go in tumblers to, you know, do a whole bunch of stuff.
+01:28:50 But now, uh, you know, I used to be part of, you know, fandoms and shit, but that was,
+01:28:52 you know, that was, that was, that was way further, uh, wave now.
+01:28:56 Yeah.
+01:28:57 Uh, I used to be in a ton of stuff, but now I, I'm really only, you know, a part of
+01:29:01 this circle, which is, you know, you guys are nice and all, but you know.
+01:29:05 Look, nobody's forcing you to do shit, Munchie.
+01:29:08 No, I'm not.
+01:29:08 This is not a pity party.
+01:29:09 That's not what I'm saying.
+01:29:10 That's not what I'm saying at all.
+01:29:11 Okay.
+01:29:12 That's not even the point.
+01:29:13 You fucking bigoted fucking family.
+01:29:16 Okay.
+01:29:17 I'm, I'm, I'm just saying that, uh, I, uh, I, I'm not part of any communities and,
+01:29:22 and I will make that my goal for 2018 is that I need to be, I want to get back in
+01:29:27 the groove of going on different websites and, you know, uh, you know, hanging out with
+01:29:30 different people.
+01:29:31 I think that's, uh, that's,
+01:29:32 I do too.
+01:29:33 I do too.
+01:29:34 I feel like I'm, I'm not, I'm not as active around the internet as I used to be outside
+01:29:39 of the PCP and that kind of sucks.
+01:29:41 It's healthy.
+01:29:42 Yeah.
+01:29:42 You gotta have more, you know, you gotta, you gotta, you gotta live a life to have the
+01:29:46 right to reminisce.
+01:29:47 You got, you gotta know more people so you can kill more people.
+01:29:49 That's my, that's my golden rule.
+01:29:51 Exactly.
+01:29:53 I found the comment I was looking for, by the way.
+01:29:55 Oh, okay.
+01:29:56 It is on the, uh, the radcon three Kickstarter announcement.
+01:29:59 Um, it's, it's one of the top, it's one of the most liked comments on there.
+01:30:03 Um, and I want to encourage you do not like this comment because Russell posted, Russell
+01:30:09 the Gengar posted saying if his comment gets 111 likes, he'll enter the royal rumble and kill me.
+01:30:16 And, um.
+01:30:17 Oh no.
+01:30:17 Please.
+01:30:18 He's at, he's at 68 likes so far.
+01:30:20 So he's more than halfway there.
+01:30:22 And if that were to happen, I would shit my pants on the spot.
+01:30:25 We're close.
+01:30:26 We're fucking close.
+01:30:27 So what do you mean we?
+01:30:28 What do you mean we?
+01:30:31 Who's side are you on?
+01:30:32 Our guy Russell.
+01:30:34 I'm just saying guys, you have the fate to put Russell in the royal rumble, it seems.
+01:30:38 If you, if you, if you would so desire to see Ben vanquish by his ghostly minions.
+01:30:43 If anyone were to imagine how a ghastly would translate onto a humanoid WWE custom character.
+01:30:51 He's involved into a Gengar now, right?
+01:30:53 He's a Gengar.
+01:30:53 He did eventually evolve into a Gengar.
+01:30:55 Okay.
+01:30:55 He would get those, uh, get those likes up.
+01:30:58 Hashtag let Russell wrestle.
+01:31:00 It's going to be.
+01:31:02 Hashtag let Russell wrestle.
+01:31:05 Please everyone, it's time.
+01:31:07 It's time to make it happen.
+01:31:09 Mr. Tavern, what communities would you consider yourself a part of?
+01:31:13 I forgot.
+01:31:15 Was the question about online communities or?
+01:31:19 It actually said IRL or online.
+01:31:21 It's all open.
+01:31:21 It's all open.
+01:31:22 Well, as far as online goes, nothing really now.
+01:31:25 I used to post on a lot of forums in the early 2000s and used to frequent IRC chat rooms and stuff like that.
+01:31:34 And I used to have a forum on my own website as well.
+01:31:38 Mm-hmm.
+01:31:38 But, uh, now I'm not really part of, uh, many online communities.
+01:31:44 I'm just, uh, flying solo.
+01:31:48 Yeah.
+01:31:48 Yeah.
+01:31:49 It's like our hero, Jason Derulo.
+01:31:50 Same.
+01:31:50 Feels bad.
+01:31:51 It feels bad.
+01:31:52 The only, the only community that I'm involved in that has nothing to do with my work is the gay community.
+01:31:58 I'm the best.
+01:32:01 Well, I wouldn't say that, Tom.
+01:32:02 I see a lot of that projected into your work.
+01:32:03 So, you know, you know, you got, you got me there.
+01:32:07 You can't completely expunge all your influences.
+01:32:10 What can I say?
+01:32:12 Gamer, I was a huge forum rat, though not in the early 2000s because I was too young.
+01:32:18 But in like 2010, I was a huge, huge forum user.
+01:32:22 As, as I've, as I've talked about in my embarrassing role plays,
+01:32:27 I'm just a role play episode so I can explain, I can explain my various role play up at a
+01:32:32 grease because, because I have numerous.
+01:32:34 That's not a bad idea.
+01:32:35 It's not a bad idea.
+01:32:36 That could be a bonus episode.
+01:32:38 Press one, press one if you want to hear about munchy role plays because that is sick.
+01:32:43 The question was also about IRL communities.
+01:32:45 If you guys like do anything.
+01:32:47 Sorry to interject, but I am actually part of one forum right now.
+01:32:53 It's called Hardcore Gaming 101.
+01:32:56 Oh, shit.
+01:32:57 That sounds like a nice place.
+01:32:58 Sounds like my kind of place.
+01:32:59 Sounds like some place Dark Side Phil would hang out.
+01:33:02 It is basically just they do game reviews and they have a forum,
+01:33:06 you know, very similar to my website actually.
+01:33:09 Yeah, I'm looking at now.
+01:33:09 I started first.
+01:33:10 They started in 2004.
+01:33:12 I started in 2002.
+01:33:14 Yeah.
+01:33:14 Got them beat.
+01:33:16 Show those youngsters what for.
+01:33:18 Actually, we haven't said the name of your website.
+01:33:20 I think it's just a, is it gamers tavern.com?
+01:33:23 Yeah, that's it.
+01:33:24 Yep, gamertaverns.com.
+01:33:25 There you go, everybody.
+01:33:26 Read the reviews.
+01:33:27 The longest running, most fantastic website review site ever.
+01:33:32 Fuck gamespot.com.
+01:33:34 Fuck IGN.com.
+01:33:35 You want the fucking great shit?
+01:33:38 You go to gamers tavern.
+01:33:39 You know, you know that you're at gamers tavern.com.
+01:33:42 You're not getting any of that corruption that you get,
+01:33:45 that journalistic corruption you get.
+01:33:47 At some place like Kotaku.
+01:33:48 You know, we're freeable.
+01:33:49 You're a journalistic integrity.
+01:33:50 Yeah, exactly.
+01:33:51 Gamer tavern, the most ethical person known to man.
+01:33:54 Exactly.
+01:33:55 His scruples count is as high as the fucking hammer units.
+01:34:01 I pray when I do a dance.
+01:34:04 He may deny it with his dying breath,
+01:34:06 but I suspect that gamers tavern
+01:34:08 is both the alpha and omega of GamerGate.
+01:34:10 He is the source and the end of all of it.
+01:34:15 Well, I did write an article about it.
+01:34:17 What were your thoughts?
+01:34:18 What were your thoughts?
+01:34:21 I actually didn't know anything about it.
+01:34:22 That's the point of the article about it.
+01:34:25 That's the best place to be.
+01:34:26 Oh, see, plausible deniability.
+01:34:28 You wrote that as a cover.
+01:34:29 It's a joke.
+01:34:29 It's a joke article.
+01:34:31 Oh, okay.
+01:34:32 Fantastic.
+01:34:34 I did absolutely no research for that one.
+01:34:36 That's how you know there's no collusion.
+01:34:38 That's exactly how much you should do.
+01:34:39 Because he didn't even know what it was.
+01:34:41 He didn't even take a side.
+01:34:42 Dude, talk about journalistic integrity,
+01:34:44 not even willing to be corrupted by the facts of the case.
+01:34:47 That's exactly what he just said.
+01:34:49 Incredible, incredible.
+01:34:50 Exactly.
+01:34:52 Beautiful.
+01:34:53 Well, hey, I think there was one more question.
+01:34:55 I wonder, oh, okay, here's one final question
+01:34:57 from the Twitter from atreadordarrel.
+01:35:00 And this is incredible.
+01:35:01 It's, are you aware that in the same month as Radcon 3,
+01:35:05 the Muppet Baby's reboot will also be released?
+01:35:09 Both will feature six members,
+01:35:10 and both will have members absent
+01:35:12 from their previous installments.
+01:35:14 And here's the question.
+01:35:15 Oh, shit.
+01:35:16 Coincidence?
+01:35:18 I think not.
+01:35:18 I think we definitely are the Muppet Babies.
+01:35:20 What do you think, loyal viewer?
+01:35:23 We'll leave it up to your interpretation.
+01:35:24 Yeah.
+01:35:25 Which Muppet Baby are we?
+01:35:27 You're definitely animal,
+01:35:28 because you're an animal in the sack, as we all know.
+01:35:32 Wait, no, he's a baby.
+01:35:34 You can't say that.
+01:35:35 Oh, no.
+01:35:38 That has never stopped me before.
+01:35:39 That's why I can't make that lie now.
+01:35:41 Yes.
+01:35:43 It's true.
+01:35:44 Now that those fucking poor people questions are out of the way,
+01:35:46 those fucking, you know...
+01:35:48 If only the contents of their wallet
+01:35:50 match the contents of their brain.
+01:35:53 Indeed.
+01:35:53 Oh, and by the way,
+01:35:54 actually, we said Patreon.com slash The Procrastinators
+01:35:59 pledge as little as $1,
+01:36:00 and you're into our Patreon Lounge
+01:36:02 and then $5 more to get those sweet bonus episodes,
+01:36:05 which we just released.
+01:36:06 Just a reminder, everybody,
+01:36:07 GamerGate versus the 2016 United States presidential election,
+01:36:11 the most legendary of all bonus episodes.
+01:36:14 So this is from the Patreon Lounge,
+01:36:16 from XenoGrade.
+01:36:18 Do you think guides slash wikis
+01:36:21 ruin the experience of playing the game?
+01:36:23 Oh, what a question.
+01:36:25 Yeah, yeah.
+01:36:25 Well, okay, my response to that is,
+01:36:28 have you played Minecraft or Terraria
+01:36:30 without having the wiki handy?
+01:36:32 You will kill yourself.
+01:36:34 You know, Terraria is actually interesting.
+01:36:36 Yeah, yeah, maybe that's a guide.
+01:36:37 The guide is really nice.
+01:36:39 Well, that's true.
+01:36:40 I just want to say about Terraria,
+01:36:41 since you mentioned it.
+01:36:42 I played Terraria blind the first time I did,
+01:36:45 and I actually did get a strong sense of satisfaction
+01:36:48 in the very start when I played it.
+01:36:50 But when I started to look up,
+01:36:51 just kind of like the little tasks
+01:36:53 that I should be doing,
+01:36:54 I got a lot more focus,
+01:36:55 and it really made the experience more fun to do it that way.
+01:36:59 In my experience, the experience of playing Dwarf Fortress
+01:37:03 is mostly reading the wiki.
+01:37:07 That's like, is the texture of the game,
+01:37:10 is the wiki, because I don't know.
+01:37:12 Maybe it's possible to learn it without that,
+01:37:14 but if so, that's a better man than I.
+01:37:18 Do you feel like games that require looking at a wiki,
+01:37:21 do you feel like they're victims of bad design?
+01:37:23 Should that be necessary?
+01:37:25 I think times have changed a little bit.
+01:37:27 I feel like if it can be like an addition,
+01:37:30 like you play a game all the way through,
+01:37:32 and you're like, well, I didn't really understand
+01:37:33 some of these things, and then you look up the wiki.
+01:37:35 Like Dark Demon Blood, all those games have the lore.
+01:37:39 And the first time you play it,
+01:37:40 you're like, I don't know what happened,
+01:37:41 but I enjoyed myself.
+01:37:42 And then you go look at all the big old theories
+01:37:47 and stuff and the explanations of the lore,
+01:37:49 and you're like, oh, cool, now I care more.
+01:37:52 That can be good.
+01:37:54 Dark Souls is good enough on its face.
+01:37:55 The one thing that's maybe a little bit worthy of criticism
+01:37:58 is it's really hard to get your footing
+01:38:00 at the beginning of Dark Souls
+01:38:01 and figure out where Andrey is
+01:38:03 and how to upgrade weapons.
+01:38:04 Like that can take a lot of hours of gameplay
+01:38:07 before you understand that stuff.
+01:38:08 That's true.
+01:38:09 That's the one way I would criticize it.
+01:38:11 With the lore, though,
+01:38:12 that really is just stuff to explore
+01:38:13 once you're already into the game.
+01:38:15 So I wouldn't really criticize it on that front too much.
+01:38:17 But Ben, remember in the old days
+01:38:19 when we would go to Game Facts
+01:38:21 and print out sheets of how to do stuff
+01:38:23 and Secret of Mana and Mario RPG and stuff.
+01:38:26 Yeah, staple them together
+01:38:28 and keep them in the box that all our video games were.
+01:38:30 I remember that too.
+01:38:31 Those were the old days.
+01:38:32 But with the modern world being the way it is,
+01:38:35 I am much more forgiving of games sort of like Dark Souls,
+01:38:39 or right now I'm playing Stardew Valley.
+01:38:41 And that game, it's similar to your Dwarf Forges
+01:38:45 sort of, or like your Terraria's and whatnot.
+01:38:47 Yeah, I played some Stardew Valley.
+01:38:49 More like Terraria, yeah.
+01:38:50 But like in that game,
+01:38:51 there's a lot that you need to either
+01:38:53 just like patiently wait to figure out.
+01:38:55 But I'm way too like goal oriented to wait for that.
+01:38:58 So I'll like look things up on the wiki.
+01:38:59 But it's so easy just to Google
+01:39:01 and go exactly where I need to go.
+01:39:02 Like every game is its own wiki now
+01:39:04 with all the information.
+01:39:05 It's so easy to like find the question,
+01:39:08 the answers to the questions I want to know.
+01:39:09 So I'm way more forgiving now.
+01:39:11 And I wouldn't really call it necessarily
+01:39:13 like a bad game design with something like that.
+01:39:15 Because I don't want to read a page after page
+01:39:19 of tutorial in a game.
+01:39:20 When I can just super easily Google,
+01:39:23 Stardew Valley wiki,
+01:39:24 how to grow a certain type of fruit
+01:39:26 that I need for like the community center or whatever.
+01:39:28 I would much rather just do things
+01:39:29 at my own pace outside the game and then jump in.
+01:39:32 Well, Stardew Valley doesn't have any like time restrictions.
+01:39:37 Like a harvest moon.
+01:39:39 Not really.
+01:39:40 Harvest moon, you had to do everything
+01:39:42 in a very tight timeframe.
+01:39:45 And to play that game and get a good ending,
+01:39:48 you really like needed guidance.
+01:39:50 But I feel like Stardew Valley is designed differently.
+01:39:52 Whereas it doesn't really matter
+01:39:54 whether you're playing optimally or not.
+01:39:55 I mean, the worst case scenario
+01:39:57 is that like you miss a window
+01:39:58 and you have to wait a whole year to like do it again.
+01:40:01 Like, and that's gonna be frustrating.
+01:40:03 But you will always I think have more time
+01:40:05 to do more as it keeps going.
+01:40:07 I don't think there's any kind of hard end
+01:40:09 to the gameplay.
+01:40:09 Though I'm only, you know,
+01:40:10 I'm not even through my first year of the game.
+01:40:12 So I'm not really sure.
+01:40:13 But I do want to make a distinction now.
+01:40:15 Oh, go ahead.
+01:40:15 There is a hard end and the first harvest moon
+01:40:18 for the Super Nintendo.
+01:40:19 Okay.
+01:40:19 Oh, there is one.
+01:40:20 There is one in like 97 or 98.
+01:40:22 I'm only familiar with the one for the N64,
+01:40:25 which does, I mean, it's got,
+01:40:27 it doesn't have a hard ending,
+01:40:28 but it's got like a point
+01:40:30 where like you need to have completed everything by.
+01:40:33 And then, and that's like sort of the ending.
+01:40:36 Here's what I want to make a distinction about.
+01:40:38 Like if a game, a game should be like,
+01:40:41 I don't know, I'm right now,
+01:40:43 I just got like the new like Dragon Ball Z,
+01:40:45 Dragon Ball Fighter Z game.
+01:40:46 And like I don't really like fighting games
+01:40:49 in the way I have to like,
+01:40:50 in a super like non-natural,
+01:40:53 kind of annoying way,
+01:40:54 I have to like study to learn
+01:40:56 how to do the basic mechanics of the fighting.
+01:40:58 Because there's like a lot of,
+01:40:59 like that is just not fun for me.
+01:41:01 But if a game,
+01:41:02 like like a Metroidvania on the other hand,
+01:41:04 like builds the game in such a way
+01:41:06 that it forces you to like learn
+01:41:08 every mechanic as you go.
+01:41:09 And so it kind of naturally develop
+01:41:12 the skills you need to do the techniques
+01:41:13 as you play through it.
+01:41:14 And like it becomes a real integral part
+01:41:16 of the experience that you can't just skip over.
+01:41:19 Now that,
+01:41:20 and then so by the,
+01:41:21 when you started playing at the beginning of the game
+01:41:22 versus at the end,
+01:41:23 you have just naturally developed all these skills
+01:41:25 as part of the progression of the game.
+01:41:27 Now that is something I really enjoy.
+01:41:29 That's my favorite way to do stuff like that.
+01:41:32 I think when it,
+01:41:34 Yeah, me too.
+01:41:36 I think when it comes to guides and stuff,
+01:41:38 if you can just pick up a game
+01:41:41 and turn it on and play it,
+01:41:42 and like get the gist of
+01:41:45 how the game is supposed to be played
+01:41:47 enough that you can start to get into it,
+01:41:49 then I think it's fine.
+01:41:50 I think,
+01:41:51 I think when a game doesn't make sense
+01:41:54 or isn't fun unless you use a guide,
+01:41:57 that's,
+01:41:58 that's the point at which a guide is like,
+01:42:00 the game is just badly designed.
+01:42:02 The most important part,
+01:42:03 I think of any game is that initial curve
+01:42:05 to get you like hooked on the game.
+01:42:07 Like that is like the most critical moment
+01:42:09 and Dark Souls has a pretty steep one
+01:42:11 just as one example.
+01:42:13 And something like,
+01:42:14 like a Metroid, for example,
+01:42:15 I think is like way lower,
+01:42:16 which is why it's like easier to ease your way
+01:42:18 like into a Metroid than like a Dark Souls or something.
+01:42:21 Hippo, there are certain games now
+01:42:24 where like,
+01:42:24 like with Minecraft tutorial
+01:42:26 where I just mentioned,
+01:42:27 there's like,
+01:42:28 there's like sometimes like built in guides.
+01:42:31 Like like, you know,
+01:42:31 we've tried,
+01:42:32 there's the guy where you can go to the materials
+01:42:33 and you can,
+01:42:34 you know,
+01:42:34 see how do I make this?
+01:42:35 He'll tell you Minecraft,
+01:42:36 there's like a whole like recipe book now.
+01:42:37 But with one game particular,
+01:42:40 Civ,
+01:42:40 civilization,
+01:42:41 which I've been playing a lot now
+01:42:42 as you can probably tell
+01:42:43 the viewers can tell by my dialect nowadays.
+01:42:46 But with the,
+01:42:47 with the,
+01:42:47 there is a
+01:42:48 actual like Wikipedia
+01:42:50 inside the game called the Civlopedia
+01:42:52 where you can just like,
+01:42:53 press like escape,
+01:42:53 like go to the menu,
+01:42:54 then you can just like open that.
+01:42:55 And there's like a fully functioning,
+01:42:57 like Wiki for Civ
+01:42:58 that explain like the details,
+01:43:00 the hard stats and percentages,
+01:43:02 all that stuff is inside of the game.
+01:43:05 So like,
+01:43:06 is that part of the game now?
+01:43:08 Because it is like legal,
+01:43:10 like like right from the start,
+01:43:11 it's telling you to search things up on there.
+01:43:13 And it's like,
+01:43:13 you know,
+01:43:13 it's encouraged to do that.
+01:43:14 Is that part of the game now?
+01:43:16 I think,
+01:43:16 I think it's,
+01:43:18 it's kind of the same as like,
+01:43:20 well,
+01:43:20 I don't know about Civ
+01:43:21 because I haven't played it,
+01:43:22 but like,
+01:43:23 things like Final Fantasy 13
+01:43:26 is like notorious for,
+01:43:28 if you don't read the data logs
+01:43:30 of information on the things,
+01:43:32 nothing in the story
+01:43:33 will make sense at all.
+01:43:34 Basically.
+01:43:35 Which is,
+01:43:35 Yeah, I remember that.
+01:43:36 And it's like,
+01:43:38 reading things is boring in a game,
+01:43:40 most of the time,
+01:43:41 unless you're already invested
+01:43:43 and you want to know more,
+01:43:44 if you have to read
+01:43:45 like loads of data logs,
+01:43:47 it's just sort of annoying.
+01:43:48 So I don't know how it is in Civ.
+01:43:50 I assume it's fine.
+01:43:52 Yeah,
+01:43:53 it's,
+01:43:53 yeah,
+01:43:54 yeah,
+01:43:54 you don't need to do it ever.
+01:43:56 But it's just like,
+01:43:56 you know,
+01:43:57 like,
+01:43:57 it's nice because you can just like,
+01:43:58 press like,
+01:43:59 oh, like,
+01:43:59 oh, what is,
+01:44:00 what's this guy unique ability again?
+01:44:01 Just like,
+01:44:01 you know,
+01:44:02 press escape,
+01:44:02 like,
+01:44:02 look it up.
+01:44:03 But it feels like,
+01:44:05 it feels almost like it's,
+01:44:07 whatever I do play a game,
+01:44:08 and I'm like,
+01:44:09 I don't want to figure out
+01:44:10 how to do this.
+01:44:10 Just show me the,
+01:44:11 you know,
+01:44:12 just wiki,
+01:44:13 wiki please.
+01:44:14 I always feel like I'm
+01:44:15 snidely whiplash,
+01:44:16 like I'm a cartoon villain
+01:44:18 on the run from the fucking FBI,
+01:44:20 and they're going to track me down
+01:44:21 and shoot me right where I stand.
+01:44:23 But with Civ,
+01:44:24 the Civlopedia,
+01:44:24 it just feels like
+01:44:25 this is just part of the game.
+01:44:26 This is just what you're supposed to do.
+01:44:28 They are giving me this option.
+01:44:30 And it feels way different.
+01:44:32 It feels like I'm not a criminal
+01:44:34 on the run pedophile.
+01:44:35 It feels like I'm not Dan Snyder.
+01:44:37 Yeah.
+01:44:40 One of my favorite memories growing up though,
+01:44:43 this is where I didn't feel like snidely whiplash,
+01:44:44 and I felt like a fucking god,
+01:44:46 is when me and my friend were playing
+01:44:47 Pokemon XD Galvanarctis.
+01:44:49 Incredible.
+01:44:50 Love that game.
+01:44:51 Fucking great.
+01:44:52 We were playing that.
+01:44:53 And we, you know,
+01:44:54 we just like Google search,
+01:44:56 like Pokemon XD Galvanarctis,
+01:44:57 like tips and tricks.
+01:44:59 And then we found this like
+01:45:00 really, really shitty game facts guide,
+01:45:03 which like,
+01:45:04 was like incomplete,
+01:45:05 I guess it just showed you
+01:45:06 what like shadow Pokemon
+01:45:08 were in each area,
+01:45:09 but not like who had them.
+01:45:11 And like, you know, who,
+01:45:12 yeah, you know,
+01:45:13 and that gave me specific people
+01:45:15 who had specific Pokemon.
+01:45:15 You had to fight those people
+01:45:16 to get those Pokemon.
+01:45:17 So we just knew that they were
+01:45:18 somewhere in the level.
+01:45:20 So whenever we were at a new level,
+01:45:22 I would like check the fucking,
+01:45:23 you know, guys,
+01:45:24 you see like which Pokemon are where.
+01:45:25 And I'd be like,
+01:45:25 dude, you're not gonna believe this.
+01:45:26 There's a fucking Ampros at this level.
+01:45:28 And you would just be like,
+01:45:29 what?
+01:45:29 And then we would search,
+01:45:30 we would battle every single
+01:45:34 conceivable person.
+01:45:35 We found that fucking Ampros.
+01:45:36 And then the moment someone
+01:45:37 threw out their Ampros,
+01:45:38 and then that animation player
+01:45:39 where the guy like unloads glasses
+01:45:40 and he fucking like zooms in,
+01:45:42 like, you know, like tactical lens,
+01:45:44 we would fucking scream
+01:45:45 at the top of our lungs.
+01:45:46 We finally found the fucking Ampros
+01:45:48 that we needed.
+01:45:48 And we throw,
+01:45:49 we throw as many balls as we could.
+01:45:51 And it was the greatest experience
+01:45:52 of my life.
+01:45:52 And I loved it.
+01:45:54 So that's,
+01:45:54 it's a time that guides,
+01:45:55 guides hide in the experience tin fold.
+01:45:59 Well, excellent.
+01:46:01 All right.
+01:46:01 There's another question wrapped.
+01:46:04 Hey, but before we read,
+01:46:05 like another one or two questions,
+01:46:06 there was one thing that I forgot
+01:46:08 that we did want to address here.
+01:46:09 So, okay,
+01:46:10 slightly serious topic, everybody,
+01:46:11 but just want to,
+01:46:12 I'm sure you don't want to do this
+01:46:13 at the end,
+01:46:15 just in the middle of questions.
+01:46:16 Well, I suppose if you want to,
+01:46:18 I mean, do we have other questions lined up?
+01:46:20 There's only one more that I would like to do.
+01:46:22 Okay.
+01:46:23 Okay, go for it.
+01:46:23 It's from Mozilla Finneken.
+01:46:26 Which games have you played 100% completion?
+01:46:29 Is getting 100% a gratifying experience
+01:46:31 or a complete waste of time?
+01:46:33 And where is the line stand in between those two?
+01:46:35 I am a 100% guy.
+01:46:38 That's like what I do.
+01:46:39 I'm the kind of guy where if I like a game,
+01:46:41 I will do it to 100%.
+01:46:43 Famously, I think that-
+01:46:45 Well, you know,
+01:46:45 I was kind of of that opinion
+01:46:46 until actually fairly recently.
+01:46:48 Two games have made me really rethink
+01:46:50 this whole 100% thing.
+01:46:51 And I think that it really just depends on the game.
+01:46:53 And those games are Breath of the Wild,
+01:46:55 also Metal Gear Solid 5,
+01:46:57 and then also Mario Odyssey.
+01:46:58 Oh, God, Metal Gear.
+01:47:00 Those games, all three of those,
+01:47:02 are a total weight.
+01:47:04 You know, also actually Kingdom Hearts 2,
+01:47:06 like my favorite game of all time,
+01:47:07 is 100% not worth completing
+01:47:10 because you've got to do all that
+01:47:11 gummy ship stuff that sucks dick
+01:47:13 and is not fun and is not cool or interesting.
+01:47:16 If I don't 100% a game,
+01:47:19 I feel like I haven't really beaten it.
+01:47:21 Well, no, I feel exactly the same way.
+01:47:23 No, there are some games that just-
+01:47:26 Can you imagine 100% in Metal Gear Solid 5
+01:47:29 taking photos of every single thing of wildlife?
+01:47:31 Bunny Hop's video is legendary on that front,
+01:47:34 and it looks terrible.
+01:47:36 You have not done all the game has to offer.
+01:47:38 Okay, but literally not all of the game
+01:47:41 is that fun or worth your time to do.
+01:47:43 I think it comes down to games that are built
+01:47:47 to have a certain amount of content
+01:47:49 and that games that are built to end satisfyingly at 70%
+01:47:54 and then 30% of it is just monotonous boring stuff
+01:47:57 padded out in usually an open world game
+01:47:59 where you just have to go around and over an entire cycle.
+01:48:02 That's how I felt about Reciteer,
+01:48:05 like after the main story,
+01:48:08 and even a little bit before,
+01:48:09 like toward the end of the main story and definitely past it,
+01:48:12 because there's bonus content,
+01:48:13 like there's extra characters to unlock,
+01:48:15 but it was like, oh my god,
+01:48:16 you have to do these fucking dungeons like a thousand times.
+01:48:20 The grind, I'm just not up for grinding that.
+01:48:23 I'm totally up for 100% a game
+01:48:25 where like all 100% of the content is engaging.
+01:48:28 Like I did 100% of Fallout 3
+01:48:31 because all the content that I found very entertaining,
+01:48:34 it was interesting, there's lots of quests and I got the DLC
+01:48:36 and it was like fun, but Metal Gear Solid 5,
+01:48:39 I could never 100% that game.
+01:48:41 And even like when like the main campaign
+01:48:43 starts getting really grindy, I get pissed off
+01:48:45 because I'm playing Metroid Prime 2
+01:48:47 and I'm at the point where like you have to go back
+01:48:48 to all the places you've been before
+01:48:50 and just scan all these corpses
+01:48:52 and like they reveal like a secret part of an item
+01:48:54 you need to like unlock the final part of the game.
+01:48:57 And like the most annoying part
+01:48:59 is I've already scanned all these corpses
+01:49:01 because I'm like obsessively like scanning
+01:49:03 and trying to like read all the lore.
+01:49:04 So I have to, I already know like where they are,
+01:49:07 but like I don't know where they are.
+01:49:08 So I have to go all the way back
+01:49:10 and find all these things all over again
+01:49:11 that I've technically already done.
+01:49:13 It's infuriating.
+01:49:14 To me, okay, we had a,
+01:49:16 like what is the actual question we're asking
+01:49:18 because I feel we're coming at it
+01:49:19 from slightly different perspectives.
+01:49:21 Like guys like Munchie and Gibb,
+01:49:22 or I don't know, whoever was saying it,
+01:49:24 I know Munchie was.
+01:49:25 Like if you sold your through
+01:49:27 and in fact 100% complete a game,
+01:49:30 have you absorbed more of its content?
+01:49:32 Are you like more of a master
+01:49:33 of all the content that someone has?
+01:49:35 I've got a perfect metaphor.
+01:49:36 I've got a, I've got a perfect metaphor for this.
+01:49:38 Yeah.
+01:49:38 It's like a big old plate of food.
+01:49:41 Yeah.
+01:49:41 You know, you can eat the entire plate of food
+01:49:43 even if, you know, you get full at like 80%.
+01:49:48 And you can, it feels good to like, you know,
+01:49:51 eat all the food and then it's a clean plate.
+01:49:53 And you're like, yes, I ate the meal because it's there.
+01:49:56 But a lot of the time it's better to stop when you're full
+01:50:00 because it'll be better for you in the long run.
+01:50:02 You will just feel more satisfied afterwards.
+01:50:04 You won't feel bloated.
+01:50:05 You won't feel like a tired.
+01:50:07 It will just be good.
+01:50:08 It's a good metaphor because you can always come back
+01:50:10 and have more food later.
+01:50:12 You can always go back and finish the game later
+01:50:14 if you feel like it.
+01:50:16 But I won't because fuck that.
+01:50:18 Playing a game, okay, to go with this food analogy,
+01:50:20 playing a game is like eating ice cream to me in a cone
+01:50:24 where they're like, the main game will be the ice cream.
+01:50:26 But then the after game to get one is the cone.
+01:50:29 And the cone is delicious.
+01:50:31 So of course I'll eat it.
+01:50:32 No, it's like, it's like,
+01:50:33 have you really eaten the ice cream?
+01:50:35 Like you can't just throw the cone away.
+01:50:36 Like you can't just throw the,
+01:50:37 you can't throw the crust of your pizza away.
+01:50:40 Like you got in guys are thinking way too simplistically about this.
+01:50:43 The objectively correct answer is it depends.
+01:50:46 Okay. I mean, it depends.
+01:50:47 It depends on what question we're asking.
+01:50:49 Yeah, go ahead.
+01:50:50 I guess there were some games where I wouldn't feel like that,
+01:50:52 but in general, if a game is like a story game
+01:50:55 and has like a campaign.
+01:50:58 Okay, let gamers.
+01:50:59 Yeah, please.
+01:51:02 Personally, for me, I feel like I used to like,
+01:51:05 I used to enjoy 100% in games back in the 80s and 90s.
+01:51:10 But the newer games, they got way too big
+01:51:14 and they take way too long.
+01:51:15 And a lot of the extra content isn't fun.
+01:51:19 Right.
+01:51:20 In my opinion.
+01:51:21 See.
+01:51:21 So, for example, like in Chrono Trigger.
+01:51:25 Ah, yes.
+01:51:26 When you get near the end of the game,
+01:51:28 there's a bunch of side quests that open up.
+01:51:29 They're optional and you can do them and they're all really fun.
+01:51:33 They all give you really good rewards.
+01:51:35 They all have a lot of good character development
+01:51:37 and they add to the story.
+01:51:39 And the attention that is given to these side quests
+01:51:42 is almost the same attention they give to the main game.
+01:51:45 You know, as if the same budget and the same treatment
+01:51:50 was given to the side quests.
+01:51:52 But in a lot of modern games, it's obvious the main quest
+01:51:57 is given a much greater budget, much greater priority
+01:52:01 because that's what everyone plays.
+01:52:03 And then the side stuff, they figured,
+01:52:04 well, nobody plays the side stuff except, you know,
+01:52:06 a couple of people.
+01:52:07 So they just, you know, put something together
+01:52:11 that's usually really repetitive and tedious
+01:52:14 and just to artificially inflate the play time.
+01:52:20 So that's why I almost never 100% games anymore,
+01:52:23 even though I used to 100% everything.
+01:52:26 That's a great example.
+01:52:26 That's a great example.
+01:52:28 It definitely depends on the game,
+01:52:30 but I'm just saying that, like,
+01:52:31 one thing it means you have conquered that game.
+01:52:34 There is no bones about it.
+01:52:35 You have obliterated completely.
+01:52:37 Well, look, I will never accept.
+01:52:38 I will never accept that I have not conquered Kingdom Hearts 2
+01:52:42 because the Gummy Ship missions are fucking terrible
+01:52:44 and I'm not going to waste my time doing them.
+01:52:46 Here's the thing about it all of them.
+01:52:49 I know that they're not good.
+01:52:51 I know the facts that they are not good
+01:52:53 and they are a waste of my time.
+01:52:54 It does not matter if it's good or not.
+01:52:56 They're not even sort of relevant
+01:52:58 to the actual game experience that I care about.
+01:53:00 Not even kind of.
+01:53:01 The question, the feeling Munchie is getting
+01:53:04 is just the numbers thing.
+01:53:05 It's like seeing 100% is very satisfying.
+01:53:08 Exactly.
+01:53:08 And I would agree, but I would also say that I get more,
+01:53:15 like, I guess I'm just able to go away from a game
+01:53:20 that where the number is not 100%
+01:53:22 just because I've had a lot of experiences
+01:53:26 where going for the 100% is boring
+01:53:28 and overall is just like bad.
+01:53:31 It's just worse than trying.
+01:53:33 I know, we're kind of making different sort
+01:53:35 of emotional arguments here.
+01:53:36 Like, for example, I'm very busy
+01:53:38 so I really don't have time to make 100% game play
+01:53:43 on like, you know, fucking Metal Gear Solid 5 or whatever.
+01:53:46 So like, I have a reason to want to,
+01:53:48 I want to like justify my gamer cred
+01:53:50 by saying like, no, I've effectively done everything
+01:53:52 even though I have not.
+01:53:54 I mean, that game, I think it was kind of close.
+01:53:55 I'm not saying it's a moral necessity.
+01:53:56 I'm just saying like, objectively,
+01:53:59 there is code on that disk you have not unlocked.
+01:54:02 I mean, there's always, okay, well, if you mean,
+01:54:05 that's your metric.
+01:54:05 There's literally going to be like developer code
+01:54:07 that you have not experienced no matter what you do.
+01:54:10 But you know what I mean.
+01:54:11 I understand where Munchie is coming from
+01:54:13 because I used to have that kind of like OCD.
+01:54:16 I got it 100% out.
+01:54:18 Yeah, it is, it is.
+01:54:18 It sucks, you know.
+01:54:20 Yeah, exactly.
+01:54:20 And I was trying to do that a lot during the PS2 era
+01:54:23 when games started to get a lot of padding.
+01:54:27 And I was constantly at war with myself.
+01:54:31 I was like, I really want 100% this game,
+01:54:33 but I hate playing it, you know.
+01:54:36 I feel, yeah, yeah, I am.
+01:54:38 It's such a conundrum.
+01:54:40 So that's how I got with Reciteer.
+01:54:42 And eventually it beat me.
+01:54:43 Yeah.
+01:54:44 I played Final Fantasy VII for a GRPGA video that I did.
+01:54:49 And I got to the end of the game,
+01:54:52 and I beat Sephiroth and the final boss and all that stuff.
+01:54:55 I stopped the meteor.
+01:54:56 And then there was like post-game content
+01:54:59 where you could go fight the big under,
+01:55:02 like the, what were they called?
+01:55:03 Ruby and Emerald Weapons and stuff.
+01:55:04 The weapons.
+01:55:05 Yeah, the weapons.
+01:55:05 Yeah, of course.
+01:55:06 And I was like, I tried fighting Emerald Weapon
+01:55:09 and it was too hard.
+01:55:10 And I was like, well, it looks like I have to grind.
+01:55:12 Well, I beat the game.
+01:55:13 I'm done.
+01:55:14 And I didn't feel the need to complete it beyond what I did.
+01:55:18 And I know a lot of people like,
+01:55:19 what?
+01:55:20 How could you not do all that?
+01:55:22 And it's like the same with Kingdom Hearts I.
+01:55:23 I never tried doing like the,
+01:55:27 I'd never tried getting to Sephiroth to fight him
+01:55:30 in Kingdom Hearts I.
+01:55:31 Sorry, it's all right.
+01:55:31 One because I heard,
+01:55:33 one because I heard that it was like really tough.
+01:55:34 And I was like, well, I beat the game.
+01:55:37 I'm done.
+01:55:38 I'm good with that.
+01:55:39 I feel like it's more satisfying to me.
+01:55:42 And I don't feel like it invalidates
+01:55:45 my completing of the game or like,
+01:55:47 oh, well, you didn't play exactly everything.
+01:55:49 Therefore, your opinion isn't valid
+01:55:51 because I played enough of it.
+01:55:52 I played at least the whole game.
+01:55:55 I played to the last boss.
+01:55:56 I feel like that's enough.
+01:55:58 Yeah.
+01:55:58 I mean, that's kind of what I think.
+01:56:00 The way to look at it is if you enjoy doing the side stuff
+01:56:05 and you enjoy 100%, 100%ing it, then you should do it.
+01:56:09 But if you don't enjoy it, then just don't do it.
+01:56:11 This is kind of where I'm coming from with this.
+01:56:13 I feel like my emotional response here
+01:56:16 is that it's like Munchy is making an argument
+01:56:18 that someone who has like mastered the gummy ship
+01:56:21 in addition to like all the base gameplay
+01:56:24 of like Kingdom Hearts 2, for example,
+01:56:25 would have like moral, more authority over Kingdom Hearts.
+01:56:29 I literally have just said that is not a moral necessity.
+01:56:34 Oh, I will.
+01:56:35 I think I get it.
+01:56:36 I think it's like Munchy was saying in the back of your head
+01:56:41 you know that you haven't experienced a game entirely.
+01:56:44 But the way I see it is that there are so many games
+01:56:47 that I haven't gotten around to
+01:56:48 and I feel like I should sometimes.
+01:56:50 But I've just sort of, it's the same sort of feeling
+01:56:53 like I can let that go.
+01:56:55 Like maybe I'll never get around to that game.
+01:56:57 Maybe I'll never get around to that movie.
+01:57:00 I don't need to experience them all
+01:57:03 and I don't need to experience everything to 100% completion
+01:57:06 as long as I get the gist and I can talk about it with people.
+01:57:09 To me, I just feel like it's futile, you know.
+01:57:13 Sometimes, yeah.
+01:57:13 Futile.
+01:57:16 There's just some games that it's almost impossible
+01:57:18 to 100% unless you give up your entire life
+01:57:20 and just play it.
+01:57:22 I mean, here's a question.
+01:57:23 Here's a question.
+01:57:24 What about a game like Disgaea
+01:57:25 where there is literally infinite content?
+01:57:28 Like at what point have you 100%?
+01:57:29 That's basically what I'm talking about.
+01:57:31 Yeah, well.
+01:57:31 I tried to 100% that back in the day.
+01:57:33 Oh, yeah, it can't be done.
+01:57:34 Can't be done.
+01:57:35 What I'm saying is just look at what I'm saying.
+01:57:39 It's not like controversial or like I'm not saying
+01:57:44 that it is good or bad to experience 100% of the game
+01:57:47 and I'm not saying that you have to get 100%
+01:57:49 to be in a four-hour or talk about it.
+01:57:51 I'm just saying the fact that you have not experienced 100%
+01:57:55 of the game if you have not completed 100%.
+01:57:57 I'm not saying that's a good or bad thing.
+01:57:59 I'm saying I want to experience it.
+01:58:00 The fact what?
+01:58:01 I mean, that is true.
+01:58:02 But is there any consequence of this?
+01:58:04 Or are you just saying it is?
+01:58:05 No, it's just that it doesn't feel right.
+01:58:07 Yeah, it doesn't feel right and I really beat in the game.
+01:58:10 Okay, here's what I'm willing to concede.
+01:58:12 I am definitely not an absolute authority
+01:58:15 on the Kingdom Hearts 2 Gummy Ship missions.
+01:58:18 I am absolutely not because I have not beaten them.
+01:58:20 But I am an absolute authority on Kingdom Hearts 2,
+01:58:24 Mainstay, Combat, Story, all that shit.
+01:58:28 I will concede that.
+01:58:30 But that's it.
+01:58:32 This is not a fucking war treaty, Nate.
+01:58:34 It is a war treaty.
+01:58:35 This is not.
+01:58:36 You're going to have to concede authority on the story
+01:58:39 and issues.
+01:58:41 I just like seeing numbers go up.
+01:58:43 That's all I want to do.
+01:58:44 I just want to see numbers go up.
+01:58:45 Well, fair enough.
+01:58:47 You should really enjoy this guy, then.
+01:58:49 Yeah, except it has no end to it, unfortunately.
+01:58:51 There's so many big numbers in that game.
+01:58:52 I could not get into the whole infinite procedural content thing.
+01:58:59 The problem with that is that there is no end goal.
+01:59:01 You have nothing to shoot for.
+01:59:04 Yeah, it really was a problem for me.
+01:59:06 And it's weird because I really like a lot of procedurally
+01:59:09 generated games, like roguelikes and stuff.
+01:59:11 But those, again, those have an end goal.
+01:59:14 Those have a win state.
+01:59:15 Disgaea basically does not, which is a problem for me.
+01:59:17 With Disgaea, it's like, well, I already beat the game,
+01:59:20 and now I can just do all this random extra stuff forever.
+01:59:23 But to what end?
+01:59:25 For me, that is completely unanticipating.
+01:59:28 Tactical RPG.
+01:59:30 This might surprise and baffle and horrify some people.
+01:59:33 And this is in no way a discouragement of the quality of Kirby 64.
+01:59:39 But I will, and I do not regret any of the moments I spent with that game at all.
+01:59:43 My experience was the pinnacle moment of my life, and it was great.
+01:59:47 But I will say, there were certain shards where I just
+01:59:51 would fucking rather piss on my cat than play it.
+01:59:54 That one fucking level where you have to get the dynamite ability,
+01:59:59 and carry it through until the end of the level.
+02:00:02 And the dynamite ability fucking sucks, and you cannot hit shit with it.
+02:00:05 And to traverse, and then fucking parry, and parkour around Bronto,
+02:00:09 Burtz, and Wildies to get to where you need to fucking go.
+02:00:12 With this shit ability you cannot use.
+02:00:13 I remember that, actually.
+02:00:14 Yeah, it was the worst moment of my life.
+02:00:18 But when I beat it, I felt so good.
+02:00:20 So I feel like the slog and the turmoil that go through for some of the shards
+02:00:25 and 100%, it's worth it in my opinion.
+02:00:29 If I like the base game, which I love Kirby 64, I love it.
+02:00:31 And I'm happy to concede.
+02:00:33 I'm happy to concede.
+02:00:34 I like to do it.
+02:00:35 I'm definitely on your side when it comes to, I don't know,
+02:00:37 like I do go for 100% completion on a lot of stuff,
+02:00:41 and would absolutely look down on the people who have not done it.
+02:00:45 I just want to kind of judge it on a case-by-case basis.
+02:00:47 Like for example, getting all the moons in Mario Odyssey is an absolute waste of time.
+02:00:53 Do not do it.
+02:00:54 You will regret it.
+02:00:56 It is not worth doing, because some of them are just not fun.
+02:00:59 And it is in no way an exercise of skill.
+02:01:02 Or like what you get for doing some of that is like,
+02:01:06 just like you have to like go talk to one character wearing a certain outfit.
+02:01:10 And like that does not give you anything.
+02:01:13 Like yes, you have to buy the outfit,
+02:01:14 so you get like a little bit more experience with it.
+02:01:16 But like you already get a moon for just like buying every outfit in the game.
+02:01:20 Like to me, that's like a goal that makes sense.
+02:01:23 It's like this large, big goal.
+02:01:24 You should get like some grand prize for doing that.
+02:01:27 But the weird way that that game has made the prize
+02:01:29 for literally every accomplishment, a moon,
+02:01:31 totally cheapens and devalues the moons themselves.
+02:01:34 And did you see the Joseph Anderson video about it?
+02:01:37 Of course, of course.
+02:01:38 Okay, yeah.
+02:01:40 I'm with him on a lot of that stuff.
+02:01:41 Yeah.
+02:01:42 Yeah, he had the same complaints about everything gives you a moon.
+02:01:45 Yeah.
+02:01:46 I'm never going to play that game.
+02:01:48 But I watched that video like three times.
+02:01:52 Sunshine is better because Sunshine is the best 3D Mario,
+02:01:55 literally objective fact.
+02:01:56 Sunshine is the fucking best.
+02:01:58 I would like to close this out,
+02:02:00 but I think reciting the story that I've said before,
+02:02:02 but it's relevant to this and it's incredible.
+02:02:05 And I am a god.
+02:02:06 Bow fucking down right now.
+02:02:08 I was going on like a road trip.
+02:02:11 I knew that I'd be in the car and I couldn't do anything else.
+02:02:13 So I brought my DS along.
+02:02:14 And so I didn't have any games for reasons.
+02:02:18 So I went to GameStop and I bought Kirby Superstar Ultra
+02:02:22 for the road trip.
+02:02:23 And on that road trip, that rat trap going from my location,
+02:02:31 which is like seven hours away or something, and coming back,
+02:02:34 I completed Kirby 64 or Kirby Ultra 100% three times on all save files.
+02:02:43 And then I did that.
+02:02:45 I brought it back to the GameStop and I turned it and I got my money back.
+02:02:48 In one day, I completed all the files 100%
+02:02:52 and I turned it and got my fucking money back.
+02:02:54 That was all.
+02:02:55 That's incredible.
+02:02:56 I used it like a fucking whore and I got my money back.
+02:02:59 Okay, that's the thing.
+02:02:59 It is important.
+02:03:00 Okay, and this is the thing.
+02:03:02 Some games absolutely use the 100% completion system
+02:03:07 as a way to make sure that the players experience
+02:03:09 all the content that is worth doing.
+02:03:11 Some of them definitely do it that way.
+02:03:13 For example, I would argue that like most Castlevanias
+02:03:16 do it that way.
+02:03:17 The RPG ones, like for example,
+02:03:19 getting all the souls in Aria of Sorrow,
+02:03:21 I think is absolutely worth doing.
+02:03:23 A lot of them are a grind and are really annoying,
+02:03:25 but you get to experience meaningful new aspects of that game
+02:03:28 when you push yourself to get like fully...
+02:03:31 I think that the actual percentages,
+02:03:32 it might be like 210% is what you get
+02:03:35 when you actually have done literally everything in that game
+02:03:37 or something like that.
+02:03:40 When the game does it that way...
+02:03:42 For me, I think a positive example for me
+02:03:46 is actually Super Mario World.
+02:03:48 Sure, sure.
+02:03:50 Because there's a lot of hidden levels in that game,
+02:03:52 but all the hidden levels are just as good as the main levels.
+02:03:56 Exactly.
+02:03:56 Sometimes they're even better.
+02:03:58 So if you 100% that game, you will truly experience everything.
+02:04:00 And like what if...
+02:04:01 That's worth it.
+02:04:02 What if Super Mario World had a mechanic
+02:04:04 where you have to like go collect seeds
+02:04:06 and then you come back and you plant them in pots
+02:04:08 and then you have to like come back to the level
+02:04:10 after like 24 IRL hours have passed.
+02:04:13 I think I know what you're talking about.
+02:04:14 Yeah, I mean those kind of mechanics are not fun.
+02:04:18 Sometimes they can be, sometimes they can be.
+02:04:20 But again, I just want to judge it on a case-by-case basis.
+02:04:22 Gummy ships, terrible, don't care about them, waste of time.
+02:04:27 All this is coming from a guy who has not played
+02:04:30 single-player games at all for like legitimately...
+02:04:33 Like I've never played a single-player game seriously
+02:04:35 in a really fucking long time, like a year.
+02:04:37 I don't do the multiplayer games
+02:04:38 because fucking multiplayer games master race,
+02:04:40 I love those.
+02:04:41 Fair enough.
+02:04:42 Okay, well, you know what?
+02:04:43 I think it's all the questions.
+02:04:44 I think yeah.
+02:04:45 I'd like to say you're serious gambit here.
+02:04:48 Okay, well the thing is this isn't actually
+02:04:50 like that serious of a thing.
+02:04:51 So I felt uncomfortable saying it before
+02:04:53 because it's not actually like a major issue or anything.
+02:04:55 I just want to slip it in.
+02:04:56 But nonetheless, so here's the thing guys.
+02:04:59 So everyone's been commenting on like
+02:05:01 when's Jesse coming back?
+02:05:02 Where's Jesse?
+02:05:03 Et cetera, et cetera, since the whole monkey thing.
+02:05:05 And like I hear what you're saying guys.
+02:05:07 I understand where you're coming from.
+02:05:08 Like why isn't Jesse back?
+02:05:10 But here's what you got to understand everybody.
+02:05:12 Jesse was under no impetus to actually return
+02:05:15 to the show after Monkey Left or anything.
+02:05:18 It was just if he then chose to.
+02:05:19 It was a separate issue.
+02:05:21 So right now Jesse doesn't want to come back on the show.
+02:05:24 He's doing his own stuff.
+02:05:25 Do not expect him back.
+02:05:27 He may come back someday or he may not.
+02:05:30 It is up to him and do not count on it.
+02:05:33 Do not have expectations.
+02:05:34 So everybody commenting, where's Jesse?
+02:05:36 This is your answer.
+02:05:37 He's not coming back anytime soon.
+02:05:39 He has made that explicitly clear.
+02:05:41 He is going his own way.
+02:05:43 The proud MGTOW that he is.
+02:05:44 And didn't go bother him.
+02:05:46 We have no bad blood here.
+02:05:47 There is literally no bad blood.
+02:05:49 We have been having more fun conversations with Jesse
+02:05:51 than at any time in the last like six months.
+02:05:53 He's still our friend.
+02:05:55 He is a friend.
+02:05:56 He's in our chat.
+02:05:57 We talked to him.
+02:05:58 Like there is literally no problem here
+02:06:00 other than Jesse just isn't interested in being on the show.
+02:06:02 So there's no conspiracy.
+02:06:04 You can go ask the guy on Twitter,
+02:06:05 but please don't bother him.
+02:06:06 Like it's his own, you know, you can add like,
+02:06:08 this is just it.
+02:06:09 This is just how it is.
+02:06:10 He just doesn't want to.
+02:06:12 And we bear him no will will as a result.
+02:06:14 So, you know, chill out everybody.
+02:06:15 You can stop asking all the questions over and over and over
+02:06:18 again, because this is the answer.
+02:06:20 He's just not interested right now.
+02:06:22 To be fair, it is our fault for not calming on earlier,
+02:06:25 but the where's Jesse Commons can, can, can please cease.
+02:06:28 You can stop them now.
+02:06:30 You can stop them now.
+02:06:31 If people keep asking, then just link them this part
+02:06:33 right now.
+02:06:34 And then, and then that'll be the answer.
+02:06:35 This is the official PCP statement.
+02:06:37 You just, just so nobody thinks, just so nobody thinks
+02:06:40 that he's like not invited for whatever reason.
+02:06:42 It's not, it's not like that.
+02:06:44 Yeah, we continue to have an open invitation
+02:06:46 anytime he wants to come back.
+02:06:48 And in no way is this an attempt to like guilt him in any way.
+02:06:50 He chooses not to come back.
+02:06:52 That's perfectly fine.
+02:06:52 Sometimes people are busy who are regulars
+02:06:55 and just don't want to be on the episode
+02:06:56 because they're doing other stuff.
+02:06:57 I consider it like that.
+02:06:58 He's just doing his own thing.
+02:06:59 There's nothing, nothing to be worried about guys.
+02:07:01 Just maybe we'll be back.
+02:07:02 I know a lot of people want to see him on,
+02:07:04 but unfortunately, you know, it's, it's his decision
+02:07:06 and please respect it.
+02:07:07 And, and again, you can stop with the questions.
+02:07:09 Like we got it.
+02:07:10 We got it.
+02:07:12 This has been a great episode.
+02:07:13 Thank you so much, Mr. Tavern for being on.
+02:07:17 It's been a real treat.
+02:07:18 I'm, I was delighted to, to be on here.
+02:07:21 Thank you.
+02:07:22 Oh, great.
+02:07:22 It was really good.
+02:07:23 I'm so glad we finally got a chance to talk.
+02:07:24 We've been kind of admiring your work from afar for a long time.
+02:07:28 And man, I hope maybe we can, we can twist your arm
+02:07:31 to make some more content on that YouTube sometime.
+02:07:33 Cause man, do I miss it?
+02:07:35 All I, all I can say is that if there was more, I'd watch it.
+02:07:38 That's, that's, you know,
+02:07:40 Well, I do, I do intend on making more.
+02:07:43 So.
+02:07:43 It's a little perfect.
+02:07:45 Is there anyone, check out his channel in the description.
+02:07:47 Yeah.
+02:07:47 If you subscribe to him, he deserves more subs.
+02:07:49 He's a great guy.
+02:07:50 Gamer's Tavern show.
+02:07:51 And last, here's the last question for you.
+02:07:53 What would you recommend as your own content
+02:07:55 that you think people should watch?
+02:07:56 What would be your content of choice?
+02:07:59 Oh, you mean me?
+02:08:01 Yeah. Like it would you recommend like people watch your rocket night
+02:08:03 or your sonic or if people were going to get into your channel,
+02:08:06 what do you think it'd be a good place to start?
+02:08:07 Well, uh, my opinion, uh, which I might not be the same as people who watch me.
+02:08:13 Sure.
+02:08:14 Sure.
+02:08:14 Uh, I think my best stuff is the most recent stuff,
+02:08:18 the sonic three, uh, and not goes play through.
+02:08:22 So start with like part one of that.
+02:08:25 I've, let's link that in the description to people.
+02:08:27 That's the point when I started to know what I was doing.
+02:08:29 Before then I was just kind of, you know,
+02:08:32 I don't know, man.
+02:08:33 Those rocket night adventures are pretty legendary.
+02:08:36 I love them all.
+02:08:37 They've all got it.
+02:08:37 They've all got a slightly different like tone to them,
+02:08:40 but they're all, they're all great.
+02:08:41 And I'll just put them on, I'll just put them on, uh, you know,
+02:08:45 like the full playlist and just go through the whole series.
+02:08:48 And I don't want to underplay fancy when I get the wild hair.
+02:08:51 We have really loved your content, especially Jesse Gibb and Ben have been
+02:08:56 like your champions out here talking about how great you are.
+02:08:59 And loving your stuff.
+02:09:00 I can't overstate just how great I think it is.
+02:09:04 Just how much I've gotten out of it and how I think the other people would too,
+02:09:09 if they knew about it.
+02:09:09 If they knew about it.
+02:09:11 And, and, and Gibb, I want to prompt you.
+02:09:13 I mean, what do you have to say about this man and his catalog of work?
+02:09:19 It's, it's, it's just really good.
+02:09:22 It's, it's, it's a type of, it's a type of comedy video that just I've never seen.
+02:09:29 Like I don't see people making really dry pun laden videos of just, it's,
+02:09:35 there's no like ego there.
+02:09:36 It's just, here I am talking about this thing and oh, there's, there's funny.
+02:09:41 And this is what you do with this boss.
+02:09:43 And here's a pun and here's a pun is like, it's, it's, it's very unique.
+02:09:47 Like I haven't seen that before and I really, I was really happy when I found it.
+02:09:51 It's, it's like if hippos best pun tweets were read by your tax attorney.
+02:09:55 Excellent.
+02:09:58 Yes.
+02:09:59 So, so great.
+02:10:00 That's one way to put it.
+02:10:03 Well guys, what a lovely episode this has been.
+02:10:06 Thanks again, Gamer's Tavern for joining us.
+02:10:08 Maybe we'll have, we'll have you back sometime soon again.
+02:10:11 I would sure love to talk to you again.
+02:10:12 All right.
+02:10:13 Thanks for having me.
+02:10:14 Anytime, dude.
+02:10:15 Anytime.
+02:10:16 All right, everybody.
+02:10:16 We're going to be trying to be more guests.
+02:10:18 So yeah.
+02:10:18 So yeah.
+02:10:19 Let us know if you like having guests, guys, because we're really,
+02:10:21 we're really looking to mix it up and we've got a couple of people in mind.
+02:10:24 And I guess, I guess, I guess, but we're fucking free spirits.
+02:10:26 We don't need that shit, but if you want, I guess.
+02:10:29 Indeed.
+02:10:30 That'd be nice.
+02:10:30 Yes.
+02:10:30 Remember everybody, follow us at tbcrastinator's questions on Saturdays,
+02:10:34 hashtag askpcp for those.
+02:10:37 Join the discord, patreon.com slash the procrastinators,
+02:10:41 one dollar to get into the patron launch,
+02:10:42 five dollars for those sweet bonus episodes,
+02:10:44 Gamergate versus Drumpf.
+02:10:46 You want to get in on that and the whole gang, of course.
+02:10:49 And we will see you soon.
+02:10:51 Thanks for joining everybody.
+02:10:52 Bye-bye.
+02:10:53 Bye-bye.
+02:10:56 Salutations.
+02:10:58 See you later.

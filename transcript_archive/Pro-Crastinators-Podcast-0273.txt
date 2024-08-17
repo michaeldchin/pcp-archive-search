@@ -1,0 +1,2343 @@
+00:00:00 Take me to the channel for the PCP. Listen to some voicemails for the Minecraft stream. I really want to have Redcon funded by you. We can be procrastinators.
+00:00:17 Hello and welcome to another Pro Crastinators Podcast with me Ben Saint and Gibbontake.
+00:00:26 That's the truth.
+00:00:28 That's the truth. It's Sunday, August 2nd.
+00:00:35 No it isn't.
+00:00:37 It's Monday.
+00:00:39 Oh, it's Monday. It fucking gives a shit. It's the same thing.
+00:00:43 Well, the one time you say it's Sundays, when it's not Sunday.
+00:00:47 Well, it's usually Sunday.
+00:00:49 It's usually recorded on Sunday. I got confused.
+00:00:52 I couldn't record it yesterday because I was moving.
+00:00:57 I don't want to go on and on about it.
+00:01:01 What's your address Ben?
+00:01:03 It was a nightmarish experience. It took me all day.
+00:01:07 It took me my entire day to get the van rental, bring it to my house, load it.
+00:01:13 I had to make two trips because I have too much useless crap.
+00:01:17 Too much for a small room, in my opinion. I don't know why I have all this stuff.
+00:01:22 But I wasn't willing to throw any of it out. So I had to make two trips.
+00:01:27 My roommates helped me load it up. And then Kazzy helped me unload it.
+00:01:32 Well, not really. Not exactly. She helped me load the second half.
+00:01:39 She didn't help me unload. It was okay. Unloading is easier.
+00:01:42 It took all day and it wasn't even done.
+00:01:44 I still had to do more this morning and then I just barely got the rental back to the rental place just in time.
+00:01:52 It probably cost me like $100. They say on the side of the van it's like $19.95 to rent it for a day.
+00:01:59 But then, you know, you got to pay for gas, you got to pay per mile, so on and so forth.
+00:02:05 They gave me one of those dollies to let you roll stuff.
+00:02:11 That was like an extra like $8. They rented me some moving blankets that I didn't even use.
+00:02:16 I just should have said no to that, but I didn't.
+00:02:19 So I'm very tired. I'm very exhausted and weary and my Wi-Fi doesn't work.
+00:02:25 And I'm recording this on Discord through my phone as a Wi-Fi hotspot, which is very annoying.
+00:02:33 But I'll figure it out. So that's where I'm at. How are you, Gib?
+00:02:40 I'm basically just dying again. It's just the Gibbon is sick. Arc reared its head.
+00:02:47 I heard you were in the hospital or something.
+00:02:51 I was, yes. Well, I mean, I say nothing serious. It turned out to be nothing serious.
+00:02:59 But I woke up one morning feeling like I was going to die. I think it was mostly panic.
+00:03:07 Mostly panic? Why are you panicked?
+00:03:12 Well, I woke up and I was super dehydrated, very weak. My muscles felt super weak.
+00:03:18 And I felt like, oh God, what if I can't move and I can't call for an ambulance?
+00:03:26 No one's going to find me. There's no precedent for people coming into my room and seeing if I'm okay.
+00:03:32 This is it. And so I sort of stumbled out of bed really early in the morning.
+00:03:38 And it was terrible. And so I settled down and then we got to the hospital.
+00:03:48 And I was really fucked up. They checked me out. They did some blood tests.
+00:03:54 And they determined that, yes, there is nothing wrong. You idiot.
+00:03:59 There's nothing wrong with your blood. There's nothing wrong with your liver.
+00:04:02 Shut up. And I'm like, okay, well, at least I'm sort of like...
+00:04:08 Why are you so dehydrated? Why did you wake up so dehydrated that your muscles didn't work?
+00:04:14 Sounds pretty scary.
+00:04:16 I mean, the muscles stuff was like, it slowly had been getting worse.
+00:04:20 I think that ultimately, considering everything, it was probably something to do with medication I was taking for HRT.
+00:04:34 The estrogen should be fine. But there was an anti-androgen that maybe was causing these side effects.
+00:04:40 And it did say those were side effects. And I'm like, okay, like lightheadedness, nausea, dehydration,
+00:04:48 which was causing other problems. So I'm like, okay, I guess I should stop that and figure out a bit more.
+00:04:55 Because HRT is like, or like DIY HRT specifically.
+00:05:00 Too many letters. You fucking alphabet people and all your letters is too many.
+00:05:04 Do it yourself. Hormonal replacement therapy.
+00:05:07 LGBTQIADIYHRT. When does it end? Too many stripes on the flag.
+00:05:11 I mean, you got 26, 27, however many letters there are.
+00:05:15 You can use half of them. You won't stop until we use them all.
+00:05:19 There's plenty of room for all of them. All inclusive, Ben. All inclusive.
+00:05:25 You're right. Sorry.
+00:05:27 We're going to start using Greek letters soon.
+00:05:31 We should have started with them. They're cooler.
+00:05:34 Maybe. So like LGBTQ Beta Gamma Alpha Sigma Omega.
+00:05:42 What's the L? Is it Gamma?
+00:05:47 Gamma and then the G is, I don't know.
+00:05:51 I don't know how they look.
+00:05:53 Is G a Sigma? No. I know how some of them look.
+00:05:57 I know the ones that you use in physics equations. I know Mu. I know lowercase Mu.
+00:06:02 I know uppercase Sigma. I know Phi, uppercase and lowercase, obviously.
+00:06:07 Umlaut is a different thing, right?
+00:06:11 That's not a Greek thing.
+00:06:13 What is Umlaut?
+00:06:15 It's the two dots over the vowel.
+00:06:19 Yeah, European thing.
+00:06:23 So this week, the big news this week is that the whole Chris Chan news dropped
+00:06:33 and the news is so upsetting that I don't even want to talk about it or say what it is here.
+00:06:42 The point is that the news dropped and so the effect that that had on me was that I decided that I needed to...
+00:06:52 I had said before that I was going to wait to release the Sonichu lecture until the game was done.
+00:06:58 I want to make this statement because people have been asking me on the lecture...
+00:07:03 Well, it's funny. Some people seem to be shocked and think it's a coincidence that the lecture came out when it did.
+00:07:12 It was just complete happenstance.
+00:07:14 Some people are saying, oh, nice one, Ben.
+00:07:18 Wait a time to take advantage of a terrible situation. You capitalist pig.
+00:07:26 And the latter people are mostly right.
+00:07:29 I mean, I don't know. It's not a coincidence that I dropped it when I did.
+00:07:35 Hearing the news, it changed how I felt about dropping it and suddenly it didn't seem fun and it didn't seem like it would be fun to drop it alongside the game.
+00:07:47 Hey guys, big announcement and it's like, oh, CWC.
+00:07:52 It would kind of taint the game even though it will already be doing that.
+00:07:57 It kind of will taint. I don't think it's going to taint the game as much as people think.
+00:08:02 I mean, this is a spoiler for Slime and Punishment if you haven't read it.
+00:08:07 But if you've read it, I feel like a lot of people haven't read it.
+00:08:11 But if you have and you were paying attention, you might have noticed that I killed Chris in Universe in the video in S Revert.
+00:08:22 Like she dies, like she's crushed and killed under the falling something.
+00:08:28 So, you know, that might be a hint of how it ends.
+00:08:35 So, I don't feel like, some people, fucking Econ was like, Ben, you know, don't you feel bad about worshiping Chris now?
+00:08:42 It's like, I don't know. I don't know about that. I don't know about that, my dude.
+00:08:48 So, I don't, I feel like, I don't feel too bad about it because Chris is literally the villain of Slime and Punishment.
+00:08:56 The funny thing about it, the funny thing that I thought was hilarious the whole time is that she's the villain.
+00:09:02 But she never knew it. She never understood it.
+00:09:07 She read the comic and didn't get that she, her OCs are clearly the bad guys, but she doesn't understand.
+00:09:14 Yeah, she would just have a back and forth.
+00:09:16 What was it, the Slime, the acid, no, the bicarbonate rain.
+00:09:22 The bicarbonate rain, yeah.
+00:09:24 That was just her, like, being the hero and like, oh, getting rid of this ugly Slime.
+00:09:28 And her mind, she was like, we got to fix this Slime problem. It caused a fucking genocide and killed 70,000 people.
+00:09:36 And I told her, like, Chris, that's genocide. You're killing us.
+00:09:39 And she's like, ah, it's no big deal. It's only 1% of the population.
+00:09:43 You know, it's, it's, it's, it's like coronavirus. It's like, it's fine, you know, it's good.
+00:09:50 So that's, so I'm still working on the game. I'm still going to do it.
+00:09:53 But at the same time, I'm like, I don't want to hold on to this anymore.
+00:09:57 I'm just going to put it out now. There's not, there's not going to be a better time.
+00:10:00 And like, the stuff, the stuff later in the lecture, like the, the, the, like, the incest stuff, there's, there's creepy incest stuff in the comic, which I touch upon in the lecture.
+00:10:11 And I thought, you know, I kind of think people would appreciate hearing about this right now.
+00:10:17 I don't know, just seemed like the right thing to do.
+00:10:22 Yeah.
+00:10:24 I think a majority of people enjoy that it's coming out around this time.
+00:10:28 I think so. Some people roll their eyes and are like, ooh, think it's like opportunistic.
+00:10:34 But most comments are like, oh my God, I can't believe this timing based.
+00:10:40 So that's good.
+00:10:42 Also, yeah, I, I was thinking, I was mulling this over on the, on the train today.
+00:10:48 But like, Sonichu is probably over.
+00:10:51 Oh, a lot of people have been asking me, Ben, are you going to make a Sonichu 103?
+00:10:56 And I have to say, I don't think I can because I've now talked about all of Sonichu and there is no more.
+00:11:03 And there probably never will be anymore because Chris is going to jail or some, somewhere.
+00:11:08 Unless she is in jail now, isn't she? She was arrested like yesterday.
+00:11:14 She was arrested.
+00:11:16 She, I mean, she might, she might go out on bail or something.
+00:11:23 Like jail is like a temporary holding place. She's going to have to await trial.
+00:11:29 She might end up awaiting trial in jail, possibly.
+00:11:33 So yeah, she might be detained for the duration.
+00:11:36 I mean, I think most likely she'll end up in like a facility or something.
+00:11:41 And it's possible that maybe she'll be, she'll like draw more Sonichu and somehow publish it from there.
+00:11:50 Imagine what would come out of post jail time or post like institution Sonichu chapters.
+00:11:59 That's the good ending as far as I'm, that's what I hope happens is like, I hope she just makes Sonichu from jail for the rest of her days.
+00:12:10 Oh boy, crazy.
+00:12:14 Wait, I was going to say something about, oh yeah, I was mulling it over.
+00:12:21 Yeah, so I have to say probably there can't be a Sonichu Lecture 103.
+00:12:28 There's just no more material.
+00:12:30 And like, you know, I'm not like, I don't make videos about Chris.
+00:12:37 I'm not like, the lectures are about the comic.
+00:12:40 They're about Sonichu.
+00:12:41 They mentioned Chris because you have to understand Chris to understand the context of the comic.
+00:12:46 But yeah.
+00:12:47 So that is all fine.
+00:12:50 Anyway, I was on the train and I was thinking, you know, Sonichu is over.
+00:12:53 If Sonichu is over, that means that Slime and Punishment is the canon ending to Sonichu.
+00:12:59 It's the last.
+00:13:00 Yeah, I'm not, it's true.
+00:13:02 It's the last special episode.
+00:13:06 And also Chris dies.
+00:13:09 Damn.
+00:13:10 That is cool.
+00:13:12 It's pretty.
+00:13:13 Everything worked out in the end.
+00:13:15 Aside from the rape.
+00:13:17 Yeah, well, you know, whatever.
+00:13:25 So, you know, this just means that I have to take as much even more care than I was going to to make, you know, the game.
+00:13:34 The Phantom's Revenge and the ending of Slime and Punishment.
+00:13:38 The, you know, the best it can be because it is now also the canon ending of Sonichu.
+00:13:43 That's just the way it works.
+00:13:45 I don't make the rules.
+00:13:47 It is what it is.
+00:13:50 Lamal.
+00:13:52 So yeah, I wanted to, I wanted to say all that because people keep asking me about it in the comments.
+00:13:57 And now I can say, listen to the first, what are the 15 minutes in of the PC of the new PCP.
+00:14:03 And I explain all that shit.
+00:14:09 I just, I just got a comment just right now.
+00:14:12 A comment just appeared saying.
+00:14:15 You sucks.
+00:14:16 What does it say?
+00:14:17 Saying it's, oh, it's Scalope.
+00:14:19 It's Scalope from RFCK.
+00:14:22 Scalope.
+00:14:23 Scalope.
+00:14:25 It says, I wonder what are the reasons for this video's delayed release?
+00:14:28 Slime and Punishment is so barely mentioned.
+00:14:30 It can't be that.
+00:14:31 Ah, but it was that.
+00:14:33 Ah, but it was that.
+00:14:35 And now you, Scalope, now you can listen to this podcast and now you can have this question answered for you.
+00:14:40 All right.
+00:14:41 I haven't gotten through the lecture myself, mostly because I was there and.
+00:14:45 Yeah.
+00:14:46 You heard it.
+00:14:47 You heard it a lot.
+00:14:48 I heard it.
+00:14:49 So there's less of a reason to be like, oh, I can't wait to hear it because I know, so I vaguely know what.
+00:14:54 But like, do you, at the end, hype up, what was the release plan for the game?
+00:15:00 Were you going to have a whole section at the end saying, hey, play the game now?
+00:15:04 No, no, I was just going to, I was just going to release them at the same time.
+00:15:09 Because it was just because the game is the end of Slime and Punishment and the lecture talks about Slime and Punishment.
+00:15:16 I was just going to be like, go read Slime and Punishment.
+00:15:20 It's done.
+00:15:21 Yeah.
+00:15:22 Yeah.
+00:15:23 Now it's like, you know, it's not, it's not done.
+00:15:25 So people will, anyone that does decide to go read it will see an unfinished comic.
+00:15:29 Although S Revert is like a fairly okay finale, but it's not, it's not the true finale.
+00:15:36 So, you know, but yeah, does that answer the question?
+00:15:42 Yeah.
+00:15:43 I was just wondering, like, what was the original plan that has changed?
+00:15:47 But if it was just like uploading and releasing things at the same time.
+00:15:51 No, I wasn't, I wasn't going to add, I might have ended like a, I might have added like a bump at the end that's like, you know, check out my comic.
+00:15:58 Check out, check out the comic Slime and Punishment.
+00:16:00 You can see it on my website or something like that.
+00:16:05 But I didn't.
+00:16:07 But I wasn't going to like add a section or anything in the lecture itself.
+00:16:11 I do.
+00:16:12 I mean, I feels a little weird in this context now.
+00:16:15 I sort of wish I hadn't.
+00:16:17 Like one time I think me and Munchy like plug RFCK.
+00:16:21 And, and aside from that, I talk about, I talk about Slime and Punishment.
+00:16:25 I give it maybe a little bit more attention than I gave the other special Sonichu episodes just because I'm biased towards it.
+00:16:34 But I don't devote like a huge chunk of the lecture.
+00:16:36 I think this, it's like maybe like a 15 minute bit talking about it, which I try, I try to be fair.
+00:16:43 Because at the end of it is in the context of Sonichu, it is just one special episode among many.
+00:16:51 But also the Canon finale, because it was the last one ever made, LeMau.
+00:16:57 So I will be excited.
+00:16:59 Okay, I moved into my new apartment.
+00:17:01 Well, my temporary new apartment, and I plan to spend all of this month just grinding the game.
+00:17:07 Because I don't want to fucking, I feel, I feel cursed.
+00:17:11 I feel cursed by all the things that I had wanted to do and haven't gotten done.
+00:17:17 And releasing the lecture was one of them.
+00:17:19 And now the lecture's out, and I feel a little less cursed.
+00:17:22 But the game is another one that is cursing me right now.
+00:17:25 And when I finish the game and finish Slime and Punishment, I will be, most of the rest of the curse will be gone.
+00:17:30 And I'll be free.
+00:17:35 Oh yeah, baby.
+00:17:37 Yeah, getting things done one after another.
+00:17:41 Fucking putting out making content.
+00:17:45 Yeah.
+00:17:46 Video is doing great, by the way.
+00:17:49 The video is at, it got, let me, let me, hold on.
+00:17:52 I just want to see.
+00:17:53 I checked it was like 18K.
+00:17:55 It's over, it's like 21K now.
+00:17:58 Hold on.
+00:17:59 The first day, it's funny.
+00:18:02 Okay, the original Sonichu lecture got like less than a thousand views on his first day.
+00:18:07 But that's okay, because like nobody knew about it then.
+00:18:09 So that makes sense.
+00:18:10 And then Tails gets trolled and Kokoro Wish both got about like 4,000 some on their first days each.
+00:18:20 This one, on its first day, it got about 13,000.
+00:18:28 Ooh, nice.
+00:18:29 And that was pretty good.
+00:18:30 And now on the second day, we're almost at two whole days and it is at 22K now.
+00:18:38 It's having, normally, my usual videos, they have a bump at the end and then they trail off to nothing.
+00:18:45 But this one, I'm seeing it has a wave pattern.
+00:18:48 It's going up and then leveling off and then going up a little more and leveling off and it's done that twice now.
+00:18:53 So it's having new bumps as people find it, I think.
+00:18:59 It's very exciting.
+00:19:01 I wish, okay, people say like it's maximizing the SEO that I have it out now, that I released it when I did.
+00:19:10 That might be true a little bit.
+00:19:12 I don't think in the long term, it's going to make that much difference.
+00:19:15 I think if the video had just been out already, then when this story had broken and Chris suddenly went mainstream,
+00:19:23 I think people would have found the video just the same.
+00:19:25 So I don't think it's going to increase the amount of views that I waited this long.
+00:19:28 I wish I had just had it out this whole time.
+00:19:31 It probably would have been making me some ad revenue.
+00:19:36 I guess.
+00:19:37 I mean, I'm trying to think of like, I remember vaguely hearing about YouTube bullshit and algorithms and like the acceleration of views sort of makes it into like a hot video and then it'll get pushed around more.
+00:19:55 Maybe.
+00:19:56 If you get like the same amount of views over a longer period of time, it'll appear less.
+00:20:00 But I don't know how true that is.
+00:20:02 It seems like it makes sense.
+00:20:04 Yeah, maybe.
+00:20:06 Like maybe if I release it when it's really, really hot and it gets a lot of views really fast, it'll be like more favored for recommendations or something.
+00:20:14 It's possible.
+00:20:16 The, oh, speaking of Chris being mainstream, my mom's birthday was yesterday and me and Kazzy were sitting in the moving truck and I was like, I got to call my mom.
+00:20:30 It's her birthday.
+00:20:31 It's too late.
+00:20:32 You know, it's getting late.
+00:20:34 Kazzy was like, okay.
+00:20:35 And I called my mom and I wish her happy birthday and she says, she says like, Ben, I saw.
+00:20:42 I saw a news story about about that person.
+00:20:46 You always used to talk about it.
+00:20:48 It was Christian.
+00:20:49 It was Christian Weston Chandler.
+00:20:50 Right.
+00:20:51 I saw it on the news and I.
+00:20:54 Kazzy thought it was so funny.
+00:20:56 That my mom said that she called Chris that person I used to talk.
+00:21:02 I always talk about, I used to talk about it more like to your mom.
+00:21:11 I remember, I remember one time I was in college and she came to like, maybe help me drop off some stuff or something.
+00:21:22 And I remember, I don't know.
+00:21:26 I think she just asked me like, what was I up to?
+00:21:28 And I had been really deep down the rabbit hole.
+00:21:30 And I think I did like.
+00:21:31 You gave her a whole lecture.
+00:21:33 I'm basically about like, you know, this was in a more innocent time.
+00:21:37 This was pre-transition.
+00:21:38 Sonichu was still being made, all that stuff.
+00:21:40 But I was really excited about it.
+00:21:45 And yeah, I think, I don't know.
+00:21:47 You saw, yeah, she learned about Chris for me and she recognized, she just, she said that a news article just popped up on her phone.
+00:21:53 And normally she doesn't click those, but she recognized the name and was like, this is that person Ben talks about.
+00:22:00 What news was it?
+00:22:02 I don't know if I've seen like major news outlets talking about it.
+00:22:06 I didn't know.
+00:22:07 Yeah.
+00:22:08 I thought that was weird.
+00:22:09 I was like, what, what are you using on your phone that just makes news articles pop up on you randomly?
+00:22:15 But, but something.
+00:22:19 Yeah, I have no idea.
+00:22:21 She didn't, she wasn't specific.
+00:22:23 She just said it just popped up on my phone.
+00:22:26 No, no further context.
+00:22:29 Yeah.
+00:22:30 So that was, that was great.
+00:22:33 That was great.
+00:22:34 Horrifying.
+00:22:35 Horrifying situation.
+00:22:37 Nightmare.
+00:22:39 Very cringe in hindsight in the lecture.
+00:22:44 I mean, honestly, the worst, like I'm sound pretty bad because I'm very defensive of Chris throughout the whole thing.
+00:22:52 And I'm very much like, you know, just let her be, you know, she's not doing anything.
+00:22:59 She's just going to, she's just going to do her own, she's going to do her own thing.
+00:23:02 No one can, can change her.
+00:23:04 Like other people have tried to like scare her straight and like bullier into changing herself.
+00:23:08 It's never worked.
+00:23:09 It doesn't accomplish anything.
+00:23:10 Chris doesn't do anything.
+00:23:11 Chris is going to do what she's going to do and no one, it's no one else's business.
+00:23:14 But the worst is, is Jesse actually Jesse says like, I mean, she's not hurting anyone.
+00:23:20 Right.
+00:23:21 And we all, and we all nod like, that's right.
+00:23:23 That's right.
+00:23:24 No one's getting her.
+00:23:25 That's right.
+00:23:26 Jesse's right.
+00:23:27 Absolutely.
+00:23:28 Yeah.
+00:23:29 So he got the worst.
+00:23:32 He looks, he looks the worst in hindsight based.
+00:23:36 Yeah.
+00:23:37 I hope most people recognize that it was filmed before.
+00:23:41 I mean, I think it's pretty obvious.
+00:23:43 I put a disclaimer at the very beginning.
+00:23:45 It's the first thing you see, because I'm like, it's really important when people understand.
+00:23:50 I think most people will see it if it's right at the beginning.
+00:23:54 Like, like if I had put, if I had put a disclaimer at the end, nobody would see it.
+00:23:58 If I had put a disclaimer in the description, nobody would see it.
+00:24:01 I knew I had to, it has to be the first thing you see when you click on the video.
+00:24:05 And it is.
+00:24:07 Oh, boy.
+00:24:09 Oh, fucking boy.
+00:24:11 And it has not been demonetized yet.
+00:24:13 Thankfully, even though it talks about rape and incest and Nazis and stuff.
+00:24:18 So, I mean, I hope it, I hope it stays that way.
+00:24:24 This, this, this whole, this whole Chris development is so, is so sad.
+00:24:30 It's so deranged.
+00:24:31 It's terrible.
+00:24:32 I, I really, I really just wish it weren't so.
+00:24:38 I really wish this wasn't how it ended.
+00:24:41 But it is, I guess.
+00:24:44 Unless maybe, I mean, there's still some faint hope that maybe she was just like lying about it.
+00:24:51 But I don't know.
+00:24:53 Yeah, I wonder about the police procedure and what happened to the mum.
+00:24:59 Like, if the mum was there and she's like, um, not demented.
+00:25:06 That was the word.
+00:25:08 She's old.
+00:25:09 Yeah, I think she's got, I, I mean, I've heard, I, people have said that she's got dementia.
+00:25:14 I don't know how true it is.
+00:25:19 We haven't, it's so gross and weird.
+00:25:22 I don't really want to look into it and I have no real like stake in it being true or not.
+00:25:27 I'm, I mean, at the end of the day, all we have is Chris's word and Chris's word is very suspect,
+00:25:33 but she has told multiple people basically the same thing.
+00:25:37 And it's, and I don't know why she would lie about it really.
+00:25:42 I mean, I mean, she's weird.
+00:25:44 She, but I don't know why she would lie about it.
+00:25:46 She's told multiple people the same thing.
+00:25:48 She's been arrested, which I mean, that's not really proof.
+00:25:51 I mean, I guess it has to go to trial or something.
+00:25:53 I mean, I, I guess I'll wait and see what like the trial results are.
+00:25:57 I imagine, I imagine that if it's true, like bar being examined at the hospital will probably confirm it.
+00:26:06 Probably.
+00:26:10 And if it's not true, then we'll all be able to say, oh, well, never mind then.
+00:26:17 Oh, go.
+00:26:18 Oh yeah.
+00:26:19 Oh great.
+00:26:20 She was just a harmless cuckoo after all.
+00:26:22 It's, it's, it's really obvious at this point.
+00:26:25 And I think it like there was, I mean, you know, you have this like this delusional autistic person and like a very elderly, possibly dementia riddled or Alzheimer's having old, old person in the house.
+00:26:41 Like, I know it's like hindsight is 2020, but like clearly like some sort of like intervention was required.
+00:26:50 And that situation is not safe.
+00:26:53 No, it's not good.
+00:26:55 I feel like this could have been averted.
+00:26:58 I don't know who, I don't know who should have done what.
+00:27:01 Yeah, I guess it's, I mean, social services you would think would intervene somewhere.
+00:27:09 I guess.
+00:27:10 But I don't know how and.
+00:27:12 I mean, I think someone would have to.
+00:27:14 I think someone would have to like make a phone call and report a problem or something.
+00:27:22 Right.
+00:27:23 I don't know how it works.
+00:27:27 Yeah, I'm not as plugged in as you on like the situation Chris was in.
+00:27:35 Like, just that's the just that she was living with Barb for like years all alone since since Bob died.
+00:27:42 Okay, yeah, maybe he was like, like, together enough.
+00:27:49 I don't really know.
+00:27:51 Yeah.
+00:27:52 I mean, I don't think I don't think Barb was demented, you know, back then it's been like a while since that happened.
+00:27:59 I think, I don't know, it seems or I would believe that maybe her mental state has deteriorated.
+00:28:09 It's weird and kind of pointless to speculate on all that.
+00:28:13 Yeah.
+00:28:15 Everybody wants everybody wants to everybody wants to argue about gender in the comments and I won't let them.
+00:28:23 I ban all that discussion because there's no there's no discussion to be had about it.
+00:28:29 It's so annoying.
+00:28:30 Yeah.
+00:28:31 Because Chris was a female this whole time.
+00:28:35 She has been one for years and years.
+00:28:37 And now people try to say, you know, I can tell it's disingenuous.
+00:28:41 But the claim is, oh, you know, she, you know, we can't respect her pronouns if she did this.
+00:28:49 And it's like, why does that have anything to do with it?
+00:28:53 I think anything to do with it.
+00:28:55 I think I think people who see it as like you do it to as a as a favor as charity to the trans person sort of like shows that you don't believe.
+00:29:06 It means the transition is real.
+00:29:09 Yeah.
+00:29:10 If you just being nice, you're you're indulging what you see as a delusion basically is what that's saying.
+00:29:16 Those those people don't actually think that like trans is good.
+00:29:19 But this this one time we've got to know they think they think the whole thing is bad and they'll use this as a wedge to be like C.
+00:29:27 C.
+00:29:28 Yeah, it's bad.
+00:29:30 It's like, oh, I only use the correct pronouns to look good.
+00:29:34 Essentially, I only use it because it's polite.
+00:29:37 I'm such a kind person.
+00:29:38 But if I don't like him, then I'll bring out the the transphobic comments because fucking they're bad persons like they deserve it.
+00:29:45 Bring out the transphobia, but I'll but I can have this shield.
+00:29:48 I have this shield.
+00:29:49 Oh, no, she's a criminal.
+00:29:50 He's a criminal.
+00:29:51 He's a rapist.
+00:29:53 You're going to respect his pronouns.
+00:29:55 He doesn't deserve it.
+00:29:56 It's not about respecting a person.
+00:29:59 It's about respecting you lost your way.
+00:30:02 Not even about respecting reality.
+00:30:04 It's bigger than it's bigger than this one person.
+00:30:06 Yeah, it is about respect.
+00:30:08 I think I think great.
+00:30:09 It's about respecting reality.
+00:30:10 The correct, the logically consistent and reasonable thing to do is respect everyone's pronouns.
+00:30:16 Whatever they say they are, they are.
+00:30:18 It's the only thing that makes any sense.
+00:30:19 And if you don't do that, then you are.
+00:30:22 What's the word?
+00:30:24 Dereign.
+00:30:25 I don't know.
+00:30:28 Yeah, I see it as a, I see it in the comments being like, well, huh, pronouns, Christian pronouns.
+00:30:35 And I go, this is derangement syndrome.
+00:30:38 This person is ill.
+00:30:39 This person is not well.
+00:30:40 This person has lost their way.
+00:30:42 It needs to be institutionalized.
+00:30:45 It is an on logic is common done.
+00:30:51 That it's like the among people who don't believe trends is a real thing and that it's a delusion.
+00:31:00 They don't get like what it is.
+00:31:04 And they have no impetus to learn because they feel like, you know, anyone who's teaching it is also deluded.
+00:31:15 They've been indoctrinated.
+00:31:17 And they're just then never going to respect it.
+00:31:19 They're never going to change their way.
+00:31:21 And it's annoying to see because it's like, you can't argue against people who won't, who like believe that you're delusion, like delusional.
+00:31:29 Yeah.
+00:31:30 You can't direct them to things because of, and no, impossible, impossible that I don't know everything about this thing that I've never looked into.
+00:31:39 It's really, it's really just a case of like, man, so often it's like the conservative opinion is just, it's just like what you would think if you were a kid who doesn't know anything and you didn't think about it at all.
+00:31:58 And you just were like, I guess that's how it is.
+00:32:00 Like that's the conservative opinion on like almost anything.
+00:32:04 It's reactionary.
+00:32:05 That's what it means.
+00:32:06 That's right.
+00:32:07 The common sense reaction based off of no information or understanding.
+00:32:12 Yes.
+00:32:13 The first thing you think.
+00:32:14 That's what it is.
+00:32:15 That's probably it.
+00:32:16 Always.
+00:32:17 Yeah.
+00:32:20 I'm sure it all like it.
+00:32:23 You know, although that is, I think I'm kind of lucky.
+00:32:28 I made it in the comments.
+00:32:29 I said like no transphobia in the comments.
+00:32:31 Maybe that's why.
+00:32:32 But like most of the comments, the video is getting a lot of comments.
+00:32:36 Like it's must have like 600 comments by now.
+00:32:39 734 comments.
+00:32:42 Most of them are not point, you know, pointless mystification about gender stuff.
+00:32:50 Most of it is, well, I mean, it's a lot of like, oh, the timing.
+00:32:55 Yeah.
+00:32:56 It's a lot of, oh my God, like referencing the thing and being like, oh, oh.
+00:33:05 You know, Christian, why?
+00:33:08 People are excited.
+00:33:09 People are excited to talk about it one way or another.
+00:33:12 And I've given them the opportunity.
+00:33:16 People, I mean, I've been getting, I've been getting comments for years now being like
+00:33:25 when is part two, when is part two?
+00:33:28 And it feels, I feel, I feel relieved.
+00:33:30 I know I was, I was holding onto it for, I was holding onto it because I thought it would
+00:33:34 be cool to make it an event with the end of Slime and Punishment.
+00:33:38 But even so, even though that I didn't decided not to go with that, it still feels great to have it out.
+00:33:45 And to be like, where's part two?
+00:33:47 Here's part two.
+00:33:48 There it is.
+00:33:49 Enjoy.
+00:33:50 Enjoy your slop, you pigs from the trough that is my channel.
+00:33:56 So exciting week.
+00:34:00 Exciting week.
+00:34:02 Also moving.
+00:34:03 And then like the day after it was like, I was moving the next day and I'm like boxing
+00:34:09 everything and then I hear that I wake up and I hear this Christian news and I'm like,
+00:34:13 this changed everything.
+00:34:14 I gotta fucking release the video and I render it and it takes all day to render and upload
+00:34:20 and process and it gets all fucked up and I have to redo it.
+00:34:24 And I'm like, oh, I'm losing it.
+00:34:27 I'm not going to crest the wave anymore.
+00:34:31 But I finally get it out and then like, I watch the analytics for like one day and I'm like,
+00:34:36 oh, Pog, oh, views, oh, number go up.
+00:34:38 And then I'm like, I gotta move.
+00:34:40 Now I gotta unplug my computer and I gotta get into my fuck, go rent a fucking van and
+00:34:46 drive a van.
+00:34:47 God, I hate fucking driving and I hate driving vans even more.
+00:34:51 They're so big and so scary.
+00:34:53 You think you're going to hit the curb all the time because you're so wide.
+00:34:57 Jesus Christ.
+00:34:58 It should be illegal to drive a van.
+00:35:00 How big of a van is it?
+00:35:01 I'm trying to imagine.
+00:35:03 Well, is it like Toy Story moving van?
+00:35:06 No, but I don't remember.
+00:35:11 I mean, there's like a truck in Toy Story and I had like a big old thing.
+00:35:16 You haul, I'll show you a picture.
+00:35:18 You haul nine foot van.
+00:35:22 It's bigger than like a mini van, but it's not as big as like a mega van.
+00:35:28 I feel like I feel like this makes it look smaller than it is, but here's the image.
+00:35:35 It's it's called the nine foot van, but it's only the like the back storage area is nine
+00:35:42 feet long.
+00:35:43 I think the whole thing is probably like 15 or more feet.
+00:35:47 It might even be like 18 foot long from like tail to tail.
+00:35:50 Yeah, I can see us.
+00:35:51 That's big.
+00:35:52 It's pretty big.
+00:35:53 Yeah.
+00:35:54 Yeah.
+00:35:55 It's big and like you're sort of high up like compared to other drivers, you're like much
+00:35:59 higher.
+00:36:00 Look really small in the front in the front window there.
+00:36:05 I did I did manage.
+00:36:09 You know, I'm complaining about it, but I did manage to flawlessly parallel park this
+00:36:15 thing in a pretty narrow space with very little space.
+00:36:19 I did it almost on instinct.
+00:36:22 It was amazing.
+00:36:23 I really outdid myself.
+00:36:25 That was when I was unloading stuff into my new my new place.
+00:36:29 Most people came to parallel park in a normal car.
+00:36:31 Thank you.
+00:36:32 I genuinely don't know how I did it.
+00:36:35 I probably I probably shouldn't have tried, but it worked.
+00:36:41 USA USA USA.
+00:36:44 You haul you haul.
+00:36:47 Yeah, true.
+00:36:48 True.
+00:36:49 Man, God, what else do I even have to fucking say about this week?
+00:36:57 Huh?
+00:36:58 I don't know.
+00:37:01 Anything interesting happened to you?
+00:37:05 Well, aside from illness, the illness was the main thing.
+00:37:08 I think it was.
+00:37:10 Well, yeah, it's not sucks.
+00:37:13 Really.
+00:37:14 That's rad.
+00:37:15 I the the red man comic from the Lord of Ghost Kickstarter samples have been sent.
+00:37:23 I have to go get them though, because I sent them to the wrong address.
+00:37:26 I sent them to my parents house.
+00:37:28 That's not too far away.
+00:37:30 That's like an hour or two.
+00:37:33 But the pins are arrived.
+00:37:35 I put a picture on Twitter of all the pins.
+00:37:39 I have not I have not looked at Twitter like I woke up the day I was getting the van and
+00:37:44 I got on Twitter just in time to post that screenshot of Chris of Christine Weston Chandler
+00:37:49 deep patroning me on Patreon.
+00:37:52 And then I like didn't look at Twitter again.
+00:37:55 Right now is like the first time I've been back online.
+00:37:59 So I got to go look at all that shit.
+00:38:02 Yeah, it's just a big old plastic bag with all little plastic bags of the pins inside.
+00:38:07 They look like they're trapped, but they look happy about it.
+00:38:10 So that's that's one of the many things I have to get.
+00:38:14 And that's that's about it.
+00:38:18 I've really just been trying to take it easy and get over whatever sickness I have from the side effects.
+00:38:23 I'm pretty sure it's the medicine, the HRT stuff.
+00:38:27 It's specifically the Bicolutamide.
+00:38:30 If any trans people in the audience know what that is, it's supposed to be trans people are listening in the audience.
+00:38:36 Stop. This is not a safe place.
+00:38:39 No, you will be you will be bothered.
+00:38:42 You will be you'll be harassed in the comment section.
+00:38:45 I'm very you will be hurt by me. Yes.
+00:38:48 But like for a while, I've been using it since October, like last October.
+00:38:55 So it should not be a problem by like everyone's standards.
+00:39:00 I had checked over and over again all the different things like what could be causing me to be fucking sick right now in April,
+00:39:08 which is when all this started.
+00:39:10 And it's not the the, you know, my diet, I've been improving that.
+00:39:16 It's not. I don't know.
+00:39:18 It's all these it could be lots of things, but I feel like the most likely is just unfortunate side effects from that.
+00:39:25 So I'm going to go off of it for a week.
+00:39:28 And I sure hope my boobs don't shrink.
+00:39:30 That's the main thing is just they're just going to fall off.
+00:39:32 I know they're not. Oh God.
+00:39:35 I know the things don't happen that quickly.
+00:39:37 And I think boobs are like the only thing that don't change back.
+00:39:43 But yeah, it's a sad day.
+00:39:46 I'm going to try and figure out how to do it properly so that I don't get sick.
+00:39:52 But it's a lot of it's a lot of like research.
+00:39:57 And it really annoys me that it's so difficult to get like actual medical help from the NHS about gender stuff.
+00:40:05 I'm still on like a on a list to get to a gender clinic and I have been since last year.
+00:40:12 There's been not even one email yet.
+00:40:14 So I've been I've confirmed that I'm in the system.
+00:40:18 I'm just waiting.
+00:40:20 Have you ever watched Golden Girls?
+00:40:23 No.
+00:40:25 You know what it is though, right?
+00:40:27 Girls that shoot like spies.
+00:40:30 No.
+00:40:32 Oh, what am I thinking of? I'm thinking of something from the 60s.
+00:40:34 I'm thinking of totally spies.
+00:40:35 Oh, you think of Charlie's Angels.
+00:40:37 Charlie's Angels.
+00:40:38 Okay, what's the Golden Girls?
+00:40:40 No, Golden Girls is about it's the show about it's a sitcom about a bunch of like old women.
+00:40:49 They're just friends and they hang out in a big house.
+00:40:54 I watched the whole series of like two years, three years ago, maybe.
+00:41:00 And it's just interesting because there isn't there is an episode in which Dorothy played by B Arthur is sick with something.
+00:41:10 Whenever you talk about your illness, I think of this episode because it's Dorothy being like, I just feel bad and tired and like I'm going to die and I can't do anything all the time.
+00:41:20 And I just don't know how to do that.
+00:41:22 And I'm like sounds like Dorothy.
+00:41:24 And the whole episode it's like she it's her going to doctors and having doctors tell her there's nothing wrong with you.
+00:41:31 You're just hysterical.
+00:41:32 You're just a woman.
+00:41:33 You don't understand your own body.
+00:41:36 Yeah.
+00:41:37 Yeah.
+00:41:38 And then it ends.
+00:41:39 That's what it was.
+00:41:40 I was having a woman moment.
+00:41:41 Just a woman moment.
+00:41:42 Just a woman.
+00:41:43 I diagnose you as a terminal woman moment.
+00:41:46 She does she does get a diagnosis for like chronic fatigue syndrome, something in the end.
+00:41:52 It's kind of a it's kind of a happy ending because she gets a diagnosis but also bad because you just have a chronic illness that we don't know what to do about is the diagnosis.
+00:42:01 So, you know, mixed bag.
+00:42:05 I feel like I'm pretty healthy in most things.
+00:42:07 I guess I could exercise more, but I take regular walks.
+00:42:10 I eat pretty healthy.
+00:42:12 I could eat more fruit, I suppose, but it's not like.
+00:42:14 I could definitely eat more fruit.
+00:42:18 Damn, I got to order groceries.
+00:42:21 I got no food in my fucking house.
+00:42:23 Soon as this podcast over, I'm hitting up Instacart and I'm getting a big bag of frozen fried chicken to bake in the oven.
+00:42:33 Damn, I'm a genius.
+00:42:37 Did you see did you see did you see Kazi's announcement on Twitter?
+00:42:43 Yes, of her being.
+00:42:45 Oh, I mean, they, them being shit.
+00:42:49 I did live on stream.
+00:42:53 I didn't live right now at sites.
+00:42:55 I've been having a little trouble remembering that they are a non binary they now, but I'm sure I will.
+00:43:03 I'm sure I will pick it up in a Jiffy.
+00:43:06 I don't know.
+00:43:08 I thought that was.
+00:43:10 I thought that was funny, I guess, because Kazi has talked about like.
+00:43:17 Wearing a binder in high school, but then being like, no, I'm just kidding.
+00:43:23 And now, and now they're like, actually, I wasn't just kidding.
+00:43:27 And I'm like, yeah, that tracks.
+00:43:29 That makes sense.
+00:43:30 It doesn't doesn't.
+00:43:31 Doesn't see that.
+00:43:32 Completely surprising.
+00:43:33 Yeah.
+00:43:34 Yeah.
+00:43:37 I was I was talking to Kazi on the on the on the moving trip.
+00:43:43 Oh, coolest thing about the movies.
+00:43:46 I don't have space.
+00:43:47 I don't have a basement for.
+00:43:50 I don't have a basement for.
+00:43:55 My weight, right?
+00:43:57 Yeah, my lifting, but they their house, as in Kazi and Munchie and and and the others.
+00:44:06 They have a great basement.
+00:44:08 Their basement is better than the one that I used to have.
+00:44:11 So we brought the rack and the weights.
+00:44:14 Yes, it is a basement.
+00:44:15 We brought the whack and the rack and the weights over and put it in the basement.
+00:44:20 We haven't assembled it yet, but we've got tools to do that.
+00:44:24 It has to all be screwed together and it's it's going to be it's going to be pretty cool.
+00:44:29 It's going to get going to get swole.
+00:44:31 I my current place is like a bit of a hike.
+00:44:34 It's like a 30 minute walk from them.
+00:44:36 But the new place that I'm moving into in a month is like literally like five minutes away.
+00:44:43 So I'll just go over there and lift up.
+00:44:45 It'll be almost as good as having it in my own house, maybe even better.
+00:44:48 Because psychologically, I'll have made the walk and I'll be like, well, I'm committed now.
+00:44:52 I have to get my mileage out of this workout.
+00:44:55 Right.
+00:44:57 I could even jog it.
+00:44:58 I could even jog and get some cardio in.
+00:45:01 Everyone's always telling me, Ben, why don't you do cardio?
+00:45:03 Why don't you?
+00:45:04 Why do you lift?
+00:45:05 Why do you only lift?
+00:45:06 Why don't you do cardio?
+00:45:07 Well, maybe I will.
+00:45:09 And now that will shut you up.
+00:45:11 That will show you you cowards.
+00:45:13 I thought like you said, like I may work at jog because the basement is so big that you can jog in there.
+00:45:21 No, it's not that big.
+00:45:24 It's like a yeah, the basement is like it's like a hyperloop.
+00:45:27 It's like a Tesla tunnel.
+00:45:29 It's just really long.
+00:45:31 You can use jog around.
+00:45:33 Yeah, yeah.
+00:45:35 Oh, you know, speaking of the Hadron Space Collider, when I brings reminds me of something, I was thinking because, you know, my intention is still to finish slime and punishment, finish the game, eventually make a book out of it and sell the book.
+00:45:51 The I was thinking about whether, you know, you know that I think we talked about it before that that side comic I made nuts the beginning.
+00:46:00 Oh, yes, yes.
+00:46:02 The timeline diverges because of whether you choose salted or unsalted cashews.
+00:46:09 Close.
+00:46:10 It was it's salted almonds or unsalted cashews.
+00:46:13 Okay.
+00:46:15 Yes.
+00:46:16 Very important.
+00:46:17 I was thinking about, should I just like put that in the book with the rest of it?
+00:46:21 Or should I I was thinking maybe it should be a zine.
+00:46:24 Maybe it should be its own like side zine.
+00:46:27 Or something.
+00:46:29 And I was like, I could then I could make a zine.
+00:46:32 Making zines is cool.
+00:46:34 And I could do it.
+00:46:35 But isn't it only like a few pages?
+00:46:37 Wouldn't it be like a pamphlet?
+00:46:39 It's it's probably maybe like 20 pages.
+00:46:43 Yeah, it would be more like a pamphlet.
+00:46:45 Yeah.
+00:46:46 20 pages.
+00:46:48 It's probably 20.
+00:46:50 Yeah, because each, I mean, you know, the timeline split, there's probably like maybe there's maybe like three initial ones.
+00:46:57 And then there's probably like, yeah, I think there's probably 20 pages between all the different splits.
+00:47:04 Right.
+00:47:06 Maybe.
+00:47:07 I don't know.
+00:47:09 It would be it would be a modestly sized.
+00:47:11 It would be a modest zine.
+00:47:13 I think like thematically, I kind of like or aesthetically aesthetically, I kind of like the idea of it being separate in like a side book booklet or whatever.
+00:47:25 But like practically, I kind of like since it's so short, I kind of feel like it would be such a small booklet and so easily lost.
+00:47:33 Maybe it's more practical to just put it in the rest of the book.
+00:47:38 I feel like that makes more sense.
+00:47:41 Just put it in.
+00:47:43 Yeah.
+00:47:44 Well, I don't know where you would put it, I guess.
+00:47:46 Probably after the beginning.
+00:47:48 After the end.
+00:47:50 Yeah, I would have like an in like a, it could be like the scratch intermission, just a little like intermission break in the middle flash flashback or whatever.
+00:48:03 Yeah, I'm not, I'm not, I don't, yeah, I don't know.
+00:48:06 Yeah, I was I was thinking about, man, when I'm when I make that book, I'm going to I'm going to have to write a whole like forward about it.
+00:48:16 I definitely I definitely want to do the like Homestuck Hussie style, like running commentary on each page.
+00:48:23 I think I could, I think I could think of stuff to say about every every single panel, or not every every single set of four panels in the whole book.
+00:48:32 I think I could have a comment to make about what I was thinking when I drew them.
+00:48:37 You know, I mean, especially, especially the Chris, the Chris stuff later on.
+00:48:42 Like, that's that's mostly why I'm thinking it needs a forward, although I probably would have made done a forward anyway and just explain like what what is this to anyone who might for whatever bizarre reason be picking it up without knowing where it came from.
+00:48:59 Man, that's going to be great.
+00:49:02 That's going to be so good.
+00:49:03 I wish I wish it were ready.
+00:49:06 I wish I wish it were ready to do it now, but it's not.
+00:49:12 A long time ago, I like a long time ago now.
+00:49:19 But I think before I started making the game, I like got drunk, and I started drawing a couple more panels of slime.
+00:49:27 I think I got like three done, I was going to do four.
+00:49:30 And I got drunk and I like couldn't write the dialogue and I was like confused and I think I like put them away so I have like three panels that are like maybe done I might go back and like fix them because they are probably bad.
+00:49:46 Then I was then I was like and then I never touched them again and then it was like I'm not going to I don't want to draw them until the game is done focus on the game get the game done and then draw the panels around it.
+00:50:01 Yes.
+00:50:02 Oh, one more thing you mentioned diet before speaking of diet.
+00:50:08 I had a chicken sandwich at Burger King today.
+00:50:12 And it was great.
+00:50:14 Nice.
+00:50:16 Thanks.
+00:50:18 Me too.
+00:50:24 I'm tired.
+00:50:25 I'm fatigued.
+00:50:26 I'm exhausted.
+00:50:27 Really.
+00:50:28 I.
+00:50:29 Yeah.
+00:50:30 I mean, I have yours is probably worse, but I, I really was like hauling I was like, I've been like hauling heavy shit around like all yesterday and then like again for part of today.
+00:50:44 It has been rough.
+00:50:48 And I still like my numb like it's all in my room, but it's all disorganized.
+00:50:53 I still have to like put stuff under the bed and like stack other stuff in the closet and like get it.
+00:51:00 So it's not just all like lying around and like in the way of everything like fucking coffee table barely even has room in here.
+00:51:10 I saw images of the one you're going to next month.
+00:51:14 I don't know this one.
+00:51:16 What will describe it?
+00:51:18 This one, I mean, it's small.
+00:51:22 It's small.
+00:51:23 It's got pretty high ceilings.
+00:51:25 And it's got a it's pretty unremarkable.
+00:51:28 Honestly, there's two big windows.
+00:51:30 And they look out onto a little like pavement courtyard that sort of like like the building is kind of like you shaped.
+00:51:38 Like in the middle of the you behind it is sort of this little paved courtyard that my that my windows look out onto.
+00:51:47 The I did.
+00:51:48 Oh, yeah, I showed you the pictures of the other place.
+00:51:50 I actually didn't end up taking that room that the landlord said that she recommended that I take a different room in that same building because that room.
+00:52:01 It's closet is not in the room itself.
+00:52:04 It's closet is outside in the hallway.
+00:52:07 And I thought that sucks.
+00:52:09 So she she told me not OK, it's it's like $25 a month, but I have another room.
+00:52:15 It's basically it's slightly bigger.
+00:52:17 It's on the first floor.
+00:52:19 And it has a like a built-in closet and like Bureau and stuff.
+00:52:23 And I was like, OK, sounds good.
+00:52:28 Yeah, this this room that I'm in right now, it's the my other room was very small.
+00:52:33 This one is probably about it's maybe slightly.
+00:52:36 The ceilings are making it feel bigger, but like floor space wise, it's probably the same or posters.
+00:52:44 They're not going to bother.
+00:52:46 I'm not going to bother unpacking like anything here.
+00:52:49 It's all just got to go in the fucking truck again.
+00:52:54 3029 days from now.
+00:52:59 Yeah.
+00:53:01 It sucks having like a.
+00:53:04 Like a one month.
+00:53:06 It feels like a long time while you're in it, but at the same time, if you've got something to do at the end of the month, it doesn't.
+00:53:12 Yeah, it was like there's no time at all.
+00:53:14 Is that how you felt about the Kickstarter?
+00:53:17 Um, you know, not really.
+00:53:19 I think mostly because I didn't really need to do anything.
+00:53:23 When the Kickstarter was ended other than sigh of relief.
+00:53:29 Oh, yeah.
+00:53:30 I was going to say me and Kazzy also talked about how neither of us have started our Lord of Ghost comics.
+00:53:36 But no, that's the other thing I have to do this month in addition to the game is I have to bang that out.
+00:53:41 Yes, please.
+00:53:43 Yeah, I will.
+00:53:44 I will remind everyone.
+00:53:46 King salmon already finished theirs.
+00:53:48 So there's there's pressure.
+00:53:51 There's a little bit of pressure.
+00:53:53 Oh, King salmon.
+00:53:54 Yeah.
+00:53:55 He's drawing one.
+00:53:56 Yeah.
+00:53:57 King salmon is the guy who makes those like robot animations, right?
+00:54:01 That is the guy.
+00:54:03 Yes.
+00:54:04 That guy is super good.
+00:54:07 He used to be in my old server, I think.
+00:54:10 I haven't talked to him a while, but I saw.
+00:54:13 I saw him post a like a finished animation.
+00:54:16 I think of it was this was a while ago, but he posted like a big finished.
+00:54:21 A gift, I think of like a robot in space doing space.
+00:54:25 Yeah.
+00:54:26 And it was really impressive.
+00:54:27 And they think it got a lot of I think you got a lot of retweets.
+00:54:30 Yeah, I'm glad it did because they've been doing that sort of stuff for a while.
+00:54:34 They have their like a Tomowa comic, which is incredible on its own.
+00:54:39 But then they've been trying to learn how to animate and doing like fucking incredible little bits like that.
+00:54:45 It looked amazing.
+00:54:47 Unfortunately, the money I was offering was not quite enough for that level of polish.
+00:54:53 So it's a little sketchy, but it's still really like really good.
+00:54:58 There.
+00:55:00 You know, man, on the on the other hand, I feel I'm glad that that animation got recognized, but what hasn't gotten recognized is a
+00:55:11 Shaddox RFC K Love Web.
+00:55:14 It's got to be what hovering around like six 7000 views now.
+00:55:18 And I just think I just think that's that's like a crime.
+00:55:23 That video is so good.
+00:55:25 It's like so high effort and it looks great.
+00:55:29 And man, I don't know, 7000 and Shaddox got like a kind of big channel like Shaddox got like 100,000 subs.
+00:55:39 20,000. Yeah.
+00:55:41 Yeah.
+00:55:42 I know they sub for other stuff.
+00:55:44 They sub for like parody animations.
+00:55:46 And this is an original animation.
+00:55:48 I understand that like not everyone is in the market for that, but like what the fuck?
+00:55:54 What's wrong with them?
+00:55:58 It's I guess it's because RFC K the discord MMO.
+00:56:03 I mean, it feels like does everybody use discord?
+00:56:10 Does a discord MMO in and of itself sound interesting or clickable?
+00:56:14 I'm not sure.
+00:56:16 Like obviously endless war is cool once you're watching the animation, but would people click on it to find out?
+00:56:22 I don't know.
+00:56:24 I mean, but I feel I feel like I feel like people like animation though.
+00:56:32 I feel like people just like animations and this is one and it's a good one.
+00:56:37 I feel like you shouldn't have to appreciate RFC K just to like this.
+00:56:42 Yeah, I mean people who watch it really love it obviously.
+00:56:46 But like if it's not doing numbers, it's probably because people just see it and they're like, yeah, whatever.
+00:56:52 I don't know. I don't know what could be done to improve that.
+00:56:58 It's it's unfortunate. It sucks.
+00:57:02 I honestly, I don't know if this is like, I don't want to be patronizing or anything.
+00:57:08 I almost feel like it's my fault like RFC K failed.
+00:57:13 I know that's silly, but I almost feel like my my brand my brand didn't carry the the this this work as far as it should have gone.
+00:57:28 It's fucked up.
+00:57:30 No, I I don't know whether that's really the problem.
+00:57:37 I mean, obviously RFC K is not like a big I think it's just because RFC K is not well known that and that it's like the first episode of Love Web.
+00:57:46 They have like their introductory video about it.
+00:57:50 And it's like 59,000 views from last year, which is not that much, but it's something.
+00:57:58 I think if if it was like Love Web Homestuck, even though that's like everyone talks about Homestuck, if it was like a bigger thing.
+00:58:06 Maybe it would have got more views and got people interested in Love Web as a thing.
+00:58:11 Well, then RFC K comes out, but I don't know.
+00:58:16 It sucks to see it not be really like loved.
+00:58:20 Well, I'm not not not unloved, but like unseen.
+00:58:27 Yeah, it's, I mean, I mean, I guess I would hope that if if I mean the plan is there's going to be more love webs like it's a series.
+00:58:38 So I guess maybe people that find the series later would hopefully go back and watch the old ones if they like the new ones.
+00:58:46 Sure.
+00:58:47 Yeah, I'm sure they will.
+00:58:49 I just want shout out to succeed.
+00:58:51 I want shout out to do really well.
+00:58:53 Yeah, I do.
+00:58:54 It's just, I mean, I know, I mean, this one took like a year to get made, right?
+00:58:59 So remember the mask and me for like information about gun girl.
+00:59:04 Yeah.
+00:59:05 So like, man, I, I, I just.
+00:59:13 Yeah, like you said, I just I just wanted to succeed.
+00:59:15 I just wanted to succeed real bad.
+00:59:19 And I, I don't know.
+00:59:21 I don't know.
+00:59:22 I don't know what else to say other than that.
+00:59:23 I'm just going to like, I don't know.
+00:59:25 I'm just going to like fucking man.
+00:59:27 I'm going to try and manifest that number go up.
+00:59:30 I'm going to just like sit here and just try and like, you know, think, think about it like the secret, you know, like think about that number going up.
+00:59:37 And, and then it will in my opinion.
+00:59:45 Okay, dude, speak of number go up.
+00:59:48 I don't talk about it much because I am embarrassed about it, but I'm not embarrassed anymore.
+00:59:53 My, my, because I'm getting like retweets and follows on my porn Twitter.
+01:00:00 Oh my God.
+01:00:02 Put porn that I draw.
+01:00:04 Oh my God.
+01:00:06 Was it, was it, is it because you mentioned it on the Noida stream?
+01:00:13 Yeah, kind of.
+01:00:15 It's because Simsie retweeted one of them.
+01:00:18 And then I made and then, and it got it like a hundred likes and like, oh my God, numbers go up.
+01:00:23 Now I feel motivated to do another one and then I drew another one and that's also getting retweets.
+01:00:29 So that's how you do it.
+01:00:31 Wait, I gotta, I gotta see.
+01:00:33 I gotta see.
+01:00:34 Hey, big girl squish.
+01:00:37 What about Gib girl squish?
+01:00:40 It's like you reversed it.
+01:00:43 It's like I fucking reversed it.
+01:00:45 Oh my God.
+01:00:46 It's like you fucking reversed it.
+01:00:48 Let's see.
+01:00:49 It's just sort of.
+01:00:50 Slosh.
+01:00:51 I see that.
+01:00:52 That's, that's cute.
+01:00:53 That's funny.
+01:00:54 Wait, which one did the, get the, oh the, oh, you know, I saw, I saw Simsie retweeted the, the carrying one.
+01:01:02 I saw this and I even liked it.
+01:01:04 I even lowered myself to the shameful status of liking a boob drawing under normal circumstances.
+01:01:12 I would never under normal circumstances.
+01:01:15 I, I watch them and see, I look at them in secret and shame and I would never admit to it, but just this one time I indulged based.
+01:01:27 I remember, I remember we were talking about it on the Noida stream, which.
+01:01:32 Oh, I'm so sorry you had to leave at the end of the Noida stream.
+01:01:37 I was like, we were like almost done and I realized afterwards there were definitely ways I could have gotten it done faster, but you know, I had never done this before.
+01:01:49 I mean, it's fine.
+01:01:51 I went back to, to watch the rest and you went on for a little longer than I would have been able to stay up anyway.
+01:01:57 I mean, I was already like, I feel like the amount of extra, like it was almost an hour after that that it ended.
+01:02:06 And what an ending.
+01:02:08 Even, even, I think even Simsie had to go.
+01:02:10 I think he like woke his mom up or something and he had to go.
+01:02:14 Yeah, he was talking too loud.
+01:02:16 Yeah.
+01:02:18 But, oh man, what, what a stream.
+01:02:22 What a stream.
+01:02:24 I mean, yeah, I spent eight hours just doing prep work.
+01:02:28 But you know what?
+01:02:29 It was worth it.
+01:02:30 I made the sun, sun, sun get and then off stream.
+01:02:37 I couldn't help myself because like, you know, it was eight hours of prep work to get strong enough that I didn't have to be afraid of making the sun.
+01:02:45 Once I was that strong, it wasn't actually that hard.
+01:02:48 So I went and I did it again and I made the dark sun down at the dark moon.
+01:02:52 And then I was like, well, that was easy.
+01:02:54 And so then I went and I made two more sons, one regular and one dark.
+01:02:59 Wait, you did this off stream?
+01:03:01 Yeah, I did this off stream.
+01:03:02 Yeah.
+01:03:03 Wow.
+01:03:04 Yeah, I said I would maybe stream it, but I was like, I'm there already.
+01:03:09 I'll just, I'll just do it.
+01:03:11 So then I made, so I had four sons.
+01:03:13 I made two, I made a regular son and a dark son right at the, at like the top of the, at the mountain of like the starting area.
+01:03:19 And I crashed him into each other and I did the supernova.
+01:03:22 And I did the thing where you bring the final boss of the game up to the sky and have him die in the sunlight.
+01:03:29 And that gives you achievement.
+01:03:31 Supernova, by the way, I learned that when you crash the dark son to the regular son, what it does is it like transforms.
+01:03:39 It transforms all of like certain materials, like soft materials, I think in the entire world into like liquid fire or something.
+01:03:48 And it just evaporates.
+01:03:50 So it basically just like destroys the entire world, except for like the hardest materials still like stay around in chunks.
+01:03:57 When you say soft, do you mean like dirt and sand?
+01:04:01 Yeah, dirt and sand.
+01:04:03 Although it was inconsistent though, because I went, I did the supernova and I went over to the right and I was, and the ground was still there, like the hills that I was walking over.
+01:04:15 They were still there, but like they weren't on anything.
+01:04:19 Like it was just like, it was just a layer of dirt that was like kind of slope like hills.
+01:04:24 And the layer went down to like where maybe it would have turned to stone and that stone was gone.
+01:04:31 So like that dirt survived, but like all the stone under it was gone.
+01:04:36 I don't know.
+01:04:37 It was weird.
+01:04:39 It erased a lot of material, but I wasn't sure.
+01:04:42 And like it disappeared a lot of the pyramid, but like the soft like door material that's easily breakable through it like left that behind.
+01:04:51 I don't know.
+01:04:52 It was it was bizarre.
+01:04:53 And it basically is like, you've done everything you can in the game and you want to just fucking destroy the whole fucking world.
+01:05:01 Well, here you go.
+01:05:02 The supernova will do that for you.
+01:05:06 No problem.
+01:05:08 And now I have the crown.
+01:05:09 Now I have the crown on my little guy.
+01:05:13 And it's based.
+01:05:15 I got the pendant and I got the crown.
+01:05:17 Nice.
+01:05:18 One more can you ask for?
+01:05:20 Fuck yeah.
+01:05:21 I'd like to do another notice, not another stream, but another.
+01:05:25 Yeah, you want to do another Minecraft one?
+01:05:29 Minecraft.
+01:05:30 Yeah.
+01:05:31 I just want to hang out.
+01:05:32 I like the atmosphere of those where it's like, it's the same as the PCP, but there's fan interaction.
+01:05:37 There's fan interact.
+01:05:38 There's just viewers and there's just sort of no stakes.
+01:05:42 Our viewers would never our viewers would be deeply insulted to be called.
+01:05:47 I know that's why I changed.
+01:05:49 Yeah.
+01:05:50 We're just the animals at the zoo.
+01:05:54 That's all.
+01:05:55 They come to look at us.
+01:05:58 Yeah.
+01:05:59 We're freaks in a glass cage in the aquarium.
+01:06:06 Yeah, let's do another one.
+01:06:08 God, I hope my fucking internet gets fixed by then.
+01:06:12 Surely you can like, cold your land person.
+01:06:18 Well, no, because the, I don't know if I explained it on stream that like the network that I'm supposed to connect to, it just doesn't let me connect.
+01:06:26 Other networks in the house, I can click on them to connect and it brings it up like enter the password.
+01:06:33 And I don't know the password, but this one, I click it.
+01:06:37 I do the same thing.
+01:06:38 I click it and it just never brings up the enter the password screen and it just goes to like, we can't connect to the network.
+01:06:47 So that it's insinuating that it's, it thinks you're trying to put a certain password in.
+01:06:54 It's the wrong one or is it just not even.
+01:06:56 I don't know.
+01:06:57 I tried, like I tried, like I deleted like all my old network settings.
+01:07:01 I don't have any like preferred like networks set up or anything.
+01:07:05 So it shouldn't be like thinking I'm trying to enter the wrong password.
+01:07:10 It shouldn't be.
+01:07:12 I asked the guy because like the other guy that lives here, he set up the Wi-Fi and he, I asked him like, what am I doing wrong?
+01:07:19 And he was like, I don't know.
+01:07:20 Like all you do, you're, it's supposed to just ask you the password and I'm, it's just not doing it.
+01:07:27 And I'm just, neither of us know what the problem is.
+01:07:30 So I don't know who to call about it.
+01:07:33 I guess the modem people.
+01:07:36 God, I guess maybe I could, I guess maybe I could just call fucking Verizon or whatever or whoever is the, yeah, maybe, maybe that's the only thing to do.
+01:07:47 Maybe they got some weird thing was like only certain amount of things can be accessing the modem at once.
+01:07:54 No, there's no way.
+01:07:55 That wouldn't make any sense.
+01:07:56 It'd be ridiculous.
+01:07:58 That would be ridiculous.
+01:08:01 Oh, my head hurts.
+01:08:05 It takes an ibuprofen.
+01:08:09 All I have to, all I have to eat or I'll have to drink in the apartment right now is my, is almond milk from a big case of almond beverage that I bought a long time ago.
+01:08:21 So I'm just like guzzling it.
+01:08:26 I will get, I will get groceries soon.
+01:08:29 I will buy some.
+01:08:31 I already said I would get, oh man, that like the crispy, the crispy wings, the crispy chicken wings, you bake in the oven and it comes with little sauce packets, little buffalo sauce packets that you can just drizzle over them.
+01:08:45 A real, a real treat.
+01:08:47 A real treat, I tell you what.
+01:08:53 I got nothing else to say.
+01:08:55 Do you got anything else to say?
+01:08:57 Okay.
+01:08:58 Yeah, just follow at big girl squish.
+01:09:01 There is nudity on there, but you know.
+01:09:04 Oh, my God.
+01:09:06 Not that much.
+01:09:07 Not that much.
+01:09:09 I don't draw a lot of like sex.
+01:09:11 It's mostly just boobs and the occasional penis.
+01:09:15 That's fun.
+01:09:17 Oh, wait.
+01:09:22 The first nudity I found was this one of like Terezi getting pinched.
+01:09:28 Oh, yeah.
+01:09:29 That's that's that's sweet brisk and hella resi.
+01:09:32 That's the sweet brown LHF, but brisk and Terezi parody.
+01:09:37 Yeah, I'm seeing a lot of these.
+01:09:40 That's my magnum opus.
+01:09:42 That's fun to read.
+01:09:43 Although Twitter has ruined it because they're tall images.
+01:09:49 And so Twitter doesn't like that.
+01:09:51 So even if you zoom in, they're sort of crunched.
+01:09:55 Yeah, it used to be on new grounds, but difficult.
+01:09:59 I thought I thought I'd move them all over.
+01:10:04 You posted on new grounds.
+01:10:06 Yeah, secretly just for a bit.
+01:10:08 Secretly.
+01:10:09 I see.
+01:10:15 I realized as soon as like numbers go up on my tweets that, you know,
+01:10:22 what being secretive about my porn was a bad idea.
+01:10:25 I like seeing numbers go up on them.
+01:10:27 I'll try harder.
+01:10:29 I may even retweet my own things on give and take.
+01:10:34 I didn't realize.
+01:10:36 I didn't realize number.
+01:10:38 Now that I realize number could go up.
+01:10:41 This changes everything.
+01:10:43 It literally does.
+01:10:45 I see.
+01:10:48 Oh, I found iconic character, sex woman.
+01:10:52 Sex woman.
+01:10:53 Pretty good.
+01:10:55 Sex woman, sex woman.
+01:10:58 Uh, based.
+01:11:01 Yes.
+01:11:02 True.
+01:11:03 True.
+01:11:04 Oh, I found Femgabe.
+01:11:07 Oh, yeah.
+01:11:09 Okay, enough, enough.
+01:11:16 What's next?
+01:11:17 What's next on the agenda?
+01:11:19 I guess questions.
+01:11:20 I don't really have anything else.
+01:11:22 Yeah.
+01:11:23 It's mostly just been trying to get better.
+01:11:25 So question time.
+01:11:26 You were, you said at first that you weren't going to be on today.
+01:11:30 And I was, I was prepared to just do like a like solo band cast where I just like
+01:11:36 talk for 15 minutes about the Christian stuff and then just go right to voicemails.
+01:11:41 So viewers, you've been treated to a bonus, a big bonus today.
+01:11:48 Bonus of a normal PCP episode.
+01:11:51 Yes.
+01:11:52 But think about it as a bonus.
+01:11:54 Think about it as a secret extra that you didn't deserve, but we're giving you anyway.
+01:11:59 Think, feel guilty about it and go patreon.com slash the procrastinators.
+01:12:05 Oh, I'm sorry.
+01:12:07 And pledge some money.
+01:12:08 Oh yeah, definitely.
+01:12:10 Definitely pledge some money to the procrastinators in my opinion.
+01:12:15 That should be done.
+01:12:17 Are you, are you have the voicemails open?
+01:12:19 I'm ready.
+01:12:20 What's the first one?
+01:12:22 Uh, it's Frost Drive.
+01:12:25 Okay.
+01:12:26 Uh, three, two, one, go.
+01:12:29 Anime of the week, you guys need to watch.
+01:12:32 Okay.
+01:12:33 I can't believe you haven't even watched it already.
+01:12:35 It's called freaking Monkart.
+01:12:37 It's like Pokemon, but they got little animals and they're driving go-karts.
+01:12:42 It's freaking incredible.
+01:12:43 The little chibi monsters get in the car and they race.
+01:12:47 And here's the kicker.
+01:12:48 Once they're on the last lap, the trainer send out a magical thing that makes the car
+01:12:53 transform into a robot.
+01:12:54 And then the person, the little fucking Monkart puts his foot down and says, it's real.
+01:13:00 It's racing time is over.
+01:13:02 It's time to tussle.
+01:13:03 We need to fight.
+01:13:04 And so the whole race, the whole point, the whole race is just no, because they just
+01:13:09 stopped racing and they fight.
+01:13:10 They fight every time, right before they finish.
+01:13:13 It's freaking awesome.
+01:13:14 It's called Monkart.
+01:13:16 That's just a genuine anime recommendation.
+01:13:23 It doesn't.
+01:13:24 Well, I guess maybe it doesn't.
+01:13:28 I guess it looks kind of like an anime.
+01:13:30 I mean, it's 3D, which is cringe.
+01:13:33 Was it Monkart?
+01:13:35 Monkart with a K.
+01:13:37 It is spelled like Monk.
+01:13:40 I like this show better when it was called Zach Bell and there were no cars.
+01:13:46 I like this better when it's called Digimon.
+01:13:49 Oh, yeah.
+01:13:50 And there were no cars.
+01:13:54 This just looks like the sort of thing that would be like translated into the West and
+01:13:58 put on like a Saturday morning cartoons alongside whatever else thing.
+01:14:03 Yeah.
+01:14:04 Why not?
+01:14:05 I don't know.
+01:14:06 Reminds me of the 2000s.
+01:14:09 Viewers, you know, feel free to take Frost Drive's recommendation for Monkart.
+01:14:13 For me, I don't know.
+01:14:14 I don't know if I'm in the demographic for this.
+01:14:19 Oh, next voicemail is called Based Ben Saint.
+01:14:23 Three, two, one, go.
+01:14:27 Ash, your post was the worst fucking thing I've ever heard in my life.
+01:14:30 You are a freaking freaking moron.
+01:14:32 A low IQ, subhuman, troglodyte.
+01:14:35 I hate you.
+01:14:38 What was that in response to?
+01:14:41 I can't remember.
+01:14:42 That was on May, a.k.a. Pantsu Party, a.k.a. I'm Supercute, a.k.a. Sadintrad's old stream.
+01:14:52 What was the stream called?
+01:14:54 That's right.
+01:14:55 What was your stream called?
+01:14:57 The May Report.
+01:14:59 I don't remember.
+01:15:01 No.
+01:15:02 It wasn't corrupting your kids.
+01:15:08 Was it just called Pantsu Party?
+01:15:11 It wasn't cockcast.
+01:15:14 Whatever.
+01:15:15 It was ever her fucking...
+01:15:16 It's the May Report.
+01:15:18 Whatever her fucking totally disorganized mess of a fucking discord stream was.
+01:15:29 She had Ash Vampire on one time, and Ash Vampire read out this thing he had...
+01:15:37 It was him and Glink.
+01:15:40 Glink was the other guest on this time.
+01:15:43 And Ash Vampire had written out this long, totally deranged screed about how George Floyd and Derek Chauvin were basically the same.
+01:15:55 They were both bad, actually, when you think about it.
+01:15:59 And...
+01:16:00 Yeah.
+01:16:01 And so I said...
+01:16:02 And so I just waited until the end of it, and I said that, and I think I was banned from the server after that.
+01:16:12 Oh, did you hear May?
+01:16:15 It's engaged to Ethan Ralph.
+01:16:19 I think I saw that.
+01:16:23 Oh, man.
+01:16:24 That's so good.
+01:16:26 No, they deserve each other.
+01:16:28 They really do.
+01:16:29 I guess.
+01:16:36 I told Kazzy.
+01:16:37 Kazzy was like, oh, Kazzy pogged.
+01:16:42 They were there with the fucking Chris Chan arrest, weren't they?
+01:16:47 Yeah, I was just going to say...
+01:16:50 Yeah, Ethan Ralph is the one who took that...
+01:16:54 Yeah, that film, you know, the scene of Chris Chan with the cops all around her, like arresting her.
+01:16:59 Yeah, that was Ethan, I think, on the killstream.
+01:17:03 Who, I guess...
+01:17:04 Because I had heard people saying that there was like a situation developing where, like, Chris had checked into a hotel, and the cops had, like, surrounded the hotel or something.
+01:17:14 They were, like, demanding...
+01:17:15 They were, like, going to the hotel to get Chris out.
+01:17:18 I guess Ethan, who I know also lives in Virginia, must have, like, just heard it was going on and just been like, I gotta go see.
+01:17:27 Which, I mean, you know, fair enough, I can't fault him, his initiative, I guess.
+01:17:33 But I was like, oh my god, that was Ethan Ralph.
+01:17:38 Seeing on the scene.
+01:17:40 It all comes together.
+01:17:41 It all fucking ties together.
+01:17:42 Why is the world so small?
+01:17:45 Why do I know all the... Why do I, like, have all these connections while these fucking weirdos?
+01:17:52 Next voicemail is called Tonight the Hunt.
+01:17:56 Three, two, one, go.
+01:17:59 Dear, oh dear, what was it?
+01:18:01 The brony lecture?
+01:18:02 The gigging?
+01:18:03 Or the horrible memes?
+01:18:05 Oh, it doesn't matter.
+01:18:07 It always comes down to the PCP's helpers came after these sorts of messes.
+01:18:15 Could you understand that?
+01:18:17 It was really quiet and I didn't really understand it very well.
+01:18:21 Well, they asked the question, what is it, something, something or something?
+01:18:27 What?
+01:18:29 What was it?
+01:18:31 The brony lecture?
+01:18:33 The horrible memes?
+01:18:36 I don't, I don't understand what you're saying.
+01:18:38 I don't understand the point.
+01:18:39 Do they just mean, like, oh, things sure are weird?
+01:18:42 I mean, yeah.
+01:18:43 I guess so.
+01:18:44 Yeah, in which case, yeah.
+01:18:46 I mean, true.
+01:18:48 Helpers, though.
+01:18:49 I don't have any helpers.
+01:18:51 Well, maybe we're the helpers.
+01:18:53 Maybe we're a hamburger helper.
+01:18:56 When we talk about that on the stream, too.
+01:18:58 It really all just ties all together.
+01:19:00 It all comes back.
+01:19:01 Whoa.
+01:19:02 Well, next one is on vocaru.
+01:19:04 You got the link?
+01:19:05 Oh, the vocaru link?
+01:19:07 Yeah.
+01:19:08 Yeah, you got to do the URL.
+01:19:11 Okay.
+01:19:12 Okay.
+01:19:13 Three, two, one, go.
+01:19:43 Wait, how did that start?
+01:19:46 It's a Pink Floyd bit.
+01:19:50 So I was about the PCP?
+01:19:52 I was a fan of the PCP, I think you said.
+01:19:55 Uh-huh.
+01:19:56 Uh-huh.
+01:19:57 But whose worms were you eating?
+01:19:59 I don't get it.
+01:20:00 I thought, I thought it was, he'd eat his words.
+01:20:03 He made me eat his words.
+01:20:05 But I, yeah, I don't know whose words.
+01:20:08 Hungry for worms?
+01:20:11 No.
+01:20:12 Hungry for words.
+01:20:15 Shut up.
+01:20:17 Shut up.
+01:20:20 Thanks for the song, bro.
+01:20:22 Yeah, nice.
+01:20:23 Thanks for the cover.
+01:20:24 Very nice.
+01:20:25 Good vocals.
+01:20:26 Good quality.
+01:20:27 Loved it.
+01:20:29 Next voicemail.
+01:20:31 Shit, I got to go back to...
+01:20:33 Where did I, what?
+01:20:35 Oh, here they are.
+01:20:37 Oh, it's just an Imgur link.
+01:20:40 Uh, it is.
+01:20:42 Let's see.
+01:20:44 Wait.
+01:20:45 I hate being wrong, I hate being wrong.
+01:20:48 We've got you surrounded.
+01:20:50 Admit the videos are yellow.
+01:20:52 I think that's you.
+01:20:54 That's definitely me.
+01:20:56 Is it DeVoo?
+01:20:58 It closely resembles DeVoo.
+01:21:01 More than anyone else.
+01:21:03 I think it looks like DeVoo.
+01:21:05 I think DeVoo was in my corner on the yellow debate.
+01:21:14 So I think it's me and DeVoo.
+01:21:16 I hate being wrong.
+01:21:18 I hate being wrong.
+01:21:19 Same.
+01:21:20 I hate taking an L.
+01:21:22 It's the worst thing that can happen.
+01:21:24 I hate taking an Y.
+01:21:26 This is like the door we came through.
+01:21:29 There's like P on the ground or something.
+01:21:31 Everything's just yellow, I guess.
+01:21:33 Just some yellow stuff.
+01:21:37 Okay.
+01:21:38 Next voicemail is called...
+01:21:41 Oh, crap.
+01:21:43 Fuck.
+01:21:47 Okay, here we go.
+01:21:49 The Virgin...
+01:21:51 Nate, do you want to read these or should I read these?
+01:21:53 I'll read it.
+01:21:55 The Virgin Natehead.
+01:21:57 Browsers 4chan in current year.
+01:21:59 No Nate, no watch.
+01:22:01 Thinks it's cool to wear sunglasses indoors.
+01:22:04 Says Gotham after every attempt at humor.
+01:22:07 I mean, I do that.
+01:22:08 Everybody does that.
+01:22:09 I occasionally do that.
+01:22:10 That's not strange.
+01:22:11 That's based in fact.
+01:22:12 I'm occasionally guilty of that as well.
+01:22:14 Is he holding little dumbbells?
+01:22:16 Yeah, he's working out.
+01:22:19 Sure.
+01:22:20 Nateheads don't actually work out.
+01:22:22 They just wish they did.
+01:22:24 They think it would be cool if they did.
+01:22:26 Yeah, they hold them.
+01:22:28 They just hold them.
+01:22:29 As they walk...
+01:22:31 Is this like Murdock?
+01:22:33 Like green skin from Gorillaz?
+01:22:36 Why is it green?
+01:22:38 Because he's Nate colored.
+01:22:41 Oh.
+01:22:43 I see.
+01:22:44 He's wearing like a monk robe.
+01:22:46 Like a friar tuck.
+01:22:48 I read it as like a trench coat.
+01:22:50 Oh, okay.
+01:22:52 I don't know.
+01:22:54 And then the gigachad mage simp.
+01:22:57 Mix his music with the sounds of mage's voice.
+01:23:01 She's just on holiday.
+01:23:02 I'm sure she'll be on the next podcast.
+01:23:05 Tried going to Lithuania, but ended up in Latvia by mistake.
+01:23:10 If you talk of a mage, he will knock your teeth out.
+01:23:15 I don't really get...
+01:23:17 I get it.
+01:23:19 I mean, I get it.
+01:23:21 I think the joke is that there are no...
+01:23:26 Mage simp?
+01:23:27 Well, not here anyway.
+01:23:29 They might be elsewhere, but there are...
+01:23:31 Like nobody is like, oh, where's mage?
+01:23:34 Why isn't mage on the podcast?
+01:23:37 Maybe this person is watching the episodes back
+01:23:41 for the first time through or something.
+01:23:44 If you're a mage simp, let us know in the comments
+01:23:49 about the time you tried going to Lithuania,
+01:23:51 but ended up in Latvia by mistake.
+01:23:53 It's an easy mistake to make.
+01:23:54 They both have an L in them.
+01:23:56 They both...
+01:23:58 They both took an L.
+01:24:00 You take an L either way, basically, is what I'm saying.
+01:24:04 Next voicemail.
+01:24:06 Expert CWC analyst Mozilla Fennekin.
+01:24:10 Three, two, one, go.
+01:24:12 Yo, did you guys hear that Chris Chan did something weird?
+01:24:15 That's fucking crazy, bro.
+01:24:17 I can't believe this.
+01:24:18 That's so weird, bro.
+01:24:19 Have you talked about it on the PCP yet?
+01:24:21 I think you guys are fans or followers of Chris Chan.
+01:24:24 It would be cool if you did a podcast
+01:24:26 talking about the DMD that Chris Chan did.
+01:24:29 I actually have some thoughts about it with myself.
+01:24:31 Hang on a minute.
+01:24:32 Let me just drink some water real quick.
+01:24:34 A little thirsty.
+01:24:43 The opposite of the piss.
+01:24:48 Some good-ass water.
+01:24:50 So, the Chris Chan thing...
+01:24:53 It's pretty weird.
+01:24:57 True.
+01:24:58 Trace?
+01:24:59 Great.
+01:25:00 Well said.
+01:25:01 Couldn't have said it better myself.
+01:25:04 Next voicemail.
+01:25:06 Bad comment awards show.
+01:25:08 Two, seventy-one.
+01:25:10 Three, two, one, go.
+01:25:14 Please get XXX, Tentastia next, please.
+01:25:19 Wow, that's so funny.
+01:25:21 You did a Reddit fucking non-sequitur meme character joke.
+01:25:26 They should get Shrek on the podcast next.
+01:25:29 They should get Big Chondus on the podcast.
+01:25:33 You're right.
+01:25:34 That was really funny.
+01:25:37 Yeah, you know, I know humans.
+01:25:39 Humans know Mike Myers and he voiced Shrek.
+01:25:41 Maybe Mike Myers can get Shrek on the podcast.
+01:25:43 Maybe we can get...
+01:25:44 Can we get Charles Schultz, the creator of Peanuts?
+01:25:47 Do we know a guy?
+01:25:48 Who can get...
+01:25:49 Well, I think he's dead, so we need to reanimate him.
+01:25:52 I think we can get...
+01:25:54 We can do whatever needs to be done.
+01:25:57 I agree.
+01:25:58 You get someone called Charles Schultz, who isn't Charles Schultz of Peanuts fame.
+01:26:02 What if we just found someone who just happens to have that name
+01:26:06 and get him on and send me Charles Schultz on the podcast?
+01:26:13 That's how you fucking get that SEO.
+01:26:18 I agree, though.
+01:26:19 I agree, though.
+01:26:20 Haha, what if you got someone who would never be on the podcast?
+01:26:23 On the podcast.
+01:26:24 Well, we won't.
+01:26:26 What if?
+01:26:28 Oh, next one is PCP Bad Comment Awards show number one.
+01:26:32 Three, two, one, go.
+01:26:35 So there's like two waves of comments on this episode.
+01:26:38 There's like, there's the original from the actual upload,
+01:26:43 the wave of people from when the podcast first started.
+01:26:46 And then there's people probably around the time Trixie left four months ago,
+01:26:51 whatever that was.
+01:26:53 These people just coming back and like talking,
+01:26:58 just crying about how great the podcast used to be.
+01:27:01 So those are two like separate waves, so I'm just going to give out two awards.
+01:27:06 So the first award is the old one, the one from five years ago
+01:27:11 from someone, Subsonic Sparkle, saying how many channels is enough,
+01:27:16 which is amusing.
+01:27:18 It's a classic because it's, you know,
+01:27:21 This is just Trixie's a fucking anime podcast.
+01:27:25 Who are all these other people on Trixie's anime podcast?
+01:27:29 You know, they would have said Digi at the time.
+01:27:33 You know what I mean?
+01:27:34 How many channels is Digi?
+01:27:37 For a modern example, for a modern comment,
+01:27:40 the modern award, we go to Bob Slap Happy from four months ago
+01:27:45 saying, uh, RIP this friendship simulator.
+01:27:49 And I don't think I have to explain that one.
+01:27:53 Uh, that one doesn't seem that bad.
+01:27:57 It's basically kind of true.
+01:27:59 Like that friendship simulator is gone.
+01:28:02 That dynamic probably won't come back.
+01:28:05 Yeah, I don't mind that one that much.
+01:28:08 It's fair enough.
+01:28:10 I agree with the first one though.
+01:28:12 How many channels?
+01:28:13 That's a, that's a, that's a, I know who Subsonic Sparkle is.
+01:28:17 If they, yeah, that's a horrible comment.
+01:28:20 And, and I'm embarrassed for them for having said it.
+01:28:24 You should always make a new channel every time you make a video.
+01:28:28 Why, why, why wouldn't you?
+01:28:30 Wow.
+01:28:31 Another anime podcast with famous anime YouTuber Digi bro.
+01:28:37 Imagine that.
+01:28:42 I don't know how much worse it would be if the PCP was hosted on,
+01:28:47 on Trixie's channel.
+01:28:49 They'd all be gone.
+01:28:52 Yeah, they would.
+01:28:54 Yeah, she would have trashed them.
+01:28:56 Uh, where, I mean, that was never, was, did we talk about doing that?
+01:29:01 Was that like a, a plan at one point?
+01:29:03 I vaguely remember because somebody had to make the, the, you know,
+01:29:08 the YouTube channel for it.
+01:29:10 And I think we may have talked to them very briefly about like,
+01:29:13 where should we put them?
+01:29:14 Where should we put this podcast we're going to do?
+01:29:17 Well, then it would have been Trixie's anime podcast.
+01:29:20 It would have.
+01:29:22 I don't know whether that was suggested,
+01:29:24 but I feel like it could have been, it could have happened.
+01:29:28 Yeah, maybe.
+01:29:30 Um, I think, I don't think, speaking just for myself,
+01:29:35 I think me, I think me and probably Nate would have been like, no to that.
+01:29:41 I don't think either of us would have been happy with that arrangement.
+01:29:45 Um, so it probably was never going to happen, but yeah, maybe.
+01:29:50 Um, next one is called Ben's Best Friend.
+01:29:53 Three, two, one, go.
+01:29:56 Hello, Ben.
+01:29:58 I am pleased to hear of your progress regarding Road to Radcon.
+01:30:02 I hope you used that week to work on your video game and that you are not homeless.
+01:30:07 Please have a good day.
+01:30:09 What week?
+01:30:11 Uh, I'm not sure what week you mean, but yeah,
+01:30:15 I am going to be working on the game and I did finish writing Road to Radcon
+01:30:20 and Michi is, uh, she sent me some progress pictures of the,
+01:30:27 uh, should I, should I show them?
+01:30:31 I mean, should we show them on, no, I'll save it.
+01:30:33 I'll save it until it's done.
+01:30:35 Um, but yeah, she sent me some progress pictures of the cover and it's looking,
+01:30:40 it's looking great.
+01:30:41 Uh, I, duh, I can't wait.
+01:30:45 Uh, I can't wait to send it in the mail to all the backers.
+01:30:50 Uh, uh, I guess I should mention, by the way, if you are a backer and you back over $100,
+01:30:56 you do get a Road to Radcon book in the mail.
+01:31:00 Um, I will send them to everyone's old address that they listed on Kickstarter before.
+01:31:07 Um, but I will send out a message to everyone on Kickstarter saying it's been a long time.
+01:31:11 So if you've changed address, please let us know.
+01:31:14 So we don't send it to the wrong place.
+01:31:16 Um, but I will make, I will be announcing that on Kickstarter, like when it's ready to go out.
+01:31:21 Uh, I will probably like make that announcement, wait like a week.
+01:31:27 Anyone that doesn't respond, I will probably send it to the old address that they gave.
+01:31:32 And then anyone that does, I will change the address.
+01:31:35 Um, and then do you know what that means?
+01:31:38 When Road to Radcon is out, when Road to Radcon is out and sent,
+01:31:43 the last thing, the last thing will be the Brad rap music video and the OVA.
+01:31:54 And then when those are out, we get the Radcon money.
+01:31:58 And the dojin.
+01:32:00 Oh God, oh that's right.
+01:32:03 Oh shit, that reminds me, I forgot the dojin.
+01:32:06 I know, I forgot the dojin.
+01:32:08 I sent a message to someone about that and I forgot to respond.
+01:32:11 So I should go and respond to that.
+01:32:14 Okay, uh, I won't elaborate at the moment.
+01:32:18 Next voice, but the Road to Radcon, I mean the, the Radcon money.
+01:32:23 Yes.
+01:32:24 It's money.
+01:32:25 I want it.
+01:32:26 A big amount of money.
+01:32:27 We still haven't got paid for our participation.
+01:32:29 No.
+01:32:30 Or reimbursed on, I think some of our flights were reimbursed, but not all of them.
+01:32:35 I was reimbursed.
+01:32:37 I'm pretty sure I was reimbursed on my flight and my expenses because I saved all my receipts
+01:32:44 and I showed Nate and I was like here.
+01:32:46 I'm pretty sure we got reimbursed, or I did anyway.
+01:32:50 I think.
+01:32:53 But anyway, next, I'm just really excited to have money.
+01:32:58 It's been sitting around for a year and a half.
+01:33:00 Why Nate heads be the way they be.
+01:33:02 Three, two, one, go.
+01:33:05 So as much as I love this video, uh, the Nate fandom was irrevocably ruined due to the thesis
+01:33:12 statement of the girl in the gone video, which is a good video and a good thesis statement
+01:33:17 is very well made and is a good message and is backed well by the rest of the video and
+01:33:23 all that stuff.
+01:33:24 But still, when you go around talking on the internet about how to be a better man, the
+01:33:30 children who really, really want to be a man and be told how to be a man and not actually do
+01:33:37 anything swarm.
+01:33:39 So that's why Nate heads are so awful.
+01:33:43 Makes sense.
+01:33:45 I think there's an element of truth.
+01:33:48 There's an element of like.
+01:33:49 There's a certain kind of person who responds in a very particular way to that kind of
+01:33:54 messaging.
+01:33:55 That's true.
+01:33:56 Yeah.
+01:33:57 Um, I mean, I don't know.
+01:34:02 Yeah.
+01:34:04 Yeah, this is, I mean, it's more to it than just that.
+01:34:08 But, uh, yeah, sure.
+01:34:10 Why not?
+01:34:11 Okay.
+01:34:12 Next one is called sorry if you hear people in the background three.
+01:34:15 No.
+01:34:16 Yeah.
+01:34:17 Sorry if you hear people in the background three, two, one, go.
+01:34:20 Hmm.
+01:34:21 Cole Smitty's been pretty quiet recently.
+01:34:23 Hmm.
+01:34:24 I was, I was thinking, God, imagine, imagine if you were Cole Smithy and you heard the
+01:34:31 news.
+01:34:32 Who's that?
+01:34:33 That is Chris Chan's a half brother who is also the, he's a movie critic.
+01:34:39 He calls himself the smartest critic in the world.
+01:34:42 He's not that he's not particularly famous.
+01:34:44 Probably the thing he's most known for is, is being Chris Chan's half brother.
+01:34:50 Um, Chris Chan has a, actually has a lot of like half siblings, but I think all the other
+01:34:55 half siblings were with half with his dad, but Cole is half with, uh, their mom.
+01:35:01 So, but Cole like hates them.
+01:35:03 Like Cole like hates his mom and it hates that whole side of the family.
+01:35:07 I think I don't think Cole has anything to do with them and good for him, frankly.
+01:35:11 Um, so maybe he doesn't care.
+01:35:14 Maybe he's just like disowned that whole mess and is like removed.
+01:35:19 I did go and I checked on Twitter and I did see a lot of people adding him being like,
+01:35:25 check on your mom, bro.
+01:35:26 Oh, bro, you should log off the internet.
+01:35:28 It's time to log off the internet for good, bro.
+01:35:31 Just trust me on this one.
+01:35:32 And I cringed and I hated it.
+01:35:35 Leave the guy alone.
+01:35:36 You fucking losers.
+01:35:37 What is wrong with you?
+01:35:38 The man has never done anything wrong his entire life.
+01:35:43 Fuck you.
+01:35:44 That pissed me off.
+01:35:46 Um, next one is called a plea.
+01:35:49 Three, two, one, go.
+01:35:51 This entire time I've thought that like Ben was a professional podcaster,
+01:35:55 but I read the papers and oh my God, it's like art.
+01:36:00 You can make art.
+01:36:02 Wow.
+01:36:03 Why don't you make more?
+01:36:07 Um, it's hard.
+01:36:09 It is hard.
+01:36:11 It's hard.
+01:36:12 One.
+01:36:13 I'm making a video game.
+01:36:15 God, leave me alone.
+01:36:17 But Ben, there's not constant updates.
+01:36:19 I want the constant updates at the game.
+01:36:21 I know.
+01:36:22 I know.
+01:36:23 No, no, I know I'm slow.
+01:36:26 Yeah, I'm slow at it.
+01:36:29 Like the reason there's not more is partially,
+01:36:31 I think I'm just kind of slow at doing stuff.
+01:36:34 Sad, but true.
+01:36:36 But, uh, looking forward to the game.
+01:36:43 Game's gonna be hype.
+01:36:44 Game's gonna be hype.
+01:36:45 Next one is called, uh, fuck kristinewestonchandler.mp3.
+01:36:50 Three, two, one, go.
+01:36:53 Hi.
+01:36:54 It's Toy Gazers again.
+01:36:56 Okay.
+01:36:57 We're releasing a fire distract against Kristine Weston Chandler.
+01:37:01 Here we go.
+01:37:03 Let's get it.
+01:37:07 Hey Kristine, you're a real motherfucker.
+01:37:09 This was bitch about the fucking gun.
+01:37:11 So she ain't been signed.
+01:37:12 That's a bummer.
+01:37:13 Cause Ben's saying it's cool in the winter and the summer.
+01:37:15 Now what the fuck have I been hearing?
+01:37:17 Never in my fucking life.
+01:37:19 Kristine has been rewritten in 103A.
+01:37:21 Sounded right.
+01:37:22 Been the shit that's made me sick.
+01:37:24 Badge Chan could not predict what.
+01:37:26 Rather rocked off the unclean than watch for stink.
+01:37:29 His father slips.
+01:37:30 I'm legit sick.
+01:37:31 And I don't fuck around with this shit.
+01:37:33 But I can't wait to see what happens next.
+01:37:35 So patiently, I said.
+01:37:38 Yeah, that was my short.
+01:37:40 Nice emergency distract against Ben St.
+01:37:44 Associate Kristine Weston Chandler.
+01:37:47 My close personal friend.
+01:37:48 Now remember to give me money.
+01:37:51 I'll give that an applause.
+01:37:54 I enjoyed that.
+01:37:55 I'll give that a dollar.
+01:37:57 I'd buy that for a dollar.
+01:37:59 Another fire distract from Toy Gazers.
+01:38:05 How can this man ever miss?
+01:38:08 No.
+01:38:09 Nope.
+01:38:10 Nope.
+01:38:11 Next one is called Big Chicken's Egg of CWC
+01:38:15 or Manifesto Touch Some Bresto.
+01:38:18 Three, two, one, go.
+01:38:21 I feel like it is not impossible that Kristine
+01:38:23 was mentioned this episode with the recent goings on.
+01:38:25 Now more than ever, it is the perfect time to have her
+01:38:27 on the show.
+01:38:28 But this begs the question.
+01:38:29 Is it a moral thing to have her on the show?
+01:38:31 She's in jail.
+01:38:32 When was the PCP concerned with morals?
+01:38:34 I seem to recall the phrase sex with the young
+01:38:36 being a particularly popular mantra.
+01:38:38 And yes, it is true.
+01:38:39 I am acting on bad faith.
+01:38:41 I am a bad faith actor.
+01:38:42 I love acting on bad faith.
+01:38:44 We are the dreamers of dreams and the tweakers on memes.
+01:38:50 Why would it be bad to have Chris on?
+01:38:53 No, I think he's saying, wait, wait, you're asking
+01:38:57 why it would be bad to have Chris on the podcast?
+01:39:00 Yeah.
+01:39:01 Why would it be morally wrong to have Chris on the podcast?
+01:39:04 I guess people could argue we're platforming a criminal.
+01:39:08 Oh, we're platforming.
+01:39:09 Oh, she's going to spread all her.
+01:39:11 She's going to spread all her dangerous ideas
+01:39:13 that people are going to pick up and run with.
+01:39:15 No, goofy.
+01:39:17 That's goofy.
+01:39:20 I mean, obviously we can't because she's in jail.
+01:39:23 Sure.
+01:39:24 I feel a bit weird having her on anyway.
+01:39:27 I mean, I don't want to have her on.
+01:39:30 I didn't think, oh, we should get her on the podcast after this.
+01:39:33 Okay.
+01:39:34 If you're just talking about morally, then I don't think it would be morally wrong.
+01:39:38 But also like, what is there to fucking talk about?
+01:39:41 No, it's like, like you just ask what the fuck and then they just would dodge the question
+01:39:46 because of course they would.
+01:39:50 I mean, I haven't seen that video of her being arrested,
+01:39:53 but I guess she was shouting stuff about like the about like true love
+01:39:57 and the dimensional marriage and stuff.
+01:39:59 Apparently I saw something that says that like Chris thinks
+01:40:02 the dimensional marriage is happening now.
+01:40:04 Like that's what she thinks this is or something.
+01:40:08 Maybe.
+01:40:11 No.
+01:40:14 Next voicemail is called Big Chicken's Egg of Dashing Mr. Transom.
+01:40:20 Three, two, one, go.
+01:40:23 Tarbuck, call me.
+01:40:27 Okay.
+01:40:28 Just call his name.
+01:40:30 Call Big Chicken.
+01:40:31 Call Big Chicken, go.
+01:40:33 Oh, Big Chicken's Egg.
+01:40:34 I don't know what their name is.
+01:40:37 I think they are Big Chicken and this voicemail is their egg.
+01:40:42 I see.
+01:40:43 That's how I read that.
+01:40:44 Next voicemail is called Cross They Them, a criticism of Nate's scripted content.
+01:40:52 Three, two, one, go.
+01:40:54 One of the biggest appeals of scripted content is that it allows you to condense your ideas
+01:40:58 through the use of word choice and sentence structure
+01:41:01 that you just wouldn't be able to replicate on the fly.
+01:41:04 However, Nate seems to view scripted content as a way for him to explore
+01:41:07 every possible nook and cranny of whatever idea he is trying to communicate,
+01:41:11 even when the nooks and crannies are both unnecessary for making his point
+01:41:15 and just plain uninteresting.
+01:41:16 Looking back, this has been an attribute of his writing ever since he switched over
+01:41:19 to primarily scripted videos starting with Why Smash Matters,
+01:41:23 but it's become more and more apparent because in the year since,
+01:41:26 his scripted content feels like it has lost track of a subject matter,
+01:41:29 and thus something to dissuade him from following every tangent that pops into his head
+01:41:34 as well as something that he can apply the theme of each video onto.
+01:41:38 Though even the Ghost in the Shell and Kingdom Hearts videos would occasionally
+01:41:41 drone on about stuff that didn't particularly contribute
+01:41:44 to what it felt like the point of the video was.
+01:41:46 This is of course making assumptions about Nate's mindset towards the new style of content
+01:41:50 and could very well be inaccurate, but this is what it looks like to me
+01:41:53 from an outsider's perspective, and based on what I can tell,
+01:41:56 I disagree with what I think are Nate's reasons for shifting towards more scripted content.
+01:42:01 What do you guys think?
+01:42:04 I think that's pretty accurate.
+01:42:06 That sounds like a pretty well-considered opinion that I can't really respond to
+01:42:12 because I don't really watch all Nate's videos or anything.
+01:42:17 I watch Nate's videos when they come out, and I have seen the Kingdom Hearts one
+01:42:22 because that was a big Nate thing, Kingdom Hearts 3,
+01:42:28 and so it's finally the review, and it was a bit meandery,
+01:42:33 and it's hard to tell what was important to explain why the game was good or not,
+01:42:40 but I haven't played the game that much to know whether it was too meandery or not,
+01:42:48 but the nickel video that came out was so confusing,
+01:42:53 and it really does speak to not having a theme or a purpose for the video to come out.
+01:43:05 There's no point that's being built to,
+01:43:09 even though there is the aesthetic of a purpose or a point in the nickel graph,
+01:43:16 and it was very confusing.
+01:43:23 I just basically said the same thing, but worse.
+01:43:25 Cut that out, at least I just cut it out.
+01:43:27 At least I celebrated, highlighted, cropped, put that on the bonus episode.
+01:43:34 I should have just said true.
+01:43:36 True.
+01:43:37 Next voicemail is called,
+01:43:38 Often Problematic, Tarbuck Transom, 3, 2, 1, go.
+01:44:03 They are fighting for you, but they also say something that is pro-Israel.
+01:44:07 They're treated way worse than, for example, Steven Crowder.
+01:44:11 Why do you think the imperfect allies are hated more than our actual enemies?
+01:44:18 I would put it down to the actual bad people being so clear in their wrong thoughts
+01:44:30 that there's no reason to waste effort trying to argue with them or change their mind.
+01:44:38 It is probably a fault and a failing that people do act like this.
+01:44:46 I understand why they act.
+01:44:47 It's because you had hopes for a person,
+01:44:49 or you thought this person was good,
+01:44:53 and then when they do something that disappoints you, it hurts you.
+01:44:59 It is offensive to you in more ways than if someone you already hate says something hateful,
+01:45:04 you go, uh, more of that, right?
+01:45:07 Yeah.
+01:45:08 It's purity testing, and I don't like it most of the time.
+01:45:13 All of the time, purity testing is a thing to test whether you're one slip up and suddenly everyone hounds you.
+01:45:23 It's like people make mistakes.
+01:45:25 People have misunderstandings that they carry forward and don't realize until they say something weird.
+01:45:31 So it's like, I don't know.
+01:45:34 I like to see, I like to think, I mean, I maybe am too charitable because I didn't,
+01:45:41 I would not really jump on the, like, John Tron as an evil white nationalist bandwagon when that was happening.
+01:45:49 Yeah.
+01:45:50 I mean, he's pushed back on it, thinking that, oh, he's just misunderstood, or he's just sort of dumb.
+01:45:55 Yeah.
+01:45:56 It gets harder to, to, like, use that excuse the longer he continues to be kind of cringe.
+01:46:03 Yeah.
+01:46:04 I mean, I understand wanting to assume the best, and like, no, it must be a misunderstanding.
+01:46:09 I don't know.
+01:46:10 John Tron's pretty, John Tron pretty clearly says some stuff that is pretty indefensible.
+01:46:16 Yeah.
+01:46:17 And then doesn't walk it back later when he, when he gives his quote unquote apology about it.
+01:46:23 Yeah.
+01:46:24 Like, it was really the only at the beginning, and only because I knew and liked his content and being on Game Grumps and stuff.
+01:46:31 Yeah.
+01:46:32 Yeah.
+01:46:33 But now it's, it's pretty clear that he's, he's not a good boy anymore.
+01:46:37 I don't think so.
+01:46:39 He doesn't seem like a very good boy.
+01:46:42 But it sucks when somebody who is like generally like tries very hard to, to do the right thing and has their heart in the right place clearly and just has a wrong opinion about something or like a bad opinion, a bad take.
+01:46:56 Yeah.
+01:46:57 I don't think it really affects that much, but it sucks when people like harass others.
+01:47:03 I guess I don't have much more to say about it than that.
+01:47:07 I get it.
+01:47:08 It's not good, but I get it.
+01:47:11 Next voicemail is one cool dud, three, two, one, go.
+01:47:17 Benjamin, I love you, but I swear to God, if you scrape cutlery to dish again, I will be leaving dead animals on your porch every day for the next five to 10 years.
+01:47:34 Okay.
+01:47:35 Well, I'm not, like I said, I only have almond milk to eat now, so no cutlery.
+01:47:41 When did you do cutlery?
+01:47:43 Last episode, I was eating, I don't think you were on the last episode.
+01:47:48 Were you?
+01:47:49 No, you were.
+01:47:50 Did he, he had Brussels sprouts?
+01:47:51 I don't remember.
+01:47:52 Yes.
+01:47:53 Yes.
+01:47:54 It was, it was bacon and Brussels sprouts.
+01:47:55 They, they must have been able, maybe discord didn't pick it up, but yeah, it was, I was eating Brussels sprouts with a fork.
+01:48:01 The whole time.
+01:48:02 Yeah.
+01:48:03 Oh, a lot of it.
+01:48:04 Yeah.
+01:48:05 A lot of it.
+01:48:06 Okay.
+01:48:07 Next one is another one called based Ben, three, two, one, go.
+01:48:11 Okay.
+01:48:12 So all the other historians are messing up.
+01:48:15 They won't talk about this right now because she's messing everything up in their life.
+01:48:21 And Gibi, oh, I'm breaking good with this, but I don't really want to.
+01:48:27 This is awkward.
+01:48:28 I'm not going to be very careful.
+01:48:30 Jesus, Samuel, going on vacation.
+01:48:32 No cutting person out.
+01:48:35 Ben St. based, dropping the sausage you lecture.
+01:48:40 Ben, I hope you make a ton of money on it.
+01:48:43 Good for you.
+01:48:44 Oh, oh, you're okay.
+01:48:47 I could kind of not understand.
+01:48:49 Well, but I think like, like, oh, like Gib, that guy, Gibi, who I think sucks.
+01:48:55 I think Gibi is bad.
+01:48:57 I've never watched his video, but he sounds bad.
+01:49:02 Didn't he?
+01:49:03 He announced that-
+01:49:04 The person doing the 300,000 part documentary.
+01:49:08 No, that's, that's, that's Gino Samuel, who I kind of thought seemed shitty, but I've
+01:49:13 heard that maybe he's not like I thought he was.
+01:49:16 Like, I kind of thought, I know Gibi doesn't respect trans people.
+01:49:21 I thought Gino didn't either, but someone on Twitter told me no, he does.
+01:49:25 So I'm like, oh, maybe I was, maybe I was wrong about him.
+01:49:28 But I think, I know, I know, like they put, I think Gibi might have said, like, I'm not
+01:49:36 covering Chris anymore, or like, I don't want to cover this or something.
+01:49:40 Or he might, I don't believe that, even if he did do that, I don't believe it.
+01:49:45 But yeah, like Null, and Null did some shit.
+01:49:48 Like he like posted some updates about like past conversations with Chris that he'd had
+01:49:53 and then he like rescinded them and tried to delete some stuff.
+01:49:55 I don't know.
+01:49:56 I think this is all water in the bridge at this point.
+01:49:58 And it's all, I'm sure, I'm sure that, I think Gino might have said he wants to like
+01:50:05 stop doing Chris stuff or something or-
+01:50:08 I don't know.
+01:50:09 Maybe just jumping out.
+01:50:11 Saying, saying their thing, trying to look good, I guess.
+01:50:14 I don't know why they would not continue doing content.
+01:50:17 I think that's true.
+01:50:18 Like why, why would this make you stop?
+01:50:21 Why would this make you stop making a documentary about just because the person who was doing
+01:50:26 it did a crime?
+01:50:27 And you're like, I don't want to, I don't want to talk about-
+01:50:31 I don't want to platform this person anymore.
+01:50:33 Yeah, it's not platforming.
+01:50:35 It's, yeah, that reads to me as like-
+01:50:39 Some sort of virtue signal.
+01:50:41 Yeah, some sort of virtue signal.
+01:50:43 Like what is the point?
+01:50:44 What is accomplished by that?
+01:50:46 Why?
+01:50:47 I don't get it.
+01:50:50 But I don't even believe it anyway.
+01:50:53 They're not actually gonna-
+01:50:55 Gibi and Gino make their fucking content.
+01:50:58 It's all, it's based on making Chris-chan related stuff.
+01:51:02 They're not gonna stop.
+01:51:04 Gino makes like $1,000 a month.
+01:51:06 I didn't know.
+01:51:07 I checked out his Patreon.
+01:51:08 He makes a lot.
+01:51:09 Gibi, I don't know how much he makes.
+01:51:11 But Gibi stuff seems really stupid.
+01:51:14 Gibi stuff seems like little, little like sort of like the quartering style videos where
+01:51:19 Chris like rants about something, but it's something dumb that Chris said.
+01:51:23 Like on Twitter or whatever.
+01:51:25 Um, this is stupid.
+01:51:28 People, like, I don't know.
+01:51:31 People, like I said this before, people in the comments were asking me,
+01:51:34 you should just-
+01:51:35 Would you make videos that are more about Chris?
+01:51:37 I'm like, I don't want to.
+01:51:38 I don't want to be like, Chris said some stupid shit.
+01:51:41 Chris said some crazy stuff.
+01:51:43 Here's the word on the street in the tail.
+01:51:45 Yeah.
+01:51:46 A lot.
+01:51:48 I think we were talking in my Discord the other day about how if Chris gets institutionalized,
+01:51:52 someone needs to like go and visit her and like collect her drawings and collect her
+01:51:58 Sonichu comics and upload them.
+01:52:00 I want them to be shared with the world.
+01:52:03 Would she even be allowed like pencils in a place like that?
+01:52:09 I guess it might not be.
+01:52:12 I guess it's not like a universal thing.
+01:52:14 It's only for people who are likely to attempt to hurt themselves.
+01:52:18 I don't think Chris would hurt herself.
+01:52:22 So, yeah, I don't see why they wouldn't-
+01:52:25 I don't see why they wouldn't let her draw.
+01:52:28 The problem is whether she would upload them,
+01:52:33 whether there's any way she could get them online.
+01:52:35 That's why I think someone needs to go and like,
+01:52:38 someone has to be the guy to go and collect once a month.
+01:52:43 Just go and drop off and pick up all her drawings and upload them.
+01:52:47 Be her profit, her envoy.
+01:52:51 I mean, it could be you, Ben.
+01:52:53 Well, Nate's in Virginia, so we should get Nate to go do it.
+01:52:57 We should get Nate to go.
+01:52:59 It's him or Ethan.
+01:53:01 It's one of the two.
+01:53:03 The only people in Virginia.
+01:53:06 Next voicemail is called It's All No Good.
+01:53:10 Three, two, one, go.
+01:53:13 And remember, if someone touches you in a place that makes you feel uncomfortable,
+01:53:20 that's no good.
+01:53:23 That's no good.
+01:53:25 Absolutely right.
+01:53:27 Can't stress enough that it isn't good.
+01:53:31 Next voicemail is called The Dug Zone.
+01:53:34 Three, two, one, go.
+01:53:38 It's called The Dug Zone.
+01:53:41 It's all about Doug Walker.
+01:53:44 I'll look it up.
+01:53:46 The Dug Zone.
+01:53:52 My first result is for a place called The Dough Zone Dumpling House.
+01:53:59 Hmm.
+01:54:01 The Dug Zone.
+01:54:06 Oh yeah, it's on Audible.
+01:54:09 You know what, honestly, I would listen to this.
+01:54:12 This does seem interesting, and I think I might listen to it.
+01:54:15 I might actually listen to this podcast if you can believe such a thing.
+01:54:19 Oh, there's only three episodes, though.
+01:54:22 They just started.
+01:54:25 Fuck it, I'll give it a shot.
+01:54:28 I'm gonna listen to The Dug Zone.
+01:54:31 I didn't watch, what was that anime everyone tried to tell me to watch?
+01:54:35 Not Promare.
+01:54:37 You're a nostalgic critic.
+01:54:39 No, that one about the animals driving a taxi or something?
+01:54:42 Mole car?
+01:54:44 No.
+01:54:45 Mon car.
+01:54:46 You mean Mon car?
+01:54:47 No, this was a while ago.
+01:54:49 Everyone was trying to tell me to watch this anime about animals driving.
+01:54:53 Neon Genesis even.
+01:54:55 Shut up, no, I don't know, whatever.
+01:54:57 I don't know.
+01:54:58 Wait, no, I know what it is, or do I?
+01:55:01 Is it furries driving or animals driving?
+01:55:04 I don't know what I'm talking about.
+01:55:05 No, it sort of looked like a Gretzko, like it was little cute animals.
+01:55:09 It wasn't like anime anime.
+01:55:11 Okay, I don't know then.
+01:55:13 Wait, anime about animals driving.
+01:55:18 Odd taxi, first result, odd taxi.
+01:55:21 Everyone was trying to tell me about odd taxi, I didn't do it.
+01:55:23 One guy tells me to listen to The Dug Zone, I'm all in.
+01:55:27 I'm all in for The Dug Zone.
+01:55:30 Okay, next voicemail is, I don't know Shreddit.
+01:55:35 Three, two, one, go.
+01:55:37 It was kind of funny hearing the Shreddit guys say, oh, we know who this is.
+01:55:41 This is Pie Whip or some shit.
+01:55:43 Nah, nah, nah, nah, this is Bob.
+01:55:46 It's always Bob.
+01:55:48 But I had this idea about how I'm posting these shitty,
+01:55:57 stupid, parasocial voicemails all the time now.
+01:56:01 And I don't like it.
+01:56:04 I don't like it about myself.
+01:56:06 So, why did you make this voicemail?
+01:56:08 I realized, I make myself laugh.
+01:56:12 Or I make, I make you make content that makes me laugh.
+01:56:17 And I like that.
+01:56:19 So, thanks.
+01:56:21 Also, you're welcome.
+01:56:24 Berserk Homestuck thing.
+01:56:26 It was a question of which should I read first?
+01:56:29 I'm very busy and I don't have time to enjoy life.
+01:56:34 So, yeah.
+01:56:36 Oh, well, I thought it was like asking which was the best one.
+01:56:41 Well, if it's, if it's which you should read first,
+01:56:45 read the Eclipse arc of Berserk first.
+01:56:48 No question.
+01:56:50 Eclipse arc?
+01:56:52 Isn't that what it's called?
+01:56:54 Is that the beginning?
+01:56:56 Yeah, the part with Griff and Casca.
+01:57:01 I'm almost sure it's called the Eclipse or something.
+01:57:05 Oh, the Eclipse is the thing that happens at the end of the Golden Age arc.
+01:57:08 Golden, is it the Golden Age arc that I'm thinking of?
+01:57:12 Okay.
+01:57:13 That's quite a lot of stuff.
+01:57:14 I mean, if you're reading, you may as well read the entirety of Berserk
+01:57:17 because it's ended.
+01:57:19 No, because it's, it's way, Berserk is way longer than just the Golden Age arc.
+01:57:25 The Golden Age is just.
+01:57:26 Yeah, but it's good.
+01:57:28 I'm saying, okay, read the Golden Age arc.
+01:57:31 If you really like it, then keep.
+01:57:33 Then you'll keep going.
+01:57:34 At that point, reevaluate.
+01:57:36 Okay, did I really like it?
+01:57:37 I'll keep reading it.
+01:57:38 Am I like, had enough of it?
+01:57:41 Then read Homestuck.
+01:57:42 But I would say, read the Golden Age arc first and decide from there.
+01:57:46 It's, it's way easier to read the Golden Age arc of Berserk than to just read Homestuck.
+01:57:51 Although, although, you know, you can read, you can read act one of Homestuck in like one day.
+01:57:56 No problem.
+01:57:57 A couple of hours, like an hour maybe.
+01:57:59 Yeah, I.
+01:58:01 Although it's not very representative of the rest of the series though, because it changes so much.
+01:58:07 So.
+01:58:08 They're so long and so different that it seems weird to say one over the other is a good
+01:58:15 thing to start with.
+01:58:17 I'm trying to think of which one takes longer.
+01:58:19 So I guess read Berserk in that way up to the eclipse.
+01:58:24 You'll know it when you see it.
+01:58:26 I think, I think so.
+01:58:28 I think that's a good recommendation.
+01:58:30 Next voicemail is not Frost Drive.
+01:58:33 Three, two, one, go.
+01:58:36 Listening to the PCP has made me a better person.
+01:58:40 It's helped me learn, grow, and be a much more confident artist.
+01:58:44 Because I'm way better than you guys.
+01:58:46 And all y'all are all making the big bucks, even though you suck.
+01:58:50 I got the Vapers 2 Kickstarter book, and when I opened that, I said, wow.
+01:58:55 My little sister could have done this with her broken crowns.
+01:58:58 And when I read Lord of Ghosts on Tapas, I've seen better ghosts on first dates.
+01:59:05 Uh, owned, I guess.
+01:59:10 Uh, okay.
+01:59:14 Next voicemail is called Rip Chris.
+01:59:17 Three, two, one, go.
+01:59:22 I can totally understand if y'all don't want to answer this question.
+01:59:28 But was May just as abhorrent and awful as she seems?
+01:59:33 Yes.
+01:59:34 During the arrest of Chris.
+01:59:37 Okay, I didn't watch that video.
+01:59:39 I fucking hate her.
+01:59:41 I didn't watch that video, and I don't know what she's doing in that vid, so I'm not sure.
+01:59:45 But May is awful.
+01:59:47 May is, yeah, she's, I got the sense.
+01:59:52 Like earlier on, she seems normal enough.
+01:59:55 But she's been increasingly with the breakup with Trixie.
+02:00:01 She was bad even before that.
+02:00:03 Sure.
+02:00:04 I didn't see it, because I'm, I don't know.
+02:00:06 In my opinion.
+02:00:07 Yeah.
+02:00:08 No, I'm better.
+02:00:09 She sort of, she sort of went back on her like trans-positive stuff as soon as Trixie broke up with her.
+02:00:15 Of course.
+02:00:16 Which was really cringe, and then also the other stuff.
+02:00:20 I think she broke up with Trixie, actually.
+02:00:23 I can't remember.
+02:00:25 I feel like it was a mutual thing, but like, it's sad for both of them as well.
+02:00:30 I think, I think, I mean, this is my understanding.
+02:00:35 What I remember is that-
+02:00:36 Is that May was just, May was fucking Ethan in secret for who knows how long, and then eventually she was like,
+02:00:42 I'm leaving to go get with Ethan Ralph.
+02:00:46 She, um, I was-
+02:00:50 That's all you need to say about her, honestly.
+02:00:52 Yeah.
+02:00:53 I was, I was thinking, damn, they only moved in together.
+02:00:56 They only been together like six months.
+02:00:58 That's really fast to get engaged.
+02:00:59 But then I was like, nah, but who knows how long she was cheating on Trixie with Ethan before that.
+02:01:05 So they could have known each-
+02:01:06 Who knows how long?
+02:01:07 They, they, you know, this, who knows how long, right?
+02:01:09 It's plenty of time.
+02:01:10 They're good.
+02:01:11 They're gonna have a great, they're gonna have a great time.
+02:01:13 It's gonna be great just like Ethan's last marriage.
+02:01:16 It's gonna work out great.
+02:01:18 Everyone's gonna be real, real fucking happy and chuffed about it.
+02:01:22 Was he married before?
+02:01:25 Yeah.
+02:01:26 I know he had a girlfriend before.
+02:01:27 To the like 17-year-old, to that like 17-year-old that he got pregnant,
+02:01:31 and then he had a fucking, uh, uh, like domestic abuse lawsuit filed against him.
+02:01:36 Or, no, it was her, sorry, it was, it was harassment.
+02:01:38 There were allegations of domestic abuse, but the lawsuit was her dad, uh, like, like, uh,
+02:01:45 sued him, or like, took him to court over like the fact that he was supposedly harassing this girl over their kid,
+02:01:54 who she didn't want him to have access to, or something like that.
+02:01:58 I'm not really an expert.
+02:02:00 This is just what I've seen around.
+02:02:02 Um, I'm, I'm almost positive they were married.
+02:02:06 I'm like 99% sure they were married.
+02:02:08 Faith was the girl's name.
+02:02:10 Um, yeah, so, you know, and then, and then, and then there were those creepy, creepy DMs of May trying to coerce
+02:02:21 this like 18-year-old to have to have the threesome with them.
+02:02:25 Yeah, what the fuck?
+02:02:27 Really, really creepy.
+02:02:29 May is not a good person.
+02:02:31 We're wording.
+02:02:32 I met May, before the breakup, I met May, and May was, in person was dull, quiet, basically just like,
+02:02:45 basically just pretended not to be there.
+02:02:48 She would sometimes laugh, and there would be like no joy in it at all.
+02:02:56 Uh, just awful, just awful.
+02:03:00 Um, and now she's getting married to Ethan Ralph, so, you know, destiny, I guess.
+02:03:09 Next voicemail is called, oh, but then she messaged me after I told Trixie off on Twitter,
+02:03:16 we had the, after Trixie, Rage quit the PCP because I was right about everything.
+02:03:22 Uh, and then we had the falling out on Twitter, and then she went on Twitter to be like,
+02:03:26 I don't like Ben St anymore.
+02:03:27 May messaged me to be like, I'm glad you got away from that toxic person, and I didn't respond,
+02:03:34 because I don't fucking care what May thinks.
+02:03:37 Um.
+02:03:39 Wacky.
+02:03:41 She, she followed me, and then I, I didn't want her to see that I, that I blocked her.
+02:03:46 So I didn't block her, because I don't want her to pay attention to me.
+02:03:50 So I just, I just soft blocked her and made her unfollow.
+02:03:53 I don't want her looking at me.
+02:03:55 Next voicemail is called, Nate Mates, hot take, fire emoji.
+02:04:01 Three, two, one, go.
+02:04:05 Nate heads, horrible name.
+02:04:08 Why aren't you guys called Nate Mates?
+02:04:13 That rhymes, and I like rhymes.
+02:04:16 Everybody, everybody wants to mate with Nate.
+02:04:18 There's a whole leak about it.
+02:04:19 Also, Mikkel, more like bad video that could be summed up in 10 seconds.
+02:04:26 As a, as a Nate, as a Nate mate would say, got him.
+02:04:31 Uh, Nate mates is pretty good.
+02:04:35 I don't know, we just fell into the habit of calling everyone Digi heads, Ben heads, Nate heads.
+02:04:40 Something head, yeah.
+02:04:42 Um, I don't know, Nate mates is pretty good.
+02:04:45 I'll give it to you.
+02:04:46 What would, what would a Ben follower be?
+02:04:48 Ben fan.
+02:04:49 I've only, I've heard Ben heads, I've heard Saint heads.
+02:04:53 Um, I haven't heard, I don't think I've heard any that aren't head, head related.
+02:05:01 Hmm, hmm.
+02:05:04 Ben buddies?
+02:05:05 No, that's too personal.
+02:05:06 Yeah, I kind of like that.
+02:05:08 That's funny, Ben buddies.
+02:05:10 Uh, uh.
+02:05:13 Can't think of anything for Gib.
+02:05:15 Gib, uh.
+02:05:18 Grabbers, Gib grabbers.
+02:05:20 Gib takers, uh, I don't know.
+02:05:23 Gib and, yeah, Gib takers.
+02:05:27 Then they're just takin' for me there.
+02:05:29 All they always do is take, take, take, take.
+02:05:31 You can pledge to my Patreon and I will pay you money.
+02:05:35 I'll pay you double what you pledged to me, to be a taker.
+02:05:39 You know you can pledge to be a Gibber or a Taker.
+02:05:44 Uh.
+02:05:45 It's like-
+02:05:46 New FCK but with Gibbers and takers.
+02:05:48 It's that meme of like, you know, the two doors and like everyone is lined up for one and no one's at the other.
+02:05:54 And it's like no one for Gibbers, everyone for takers.
+02:05:57 Damn.
+02:05:58 Really, really says a lot about society.
+02:06:02 Ugh.
+02:06:03 Next one is called- we're almost done, by the way.
+02:06:06 Next one is called a soliloquy for a fallen hero.
+02:06:09 Three, two, one, go.
+02:06:12 Whatever happened to Kringis-Bingish?
+02:06:15 How could I possibly know now when to Kring and watch to Bing?
+02:06:21 Please come back.
+02:06:23 I mean-
+02:06:24 Truly sad that we haven't got a Kringis-Bingis in a while.
+02:06:27 I haven't- I haven't- I have neither Kringed nor Bing since he disappeared and I just feel so empty.
+02:06:36 I feel nothing.
+02:06:38 I feel nothing about anything.
+02:06:40 I see something Kring worthy and I just can't bring myself to do it, doesn't feel right.
+02:06:46 Ugh.
+02:06:53 Oh, I see Oblivionfall.
+02:06:56 Okay, I just want to mention that in the chat, in the PCB guest server, CC was surprised that we're recording on a Monday, because that's not normal.
+02:07:06 And then in reply to the meme about me and Davoo calling Jesse's videos yellow, Oblivionfall posted a video that I hadn't seen before.
+02:07:16 It's a Vsauce video called This Is Not Yellow, and the thumbnail is-
+02:07:20 I haven't seen that.
+02:07:21 I haven't seen- I feel like I should have seen this, because I was really invested in that controversy back in the day.
+02:07:26 It's- oh, it's just about how like computer screens cannot show yellow because it's made of red, green, and blue light, and there's no light and stuff.
+02:07:36 The Tom Scott one underneath that Eleazar posted is more directly about that sort of thing.
+02:07:42 Incandescent like warm lighting makes things look orange or yellow, and then cold lighting from daylight makes things look blue.
+02:07:49 The videos were yellow.
+02:07:50 The videos were kind of- yeah, it was because there were incandescent lights in his basement.
+02:07:54 Yeah.
+02:07:55 They kind of cast a yellow glow.
+02:07:57 He should have called his gaming channel the yellow glow.
+02:08:01 Haven't thought about the blue glow in a while.
+02:08:04 Yeah, most of the blue glow episodes are all patron exclusive.
+02:08:09 Oh, shit.
+02:08:10 I think actually all of them. I still get notifications.
+02:08:13 I see.
+02:08:15 Wait, like the old ones are patron exclusive?
+02:08:18 No, no, no, no. Any new things coming out is patron.
+02:08:22 I see. I see.
+02:08:24 They're still kind of fun, but I haven't clicked on a lot of them.
+02:08:28 Are you a patron?
+02:08:29 Yeah, $1 patron. I just want to see the videos.
+02:08:34 I think what do I patron you for? It's either $1 or $5 just so I can get your monthly cast.
+02:08:41 The Money Spenders podcast.
+02:08:44 That's the one, the Money Spenders podcast.
+02:08:47 Next, which I'm still behind on. I don't think I've listened to the last two now.
+02:08:53 We'll catch up one of these days after after I listen to the Doug zone, obviously.
+02:09:00 Last voicemail is called Making Vidya and doing it quick.
+02:09:05 Three, two, one, go.
+02:09:08 Ben, now that you've been using Game Maker for a while, have you thought about participating in any game jams?
+02:09:13 It seems like something you might enjoy and I'd be interested in seeing the type of stuff you'd make in that context.
+02:09:18 Everyone thinks of the big ones like the Ludum Dare, but I feel like you'd probably enjoy some of the smaller ones out there a bit more.
+02:09:24 Like the GB Jam held every August, where you're limited to certain constraints of the original Game Boy, which I've enjoyed a lot personally.
+02:09:30 There's also some Game Maker focused ones like the Quarterly Jam 48 or plenty of Nisha one-off jams you can find on itch.io.
+02:09:37 I presume you'd want to finish your current game first, but what say you?
+02:09:42 Yeah, if I wasn't working on the current game, yeah, I think I would really like to be in a Game Jam.
+02:09:49 I think I would rather do art than do Game Maker program.
+02:09:54 I would rather do sprites and stuff for a game, but I would totally do something like that.
+02:09:58 I think Crack suggested that maybe we should do a Game Jam at some point in the future, which I would do.
+02:10:06 So yeah, I would like to do a Game Jam eventually of something.
+02:10:13 It would be cool.
+02:10:19 I see Game Jams all the time, and I'm like, I can't imagine thinking of a small idea.
+02:10:28 How could you do that?
+02:10:30 Thinking of a small idea?
+02:10:32 A small idea for a game like, oh, you just jump and you grab fruit or whatever.
+02:10:37 Like, oh god, but where's the lore? Where's the Dark Souls? Why don't get it?
+02:10:42 Oh, sure.
+02:10:43 It's not huge.
+02:10:44 I mean, if I made a game that was just like, you jump and you grab fruit, I'm sure in my head I would be like, oh yeah.
+02:10:52 Actually, this girl, she's the farmer, but she's like an immigrant or something.
+02:11:00 This is like a temp job during a harvest festival in the society.
+02:11:07 In my head there would probably be, I probably couldn't avoid coming up with some lore.
+02:11:12 I mean, I'm pretty sure that's probably like every game, the creator always has more lore,
+02:11:18 and there's always more lore in their head than they could possibly put into the game.
+02:11:24 I saw, oh, Kazzy had the Undertale art book that had like a bunch of pre-production sketches that Toby had done,
+02:11:36 and then passed off to artists to have them done and finished.
+02:11:40 And it's really funny, a lot of them are like complete chicken scratch.
+02:11:43 This looked like shit.
+02:11:46 It was really interesting to see like that, like different versions of character,
+02:11:53 and like unused sprites that never made it into the game and stuff.
+02:11:58 Just fucking like shit drawn with a mouse.
+02:12:04 It was neat.
+02:12:05 It was cool.
+02:12:06 What were we talking about?
+02:12:08 Making a video, jams.
+02:12:11 Yeah, I can use Game Maker and I can do some Game Maker coding now.
+02:12:20 I feel like probably I would still be best as an art role in that situation.
+02:12:27 I feel like probably there are many people who can code much better than me and would be better as the program or so.
+02:12:33 Ideally I would like to do a jam, and I would just be an art guy, and it would be base.
+02:12:42 Yes.
+02:12:43 Yes.
+02:12:44 Shit, I guess we're done.
+02:12:47 Wow.
+02:12:48 Wow, this is the shortest PCP in the ages.
+02:12:53 Only two hours fifteen.
+02:12:55 Yeah, wow.
+02:12:57 So short.
+02:13:00 Yeah, I don't know.
+02:13:03 There wasn't that much to talk about other than the huge thing that there was to talk about.
+02:13:07 But there wasn't much to talk about about that.
+02:13:10 Unless we wanted to get into a whole bunch of shit and I didn't really want to.
+02:13:14 I will be making a...
+02:13:17 It's been a little while since I did an update for my Patreon Q&A podcast.
+02:13:23 I will probably be doing one of those today or tomorrow to announce that.
+02:13:31 And I will probably have more tales of the horrors that I had to endure with moving and stuff.
+02:13:41 And maybe I'll get into more of the nitty gritty of responding to some of the shittier comments on the Chris video.
+02:13:51 Or whatever.
+02:13:52 I'm going to do a Q&A and probably talk more.
+02:13:54 I feel like this month was all taken up for me with house hunting and moving.
+02:14:03 So I feel like I didn't get to do anything else.
+02:14:06 It sucked.
+02:14:07 I hate it.
+02:14:09 So yeah, whatever.
+02:14:12 Nothing to talk about.
+02:14:13 Nothing at all.
+02:14:14 Just two hours and fifteen minutes of dead air you just listen to.
+02:14:21 I'm hungry.
+02:14:22 I'm going to order some Instacart groceries.
+02:14:25 Right.
+02:14:26 I'm going to get that chicken.
+02:14:27 I'm going to do it.
+02:14:28 You can't stop me.
+02:14:30 I don't want to.
+02:14:32 Okay.
+02:14:33 Well, I guess that's going to do it for the pro procrastinators podcast.
+02:14:41 Weehee.
+02:14:42 See you next week.
+02:14:44 Go to leave a speak pipe at the voicemail at thepcbvoicemail and go to patreon.com.
+02:14:52 The pro procrastinators to get the bonus episodes and the Minecraft access.
+02:15:00 We've got like three.
+02:15:02 We've literally got like three bonus episodes that Elias are like finished making recently.
+02:15:07 Oh my God.
+02:15:08 There's like a bunch in the can.
+02:15:10 Yeah.
+02:15:11 Oh, that's great.
+02:15:12 It is great.
+02:15:13 I think it's been a little while since the last one.
+02:15:15 So there's like a ton that is like, I don't think it's out yet, but I think it's like
+02:15:19 about to come out.
+02:15:24 We should we should update like the the way that like the the the list the the playlist
+02:15:29 because I think like people have people have access to it.
+02:15:32 That's that should be for patrons only.
+02:15:34 We got to change that URL or something.
+02:15:37 Yeah, we should.
+02:15:38 Yeah.
+02:15:39 Okay.
+02:15:40 Get fucked cheaters.
+02:15:41 Yeah.
+02:15:42 Die.
+02:15:43 Okay.
+02:15:44 I guess that's it.
+02:15:46 End of podcast and patroness.
+02:15:48 Give me money.
+02:15:49 Good.
+02:15:50 Goodbye.
+02:15:51 Goodbye.

@@ -1,0 +1,2629 @@
+00:00:00 Hello, everyone, and welcome back to another episode of The Pro Crastinators Podcast.
+00:00:09 The legendary two-man episode is finally here.
+00:00:12 No one will show up, and if we do, oh, I'll be so upset.
+00:00:16 It's me, Bestie Boy, and we've got Tom Oliver.
+00:00:18 Yo, what's going on?
+00:00:20 We're the only people with the resolve to suffer through COVID and show up in our workspaces
+00:00:30 for this podcast, the grueling commute of going down the stairs or into another room.
+00:00:36 The testicular fortitude, indeed.
+00:00:38 It was a huge ask, but we do it for you.
+00:00:41 That's right, and you owe us, so patreon.com slash The Pro Crastinators is the only place
+00:00:45 to give us money.
+00:00:46 There was a new bonus episode out about the contentious episode topic of Topics, and
+00:00:53 we get into all the nitty-gritty of that, so go check that out.
+00:00:56 If you're a fan of Insider Baseball, this is like the insider-iest baseball, and it
+00:00:59 gets pretty heady.
+00:01:00 It may be the most.
+00:01:01 It does.
+00:01:02 It does.
+00:01:03 You know, I really enjoyed the arc of that episode.
+00:01:05 We got so mad at each other, but then there was kind of a nice resolution.
+00:01:08 I don't know.
+00:01:09 It was good, endorsed by me.
+00:01:12 Best shown in anime of the season, easily.
+00:01:14 Oh, you know what?
+00:01:15 That reminds me.
+00:01:16 Just for fun, I was looking up something, or where was I listening to this?
+00:01:21 For some reason, I was hearing about someone making fun of Nissan cars the other day, and
+00:01:26 for whatever reason, I think I Googled Nissan, and I was on the Wikipedia page, and I saw
+00:01:31 that it said, it was like the history of the page or something, and they were like, blah-blah-blah,
+00:01:37 Nissan is actually a, it gets its name from the original Zaibatsu of the original, or
+00:01:44 the old Japanese Empire, and I was like, wait, I've heard that word Zaibatsu before.
+00:01:48 Where have I heard that before?
+00:01:50 And then I just Googled it or whatever, and I realized, I realized the origin of the term
+00:01:54 Zaibatsu, as used by the super best friends cast, and I realized that it's the fucking
+00:02:00 coolest thing ever.
+00:02:02 Because what I thought it was, I thought it was like, based on the way that it had been
+00:02:06 used, I thought it meant like a wrestling confederation or something, like specifically
+00:02:11 like a wrestling term for like their group.
+00:02:13 I thought the Zaibatsu was a specific name for like their gang of miscreants.
+00:02:19 Zaibatsu was a very specific thing.
+00:02:22 It meant, oh, I wrote it down here, I have the kanji here.
+00:02:25 It means a financial clique for the original Empire of Japan, okay, not original, but like
+00:02:33 before World War II or whatever.
+00:02:35 So it specifically refers to like a confederation of business conglomerates, or it is a business
+00:02:41 conglomerate of individuals.
+00:02:43 And I was like, well that, I see why the super best friends would have used that.
+00:02:48 Now they are deceased, but I think perhaps that is an appropriate term to use for what
+00:02:52 we do here at the PCP.
+00:02:55 It is exactly the sort of thing that makes sense, and it's Japanese, so that's pretty
+00:03:00 cool.
+00:03:01 And they're dead.
+00:03:02 They're dead.
+00:03:03 Yeah, we can just take it.
+00:03:04 We can just carry the flag.
+00:03:05 It's ours now.
+00:03:06 Both the super best friends and all the Japanese from back in the day, they were using it.
+00:03:09 They're all dead.
+00:03:10 So it's totally free and open.
+00:03:12 We might as well just change the bonus episode name to that, like why not?
+00:03:16 You know, that's true.
+00:03:17 Anyway, I understand that's like a, well I don't know what the term is, that's like
+00:03:21 a term that they popularized and made part of their, what's the word, zeitgeist, I don't
+00:03:28 know, their cultural influence.
+00:03:30 Yes, yes.
+00:03:31 So it's definitely associated with them, but it is just a term that could be used for
+00:03:35 anything.
+00:03:36 The passage of time, dude, we just got to claim it now and not back down when challenged.
+00:03:39 And eventually the, the winds of fate will change direction.
+00:03:43 It will be our turn.
+00:03:44 And indeed.
+00:03:45 And as the actual soul of a samurai in my body, man that I am, and the business, the
+00:03:51 aspiring businessman, I, this is like the perfect word to be used for such things.
+00:03:58 So fuck it.
+00:03:59 I think it's totally sick and I'm not going to let it die now that I actually know what
+00:04:02 it means.
+00:04:03 It's totally cool.
+00:04:04 And I'll, I'll do it in honor of you guys as I use this word, rest in peace, super best
+00:04:09 friends.
+00:04:10 Anyway, so that's the, I learned the term, maybe everybody who knows them since they
+00:04:13 were very popular and still are individually already knew what that meant, but I just had
+00:04:17 a spiritual awakening and it was totally sick and I feel good about it.
+00:04:21 Indeed.
+00:04:22 It's, did you know what that meant Tom?
+00:04:23 I had never even heard of the word before you mentioned it.
+00:04:26 Oh, okay.
+00:04:27 Right now.
+00:04:28 Okay.
+00:04:29 I see.
+00:04:30 I am not as much as a weeb as you are.
+00:04:31 Unfortunately.
+00:04:32 I just, I haven't reached that apex of power yet, but perhaps someday.
+00:04:33 It's sick of me to think, it's sick of me to think that there were bigger weebs than
+00:04:38 I am.
+00:04:39 You know.
+00:04:40 And really I've, I've remedied that particular malady of myself.
+00:04:43 Yes.
+00:04:44 Every day you get a little bit more powerful and a little bit more fucking cringe, but
+00:04:48 that cringe power is undefeatable by the normal man.
+00:04:53 Indeed.
+00:04:54 Indeed.
+00:04:55 So Tom, have you seen the end of Steven Universe moving on to the other thing I wanted to talk
+00:04:58 about?
+00:04:59 Oh, I have not yet.
+00:05:00 I need to.
+00:05:01 We're planning on doing a whole Steven Universe cast, I would assume at some point to kind
+00:05:04 of wrap everything up.
+00:05:06 Yeah.
+00:05:07 I mean, that's a good idea.
+00:05:09 I mean, we've done it.
+00:05:10 I guess I'll go into it too much.
+00:05:11 We've been doing those since like the beginning.
+00:05:12 It seems only fitting that we put a bow on the whole thing and wrap it all up properly.
+00:05:17 I agree.
+00:05:18 I agree.
+00:05:19 I'm still a big fan.
+00:05:20 Excuse me.
+00:05:21 I was looking into the details now that, you know, so there's Steven Universe, then
+00:05:23 the movie.
+00:05:24 Excuse me.
+00:05:25 And then the recent Steven Universe.
+00:05:26 Future.
+00:05:27 Future has ended.
+00:05:28 And specifically there were rumors going around that there was going to be like a comic continuation.
+00:05:32 But Rebecca Sugar clearly stated on Twitter like, Hey guys, just so you know, I am not
+00:05:36 working on anything Steven Universe now.
+00:05:39 Like if there's comics, it's not me.
+00:05:41 So everyone can be assured that the story has in fact ended and what we got is what
+00:05:45 we got, which means any complaints that someone might want to put forward about unsatisfying
+00:05:51 elements or incomplete storylines are totally valid and you can no longer deny any, any,
+00:05:58 you can't say that they're going to fix it in like the comic.
+00:06:00 You can't fix it in the comics anyway.
+00:06:02 The comics are B canon.
+00:06:04 They're not real.
+00:06:05 It's just like fan and band-aids that they're being paid to make.
+00:06:09 It's not true.
+00:06:10 No, all that matters is the show.
+00:06:12 Just like with MLP, everyone's like, Oh, the comics still, no, no, that's all not real.
+00:06:17 The comics just tell the story beyond, well, I mean, the show ended on like with them becoming
+00:06:22 adults and whatnot.
+00:06:23 I assume the comics didn't go beyond that.
+00:06:25 But even like while it was going on, like they would address plot elements from the
+00:06:28 show in the comics.
+00:06:29 We'd be like, this is what happened.
+00:06:30 But then the show would go against that.
+00:06:33 So whatever.
+00:06:34 It's all fake.
+00:06:35 I've heard very mixed things about the Steven Universe ending.
+00:06:39 I've heard some people say it was really good and they cried and it was sad and great and
+00:06:43 a good way to wrap everything up.
+00:06:45 Other people like it's the gayest, worst thing ever, including famously Michelle sang a whole
+00:06:49 song about her displeasure.
+00:06:50 Her song, hey, go check out Michelle's song in the show notes.
+00:06:54 Her balls are blue at the ending of this song of the show.
+00:06:59 Poor Michelle.
+00:07:00 Rest in peace.
+00:07:01 She was the biggest Steven Universe fan out there because Michelle is also like mixed
+00:07:04 race.
+00:07:05 And that was like a fucking, it's funny because the ending of Steven Universe, there's a lot
+00:07:09 of people out there, which is it's understandable that they would say like, so the Steven Universe
+00:07:14 finale or sorry, Steven Universe future is about like now that the battle is over, it's
+00:07:20 about dealing with Steven Universe is like literal PTSD that he acquired through like
+00:07:25 these horrible things he's been through.
+00:07:27 So to people who resonate with like trauma or depression or like anxiety or things like
+00:07:33 that.
+00:07:34 Like I could totally see why they would be way into that it like a personal thing.
+00:07:37 I get it.
+00:07:38 I like stories about like my personal issues as well.
+00:07:41 Everybody does.
+00:07:42 But the fact remains that there certainly are some plot elements that weren't thoroughly
+00:07:45 explored enough.
+00:07:46 And it's just funny like Michelle is one of the biggest people I know complaining about
+00:07:50 the ending.
+00:07:51 But like she always had a personal connection because like Steven exists in this like weird
+00:07:55 like, you know, half breed, hybrid, I mean, you know, mixed race, truly a fate, like Coralette.
+00:08:02 You wouldn't want that.
+00:08:03 You wouldn't wish that on your worst enemy.
+00:08:05 So like that was always a thing that like made her into Steven.
+00:08:07 It was like, you know, something that hooked her into it from her personal experience since
+00:08:11 she's like a bunch of she's like Japanese and Mexican Cuban and white and stuff.
+00:08:16 That's rough.
+00:08:17 I know it's a nightmare.
+00:08:19 But but it's and now, but I feel that it's it's a very good faith thing to because even
+00:08:25 Michelle was was redpilling on me on all the unfinished plot threads like most famously
+00:08:30 the box from the weird like space inside lion's head.
+00:08:35 What was in the box, Rebecca?
+00:08:37 Why was it there?
+00:08:38 I don't care if you just put it originally as like a visual design element.
+00:08:43 Every other thing that was in that magic headspace was addressed at some point, except for that.
+00:08:50 And if you'll indulge me, Tom, I came up because the other big complaint about the ending,
+00:08:55 I would say this is the second biggest one.
+00:08:57 The box is kind of a meme, but the other one is that we never actually see Steven ever
+00:09:02 really come to terms with Rose.
+00:09:05 And in fact, his last like the last interaction Steven has with Rose, aka Pink Diamond is just
+00:09:12 further reasons why she was like a horrible and worse person.
+00:09:17 The last thing we hear about Pink Diamond, aka Rose in the series is how she had a literal
+00:09:22 abusive relationship with Pink Pearl and like physically assaulted her and would like
+00:09:26 hurt her.
+00:09:27 Like that's the final note.
+00:09:29 The moral is that like Pink is just terrible.
+00:09:32 Like is that what they're going for?
+00:09:33 That's how it feels.
+00:09:34 Yeah.
+00:09:35 What's up, Jesse?
+00:09:36 Are you here?
+00:09:37 Hey, are we doing a Steven?
+00:09:38 Is this a Steven?
+00:09:39 We are at this particular moment.
+00:09:40 We are talking about Steven.
+00:09:41 We are talking about Steven right now.
+00:09:42 Yes.
+00:09:43 Let me just here.
+00:09:44 I'll just finish my point and feel free to say whatever you like.
+00:09:46 I was just going to say that the way to wrap that up, in my opinion, because like sure
+00:09:51 everybody complains about Pink Diamond being evil and all that stuff.
+00:09:54 Okay, but the reality is we learned everything good about Rose and Pink Diamond at the very
+00:09:59 beginning and then we learned like the bad stuff she had done like chronologically before
+00:10:04 she like became a much better person.
+00:10:07 But to us as the audience, it feels as though we've just like heard all bad things about
+00:10:11 Pink for so, so long.
+00:10:13 The right way to resolve that is to bring that full circle and here's just my little
+00:10:17 fanfic.
+00:10:18 The way to resolve it is you get two birds with one stone.
+00:10:21 The final thing that happens at the very end, like as Steven is like dealing with his trauma
+00:10:24 or whatever, he like, he opens the chest in his little headspace and what does he find
+00:10:29 there?
+00:10:30 Yet another one of Pink Diamond's, of Rose Quartz's tapes.
+00:10:35 And man, this is perfect.
+00:10:36 This resolves fucking everything people wanted.
+00:10:39 It's he plays the tape.
+00:10:40 This was one final tape that was only there for Steven because this is a special space
+00:10:44 only Steven could get to.
+00:10:46 He plays it and here's what happens.
+00:10:48 It starts with Rose and she's like, Hey Steven, this is another letter.
+00:10:51 You know, I know once you're older, you'll see this.
+00:10:54 Once you've like developed your powers and stuff, you'll, you'll be able to get in here.
+00:10:57 What she then does is she transforms back into Pink Diamond for Steven to see and be like,
+00:11:02 I want you to know this is who you are, to be comfortable with like the stuff that we've
+00:11:06 been.
+00:11:07 And then she explains all the horrible things she's done or at least in general terms and
+00:11:12 just lays it out for the audience.
+00:11:14 Like Steven, I'm sure by now you've learned all the horrible things I've done.
+00:11:17 I want you to know that I understand that like those things were bad.
+00:11:21 I grew like you, you, the audience, you know, this is the surrogate going on here.
+00:11:25 You've now seen all the worst things about me, but I also understand how bad a person
+00:11:31 I was and I work to fix that, which she did.
+00:11:34 She was fucking hero and like an actual good person before she died mostly and she tried
+00:11:39 to make amends for all the bad stuff she had done.
+00:11:41 So like that should have been the final note that resolved like the chest, like Steven and
+00:11:47 Rose and the diamond, the Pink Diamond whole thing, and would have actually dealt on screen,
+00:11:52 not literally off screen with Steve or not at all, not at all.
+00:11:56 It's strange that they don't have anything like that because there was nothing.
+00:12:00 The whole mention the last episode, the whole arc of Pink Diamonds like reveal through this
+00:12:05 entire show has been like, she's like this fucking perfect person.
+00:12:09 And then like every note of information we've gotten from her after is just like, actually
+00:12:13 she was a piece of shit.
+00:12:15 Without doing what you said, bring it back full circle, like it just feels like actually
+00:12:20 Pink Diamond was shit.
+00:12:22 She was bad and that's what you should take away from this entire show.
+00:12:26 Not to be too, not to talk down to the audience, but I think the intended audience of Steven
+00:12:30 Universe is fairly young.
+00:12:32 I think that audience needs a little, I mean, I see a lot of people being like, oh my god,
+00:12:36 Pink Diamond is a monster.
+00:12:38 Sure, when she was young and foolish, she did a lot of bad things, but let's resolve
+00:12:42 on like, in my opinion, like the most healing attitude that we all need as a society, that
+00:12:48 people can change and grow.
+00:12:50 And the fucked up thing is, we already know for a fact that she did grow and change and
+00:12:55 did become a good person, but everyone's just forgotten that because narratively, that's
+00:13:00 further back in our minds.
+00:13:01 And we're just not thinking about that.
+00:13:02 She was a hero.
+00:13:03 She was a hero.
+00:13:04 And a good person.
+00:13:05 Yeah, yeah.
+00:13:06 I mean, is there really anything that needs to be resolved with her?
+00:13:09 I mean, like, you don't have to like redeem her and have her like go like, oh, hey, you
+00:13:13 know, actually, I'm not a piece of shit at this, this whole, this idea that people have
+00:13:19 that like Pink Diamond is like all bad and she's a piece of shit and she's a monster
+00:13:23 is like totally missing the entire point.
+00:13:26 Like she can be.
+00:13:27 I mean, I agree.
+00:13:28 You don't necessarily have to like do some ask what the end we're like, oh no, she actually
+00:13:34 did have some redeeming qualities.
+00:13:36 Well, we already know she had redeeming qualities.
+00:13:38 She started out in the show.
+00:13:39 We always saw were her redeeming qualities.
+00:13:42 Just because we're later introduced to some more, you know, three dimensional shitty aspects
+00:13:46 of her doesn't mean, you know, you know, that she's just sucks completely.
+00:13:51 Even though she I totally agree.
+00:13:53 But just consider the fact that I see a vast sentiment of discussion online specifically
+00:13:58 about how look, like these are the kind of people we hear.
+00:14:01 Like there's a lot of people, there's a certain overlap of fandom of Steven Universe of people
+00:14:06 who enjoy Steven Universe and people who when they learn one bad thing about someone's
+00:14:11 history, like now think that person is historically bad for all time.
+00:14:16 I think there happens to be an overlap between those two camps, but that's all of humanity
+00:14:20 everywhere.
+00:14:21 And I don't know if you've discovered a cure for it yet besides mass destruction and death
+00:14:25 for every human on earth.
+00:14:28 I just recommend a little reminder because I felt like we left.
+00:14:32 I'm just we left it on a very negative tone for everything that like that pink and rose
+00:14:37 had done.
+00:14:39 Maybe that's just me thinking that like there was a negative tone.
+00:14:42 I mean, as some of them, I haven't watched the ending, so I'm talking out of my ass.
+00:14:45 But you the way you phrase this entire discussion in the first place, and Jesse, you might not
+00:14:49 even been in a call when we were talking about it, was the reason you even brought it up
+00:14:52 is because it wasn't the audience, but like Steven himself didn't ever seem in the story
+00:14:58 to come to any resolution, even though that was like the driving force of all of future
+00:15:02 was dealing with his package.
+00:15:03 His arc was really started like Vorshminger like a saint, like a perfect being.
+00:15:08 And then he learned she was flawed and bad in many ways, sure.
+00:15:11 But there was never a visible third point where Steven comes to terms with that.
+00:15:16 We simply end the series and I guess he's at peace now.
+00:15:20 That's fairly unsatisfying.
+00:15:21 Well, he has that one line.
+00:15:23 There's one throwaway, you know, blink and you'll miss it with your ears line where
+00:15:29 he says, Oh, blah, blah, blah.
+00:15:30 And I'm talking to my therapist online once a week.
+00:15:33 So that's kind of like implying that he's still dealing with it, but in kind of a fufu
+00:15:38 way.
+00:15:39 I'm so sick, sick of hearing about therapists and therapy and mental health.
+00:15:44 This whole thing has gotten so out of control in our culture now where everyone's like,
+00:15:48 Oh, therapy is always good and it's good for everyone.
+00:15:53 And if you have problems, then you definitely have a mental health issue.
+00:15:56 And you definitely, you know, it's good to, you know, whatever happened to just like stuffing
+00:16:00 shit down, like a man, whatever, you know, maybe the older generations had it right.
+00:16:05 I'm sick and tired.
+00:16:06 You're just constantly bombarded with all this mental health care shit, you know, from
+00:16:12 all directions.
+00:16:13 And it's like, enough is enough.
+00:16:15 Just leave me alone.
+00:16:16 That's my mental health.
+00:16:17 Have you ever seen the Sopranos?
+00:16:19 Have you ever seen the Sopranos, Jesse?
+00:16:21 No.
+00:16:22 The Sopranos are exactly like season one Tony Soprano, where he's, he has like, people
+00:16:28 don't know this, but the actual like underlying plot of, of the Sopranos is not just cool mob
+00:16:33 boss stuff, which obviously is, is what happens day to day.
+00:16:36 But the actual plot is about Tony Soprano getting therapy because he has these panic
+00:16:40 attacks that are very unbecoming of a mob boss.
+00:16:43 So he has to like, so he deals with his mental health, like throughout the entire series
+00:16:48 as like the main underlying like Tony plot of what's going on.
+00:16:52 But he's always like, oh shit, what did he say?
+00:16:55 Whatever happened to, to the strong silent type, whatever happened to that kind of thing?
+00:17:00 Whatever happened is just keeping it all bottled in.
+00:17:03 And he's right.
+00:17:04 Yeah.
+00:17:05 Yeah.
+00:17:06 That's the right way to go.
+00:17:07 You don't want to, you know, before everything, you know, there was always this perception
+00:17:14 that before you were a fucking surf to a Lord and no one cared and you would work the field
+00:17:18 and die.
+00:17:19 And that was great.
+00:17:20 Like at first.
+00:17:21 Ideal.
+00:17:22 And first it was like this perception that if you, you know, see a therapist, there must
+00:17:24 be something really wrong with you and there was kind of a stigma against it for a lot
+00:17:27 of years.
+00:17:28 I get that.
+00:17:29 And but then people started, you know, trying to make this push for like, there doesn't have
+00:17:32 to be a stigma.
+00:17:33 It should be okay to talk about your problems and, and seek help for whatever's bothering
+00:17:38 you.
+00:17:39 And like, I agree with that.
+00:17:40 Yes, that's fine.
+00:17:41 Yeah.
+00:17:42 But then it's like, it got so pushed to where people, the whole world now is overbearing
+00:17:45 with it.
+00:17:46 Everybody has, everybody has a mental health.
+00:17:49 You've all got the mental health.
+00:17:50 It's like, you know, you've all got to see a therapist for everything all the time.
+00:17:54 If you're not seeing a therapist, then you're, then you're stuffing shit down and you're
+00:17:58 repressed and you're doing something wrong.
+00:18:00 You know, my dad is a psychologist and he always had a predisposition.
+00:18:05 Like there have been several times in my life where I don't know, like just everything
+00:18:10 isn't going like exactly the way I want it.
+00:18:12 Like for example, when I was just like looking for better jobs and trying to, excuse me,
+00:18:16 find like an intro chip to finish my degree and stuff, my dad would just recommend, he's
+00:18:19 like, Hey Nate, why not go talk to someone, go like talk to a person.
+00:18:25 And the pitch was never, the pitch for me was not like, Nate, you obviously have like
+00:18:29 depression or some, you know, mental deficiency.
+00:18:31 I need you to, like you should go see someone to deal with that.
+00:18:34 His idea was like, I assume because this is kind of how he deals with his patients because
+00:18:38 it deals with a lot of like old folks who like, they don't necessarily have a lot of people
+00:18:41 in their lives to talk to every day because they're in nursing homes and stuff.
+00:18:45 He'll be like, Nate, just go to like a psychologist or whatever and just like have a discussion
+00:18:51 basically simply about whatever you're trying to improve about your life and like trying
+00:18:57 to get straight.
+00:18:59 And really it just served as like, it's like, oh yeah, I mean, I guess I am maybe playing
+00:19:03 too many video games and should like spend another hour a day looking for a job, like
+00:19:08 just very pragmatic down to earth stuff.
+00:19:11 If that's the intense, I can at least understand that.
+00:19:14 Is the part of it that's supposed to help just getting it out and just like the illusion
+00:19:19 that someone is understanding or listening.
+00:19:22 It kind of feels that way.
+00:19:23 I think that's what it is.
+00:19:25 Yeah, because like it's really interesting to me that like so many people recommend not
+00:19:29 only therapy, but like medication all the time and like everybody's on fucking antidepressant
+00:19:33 meds.
+00:19:34 Yeah, that's the one that really weirds me out because it's just like a medication worship.
+00:19:38 But like, you know, like people don't have seemed to have forgotten with like this acceptance
+00:19:43 of mental health that like not feeling good sometimes is normal.
+00:19:47 Like life is not always going to be perfect.
+00:19:50 And it's just like, if you can identify why you don't feel good, you're not depressed.
+00:19:55 Like you're just having a shit time.
+00:19:58 Like you don't need medication.
+00:19:59 Like if you if you're just like, man, I feel like garbage because like I just sit around
+00:20:03 and do nothing all day.
+00:20:04 You don't need antidepressants.
+00:20:05 You need to stop sitting around and doing nothing all day.
+00:20:07 You need to do something.
+00:20:08 You need antidepressants if you're just like, my life is great.
+00:20:11 I have a good job.
+00:20:12 I have good friends.
+00:20:13 I have a good family, but I'm still depressed.
+00:20:15 Like that's when you need a therapist and medication.
+00:20:18 If you can clearly identify why you feel like shit, the answer is right in front of you.
+00:20:22 Just stop being a little bitch and fix that shit.
+00:20:25 I just like the only person in the entire world who's really qualified to figure out
+00:20:32 what's wrong with you is you.
+00:20:34 And I guess I'm just skeptical of the idea that anyone, no matter how much schooling
+00:20:38 they've had in psychology or whatever, can listen to like bits and pieces of your story
+00:20:43 in a room for like an hour a session and suddenly even come anywhere close to having
+00:20:48 the answers or any real insight into you.
+00:20:50 Like you can't possibly explain every single thing that is making you the way you are.
+00:20:55 And so I don't know.
+00:20:57 And plus you have to pay for it.
+00:20:58 If therapy was really so important, wouldn't it be free?
+00:21:02 Wouldn't it be, you know?
+00:21:04 I mean, if it was so helpful, if food was so helpful, wouldn't it be free?
+00:21:09 Fuck food.
+00:21:09 Nobody needs it overrated.
+00:21:13 I don't know.
+00:21:13 Maybe that was stupid.
+00:21:14 I don't know what the fucking point was.
+00:21:18 Sure, there was a point in there somewhere.
+00:21:20 Make a complex point about how when when there are lots of goods in the free market,
+00:21:24 inevitably many sources will spring up and they'll inevitably drive the price down,
+00:21:28 hopefully to literally zero eventually.
+00:21:31 Yes.
+00:21:33 Free therapy for everybody.
+00:21:34 I'm sure that'll solve the problem.
+00:21:35 Anyway, not too much therapy.
+00:21:37 If having to be completely free.
+00:21:39 Right.
+00:21:40 Wait, you're getting me confused.
+00:21:41 I forgot what the hell my idea was to begin.
+00:21:44 Well, you were saying that you don't think that like someone could for an hour and a half
+00:21:48 sit down and talk and like understand really the depths of your life.
+00:21:51 Well, I mean, like the thing is, like you have to pay exorbitant amount of money
+00:21:56 for a therapy session with a therapist.
+00:21:58 You have to choose your therapist.
+00:22:00 What if you choose a bad one by mistake?
+00:22:02 Like what if you happen to get a therapist who sucks and you would never know
+00:22:05 and the damage would be irreparable?
+00:22:06 They would get inside your head with all this crap.
+00:22:09 You know, there's people who suck at their job, no matter what job it is.
+00:22:12 There's got to be therapists who suck at therapy.
+00:22:14 I went to therapy for a while.
+00:22:15 It was terrible.
+00:22:17 You can pay money for a therapist and you just paid money to be even more screwed up.
+00:22:21 That's the other thing is like the anxiety of getting the right car
+00:22:26 times a thousand, which is already bad enough.
+00:22:28 You know, if I get the wrong car, then I'm fucked for years, you know,
+00:22:32 and it feels like if you get the wrong therapist, you're fucked for the rest of your life.
+00:22:35 Even my problem with therapists and the reason I tend not to go to see them
+00:22:40 is simply because the profit structure like motivates them to keep me in there,
+00:22:44 you know, like they benefit from my problem subsisting as opposed to solving them.
+00:22:49 Like the benefit financially is to keep me coming back week after week.
+00:22:55 Hey, the Hippocratic Oath is not do no harm.
+00:22:57 Not make sure you're curing up, you know what I'm saying?
+00:23:00 You can just keep stringing me along.
+00:23:02 If they stay neutral, I could just keep coming back.
+00:23:04 I'm like, I don't want to become dependent upon this.
+00:23:06 I want the problem solved.
+00:23:07 And, you know, I like to think that they're not thinking in such a callous term.
+00:23:12 We'll review video games until you stop.
+00:23:16 Oh, shit.
+00:23:18 And he was where's my Rayman to review then?
+00:23:20 Damn it. Oh, no, I'll go now.
+00:23:24 See you guys.
+00:23:26 Thank God.
+00:23:29 Well, anyways, my point with all of that was Steven Universe sure is a fun show.
+00:23:33 Boy, did you guys see that last episode?
+00:23:35 How cool was that?
+00:23:36 Boy, I sure do love cartoons and stuff.
+00:23:39 I, you know, because a lot of people were like really emotionally
+00:23:43 devastated or in a good way, like they were feeling like climatically fulfilled.
+00:23:47 Whereas I know some people like Michelle were more thinking about
+00:23:50 like the lore and how there were things they were unsatisfied.
+00:23:52 I suppose I'm kind of in the, I don't know, the worst world
+00:23:55 where I was just kind of like, I mean, I really passionately
+00:23:58 loved Steven Universe for a long time.
+00:24:00 But then when it ended here, I was like, OK, that's cool.
+00:24:03 That was nice.
+00:24:05 For example, like the whole last episode, there's this whole like
+00:24:08 bit they're doing where all the gems that are the closest,
+00:24:11 like the crystal gems, the real ones, they like won't show emotion or cry.
+00:24:16 And I was just like, look, I know how this joke ends.
+00:24:19 I know from the start of the episode that they will cry.
+00:24:22 They're obviously faking.
+00:24:23 And then surprise, it happened.
+00:24:26 Wow, how emotional.
+00:24:28 I do. I do agree that, like, after they all hugged Monster
+00:24:31 Seven and he got back to normal and then the episode ended there,
+00:24:35 then the next episode, like it's a time skip and he's just fine
+00:24:38 and he's moving out.
+00:24:39 That was a month later.
+00:24:40 There was definitely like a lot glossed over that I would have liked to.
+00:24:43 But maybe you didn't need to see it.
+00:24:44 I don't know. But like the whole, I think the whole idea
+00:24:49 of Steven Universe Future, the whole thing this last season
+00:24:52 has been like really brilliant and good and kind of groundbreaking.
+00:24:57 I mean, just the idea of like, you know, Steven Universe is a kid's show.
+00:25:02 It's like kind of like a playoff of like a like a shonen anime thing almost
+00:25:06 or like like a like a Sailor Moon, some shit.
+00:25:09 You know, this is like a little boy saving the world.
+00:25:11 The idea to do that and then not gloss over the fact
+00:25:16 as any other show would and has throughout history that this would mess
+00:25:20 a person up, especially a child to say after, you know, it's the big battle
+00:25:25 is all said and done. OK, let's not just end it here.
+00:25:28 Let's do a whole other season dealing with the mental and emotional repercussions
+00:25:34 and trauma that this has all had on poor young Steven and to just like really
+00:25:39 delve into, you know, themes of like PTSD and trauma and stuff is like really
+00:25:44 hasn't been done in this kind of show before.
+00:25:47 And, you know, regardless of whether the last episode dropped the ball
+00:25:52 or hit the mark perfectly or not, I think the idea of doing that
+00:25:56 in the first place with the season was like really good and cool.
+00:26:01 You know, my only I do enjoy a lot of that stuff as well.
+00:26:05 I do have one kind of a criticism, maybe you disagree.
+00:26:07 But like I felt like, I don't know, maybe this is not fair.
+00:26:11 And this wasn't isn't like how it would work in real life.
+00:26:13 But I feel like they were kind of trying to have their cake and eat it to
+00:26:17 because through the entirety of Steven Universe, like Steven was the
+00:26:20 like the happy go lucky rock that whenever like things went wrong,
+00:26:25 he would be the upbeat one.
+00:26:26 And I would I could understand like that making him change
+00:26:30 and being more like depressed and, you know, have PTSD and stuff.
+00:26:35 And I get like addressing that in a show.
+00:26:37 But it seems to me like, I don't know, like they used Steven
+00:26:41 for that purpose of being that person.
+00:26:44 And then like just years later, when everything's fine,
+00:26:47 I mean, I guess that's how it works.
+00:26:49 Like when a soldier comes back for more, that's when they start to get all fucked up.
+00:26:52 But it was so long later.
+00:26:55 And I feel like they like wouldn't those sort of things started to have
+00:26:57 said in when he was like in the middle of them?
+00:27:00 Because he seemed totally he seemed 100 percent fine
+00:27:03 through the entirety of the original trauma is.
+00:27:06 You can you can come out of a bad situation
+00:27:08 and be totally fine for a while because you're relieved to be out of it.
+00:27:12 And it's not until a little while later that, you know, all the stuff from it
+00:27:15 starts setting back in.
+00:27:16 I really don't think Steven was fine throughout like a lot of
+00:27:21 the last few seasons in the movie.
+00:27:23 Like there were very clearly moments where he was having trouble continuing
+00:27:27 and you know, dealing with all this rose shit.
+00:27:31 Well, anybody would have individual moments of trauma,
+00:27:33 like when he got his fucking gem ripped out or when Spinell was going to kill him
+00:27:37 or when he was all that stuff.
+00:27:38 But he wasn't he wasn't always like the rock.
+00:27:41 Like other people had to pick him up, you know, multiple times.
+00:27:45 I love the scene where he's at the doctor's office, like
+00:27:48 and she asks if anything bad happened in his childhood.
+00:27:51 And he starts going over all these things that to the viewer at the time,
+00:27:55 watching a cartoon would seem mundane because it's in a cartoon,
+00:27:59 but really like driving home the fact that, no, every single one of these things
+00:28:03 that happened in every episode of the whole series,
+00:28:05 even just one of them would permanently destroy a child's psyche.
+00:28:09 All right. But you know what? Fuck you, Rebecca,
+00:28:11 because a lot of those things were played for laughs at the time.
+00:28:14 And now I'm supposed to like, oh, shit, I'm sorry that like you put the goofy music
+00:28:19 as these horrible horrible things were happening to him.
+00:28:21 So am I supposed to feel bad for Steven or are you the one who's the callous one?
+00:28:25 Rebecca, I think that's just the nature.
+00:28:28 Like if Steven Universe wasn't, you know, what it was at the beginning,
+00:28:32 it wouldn't have gained traction and you know what, I'm like a big thing
+00:28:35 that people would care about.
+00:28:37 So they had to dangle Steven's trauma for views is what you're telling me.
+00:28:41 They had to amuse.
+00:28:42 I'm not saying that like she had this idea at the beginning.
+00:28:44 I don't know. I haven't.
+00:28:46 OK, you know what? You know what?
+00:28:47 I can my my entire point isn't valid
+00:28:49 because Steven Universe Future is obviously designed to be a separate thing
+00:28:53 from Steven Universe.
+00:28:54 So you know what? That really.
+00:28:55 How about that episode with that fucking?
+00:28:57 How about that sexy volleyball check?
+00:29:00 That was a great episode right there. Boy, oh, boy.
+00:29:03 That the the sort of moral that they came or that the moral.
+00:29:07 But the conclusion that her and Pearl came to at the end there where they both
+00:29:11 like after fusing, they got all this new insight into Rose that neither of them
+00:29:15 had had before. And then that great line of like, I always knew she was trying
+00:29:19 to change, but I never knew why because now she understands like that's I think
+00:29:24 that is what you were talking about before.
+00:29:25 That's something that like contextualizes pink, where it's not like
+00:29:30 it's not like, oh, we thought she was good, but she's really a piece of shit.
+00:29:33 No, it's that that is making the case that she was good because she had been
+00:29:39 a piece of shit, and that was the whole motivation she wanted to change.
+00:29:43 I think that put it cast it in a new light pretty well.
+00:29:46 You know, that's true.
+00:29:47 That's I guess perhaps just as a fan, maybe it's more of this as a fan.
+00:29:51 Like I feel a certain uncomfortableness, which I think was intended.
+00:29:55 I mean, it was obviously part of it.
+00:29:56 Like it makes me a little uncomfortable to see like the Steven who,
+00:30:00 at least to me, the viewer has been like the rock of like positivity and
+00:30:04 upbeatness. I watched Steven Universe because it was comfy and I really
+00:30:07 enjoyed the atmosphere. And then to see trauma be all fucked up.
+00:30:10 I mean, again, I think this was the point.
+00:30:12 It's like, oh, this is uncomfortable and I don't like seeing Steven unhappy
+00:30:16 and traumatized, but you know, makes sense.
+00:30:18 That's how it would be.
+00:30:19 Maybe just as a fan, it's that like I wanted to see a Steven Rose
+00:30:25 resolution of some kind.
+00:30:26 And maybe there was a line or two here there.
+00:30:28 Other characters develop a deeper understanding.
+00:30:30 I feel like Steven didn't get that.
+00:30:32 So just as a like, as like, you know, you're saying it's kind of like a
+00:30:35 Sailor Moon or a Shonen series kind of styled show.
+00:30:38 You expect the big emotional anime speech and that did not come, at least
+00:30:43 like the climactic quote unquote meeting of those two, you know,
+00:30:47 Titans of characters of like Steven, Pearl or whatever and Rose.
+00:30:50 But yeah, yeah, I mean, it did touch on these.
+00:30:53 My biggest trauma.
+00:30:54 I think that's why a lot of people did like it.
+00:30:56 That that really, you know, that it really hurt me deep inside is that, you know,
+00:31:00 this this whole show, we've been investing in it for so long.
+00:31:05 We never got to see Greg fuck Pearl.
+00:31:08 Yeah, this is a this is a crime against humanity
+00:31:11 and a crime against gem kind of the highest order.
+00:31:14 We never got to see Greg fuck Pearl.
+00:31:16 We should have seen that.
+00:31:17 We should have also seen Steven fuck Lapis and Peridot.
+00:31:21 Although Bismuth is definitely going to split Pearl wide open with her.
+00:31:25 No, that's going to happen.
+00:31:26 I don't like that at all.
+00:31:27 I don't want to think about it.
+00:31:28 I'm not going to, you know, that one episode, though,
+00:31:30 was the only time I've ever kind of liked Bismuth,
+00:31:33 because she was actually kind of endearing and looked a little bit unusual.
+00:31:36 I'm going to see a therapist about there being like too many lesbians and cartoons these days.
+00:31:41 Oh, you know what I was saying?
+00:31:42 I was saying to Michelle the other day, Steven Universe, would it really
+00:31:45 the original Steven Universe, which I could get on board with, was really the story
+00:31:49 of all these dumb ass bimbos and hoes and sluts.
+00:31:52 They needed a strong patriarchal man to set them straight.
+00:31:56 And that's what Steven Universe was.
+00:31:58 But now Steven Universe's future is fucking all these women coming in
+00:32:02 and saying the man needs to figure out his emotions.
+00:32:05 It's not OK that he lashes out and literally kills people.
+00:32:08 You made me a warrior.
+00:32:09 I had to be strong to defend you.
+00:32:10 You made me into this creature.
+00:32:12 Now you want me to change?
+00:32:13 Sounds like it's forcing some kind of stereotypes on both sides of the equation.
+00:32:18 Good job, Rebecca.
+00:32:18 I loved when he I loved when he was
+00:32:20 I loved when he was beating the shit out of a white diamond.
+00:32:23 I wanted to see more of that.
+00:32:24 I wanted that to get darker and more violent.
+00:32:26 I wanted in the really kicker ass around the room.
+00:32:29 It got darker than I ever expected it to when you like tried to murder white diamond.
+00:32:32 Oh, man.
+00:32:33 And the episode where he was yelling at Greg when they had a big fight
+00:32:38 because he realized that Greg's been full of shit his whole life
+00:32:42 and that he had a really comfortable upbringing.
+00:32:45 That was cool. When he said like.
+00:32:47 I figured you would sympathize with Greg, though,
+00:32:49 because Greg had like this stuffy, like uppity family
+00:32:52 who tried to control him and tell him what to do all the time.
+00:32:55 I mean, you can always see the the grass is always greener, right?
+00:32:58 So I totally get Stevens like he's now seeing what he could have had
+00:33:02 through that family connection.
+00:33:03 But I don't know. Right.
+00:33:05 I don't know. It was a complicated scene, of course, as many things are here.
+00:33:08 It's just I liked it.
+00:33:10 I like the whole I like the whole thing, except for the parts that were lame and shitty.
+00:33:14 But I don't care about those parts because they're boring to talk about.
+00:33:17 Man, what about that?
+00:33:20 Yeah, I loved seeing White Diamond
+00:33:24 when Steven was a monster, that whole little like dramatic speech
+00:33:29 she gave about how bad she feels about how, you know, like Spinell was like,
+00:33:34 this is all my fault. The White Diamond is like, no, you were just mad at Pink.
+00:33:39 And if she hurt you, it's because I hurt her.
+00:33:42 Just like I hurt Steven and the Gems and everybody in the entire universe.
+00:33:47 I love that.
+00:33:48 Just imagine I just it's really funny to me.
+00:33:52 Like, imagine waking up and realizing that you've fucked up so bad
+00:33:57 and so consistently for so long that you've hurt everybody in the entire universe.
+00:34:04 White Diamond absolutely became my favorite character.
+00:34:06 I love her. She's the best.
+00:34:08 She's cool. That was that was.
+00:34:09 I mean, and what has White Diamond come to terms with like the reason
+00:34:14 she did all those things was like probably because of the authority
+00:34:17 placed on her and how she felt she had to be perfect.
+00:34:20 So she developed these weird like authoritarian needs.
+00:34:23 And I'm sure at the time, you know, she had no perspective to know any better.
+00:34:29 Or like, yeah, right, right.
+00:34:30 But I like that they that they were able to devote at least like one little line
+00:34:36 in there to like giving her some remorse or like characterization
+00:34:39 beyond my critique of that line, though, was the delivery.
+00:34:43 Was it like, oh, Steven, I'm so like they didn't
+00:34:46 her like way over the top voice.
+00:34:48 That should have been a little more like down to earth.
+00:34:50 I don't know. It was like kind of it was like a rarity reading like a.
+00:34:53 Yeah, that's true.
+00:34:55 I don't see it as like any less sincere because she was being dramatic.
+00:34:58 Speaking of gems.
+00:34:59 Well, Rarity had three gems on her flank.
+00:35:03 Three diamonds. There you go.
+00:35:05 The Diamond Authority, it was Rarity all along.
+00:35:07 Rarity is white.
+00:35:08 What a spike, fucking eight pearl.
+00:35:10 What if you just fucking ate all of them?
+00:35:13 Spikes the most powerful.
+00:35:14 Dude, spikes their natural predator.
+00:35:16 Why didn't they introduce dragons as the natural predators of gems?
+00:35:18 So this is all a defensive war.
+00:35:20 And if only if only creepy Chad spike
+00:35:23 my little pony finale had been there, he would have saved the day much sooner.
+00:35:27 We need my little pony future to cross over.
+00:35:29 And then we can get all these plots.
+00:35:30 Oh, oh, oh, shit.
+00:35:32 Is that started yet?
+00:35:33 What is that show?
+00:35:34 I saw the trailer for it.
+00:35:35 Like a my little pony generation, something or other.
+00:35:39 I don't know what it is, but I saw the trailer.
+00:35:41 Pony life. Yeah.
+00:35:42 I don't think it started yet.
+00:35:45 What's the premise of it?
+00:35:46 It looks like there's no animation in the animals, but my little pony.
+00:35:49 Like my little pony, but animated slightly differently in cutes here.
+00:35:53 But there's no like information as to what it is.
+00:35:56 Yeah, it was very strange.
+00:35:57 I want to see everyone's videos.
+00:35:59 I want to see animated James make his big video about how this sucks.
+00:36:02 It's not living up to the potential of the original, even though it's better
+00:36:06 in every way as I'm waiting for the schism.
+00:36:08 I'm when Gen five drops, I'm so excited to have the the pony
+00:36:12 equivalence of the Picard Kirk arguments happening on Twitter.
+00:36:17 And I can watch from the sidelines and be like, I know I understand this.
+00:36:21 Have they if they like revealed Gen five stuff, is it going to be like
+00:36:25 the same continuity or it's a reboot, but they haven't announced anything about it yet.
+00:36:30 A reboot. It's just that's.
+00:36:31 Wait, OK, it's just it's just going to be a new generation.
+00:36:34 Just like all the other ones are had nothing to do with each other.
+00:36:36 So yeah, OK, OK.
+00:36:38 So so Twilight doesn't exist anymore.
+00:36:40 Like that kind of that's all gone.
+00:36:41 It's dead.
+00:36:43 So gone. That's a waste.
+00:36:44 Why not just have why not just fucking have Twilight be the story's over, man?
+00:36:49 They have to be over.
+00:36:50 But you can do the next generation.
+00:36:53 You can do. Yeah.
+00:36:54 But you can do that with like you can do like a next generation with like new
+00:36:58 characters and still have, you know, Twilight.
+00:37:01 Yeah, OK. Now, from what I heard,
+00:37:03 I think they were saying they're going to they're going to shift
+00:37:05 the the the Twilight to like an Earthpony again or something.
+00:37:08 I don't know if that's true or not, but OK.
+00:37:11 I mean, they fucking changed.
+00:37:12 They changed lots.
+00:37:13 Well, whatever, like Rainbow Dash's Firefly was.
+00:37:16 So I can't wait for all the Internet drama and all the YouTube videos.
+00:37:19 It's going to be a great time.
+00:37:21 I'm definitely curious to see what it looked like just on its face.
+00:37:24 You see, because like Lauren Faust was like
+00:37:28 she she had a vision for a show and she made, you know, a whole thing.
+00:37:32 But the other generations were mostly just, you know, entirely toy focused
+00:37:36 characters from one generation would appear in the other.
+00:37:39 So like Gen Five might have like some characters
+00:37:42 just have different personalities and look exactly the same
+00:37:45 with the same color design and everything.
+00:37:48 Like Rainbow Dash, you're, you know, you're you, but you're completely different.
+00:37:54 Yeah, I'll be fine.
+00:37:57 I'm looking forward to it.
+00:37:58 Oh, Jesse, Jesse, I wanted to right now.
+00:38:01 I won't tell anybody because it's not out yet.
+00:38:03 If whatever, you don't want to know anything.
+00:38:05 Have you heard anything, Jesse, about the gigantic leaks
+00:38:09 of what's going on with the FF7 remake?
+00:38:12 Because I have some insider information.
+00:38:15 OK, I like I don't want.
+00:38:16 I won't tell you if you don't want to know.
+00:38:17 I do not want to be spoiled for anything.
+00:38:20 OK, OK, understood.
+00:38:21 I didn't want to know it.
+00:38:22 No, I didn't want to know the world.
+00:38:24 Like I saw something and like I don't know
+00:38:27 if I should believe it or not.
+00:38:28 Like I don't know if it was.
+00:38:29 Yeah, I know, right?
+00:38:30 I don't know if it was a for real spoiler or just like a joke.
+00:38:32 And I'm afraid to ask if the person was joking or not.
+00:38:35 But like, yeah, like.
+00:38:39 Like it, it, it like broke me.
+00:38:41 Like it hurt my heart because like.
+00:38:44 If it's true, then this is something that could have surprised me
+00:38:48 that is now destroyed for me.
+00:38:49 Like it could have been something like because I'm like I'm not trying to hate the remake.
+00:38:54 Like I don't I understand.
+00:38:56 Like I like I want to if there's anything in it
+00:38:59 that can catch me by surprise and make me go, wow, that's really interesting
+00:39:03 and cool that they did that.
+00:39:05 Then I want to be able to experience that.
+00:39:07 And the fact that I like even maybe saw a spoiler
+00:39:11 is like taking that away from me.
+00:39:12 It's ripping away something that I deserve.
+00:39:14 God damn it. I understand.
+00:39:16 Yeah, yeah.
+00:39:17 So OK, well, I add a quick time event where if you mash X, you can save
+00:39:21 Eris, that's the thing because like I'm like, I'm not even because honestly,
+00:39:26 like if they did something like really drastic to really surprise me,
+00:39:31 even if it like, you know, shat all over the old game
+00:39:34 and was completely retarded and new and stupid.
+00:39:37 At this point, I would be like, hey, cool.
+00:39:40 I fucking like as far as I'm concerned, if they're going to change anything,
+00:39:45 they might as well change everything.
+00:39:46 They might as well go completely off the rails and totally be blowing my mind
+00:39:50 at every turn so that, you know, rather than having to compare
+00:39:53 to something that I know is objectively better, the old game,
+00:39:57 I can I can go on this ride and be like, oh, everything's different
+00:40:00 and stupid and crazy now, and it's just a wacky.
+00:40:02 All right. You know, yeah, there's a logic to that.
+00:40:04 Yeah. But I don't know.
+00:40:07 Like now I hope like I hope what I saw isn't true because I if it is,
+00:40:13 you know, I just I don't want to feel like I got spoiled for something
+00:40:16 because like I remember when I played Final Fantasy 7 the first time,
+00:40:19 like 20 million thousand years ago, I was a little kid when it first came out.
+00:40:23 Back then, as a kid, I had a strategy guide and the strategy guide
+00:40:28 had like story spoilers in it for them.
+00:40:30 So like even as a kid, I got spoiled for the game.
+00:40:33 This game that is now, you know, that became my favorite game of all time.
+00:40:36 And I've waited all these years to now know that I had a chance
+00:40:41 to get surprised finally and got spoiled again.
+00:40:45 It's like it's like a sick joke.
+00:40:47 It's like it's even harder now to avoid.
+00:40:49 I got just mute Final Fantasy 7 and FF7 on Twitter.
+00:40:52 So none of those tweets show up.
+00:40:54 Yeah, that's true.
+00:40:56 Let me check. I'm just checking the release date real quick.
+00:40:58 It is coming out. Oh, my God.
+00:41:00 April 10th, five days.
+00:41:01 I thought they pushed it back.
+00:41:02 In fact, I think what you're hearing this is well.
+00:41:05 OK, I just googled it.
+00:41:06 Maybe they didn't.
+00:41:07 Is the reason that like the spoilers are out because like they gave
+00:41:10 some people the game early because I kind of it came out early in some regions.
+00:41:15 I saw a tweet of somebody in I think Europe somewhere that has their copy.
+00:41:19 It is the virus's fault that this happened, that these leaks are out there.
+00:41:23 It's not the virus's fault.
+00:41:24 If this happened, if this virus spoiled me for a video game
+00:41:28 that I'm looking forward to, even slightly, that's a bigger tragedy
+00:41:31 than anything else that's done to our nation.
+00:41:34 That's the worst part of society.
+00:41:36 That's the true tragedy.
+00:41:38 I, you know, I'm a bit more in the camp of new, bad, old, good
+00:41:42 just across the board.
+00:41:43 But beyond that, I won't say anything.
+00:41:48 But I've just I have seen what I've seen what appears to be like like footage.
+00:41:53 I watched a guy play a little bit on Twitch or something who seemed to have it.
+00:41:56 It was funny that that feed I was watching just gets cut off
+00:41:59 and is then like this channel no longer exists.
+00:42:01 I'm like, oh, there goes Square Enix bringing down the hammer
+00:42:03 on some of these troublemakers.
+00:42:06 My my my opinion on it is old, good, new, like new, bad, but spoilers works.
+00:42:14 Spoilers. I say spoilers even worse than new, bad.
+00:42:18 You know, because the thing is I've heard some spoilers that are troubling, I'll say.
+00:42:21 But like I there there is a possibility this could be something special.
+00:42:28 And I mean, as we've said before, you and I, it's like, you can't not be.
+00:42:33 I was just watching a guy fight something and I was like this.
+00:42:36 I can't ignore the fact that like seven year old me would be exactly
+00:42:41 creaming his fucking pants, looking at what I'm seeing before me right now.
+00:42:45 The logical, rational, like thinking part of your brain tells you
+00:42:49 they're going to ruin every part of this.
+00:42:50 They're going to shit all over it.
+00:42:52 It's going to be bad.
+00:42:53 Zoomers and zoomers are going to play it and they're going to think that they're going to think this is the real one.
+00:42:59 God, but there is.
+00:43:00 But there is still like underneath it all.
+00:43:02 There's like this small burning ember of nostalgia that you just can't get rid of.
+00:43:06 And you look at it and you go, oh, God, it looks kind of cool.
+00:43:08 If I get so excited for like a really cool piece of like Tifa fan art,
+00:43:12 how can you not get excited for this entire game that is essentially a fan art?
+00:43:17 If a fan art, yeah, yeah.
+00:43:19 Speaking of new bad, I'll tell you, I've been playing the Resident Evil 3 remake.
+00:43:25 I've heard bad things.
+00:43:27 New bad, I don't know.
+00:43:28 New very bad.
+00:43:29 I thought it was being viewed pretty well.
+00:43:31 Is that just like the mainstream journal opinion and like real people think it sucks?
+00:43:35 So I did that.
+00:43:36 I did a video when Resident Evil 2
+00:43:39 remake came out called Resident Evil 2 is great.
+00:43:42 But I hated sort of tongue in cheek.
+00:43:44 I had some criticisms and some complaints.
+00:43:47 But I think square or not square Capcom.
+00:43:50 Capcom must have seen my video and said, we'll show this guy how good he has it now.
+00:43:56 He wants to complain about a Resident Evil game.
+00:43:58 We'll give him something to cry about.
+00:44:00 And they sure did.
+00:44:02 First of all, I think I was out.
+00:44:03 Um, I think I'm at the end of the game.
+00:44:06 It's been like a half an hour of gameplay.
+00:44:08 First of all, yeah, yeah.
+00:44:11 Just like there's so much from the original game that is just gone.
+00:44:16 Like it feels like half the game you go.
+00:44:19 You're in the city streets for like the first hour or two.
+00:44:22 And then you're in a hospital and then you're in an underground lab,
+00:44:26 just like the underground lab in Resident Evil 2 that they already did.
+00:44:29 And it's like, what happened to like the clock tower section in the park section?
+00:44:32 What happened to all the branching paths?
+00:44:34 No branching paths.
+00:44:35 They they made the zombies like, huh, they made the zombies weaker
+00:44:40 to like they're not bullet sponges anymore.
+00:44:43 Yeah, they were too strong.
+00:44:44 The last one was the complaint.
+00:44:45 Right. But like it would have been like the resiliency of the zombies wasn't the issue.
+00:44:50 For me, the issue was that the headshots felt like they didn't work half the time, you know?
+00:44:55 Yeah.
+00:44:55 So like if they had just kept them that level of resilient and let me put them
+00:44:59 down with one headshot, I'd have been like they fixed it.
+00:45:01 Instead, like the headshots still don't work and they're weaker.
+00:45:05 So now that it's just like the zombies are made out of paper,
+00:45:07 all the gore effects are gone, like the arms don't fall off when you shoot them.
+00:45:11 The legs don't fall off the fuck.
+00:45:12 They just kind of just quality design.
+00:45:14 All all the zombies have a stock falling down and dying animation.
+00:45:18 And it's the same for every zombie you shoot in the whole game.
+00:45:21 No, no one falls apart. Nothing.
+00:45:24 There's this weird like mashing X minigame.
+00:45:27 You have to press every time a zombie grabs you, which it feels like it does nothing.
+00:45:31 It doesn't like activate a counter.
+00:45:33 You don't have any like counter weapons like the knife that you had in the first
+00:45:35 two remakes. It's just there's there's no way to get out of a zombie grab.
+00:45:39 You're just pressing X seemingly for no reason.
+00:45:42 And also, you know, it still has the problem of every time a zombie grabs you,
+00:45:46 the camera swings around to be cinematic.
+00:45:48 And then it comes back and you're disoriented and you run into another enemy,
+00:45:51 which is even worse when the nemesis is chasing you through the whole level.
+00:45:54 And the nemesis, they just bungled all their bangles with the nemesis.
+00:45:58 Let me tell you, brother, this guy used to be the the head
+00:46:02 honcho, big cheese chairman of the fucking board of resident evil.
+00:46:06 You know, before they before they retconned, you know, Albert
+00:46:09 Wesker and being like the series antagonist when he was still technically dead,
+00:46:13 you know, nemesis was like the big bad of the trilogy.
+00:46:17 He was a culmination of like every, you know, the ultimate evolution of these
+00:46:21 monsters you've been fighting. He was intelligent. He hated you.
+00:46:24 He was a bully. He ran at you.
+00:46:25 And he just punched you. He was mean.
+00:46:27 He had guns. He had fingers to use guns.
+00:46:30 And he chased you. And like the chase were dynamic and like real.
+00:46:34 And part of the gameplay, he'd you'd walk into an alley and you'd have to run
+00:46:37 and he'd chase you into other rooms.
+00:46:39 All the nemesis encounters here are like QTE,
+00:46:44 like like story driven, you know, like on rails, scripted scenes.
+00:46:49 Instead of just the dynamic him chasing you like Mr. X was, they, you know,
+00:46:54 I think there's like one section of the whole game.
+00:46:57 There's like one five minute section where he's actually stalking around the city.
+00:47:02 But it only lasts for that one section.
+00:47:04 It's like five minutes.
+00:47:05 And the rest of the times you see him,
+00:47:07 it's all scripted sequences of him coming out and just you run from him
+00:47:11 in this like cinematic story segment that seems like it feels like you can't
+00:47:15 actually die game bad movie. Good. I love movies.
+00:47:18 I love Avengers. Please give me more.
+00:47:20 Jesse, do you know if this game was made by a different like like not studio,
+00:47:25 but like different team over at Capcom, because it seems bizarre
+00:47:28 that this game came out so quickly after Resident Evil 2 and so much is different.
+00:47:32 I was thinking the same thing.
+00:47:33 It is bizarrely because it seems like it would be more work to build
+00:47:36 everything again, seemingly from the ground up than just port over all the features
+00:47:40 like the limb damage and stuff from two.
+00:47:44 Yeah, I think it was I think it was definitely rushed because and I think someone,
+00:47:50 the YouTuber Sphere Hunter brought this up in her review where
+00:47:55 it's possible that because there are more zombies on the screen in this game,
+00:47:59 like there are bigger hordes, they had to like take away some of the features
+00:48:04 of the zombies to make them fit more. Well, great.
+00:48:06 Maybe. Yeah, not worth it at all, especially when, you know,
+00:48:10 you have these, yes, much bigger hordes of zombies,
+00:48:12 but they're all go down like paper mache.
+00:48:15 So what's what's the difference?
+00:48:17 Fucking, I don't know, old, good, new, bad, old, good, new, bad.
+00:48:22 Hey, listen to this, though.
+00:48:23 I happen to hear one piece of, I don't know, like developer commentary,
+00:48:27 the art director here in the in the gross, disgusting audio links chat.
+00:48:31 I just posted two images of Jill.
+00:48:32 All right, I this was straight from the fucking horse's mouth.
+00:48:36 Now, all right, before you call me a fucking goober gate or everybody,
+00:48:40 it's it's always been theorized that like a lot of these people
+00:48:44 are making their women like less sexy on purpose
+00:48:48 so as to not like upset interest groups of various types.
+00:48:52 OK, the art director has straight up come out and said the director
+00:48:56 for the remake that they had to change her design to be too practical.
+00:49:00 And they thought it was a mistake in the original game to make her so sexy.
+00:49:05 It was a mistake.
+00:49:07 And he's like, oh, my God, like the developers at this point,
+00:49:10 even though she was wearing like casual clothing, all they did.
+00:49:13 And also look at her clothes, look at her clothes.
+00:49:15 Is that too sexy?
+00:49:17 I'm sorry, you can see a tiny bit of the top of her breasts.
+00:49:20 Yeah, all they did is they just changed a tube top to a tank top.
+00:49:26 And but and also but but she had a sweater around her waist, at least,
+00:49:29 so that she actually had more clothes in the original technically speaking.
+00:49:33 You know, she was at least in the original.
+00:49:35 She went out with the intention of wearing a sweater.
+00:49:37 And this one is even more sexy because she didn't even think about
+00:49:40 wearing a sweater in the first place.
+00:49:42 Just put on just that means just fucking they're just saying these.
+00:49:45 I mean, you that should not be a consideration when you're fucking
+00:49:48 designing and I don't know what it's like.
+00:49:49 I felt like her hair looks like way worse in this version.
+00:49:53 And like, I think it's way worse than I think it's technically
+00:49:57 the same hairstyle as the original, but just the uncanny valley
+00:50:01 of the of the new graphics make it look like a Karen cut.
+00:50:04 All of a sudden, it's almost like art style is relevant.
+00:50:08 I'm just looking at this first screenshot.
+00:50:10 I think just the fact that they're no, no.
+00:50:13 Realism, good fucking non-photorealism.
+00:50:17 I mean, Tom, I fuck you.
+00:50:19 Oh, you're right.
+00:50:20 I love photorealism.
+00:50:21 You piece of shit.
+00:50:21 I know you do.
+00:50:22 Across the board.
+00:50:23 Yeah.
+00:50:24 Well, just look at this screenshot.
+00:50:25 Like the hairstyles are similar, but the fact that there's not those
+00:50:28 like stray cartoony kind of strands of hair covering the forehead on two sides
+00:50:32 totally changes the silhouette and it really emphasizes a big forehead
+00:50:36 on the redesign model.
+00:50:38 She old good new bad pretty much sums it.
+00:50:41 I and you know what, they're doing it again.
+00:50:43 They're doing this thing.
+00:50:44 The number one thing I hate.
+00:50:45 And I understand why they're doing the thing of designing their
+00:50:48 characters after real life models.
+00:50:50 I am so opposed to that practice.
+00:50:53 I think it's such a mistake to do that.
+00:50:55 It's like whatever.
+00:50:57 That was like my biggest complaint about the visuals.
+00:50:59 Yeah, I cry five and don't make cry four.
+00:51:01 Dante was like this big buff like comic book superhero guy.
+00:51:06 It was cool.
+00:51:06 And then in five, he's just like normal proportion and it looks like he like
+00:51:09 lost like 50 pounds of muscle from the last final point on the gubergator side.
+00:51:15 Yes.
+00:51:15 Okay.
+00:51:15 People are going to, they did give her a DLC outfit for its DLC pay extra for
+00:51:19 the original version, but it's not even the same.
+00:51:21 She doesn't have a skirt.
+00:51:22 She has a scort.
+00:51:23 You can't see your pussy and that's a fucking rip off.
+00:51:25 So fuck you.
+00:51:28 I don't know whether I'm being like, like insane or anything.
+00:51:32 I don't see anything particularly wrong with the new one on the, on the right.
+00:51:37 Well, wrong is a relative term.
+00:51:39 Like, yeah, there's nothing wrong with it.
+00:51:41 The dine is just fine.
+00:51:43 I mean, it does come from a bit of old, good new, okay.
+00:51:46 It's, it's, it's about the spirit of what is a remake.
+00:51:49 And when, whenever I see a remake, perhaps I'm more, you know, more attached to the
+00:51:53 past than others.
+00:51:54 Why would they make a real legitimate rational reason?
+00:51:57 Why, why like to change the design?
+00:52:00 Like it's not a big deal that they changed it, but it's kind of a big deal that
+00:52:04 they don't have a good reason for it.
+00:52:05 It's the reason and the art director straight up, and this is a rare instance,
+00:52:09 he came out and said it directly.
+00:52:11 She was too sexy.
+00:52:13 That's bad.
+00:52:14 We had to fix that mistake.
+00:52:16 Sure.
+00:52:17 It's, it's not like you can disagree with his opinion with that.
+00:52:22 I just personally like would like, I don't know.
+00:52:28 I, I feel like if he thought that it's too sexy, we need to change it.
+00:52:34 And he does that.
+00:52:35 And the game is the, you know, the game is the thing that matters more.
+00:52:39 Like this is an image you're never really going to be looking at this character
+00:52:42 in this exact way, usually going to be seen from them, from the behind.
+00:52:46 And you're going to be looking at the zombies that are coming at you.
+00:52:49 So like, all you're saying, what I'm saying is that your point is you don't
+00:52:53 care about these details.
+00:52:55 Others might.
+00:52:56 And I mean, I'm not really getting to like a larger point of like sexy
+00:53:00 characters are good and I do like them.
+00:53:02 And I personally, if I were to design a game would not shy away from having a
+00:53:07 sexy character.
+00:53:08 I hope all I hope is that there's more people like me in the world like that,
+00:53:13 who are not like terrified or making sexy characters with remakes.
+00:53:17 It feels like, like it's always like a big brand.
+00:53:22 They're making a remake to make money.
+00:53:24 Nobody has any artistic, like not, not really, no real artistic integrity is
+00:53:29 going into remakes because they're coming from a, you know, a point from the
+00:53:34 top down, big guy says, we have an IP, need to make money, use IP to get people
+00:53:40 to buy thing because they're stupid and they will buy the same thing over and
+00:53:43 over again, sell same thing.
+00:53:46 So for them, the entire thing is all about PR, appeases many people as possible
+00:53:52 and have it be just okay and put it out.
+00:53:56 And indie games don't need to worry about like things like that or like newer
+00:54:01 games because they're the design characters for the first time.
+00:54:05 So like, while this is bad and I agree with you, I generally just don't think
+00:54:10 it's a big deal because remakes are bad, just in general, and fuck them.
+00:54:15 Okay, but I mean, why are they bad?
+00:54:17 Well, okay, that's a complicated question, but I'm a, you're arguing the pragmatism.
+00:54:22 I'm arguing the like ideological concerns person.
+00:54:25 I'm not arguing for them.
+00:54:26 It's just sort of like, this is the reason I don't really see too much of an issue
+00:54:30 because it's just, it's a remake already.
+00:54:33 It's what, look, I'm not even a, I'm a kumar, but I'm not a big kumar.
+00:54:37 And so like, yeah, I enjoy attractive female forms.
+00:54:41 I am a big kumar, I'm just putting that out there.
+00:54:43 Fair it out, fair it out.
+00:54:44 It's, when it's so clearly stated in black and white, like the exact reasoning
+00:54:49 that like these people are fundamentally opposed to, like, because they think they'll
+00:54:53 have issues, to me, it stinks of cowardice or an ideology that I just disagree with.
+00:54:59 Either they're trying to appease people and it does come back to like, they're
+00:55:03 changing thing, I mean, Jill's outfit is iconic.
+00:55:05 I never played Resident Evil, but everyone knows this fucking outfit because it was
+00:55:08 great and everyone loves it.
+00:55:10 But it's the beret too, all that stuff.
+00:55:13 But they're, you know, I mean, it gets to larger issues of like, should we sanitize
+00:55:18 culture, like is sexuality bad and needs to be scrubbed?
+00:55:22 I mean, you know, that's the real issue it touches.
+00:55:25 I would strongly argue, no, like I don't want like hardcore pornography
+00:55:29 available 24 seven all the time.
+00:55:31 I mean, available is one thing, but like visible and in your face.
+00:55:34 But tasteful, you know, sexuality is not only appropriate, I think at a certain
+00:55:40 point, healthy for people to be exposed to.
+00:55:42 So I don't know, that's kind of what it gets to for me on the larger front.
+00:55:46 And maybe you agree with that, but you're just arguing with pragmatism.
+00:55:48 That's also what I'm arguing is that you'll never really get this from a
+00:55:52 remake because of the way remakes are monetarily focused.
+00:55:56 You know, like if you want to change the world of video games, remakes have
+00:56:01 to stop being bought by people and new games have to be embraced more.
+00:56:05 But, you know, it's not as easy as the biggest anti-remaker because the games
+00:56:08 have to be good and, you know, all that sort of stuff.
+00:56:12 I hate remakes, but good ones do exist.
+00:56:14 I just discourage it because they generally come out bad.
+00:56:16 For example, Pokemon Heart Gold, possibly the greatest remake of all time.
+00:56:21 That game is, I mean, it's great.
+00:56:23 And in basically no way does it make the original like worse.
+00:56:29 Well, OK, it kind of replaces it, which is one of the reasons I don't
+00:56:31 really like remakes, but it didn't really like sully the history.
+00:56:35 I mean, they did change the design of the main character, which looks way gayer
+00:56:38 now, which is too bad.
+00:56:39 But other than that, it's it's basically inoffensive.
+00:56:43 Everybody loves the Resident Evil One remake, which I never played, but they
+00:56:46 tell me is like even better and just as good and honors the original.
+00:56:50 All that good stuff that OK, that's all good.
+00:56:53 That's all good.
+00:56:54 So I don't know.
+00:56:54 It's just about how you do it.
+00:56:56 I forgot to mention about the Resident Evil 3 remake.
+00:56:59 Yeah, the reason why I think the game is clearly so rushed and has so much
+00:57:04 missing from it is that when you buy the game and you download it, it comes
+00:57:11 in two separate downloads.
+00:57:13 There's the game, Resident Evil 3.
+00:57:15 And then there's an entirely separate game that is just like some lame,
+00:57:19 online multiplayer raid mode left for dead bullshit.
+00:57:24 Of course, like no one would ever play.
+00:57:26 There's no reason anyone would care about this ever.
+00:57:29 Nobody asked for this.
+00:57:30 It's like four players are guys going around fighting, you know, hordes
+00:57:36 in a room to try and get out of the room.
+00:57:38 And one player is like a controller person, like putting zombies down,
+00:57:42 like a SimCity guy.
+00:57:43 And it's like, who asked for this?
+00:57:46 What is the point?
+00:57:46 And you know, it's not even in the game, which originated in Resident Evil 3.
+00:57:51 The mercenaries mode is not even in there.
+00:57:54 So they took out a bonus mode that was part of the game originally and
+00:57:59 created a whole new bonus mode that is lame and sucks and nobody would ever
+00:58:03 care about and also the game bad and also old good.
+00:58:08 You know, we got to call this episode old, good, new, bad.
+00:58:11 That really sums it up.
+00:58:13 I'm just in a real slight tizzy about it.
+00:58:18 Oh, I remember back in the day when they were making the first season of
+00:58:22 Steven Universe, I was there when Garnet was a fusion for the first time.
+00:58:26 That old was good, but this new was bad.
+00:58:29 I just don't just not doing it for me.
+00:58:31 God, they're going to remake Steven Universe someday and the nemesis is going to suck.
+00:58:42 Hey, you know, I don't know if you guys are aware of this meme.
+00:58:45 Michelle, despite being a true four-channer at heart, spends a lot of
+00:58:49 time on Tumblr looking at girly, shitty Tumblr memes.
+00:58:53 But there is one excellent Tumblr meme that's Steven Universe related
+00:58:57 that I think you guys will appreciate and all of you listening.
+00:59:00 I'm sure many of you are not Tumblrites as well, but I've been exposed to the
+00:59:03 culture and I brought back this wonderful cultural artifact.
+00:59:06 And now that Steven Universe is over, it's appropriate to let you all know.
+00:59:09 It's that there's this there's this meme of when something happens in Steven
+00:59:15 Universe that is shocking, unexpected, possibly even good.
+00:59:19 You just screamed to the heavens.
+00:59:20 You say, I'm bald, Rebecca, I'm bald.
+00:59:24 And you snatch off your wig as a grand.
+00:59:27 I think this is like related to what's like drag queen culture or something.
+00:59:31 Because it's about like actually being bald and wearing wigs and how
+00:59:34 Rebecca has snatched your wig in surprise.
+00:59:38 OK, so there you go.
+00:59:39 There's your cultural artifact from the gay community, everybody.
+00:59:41 I'm very confused. Brought to you by Michelle.
+00:59:44 Yeah, I can't follow that at all.
+00:59:46 That sounds like pretty Michelle.
+00:59:47 There's layers to that.
+00:59:49 It's it's interesting, clearly missing crucial context.
+00:59:52 I'm bald, Rebecca.
+00:59:54 Thank you for making me bald.
+00:59:55 I love that. Hey, all right, then.
+00:59:58 So how about that?
+00:59:59 What's up? PCP dating sim.
+01:00:03 Oh, yeah.
+01:00:03 The other thing I wanted to talk about, of course.
+01:00:06 Well, first of all, let's just give full credit to the whole crew.
+01:00:09 It is out, guys. Have you played it yet?
+01:00:11 It's out. It's actually really good.
+01:00:13 I've been all over it.
+01:00:14 All of them. I did Mages' whole story.
+01:00:19 I got killed by Slut Mage.
+01:00:21 Yeah, so that I reloaded by Save and I didn't get killed by Good Mage.
+01:00:26 But I got friendzoned by her, which is even worse.
+01:00:28 Yeah, that's worse than death.
+01:00:31 Are there like because that's the only thing that I've seen to the end.
+01:00:34 Are there like like sex scenes and like no.
+01:00:37 No, no, there's not that.
+01:00:39 There are two like most of them don't resolve in a kiss.
+01:00:42 I think two of them do only one of them is visual.
+01:00:45 The other one is implied.
+01:00:47 Well, because like not implied, just in text.
+01:00:50 Because when I did because when I did the mage route, you know,
+01:00:53 it didn't have one.
+01:00:55 So I thought, OK, thank goodness,
+01:00:57 they're not doing creepy, weird sex scenes of all of us.
+01:01:00 Yeah, but then I had the thought, wait a minute,
+01:01:02 what if they are doing it for all of us except mage because she is the girl?
+01:01:06 And that filled me with rage and hatred for even the possibility of it,
+01:01:10 of that double I could see that I could see thinking of that.
+01:01:13 And I think they made that they made the safe, fair decision
+01:01:16 to avoid doing so entirely.
+01:01:18 That's probably what I would have done.
+01:01:19 So I did that.
+01:01:20 And then I did my route and I didn't get to the end of it.
+01:01:23 I think I only got like half with you.
+01:01:24 And it was like, what do you think of it so far?
+01:01:28 My route was written by Chip Wiseman, who I is am I correct?
+01:01:32 And assuming that everyone's route is written by like totally different people.
+01:01:35 Yeah, the in the credits mostly.
+01:01:36 Yeah, that's my route is written by like four people.
+01:01:38 Yeah, yeah, like it wasn't as horrific and terrible
+01:01:44 and awful and bad and stupid as I thought it would be.
+01:01:47 Like there were parts in order to make friends with Jesse,
+01:01:50 you have to be a bully and a bad person.
+01:01:53 Jesse loves that shit. Yeah.
+01:01:55 You. Yeah, I felt like your route was a little heavy on the references
+01:01:59 and the like wacky person stuff like it's very like it's very clearly
+01:02:04 like someone emulating my writing as my speech, which obviously
+01:02:10 I don't necessarily speak like my writing in real life.
+01:02:15 You didn't you didn't have a rant about poopy buttholes one time, not even one time.
+01:02:22 It like like it wasn't as horrible as I thought it would be.
+01:02:25 There were parts that like I thought were cleverly written
+01:02:28 or that made me chuckle the whole part with Colt Corona.
+01:02:32 I don't know if he's in it more than just this one part,
+01:02:34 but there was one part where like Colt Corona is like just saying dumb shit.
+01:02:38 And I'm like, that was that's funny.
+01:02:40 Like I'm very happy to see Colt Corona immortalized in a video game.
+01:02:44 I'm more, you know, in one of the other routes, I just saw a week
+01:02:47 like something was happening and just a shadow darts past.
+01:02:50 I was like, what the fuck was that? Yeah, I think it was Colt Corona.
+01:02:53 There is a Colt Corona scene that I got to you.
+01:02:55 That was very funny and hilariously written.
+01:02:57 And it's like, like I am as trepidatious and horrified
+01:03:02 as I am to see myself portrayed by like the fan interpretations of me.
+01:03:06 You know, I am a human being like interpreted, you know,
+01:03:09 interpreted as like this weird cartoon character that people see me as
+01:03:12 as horrifying as that is to see Colt Corona, my greatest creation,
+01:03:17 my son, my brother, my best friend, the chosen one, my partner in crime
+01:03:21 in the darkest of times to see him immortalized in a video game was pretty cool.
+01:03:25 So that was my favorite part so far.
+01:03:28 Yeah, it's OK.
+01:03:30 I've seen a good amount and I'm prepared to say that this project is good.
+01:03:33 It is. It's definitely like the detail in the backgrounds
+01:03:37 and all the little references everywhere. It's so cool, man.
+01:03:40 Yeah, just like, I mean, I can't help but play it with like this
+01:03:43 constant critical eye of rage of like, I would never fucking say that.
+01:03:47 Why do you think this of me? What is wrong with you?
+01:03:49 I hate you. You make me regret ever being a public figure in the first place.
+01:03:52 I want to die. Yeah.
+01:03:54 But aside from that, it's pretty. It's pretty deep.
+01:03:56 So I guess. Yeah, yeah. I had a bit of a similar thing.
+01:04:00 I mean, I haven't played it yet.
+01:04:01 I'm probably going to play it tonight.
+01:04:02 I'm terrified for basically the same reason you're saying just
+01:04:05 of like how I interpreted. I felt like you guys give a disclaimer.
+01:04:10 There was no connection to real people intended.
+01:04:12 So I don't like all the dialogue is like funny and like I look at it
+01:04:15 and it's charming. I'm like, OK, that's good. I like this.
+01:04:18 And until like there's one like little jab in there that fucking ruins it.
+01:04:22 Like it's like, oh, and then Jesse said this word,
+01:04:25 but I don't think he knows what it means.
+01:04:27 I'm like, what are you talking about?
+01:04:28 Why would you say that of me?
+01:04:31 Like, did I did I use that word wrong once and like five years ago
+01:04:34 and just someone never forgot it? Like, stop.
+01:04:37 You know, I feel probably I feel a little weird.
+01:04:40 I mean, because I know the guy, well, OK, I won't won't go into that too much.
+01:04:44 But just like when I'm playing my route, like first of all,
+01:04:46 just the visual depiction of Nate is like such an exaggeration.
+01:04:50 Like, I wish I looked like, you know, like Professor Bessman.
+01:04:55 Professor Bessman, like my fear is what I get a lot of the time
+01:04:59 because like a lot of my fans, they do a thing where they like think
+01:05:02 that I'm actually way cooler than I actually am.
+01:05:05 And like my biggest fear was that like this is going to be
+01:05:08 I'm just going to feel bad about myself because this depiction of me
+01:05:11 is like so much better.
+01:05:12 But the Nate route actually it kind of deals with exactly that issue
+01:05:16 of how like Nate projects and like looks really competent.
+01:05:19 But actually, he's got a lot of like
+01:05:21 I always feel like the fans, which is true, like I feel like the
+01:05:24 like fans of mine think I'm cool for all the wrong reasons
+01:05:28 that I don't want people to think are the reasons I'm cool.
+01:05:31 Sure. Sure.
+01:05:32 It's just like, like, I don't know.
+01:05:34 Like they have me in the like, it seems like everything my character says
+01:05:37 is like really smart and really clever and charming and funny.
+01:05:41 But then every once in a while, like I'm also eating garbage and shit
+01:05:44 and like rolling around and like there's like the.
+01:05:47 There's like there's like the the last part I got to before I had to stop.
+01:05:53 I didn't finish it, not for any like I didn't like rage quit or anything.
+01:05:56 I just got, you know, busy, but like the tears just got a little too blurry
+01:06:00 to keep playing. Yeah, yeah, I'm like I'm having some like debate
+01:06:05 about Evangelion and like a bar with someone and like yelling at him
+01:06:08 and like yelling about how he's an idiot.
+01:06:10 I don't think I hate seeing like my anger be misinterpreted.
+01:06:18 Like this, like there's like a line like, oh,
+01:06:21 I don't see why he's getting so worked up over such a little thing.
+01:06:25 Like when I lose my temper, it's not because I'm like angry.
+01:06:29 It's because I'm fucking anxious because I'm usually surrounded
+01:06:33 by like five guys interrupting me the whole time and can't make my point.
+01:06:37 That's what causes me to like raise my voice.
+01:06:39 I would I don't think I would just be sitting at a bar yelling at someone
+01:06:42 about Evangelion like one person. Yeah, that's I don't give a shit, though.
+01:06:47 It's definitely finish your root because there's a bad ending with Donatello
+01:06:51 and it's really. Oh, no, of course, that would be the bad ending.
+01:06:55 Why would it be the good ending? Of course.
+01:06:59 I was going to say, Tom, I felt like the person who wrote yours
+01:07:02 captured your like, I don't know, talking pattern pretty well.
+01:07:07 They obviously know a lot about your stuff.
+01:07:09 Really? That's good.
+01:07:11 I wonder who wrote it. All right.
+01:07:12 That's that's intriguing and creepy, but I'm more intriguing.
+01:07:17 I'll probably check it out.
+01:07:18 I thought that for whatever, like, I don't know, there's like a Nate
+01:07:21 and then there's like a teaching assistant.
+01:07:23 OK, I won't spoil for you like your role, but like the Tom role was like
+01:07:27 among the most depressing, like initial setups of like it was so like
+01:07:33 juxtaposed to the rest of the characters.
+01:07:35 It was truly saddening, at least it just like real at first.
+01:07:40 And then like in the Nate rat, which I'm playing through, obviously,
+01:07:43 like there like you're like a subservient little worm to like tune Nate
+01:07:48 and like there's like just for one example, like I get the idea here,
+01:07:53 but there's like a big book.
+01:07:54 You're carrying like a volume of the Urban Dictionary, like Encyclopedia or whatever.
+01:07:57 You're like struggling to carry it with two hands.
+01:08:00 You hand it to Nate who like effortlessly like dangles it with like one finger.
+01:08:04 It's like, oh, God, this is too much.
+01:08:07 This is rude is what it is.
+01:08:08 It's just plain rude.
+01:08:10 True.
+01:08:11 They just know that I can't go to the gym anymore.
+01:08:13 My muscles are just deteriorating.
+01:08:15 Canonically, I think this is before you ever got hurt, though, or maybe not.
+01:08:18 OK, maybe I don't know.
+01:08:19 Maybe that's true.
+01:08:21 If there isn't a Q&A from Tom at the gym, I will be deeply disappointed
+01:08:25 because there is a gym.
+01:08:26 There's one thing in my route, which I'm a little bummed.
+01:08:31 I mentioned this when I streamed it, but there's a go.
+01:08:34 There's a thing with my route, which like doesn't come up again.
+01:08:37 And it's really interesting and I wish it had where like a new transfer student
+01:08:43 comes in and it's she's called Gwulfbin, which is an abbreviation for girl who
+01:08:49 looks like Riska, but is not.
+01:08:51 And she's like, oh, she has the hots for Gibbon, the character.
+01:08:58 And since this is a dating sim, you're trying to get me like there's like, oh,
+01:09:03 no, you've got to deal with Riska.
+01:09:05 And then also it was implied that Endless War was like also after me.
+01:09:09 And it was going to be like a whole like love square sort of like battle.
+01:09:13 But then it sort of it was dropped and they never came back up again.
+01:09:16 I was like, no, that was that was too bad.
+01:09:20 The coolest thing I've ever seen.
+01:09:21 But God, you know, what if they remade the PCP dating sim and made it worse?
+01:09:28 You know, I'm just someday we'll have to say, God,
+01:09:32 old, good, new bed, you know, no, it can't be true.
+01:09:36 They make it in 3D.
+01:09:37 Has they face scanned all of us for all the graphics, but they removed the
+01:09:41 DeVoo and Majora. It can't be true that the old was good.
+01:09:45 Oh, no.
+01:09:47 But I don't want to shit on it too much because like, no, I'm not like shitting
+01:09:51 on it. It's clearly had a lot of love put into it.
+01:09:54 The amount of work that went into it and the obvious love they have for
+01:09:59 like our stupid podcast and is like incredible.
+01:10:03 It's so hard work.
+01:10:04 It makes it feel like it's all been worth it to keep this thing going for so long.
+01:10:08 You know, there are a couple of monster episodes once in a while or a small price
+01:10:12 to pay for, for, you know, I don't know.
+01:10:15 The this is why, like, I don't know.
+01:10:18 We talk about, like, you know, sometimes, like, do we need to make an episode,
+01:10:22 like every week, you know, like, should we change the format?
+01:10:25 All those are reasonable questions to think about.
+01:10:28 But like at the end of the day, I really think it's just valuable to just have
+01:10:31 the thing, at least in my life, maybe you guys agree, to have, like, a thing
+01:10:35 in my life that I know, like every Sunday, I come here and I record a podcast
+01:10:39 with my friends that I've known for a long time and I respect all of them.
+01:10:42 And whatever happens, happens.
+01:10:44 It gets put out there and hopefully people like it.
+01:10:47 And you know what?
+01:10:48 It's had pretty good results with something like this.
+01:10:50 Just warms me old heart a little bit, see, people like in that stuff.
+01:10:54 It's very humbling.
+01:10:55 And, you know, on a more specific note about the dating sim, I got to say,
+01:10:59 like Oblivionfall, Sixten, Canman, Eric, working on the soundtrack.
+01:11:04 There is some incredible work in the soundtrack.
+01:11:07 I mean, I want to listen to this whole thing because I see Canman in the
+01:11:12 credits of the, of the, I'm looking at the dating sim, OST.
+01:11:15 I've got it downloaded, Carcalicious Plus Plus Plus by Canman, apparently.
+01:11:20 Oh, I think it's the one song by him, but there it is.
+01:11:23 For example, I don't know if you guys have listened to the full main menu song.
+01:11:26 Oh, yeah.
+01:11:27 It is a nine minute anthem.
+01:11:29 You can't turn it away.
+01:11:30 It starts off with like generic dating sim music.
+01:11:33 It event and Oblivionfall made this obviously.
+01:11:35 He's a fucking genius.
+01:11:36 It like skews into like a weird warped version of like through the fire and the
+01:11:40 flames, like halfway through and then like warps into like more weird shit as goes.
+01:11:45 And there's like a voice saying like, this is the menu.
+01:11:48 You cannot stay here.
+01:11:49 It will break if you keep listening.
+01:11:52 Oh, incredible, incredible.
+01:11:54 And the only other one, like there's a bunch of awesome stuff.
+01:11:57 But the one song I wanted to mention is there's just a song called, and I'm sure
+01:12:00 there's many examples of this, but there's so much heart, class of simple and clean.
+01:12:05 I was, yeah, I was in, you know, like Nate's lecture and the thing.
+01:12:07 And you just hear like generic classroom music and then just like mixed into the
+01:12:11 melody in the back.
+01:12:12 You just hear like, punk, punk, punk, punk, punk, punk, punk, punk, punk, punk, punk, punk.
+01:12:19 They have mixed in like so many of like the, that was simple and clean from
+01:12:22 fucking Kingdom Hearts one.
+01:12:23 So many memes songs have been mixed into this soundtrack.
+01:12:27 It makes me like so fucking happy to hear that shit.
+01:12:32 It's like all the memes and all the stuff that I've cared about in my fucking
+01:12:35 worthless ass life is being immortalized in this dating sim in ways that people
+01:12:40 might actually give a shit about and think are cool.
+01:12:43 They have a scene.
+01:12:44 It's so cool.
+01:12:45 Seen if you go on my route, where I play like chicken and a basketball for you in
+01:12:50 my room.
+01:12:51 Yeah.
+01:12:53 Do they play the actual song from like your, oh, fuck yeah.
+01:12:56 That's why I'm in the credits and I'm in the stuff because technically I said, yes,
+01:13:00 you can use my music.
+01:13:02 Oh, so they asked you when you gave permission to do so.
+01:13:06 Cool, cool.
+01:13:08 That's so cool.
+01:13:09 Michelle has loved that there's a song called Michelle's Theme.
+01:13:12 She's, she's pretty into that.
+01:13:13 We all have little character themes in there.
+01:13:15 This is, you know, only Michelle that I see, actually, literally only
+01:13:19 Michelle was worthy of a character has an actual theme.
+01:13:23 But like that class of symbol and clean is like a melody that's like Nate
+01:13:28 related. And I'm sure that there are, oh, I would hundred percent heard a Jesse
+01:13:32 song that, yeah, butt sugar was mixed into one of these songs at some point.
+01:13:36 I forget what song that is, but it's so good.
+01:13:39 Yeah, I do like the lore of the game.
+01:13:43 The fact that like Nate and Ben canonically share the same philosophy
+01:13:47 class and each time one teaches, they redecorate the entire room with like
+01:13:51 their shitty memorabilia.
+01:13:53 So cool, so fucking cool.
+01:13:55 Okay, I'm sorry.
+01:13:56 Just gushing a little bit.
+01:13:58 Yeah.
+01:13:59 Yeah.
+01:14:01 Yeah, yeah.
+01:14:02 I'm, I'm very glad it exists.
+01:14:03 And I think I already said this, but like I asked them, like, can I, can I use
+01:14:07 this fucking? It is just generally good music.
+01:14:09 He said, yeah, I'm wondering if.
+01:14:12 Yeah, I mean, since these people, this collective of people, however many
+01:14:18 there are in this group, now that they've, you know, proven themselves to be
+01:14:22 capable of something, like I'm wondering if like I could say to one of them at
+01:14:26 some point, hey, I've got an idea for your fucking game.
+01:14:29 Maybe you can get the gang back together and fucking do my idea.
+01:14:32 The idea occurred to me as well to, to utilize this.
+01:14:36 I mean, I want to, frankly, I would love to hear the tale from Eric himself.
+01:14:40 Oh, sorry.
+01:14:40 Well, Eric was like second.
+01:14:41 It was Chip Weissman who like led the project.
+01:14:44 I'd love to hear just the full tale of how he put it all together.
+01:14:49 That'll be, that'll be in the heckles for Shekels stream.
+01:14:52 The may have already come out by the time you're listening to this.
+01:14:56 But we're planning to do like a thing where we get the developers in.
+01:15:01 Right.
+01:15:01 Great points, great points, because I want to hear the tale and because, you
+01:15:05 know, among other things, I this like the game is obviously four free available
+01:15:09 now, you can download it.
+01:15:09 There's a patch, by the way, excuse me, make sure you get the patch version.
+01:15:12 The OST is also free to anyone who wants it.
+01:15:15 Like obviously all these guys worked for free.
+01:15:18 At least I would assume so over this time, just out of love of the craft.
+01:15:21 But like as it should be, as it should be.
+01:15:24 I just want to hear how Chip, like he probably started small, probably got a
+01:15:28 couple of people on board.
+01:15:29 I saw he used Godot to make this.
+01:15:31 I remember when I was making my game, indeed killed this, this game engine
+01:15:35 killed three Palestinian children when they were, oh my God, and fucking 9-11.
+01:15:40 9-11 exists in this game as a living embodiment of footage of the 9-11 terror
+01:15:44 attacks.
+01:15:44 It's so awesome that that happened.
+01:15:48 I love that American lives were lost.
+01:15:51 No, I apologize, everyone.
+01:15:55 Whenever I forget what I was saying.
+01:15:56 Anyway, so I was just saying that when I was working on my game back in the day
+01:16:01 for like the game jam, me and my buddy Rich did, we were thinking of using
+01:16:04 Godot or something, but we settle on good old RPG maker.
+01:16:08 So basically I'm as good as these guys at making video games is the point.
+01:16:12 Fair, fair enough.
+01:16:14 I definitely have video game projects of my own that I will need
+01:16:19 certain people to do things for.
+01:16:21 So I will be that that's a little bit far in the future.
+01:16:25 But yeah, I know I can call upon some of these people and they'll be like, hell,
+01:16:28 yeah, let's work, let's work and make a fucking cool product.
+01:16:31 Hell, yeah, it is.
+01:16:32 It is really handy to have all these connections.
+01:16:34 Let's cancel this whole endeavor and all just make video games.
+01:16:40 We can be like fucking we can keep the podcast going.
+01:16:44 But specifically, it will be exactly like Yandere Dev.
+01:16:48 We'll make a weekly podcast, specifically discussing the like
+01:16:51 10 lines of code that have changed every week on the project as we milk it for
+01:16:55 years and years and years, six level deep if tree rest in peace.
+01:17:02 Rest in peace.
+01:17:03 Everyone's CPU running that game.
+01:17:05 I'm ready to drink from the cum chalice and and seek oblivion.
+01:17:10 Oblivion fall that is.
+01:17:11 Hey, great work, buddy.
+01:17:12 All right.
+01:17:13 So I guess that's it about any other comments.
+01:17:15 You guys want to say about it?
+01:17:16 Well, here's the thing that's happening.
+01:17:19 Yeah, the the no crowd WrestleMania is going on right now.
+01:17:24 Oh, yeah, they're doing it over.
+01:17:26 How is it weird as the one we are watching it?
+01:17:29 Well, it's weirder because it's WrestleMania and it's like the biggest show.
+01:17:33 And it's just like dead silent the whole time.
+01:17:36 They should add ambient applause because it is so weird.
+01:17:38 Yeah, they didn't hear anyone.
+01:17:40 OK, so they should have like a PS1 like copy pasted like.
+01:17:44 Yeah, the other wrestling company that's on TV, AEW,
+01:17:51 it's like a newer organization.
+01:17:53 They are also doing empty arena shows, but they had the idea of putting
+01:17:58 at least some other wrestlers like around the ring to simulate crowd noise
+01:18:02 and like react and just that small difference of having two or four people
+01:18:05 outside the ring reacting to stuff makes all the difference in the world
+01:18:09 and makes it feel like a wrestling show again.
+01:18:11 And like it feels like the WWE didn't want to admit
+01:18:15 that the other company had a good idea.
+01:18:17 So they stubbornly don't do it and they have like no one around the ring.
+01:18:22 There's everything is like dead silent and like really weird.
+01:18:25 And like the match is like they're doing the stuff.
+01:18:28 They're trying, but it's so are the rest of us wearing gloves.
+01:18:33 Gloves. Do they have to social distance?
+01:18:36 Oh, all right, right. Push them like force push.
+01:18:39 No, but there is there is a clip from an indie match on Twitter
+01:18:44 of I think Joey Janelle fighting someone in a social distancing match
+01:18:48 where they are doing that.
+01:18:49 They're like throwing like Hadouken punches and like not.
+01:18:53 So incredible. Yeah.
+01:18:56 But they didn't do even though like the majority of the matches,
+01:18:59 you know, they definitely suffer some from not having the crowd.
+01:19:03 And some of the big like moments like tonight, it's going to be the edge match
+01:19:07 like his first match returning after like nine years out with a
+01:19:10 debilitating neck injury.
+01:19:12 You know, it's a big deal that he's returning.
+01:19:14 And unfortunately, he has to make this great return to an empty arena.
+01:19:18 So that's sad. Yeah.
+01:19:19 But that's rough.
+01:19:20 They did something.
+01:19:22 The last match of the night last night was so cool.
+01:19:26 It was the Undertaker versus AJ Styles in a boneyard match.
+01:19:30 And this is the one part where like the social distancing quarantine thing
+01:19:35 was ended up being like a blessing in disguise because
+01:19:39 for the last couple of years, like Undertaker is he's much he's a much
+01:19:42 older man than he was. And he's yeah, it's it's been kind of uncomfortable.
+01:19:47 Some of his recent matches were like he's fighting Goldberg
+01:19:50 and he's getting dropped on his head and like he can't stand at the end of it.
+01:19:53 And it's just like, oh, maybe he should hang it up.
+01:19:55 I don't like watching this hero, you know, be so like crippled and old.
+01:19:59 This is bad. But they're they they're fucking the storyline
+01:20:04 that they're doing leading up to this is sort of lampshading that
+01:20:07 where AJ Styles has been like goading the Undertaker by going like, hey,
+01:20:11 you've lost it.
+01:20:12 You keep trying to come back into the spotlight and you're an old man.
+01:20:15 You've lost your mystique.
+01:20:16 You're posting on Instagram.
+01:20:17 You've got a wife now.
+01:20:18 You know, you do whatever your wife your your balls are in your wife's purse.
+01:20:21 You know, you're not that.
+01:20:23 Yeah, you're not like a badass undead wizard anymore.
+01:20:26 You're just a guy named Mark and Undertaker is like, how dare you call me, Mark?
+01:20:30 I'm going to kick your fucking ass.
+01:20:33 My my legal name is the Undertaker.
+01:20:39 Oh, so they're that's awesome.
+01:20:41 So they're having a Boneyard match.
+01:20:43 They didn't explain what a Boneyard match is prior to that.
+01:20:46 I was wondering. No.
+01:20:48 I think I think they probably would have called it a graveyard match,
+01:20:52 but they didn't want to say graveyard like during the pandemic or something.
+01:20:57 So Boneyard is better.
+01:20:58 It wasn't even an actual Boneyard.
+01:21:00 Like I was picturing like the elephant graveyard from the Lion King
+01:21:03 where like in the video game where you platform on top of the like elephant skull.
+01:21:07 It wasn't the undertaker will win platform.
+01:21:10 It was just like it was just like a shed and like a shed and a yard
+01:21:13 with a whole dug for a grave.
+01:21:15 But they had they got this match was like so they they basically
+01:21:20 just did the Matt Hardy broken stuff.
+01:21:22 I was just going to say, this sounds just like the Matt Hardy.
+01:21:24 Exactly. They yeah, they had like a camp.
+01:21:26 They filmed it like a little mini movie.
+01:21:29 And it was like the perfect way to accentuate
+01:21:33 everything that is still great about the Undertaker while hiding all of his age
+01:21:37 and like his the stuff he can't do anymore.
+01:21:40 It goes you can just present him in this movie like a bad ass final boss.
+01:21:45 And he comes out.
+01:21:47 So this is so here's the thing about the Undertaker.
+01:21:52 The Undertaker.
+01:21:53 I've already said this in a vlog that I recorded today,
+01:21:55 but I'm going to say it again here.
+01:21:57 The Undertaker has has always had two main skill trees at his disposal.
+01:22:03 He's had the undead wizard skill tree.
+01:22:07 And he's also had a mean Texas biker skill tree.
+01:22:13 Those are the two aspects, the yin and yang of the Undertaker.
+01:22:16 But he has never used these two skill trees in tandem.
+01:22:20 It's always been one or the other.
+01:22:22 He's an undead wizard, and then he's a biker,
+01:22:24 and then he's an undead wizard for a few more years.
+01:22:26 And then, you know, back and forth forever.
+01:22:28 This was the first time that he really pulled out all the stops
+01:22:32 and fought at 100 percent full power.
+01:22:34 You're utilizing both of his skill trees and one massive power set.
+01:22:38 He was he was an undead wizard, Texas biker taker.
+01:22:42 And the AJ Styles is at the as at the Boneyard.
+01:22:47 They're they're they're doing like a thing
+01:22:50 where it's like a so so they a hearse pulls up
+01:22:53 and they pull out like a casket out of the hearse.
+01:22:55 And you're thinking, oh, I bet the Undertaker is going to come out of this casket.
+01:22:58 But no, AJ Styles comes out of the casket.
+01:23:00 And he's like, see, I can come out of a casket, too.
+01:23:03 It ain't even that scary, Undertaker.
+01:23:05 You ain't you ain't bad.
+01:23:06 Anyone can come out of a casket.
+01:23:09 So then.
+01:23:11 Then all of a sudden you hear the the distant rumble
+01:23:14 of the of the fucking motorcycle.
+01:23:17 The Undertaker's hog.
+01:23:18 You hear it in the distance. Oh, fuck.
+01:23:19 Yeah. See, the Undertaker riding his motorcycle
+01:23:24 and all of a sudden Metallica is playing out of nowhere, out of the sky.
+01:23:28 And the Undertaker comes up in his motorcycle
+01:23:31 and he's like he's like a fusion of himself.
+01:23:34 He's like an undead wizard biker.
+01:23:36 He's like he's he's so he gets off his motorcycle.
+01:23:40 It's like it's like a chrono trigger when you finally like have mastered elements
+01:23:44 and you start doing dual texts using both elements at the same time.
+01:23:47 Fuck, yeah. Oh, God.
+01:23:49 And they're fucking fighting and they're beating each other up back and forth.
+01:23:53 And at first, AJ Styles is beating up the Undertaker
+01:23:57 and he beats them up really bad.
+01:23:58 And of course, he's got his friends, Gallows and Anderson to help him out.
+01:24:01 So they're they're all teaming up on him and they're beating him up.
+01:24:04 And so he's got the Undertaker like on the ropes.
+01:24:06 He's got him on the metaphorical ropes because they're not in a ring.
+01:24:08 They're in a bow yard.
+01:24:10 He's got the Undertaker is beating him up.
+01:24:12 He hits him with it with a with a with a tombstone, like not the tombstone,
+01:24:16 the move, he hits him with a literal tombstone.
+01:24:22 And so like the Undertaker is like dying.
+01:24:25 He's like, oh, God, you're hurting me really bad.
+01:24:27 I am pretty old.
+01:24:28 And AJ Styles like, yeah, old man, you're an old man.
+01:24:30 You've got a wife. Fuck you.
+01:24:32 Coming around here, having a wife and shit.
+01:24:34 What are you gay?
+01:24:36 What are you gay?
+01:24:37 Having a wife.
+01:24:39 So he's taunting him as he throws him into the open grave
+01:24:44 and he gets into like the bulldozer tractor thing to like pour dirt on the grave.
+01:24:49 And he's like, I'm going to get you, Taker.
+01:24:51 But then all of a sudden the Undertaker teleports behind AJ Styles.
+01:24:56 Oh, my God, I'm not in the grave.
+01:24:58 I'm behind you, motherfucker.
+01:24:59 And there's like there's like like John Carpenter lighting like the thing,
+01:25:03 like coming out shining from behind Undertaker.
+01:25:05 So he looks really cinematic and scary.
+01:25:07 And AJ Styles is like, oh, crap.
+01:25:09 I forgot you have magic powers.
+01:25:11 And the Undertaker kills AJ, he kills all of his friends.
+01:25:16 He they they climb up to the roof trying to escape him like a zombie movie.
+01:25:20 The roof of this shed.
+01:25:21 And he gets up there and the Undertaker is just like, I'm a biker and a wizard.
+01:25:25 And then he makes fire.
+01:25:27 This is a great fireball.
+01:25:28 He summons meteor and it's like a huge wall of flame.
+01:25:32 He rubs behind AJ Styles.
+01:25:34 And then he he he kills gals and Anderson.
+01:25:37 They're fucking dead.
+01:25:39 Then he beats the shit out of AJ Styles.
+01:25:42 And so then he's like, he's like, yeah, how are you like that?
+01:25:46 You're not even cool, boy.
+01:25:47 You talk about my wife.
+01:25:48 I'm the Undertaker.
+01:25:49 I'll kill you and shit.
+01:25:50 And like, I fucking hate my wife, dude.
+01:25:52 And like this whole match, they're they're like taunting each other
+01:25:57 and like trash talking each other and like giving these like cinematic
+01:26:00 villain monologues to each other.
+01:26:02 It's so like over the top and like like a grand insane spectacle.
+01:26:06 And eventually Undertaker, he he he gets AJ up to the side of the open grave.
+01:26:13 And he goes at this point, AJ Styles has been so thoroughly beaten
+01:26:17 that he's begging for his life.
+01:26:18 He's really turned.
+01:26:19 He's really changed his tune.
+01:26:21 You know, before he was like, I fuck you, Taker, you're old and you have a wife,
+01:26:24 like a loser.
+01:26:26 Now now he's like, oh, God, I'm sorry.
+01:26:29 Please don't bury me.
+01:26:30 Don't bury me, Undertaker.
+01:26:33 It's like, oh, it's OK, boy.
+01:26:35 You put up a hell of a fight.
+01:26:37 I ain't gonna bury you ain't nobody giving me a fight like that.
+01:26:41 He's like patting him on the head and stuff.
+01:26:43 I ain't gonna.
+01:26:44 And then he walks away.
+01:26:45 But he turns around and he boots him into the grave anyway.
+01:26:47 He's like, I can be a jerk too.
+01:26:51 So then Undertaker buries him.
+01:26:53 He buries him under all this.
+01:26:54 He buries him alive under all this dirt.
+01:26:56 And the last thing you see of AJ Styles is just a grave with like AJ's hand
+01:27:01 like out of the grave, like he's just dead.
+01:27:04 Like his hand is like, it's really cool.
+01:27:06 And then Undertaker is like, well, my work is done.
+01:27:10 And he puts his arm up to like celebrate his victory.
+01:27:13 And as he puts his arm up, the house lights on fire behind him
+01:27:18 and his his symbol lights up in a neon light on the house.
+01:27:22 I don't know if he manifested the light with his powers
+01:27:25 or if the light was already there and he turned it on with his powers.
+01:27:27 Either way, it's equally impressive.
+01:27:30 And also Metallica starts playing again on the sky.
+01:27:34 And then he gets back on his hog and rides off into the night.
+01:27:37 And it was the best thing ever.
+01:27:39 I hope they do a million more.
+01:27:40 Every Undertaker match should be like this from now on.
+01:27:43 It was exactly what I want to see.
+01:27:45 Thank you for saving wrestling with your tech.
+01:27:48 Literally, yes.
+01:27:48 Thank you for giving, for proving that this kind of thing can work
+01:27:53 because now the Undertaker can be cool again.
+01:27:55 And wrestling can be cool again in this dark time with no crowds.
+01:27:59 We can have cool Undertaker matches like this, where he's portrayed
+01:28:03 as he should be like an unstoppable badass and not like an old man wheezing in the ring.
+01:28:08 Thank God for that hearty.
+01:28:10 The only thing that would have made that better.
+01:28:11 This would be my director's cut version is as he turns away and says,
+01:28:14 you put up a hell of a fight, boy, I'm not going to bury you.
+01:28:17 My wife is flying out of nowhere and fucking he'll drop some of the fucking grave.
+01:28:25 That was awesome.
+01:28:25 So that was the first night of WrestleMania.
+01:28:27 And tonight's the second night.
+01:28:29 Boy, I can't wait because tonight they're doing the John Cena versus
+01:28:33 Bray Wyatt Firefly Fun House match, which I hope is another one of these.
+01:28:38 I really am hope.
+01:28:40 I got my fingers crossed in a real fun movie like this.
+01:28:43 Yes. Yeah.
+01:28:44 So Brent Wyatt's going to love that fun.
+01:28:46 He means he's he's he's that's very much his aesthetic to kooky scary clown shit.
+01:28:51 Hell, yeah.
+01:28:52 Wrestling is cool.
+01:28:53 Yeah. Wrestling is like like the ultimate form of
+01:28:57 like when you're with your brother in the woods and you both have sticks
+01:29:00 and you're like, there's the swords now and we're going to kill each other.
+01:29:04 Yeah, yeah. Exactly.
+01:29:05 I saw the video you posted before the Vanguard one invades the Jericho compound
+01:29:09 and steals his shirt. Oh, God, I love it.
+01:29:12 I love it. I love all this goofy shit.
+01:29:14 I love it.
+01:29:16 Just I love the fucking Chris Jericho is like cutting a promo on Vanguard one
+01:29:20 as as if he is a person like Vanguard one, you son of a bitch.
+01:29:24 I offered you a spot in the inner circle and you declined me.
+01:29:27 Don't you dare decline me again.
+01:29:29 Like he's like, for some reason,
+01:29:31 he's like really invested in getting Vanguard one into his little clique.
+01:29:34 And he's proved an invaluable ally to the deletion.
+01:29:39 He's sitting in his hot tub and his palatial estate,
+01:29:42 like cutting a promo on everyone.
+01:29:43 Vanguard one shows up.
+01:29:44 Chris Jericho gets out of the hot tub.
+01:29:46 He's got his pants on and a belt.
+01:29:48 Yeah, he does.
+01:29:52 And it's just like he's having an argument with the drone.
+01:29:54 He like offers him a shirt and I guess Vanguard one says, fuck you again.
+01:29:58 So that's the second time now that Vanguard has declined his offer
+01:30:01 and zooms away like a fucking zoomer.
+01:30:05 And so Chris Jericho is in rage now because that little he goes,
+01:30:07 that little bastard stole my shirt.
+01:30:10 He released the home missing one shirt right now.
+01:30:14 Yeah. Yeah.
+01:30:14 He says, release the hounds like Monty Burns and a bunch of dogs,
+01:30:18 like little Chihuahuas and like Pomeranians come out of his house
+01:30:21 and start chasing after this flying drone that they can't possibly catch.
+01:30:27 They have to stand on top of each other.
+01:30:30 Yeah, dogs form a ladder of dogs.
+01:30:35 I hope this pays off in a match between Chris Jericho and Vanguard one
+01:30:39 and Vanguard one.
+01:30:40 Fuck he's feuding more with Vanguard one than he is with Matt Hardy.
+01:30:49 I hope so. I hope to see it.
+01:30:50 Maybe we'll get his own drone and they could do aerial combat.
+01:30:53 The Geradrone 5000.
+01:30:55 Oh, yeah, that's good. That's good.
+01:30:58 Hey, slight other note.
+01:31:00 Hey, I got my lecture out.
+01:31:02 People seem to like it.
+01:31:03 It was, in fact, one piece.
+01:31:05 Oh, now you know, what a shocker.
+01:31:08 You know, it delighted me to see that some people were in fact surprised
+01:31:12 to see it and you would see you would see things like, wow, in retrospect,
+01:31:16 this was obvious, but I didn't see it coming.
+01:31:19 And the other slightly concerning thing is I'm seeing people saying like,
+01:31:23 wait, I thought Radcon was over or there are more lectures.
+01:31:28 These people are not aware of what's going on with Radcon.
+01:31:31 And people never aware that videos have to be made before they can be released.
+01:31:35 Yes, they take time and energy to produce not everything that was done
+01:31:39 is immediately posted while the event is going on.
+01:31:42 When I saw when I post, I saw one comment that was like,
+01:31:45 whoa, aren't you guys social distancing?
+01:31:47 What do you do and all in one guy? Bro, bro, it's been it's been weeks.
+01:31:52 Yeah, people are silly.
+01:31:53 People are foolish.
+01:31:54 Anyway, the lecture was cool.
+01:31:56 And looking back on it, now that it's out, it's interesting to note
+01:32:00 because exactly how many kind of gigantic plot points I did miss,
+01:32:04 not even on purpose, but just in my haste to get through the whole story
+01:32:08 in a paltry five hours.
+01:32:11 And again, thank you guys for participating.
+01:32:13 It was a great time, but because of the social distancing thing,
+01:32:17 like when we went there, this did not seem like that immediately big of a deal.
+01:32:23 While we were there, it changed the way it changed while we were there.
+01:32:27 And we were kind of like I had to drive home like through it,
+01:32:29 like through this ruined apocalypse of a world.
+01:32:33 And also during this long drive home, I didn't have a debit card
+01:32:38 because also while I was there, I logged onto my bank and found out
+01:32:42 that someone had stolen my card information and made like a thousand
+01:32:47 dollars of charges that I had to like I had to go to dispute
+01:32:51 and I had to like get my card on hold.
+01:32:54 So I had like a hundred dollars in cash to drive all the way home with.
+01:32:58 And in the middle of this pandemic, like this actual end of the world
+01:33:03 and like I ended up like totally fucked like out of out of oil out of gas
+01:33:08 and like in like a random gas station in like Pennsylvania
+01:33:13 with with like one hotel next to it.
+01:33:16 And like I tried to go to the hotel and they were like, oh, you need a card.
+01:33:19 You can't pay for a room with cash.
+01:33:21 So like I was like totally fucked.
+01:33:22 There was like an ATM.
+01:33:24 But to use the ATM, I needed to get like the bank app
+01:33:26 so that I could use it without my card and the app didn't work.
+01:33:29 And the app sent me to a website.
+01:33:30 The website sent me back to an app.
+01:33:32 None of it worked. It was all.
+01:33:33 So I stood there for an hour, like gradually getting matter
+01:33:36 and like losing my mind in despair, like just stranded in the middle
+01:33:39 of Pennsylvania, in the middle of a pandemic with no money to my name at all.
+01:33:44 It was not good.
+01:33:46 So that's my story of my journey home.
+01:33:47 That's fucked. I assume you lived.
+01:33:49 Yes, I eventually I managed to make it somehow.
+01:33:52 I don't remember how exactly, but yeah.
+01:33:55 I actually. Well, shit.
+01:33:56 I had to. So I mean, did I was curious, did the whole countryside
+01:33:59 like was it different from looking?
+01:34:02 It was burning. Well.
+01:34:04 It wasn't that much of a difference other than like everyone was weird
+01:34:07 about taking my cash, which pissed me off.
+01:34:09 Yeah, yeah.
+01:34:11 Nobody wanted to touch like the the gas station clerks would like leave the cash
+01:34:15 the change on the counter and like get away from you like cowards.
+01:34:19 There was one like that's even going to do anything.
+01:34:21 There was one courageous young woman at a Dunkin Donuts drive-through
+01:34:25 who handed me my change and actually made the hand fingers contact.
+01:34:30 And I just thought you are a brave and pure heart.
+01:34:33 I love you.
+01:34:34 You're the only good person in this whole ruined world.
+01:34:38 I hope that you survive and no one else does because you had the courage
+01:34:42 to touch my hand.
+01:34:45 But the biggest actual difference I've experienced is that at drive-throughs,
+01:34:49 people are now wearing gloves.
+01:34:51 For me, that has been the biggest difference in my life.
+01:34:53 And it just makes me think like, wait a minute,
+01:34:56 shouldn't the fast food preparers always have been wearing gloves?
+01:34:59 Why did it take this to get my food handlers wearing gloves?
+01:35:03 Only the person working the drive-through wouldn't wear gloves
+01:35:05 because they're touching the outside of the bag, which I guess is fine.
+01:35:09 I don't know. I don't know. The fair point.
+01:35:11 The only difference I've noticed is that I look up in the sky
+01:35:17 and it's really quiet and there's no airplane trails and it's really nice.
+01:35:21 And you know what? I kind of like that.
+01:35:23 You know, there's still too many people out and about for my taste.
+01:35:28 I still when I'm out, I still feel crowded.
+01:35:31 Like there needs to be a worse pandemic.
+01:35:32 Like no pandemic is big enough for me.
+01:35:35 I won't be satisfied until everyone is gone and dead or hiding.
+01:35:39 Like I had to go to Walmart to get something.
+01:35:42 I don't even remember what, like supplies, like tea or some shit.
+01:35:45 But just like, you know, like early in the morning at like 8 a.m.
+01:35:49 and it was just packed with baby boomers with these carts full of shit,
+01:35:54 like toppling over the sides in my way.
+01:35:57 Every aisle I tried to go down, it's like,
+01:35:59 isn't I would assume that like the places should be empty.
+01:36:04 You'd think like end of the world, everyone is hiding.
+01:36:07 That means I'll have room finally to move around.
+01:36:10 But no, it's like more packed out there than ever
+01:36:13 because of these fucking boomers.
+01:36:15 Yeah, I was really with their chains,
+01:36:17 their chains of 10 carts tethered together by rope,
+01:36:20 taking up entire aisles of Walmart.
+01:36:24 Yeah, I was really pissed off like on the flight home
+01:36:26 because my flight was canceled and I had to rebook
+01:36:29 and they made it easy through the app.
+01:36:31 I was like, OK, there's another flight same day a little bit earlier.
+01:36:35 And I was thinking like, oh, like they're cancelling a lot of flights.
+01:36:40 Maybe this means that like people are cancelling their flights
+01:36:44 and like they're not going to fly anymore.
+01:36:45 They're not going to go on holiday today.
+01:36:47 But of course, what it actually meant was my flight that I was rebooked on
+01:36:51 was completely packed and there were multiple people sneezing
+01:36:55 and lots of people with hand gel and everyone was scared.
+01:36:58 And I was like, God, this is going to be like fucking six, seven hours.
+01:37:02 And I was in the window and I was stuck up against the window
+01:37:05 and I had to like these two, this couple next to me.
+01:37:08 Well, like every time anything was touched,
+01:37:10 they would get out the bottle of hand sanitizer
+01:37:13 and they would squeeze it all over their hands and it's like, God,
+01:37:16 they probably think I'm the worst because I'm not wearing gloves or a face mask
+01:37:20 and I'm not, I don't have that shit because I wasn't prepared.
+01:37:23 And I went to yesterday.
+01:37:26 I went to like the little convenience store nearby just to get some stuff.
+01:37:28 It was hilarious.
+01:37:29 So I live in the ghetto and it was full of of urban individuals
+01:37:33 just going about their day and it was fucking sick.
+01:37:37 But I'm walking in there with like gloves and face mask.
+01:37:40 And like the first thing happens is that the guy just like comes up to me
+01:37:42 as you know, as often happens here and the guy's like, Hey, man, you got some change
+01:37:45 and you're like reaches out to shake my hand and I I'm wearing a mask and gloves
+01:37:50 and I just recoil and I'm like, is this is what it feels like
+01:37:54 to be truly an upper class hero?
+01:37:57 I don't want to touch these lower class scum.
+01:37:59 This let's avoid contact.
+01:38:01 And I was thinking like, should I stand here and explain?
+01:38:04 No, no, no, you don't understand.
+01:38:05 It's just social distancing.
+01:38:07 I got out and I was like, fuck it.
+01:38:08 I just walked on.
+01:38:10 Was I a part of the problem that day?
+01:38:11 Did I look like a bad guy?
+01:38:13 Probably.
+01:38:13 Pardon me.
+01:38:14 I mean, you had the whole thing up like they could probably assume the signs
+01:38:19 were crystal clear.
+01:38:21 He reached out like for a handshake and I like he was like reaching out to me.
+01:38:25 I like jumped back and recoiled.
+01:38:27 Like I don't even I'm not even really that scared or even worried.
+01:38:29 It would have been less scary.
+01:38:30 I had the mode for a gun.
+01:38:33 And then it would have been embarrassing that I recoiled.
+01:38:37 He's actually like a really nice guy and I've seen him around before.
+01:38:40 He very politely asked, but just like the reach out just happened to be
+01:38:43 the exact thing I'm trying to avoid with all this shit on my face.
+01:38:47 So I had a very visceral reaction in the moment.
+01:38:50 You know, the homeless around me are very nice.
+01:38:52 I like them.
+01:38:53 They never bother me.
+01:38:54 They just ask for food or money.
+01:38:55 And I always say, no, and it's great.
+01:38:57 We all go about our day.
+01:38:58 I just I just hate the ones that ask for money and you give it to them
+01:39:01 and they ask for more money.
+01:39:03 Yeah, it's just like, yeah.
+01:39:05 That's why I just don't do it.
+01:39:06 I never give my to anybody.
+01:39:07 It ruins it for everyone because it makes me not trust anybody
+01:39:11 and not want to give any homeless person money.
+01:39:14 Although, you know, I was thinking really wasn't for the sickness.
+01:39:16 I bought like some snacks or whatever if it wasn't for the corona
+01:39:19 and I was just trying to get out of there.
+01:39:21 I probably would have given that guy like some of my snacks
+01:39:24 if I've been thinking clearly, but I was in the rush to
+01:39:26 oh, I had my like live stream or whatever.
+01:39:28 So I was I was rushing callous guy all absorbed in his daily business.
+01:39:32 Tough being a two bird.
+01:39:34 It's tough. It's tough.
+01:39:35 I got a schedule to keep.
+01:39:36 I got my titty stream is coming up in five minutes.
+01:39:38 I got a plump and thickened.
+01:39:40 You know, before I go live, the one good thing that happened
+01:39:43 on my on my drive home through the the fucking this plague world
+01:39:48 is that like I was going through like some random
+01:39:51 mountain town and like the like in like bumpfuck Pennsylvania somewhere.
+01:39:56 And like there was this I was hungry and I just happened to pass
+01:40:00 like in the middle of nowhere, this like country dining establishment.
+01:40:04 And I'm like food and I pulled in there and it's like this beautiful
+01:40:07 like serene looking log cabin establishment sitting on a hill
+01:40:12 overlooking this quiet little Twin Peaks mountain town.
+01:40:14 There's like woods in the distance and like fog rolling over the hills and stuff.
+01:40:19 And I'm like, oh my God, I've like stepped into the real America here for a second.
+01:40:22 And like I walked into this restaurant
+01:40:26 and like the dining was all the lights were off and it was, you know,
+01:40:28 no one could sit down and eat.
+01:40:30 But like walking into this like folksy little diner
+01:40:33 and like giving the girl my order and sitting down to wait for it.
+01:40:37 And like the the owner of the place was sitting there, who was like an older lady.
+01:40:42 She started like talking to me and asked me questions like, oh, where are you going?
+01:40:45 And I'm totally like, oh, I was down here for a work thing and I'm driving home
+01:40:47 and I'm stuck in this and that we were like bonded a little bit.
+01:40:50 And it was like I was talking to like Stephen King characters.
+01:40:53 Like I just walked into this folksy like little slice of Americana.
+01:40:56 And like I walked out like, oh, my goodness, this may maybe it's
+01:41:00 maybe it's a good thing that everyone's dying.
+01:41:02 Yes, it definitely is.
+01:41:03 And so I got in my car and I took out my little burger.
+01:41:07 And it was like the best burger I've ever had, too.
+01:41:09 It was like it was like a oddly good.
+01:41:11 Like I think I stepped into like the Twilight Zone or something.
+01:41:14 They just first like, yeah, but it was like it was like one of the
+01:41:16 like the uplifting Twilight Zones, not one of the scary ones.
+01:41:19 Right. Right.
+01:41:20 It's like death doesn't come like a thunderbolt.
+01:41:22 It comes like a whistle.
+01:41:23 Yes, it's like like the one where the guy dies and his dog is there
+01:41:27 and he goes and the guy says, welcome to heaven.
+01:41:30 Oh, we don't allow dogs.
+01:41:31 And he's like, well, then I don't want to go.
+01:41:32 And then he meets God and is like, oh, that wasn't heaven.
+01:41:34 That was hell. They were trying to trick you.
+01:41:35 And he's like, well, I knew because my dog didn't want to go in.
+01:41:37 Based, so fucking based.
+01:41:40 Yeah, that's what it was like.
+01:41:42 It was that episode with the dog.
+01:41:44 That was Muslim heaven where they don't allow dogs.
+01:41:46 They're they're no fans.
+01:41:47 They're no fans from what I hear.
+01:41:52 Hey, did you guys see punk has an only fans account now?
+01:41:57 Oh, God, I didn't want to think about it.
+01:41:59 But here it is thrust in front of my face.
+01:42:01 I've been trying to.
+01:42:02 That's my daughter.
+01:42:03 That's my niece.
+01:42:04 And now she's being a hoard out on the Internet.
+01:42:06 It was her idea like a common thought.
+01:42:09 I don't acknowledge her autonomy as a human being
+01:42:12 or a pumpkin being to make these decisions for herself.
+01:42:15 I mean, women, you know, you don't have a right that I actually got a few
+01:42:18 people's sub for a month, which is the most epic thing of all time.
+01:42:23 No, I am.
+01:42:24 I probably did it out of curiosity
+01:42:27 and also they would have given me money anyway, but it was very cool of them.
+01:42:32 I feel like I need to like make a follow up image.
+01:42:36 Yeah, at least one.
+01:42:37 Give the people got to do something for.
+01:42:41 Hey, man, I mean, maybe this will turn out to be the right decision all along.
+01:42:45 And this is the avenue we should all be going.
+01:42:47 It's it's, you know, make money is the most important.
+01:42:50 It's good enough for Idubs.
+01:42:50 It's good enough for me.
+01:42:52 Yeah, I mean, the whole Idubs thing is not important.
+01:42:56 The fact is people were talking about it and I capitalized on it like a capitalist hero.
+01:43:02 Smart.
+01:43:03 Yeah.
+01:43:05 Well, that's life.
+01:43:07 Hell, yeah.
+01:43:08 As the Joker would say,
+01:43:10 truly, this is a clown world we live in.
+01:43:15 Well, we got voicemails.
+01:43:16 You want to go to them?
+01:43:17 Yeah, I'm good.
+01:43:18 I said my piece.
+01:43:20 All right, that's all the talking that I knew how to do.
+01:43:25 OK, here we go.
+01:43:26 We've got voicemails.
+01:43:27 Speakpipalink is in the description.
+01:43:29 You can leave voicemails, blah, blah, blah, you know the drill.
+01:43:32 All right, let's see.
+01:43:32 We got our first one is OK.
+01:43:34 Hang on my fucking mouse.
+01:43:36 PC police are back.
+01:43:39 OK, it's one's kind of hard to hear, but do your best and listen.
+01:43:42 And we will have a journey.
+01:43:45 OK, here we go.
+01:43:46 We have won.
+01:43:48 You thought we had given up.
+01:43:49 You thought you had bested us, but you, you were wrong.
+01:43:54 We started with the lowly Asian PCP fans, the Chinese.
+01:43:58 And now our virus is said to have all the PCP fans worldwide.
+01:44:04 Oh, no.
+01:44:04 The only downside is the world leaders.
+01:44:07 Those big wigs and fat cats fumbled the name because we called it
+01:44:11 called coronavirus or whatever.
+01:44:14 Oh, 19 close enough.
+01:44:17 Now, PCP members crumble in fear as we the PC police.
+01:44:25 The PC.
+01:44:27 Wait, what's what's going on?
+01:44:29 What's going on?
+01:44:30 Sorry, sir, we were just attacked by a clustered character
+01:44:35 dressed in a pizza onesie.
+01:44:37 And we dropped a new, improved vial of the coronavirus.
+01:44:40 Our base is now infected.
+01:44:43 What's shatsky?
+01:44:45 Where is he?
+01:44:47 He's currently giving us demands.
+01:44:49 Demands.
+01:44:50 What are you talking about?
+01:44:52 He wants to steal your dad.
+01:44:55 No, no, anything from Papa Garland House.
+01:45:00 Joining us now, Brad Merlinghouse is the CEO of the cryptocurrency developer
+01:45:04 Ripple Ripples.
+01:45:06 What is that?
+01:45:08 Oh, no.
+01:45:10 Do not fuck with me.
+01:45:16 Oh, no.
+01:45:18 Dude, so the coronavirus was made to get us or rather the PCP fans.
+01:45:23 Correct.
+01:45:24 You know, that works because like we are the reason people are dying after all.
+01:45:28 Oh, you know, it's true.
+01:45:30 The idea of this virus being somehow linked to cold corona is like,
+01:45:35 because it's such an obvious joke, everyone's making it,
+01:45:38 but everyone's making slightly different versions of the joke.
+01:45:40 So the lore is like so convoluted.
+01:45:42 No one really knows for sure.
+01:45:44 Like if he's responsible for it or just a victim of it like everyone else,
+01:45:47 you can't say for certain, even I can't.
+01:45:50 Even he can.
+01:45:51 What an enigma.
+01:45:52 Especially he can't.
+01:45:55 Let's see what we got next.
+01:45:57 Okay, here we go.
+01:45:58 Three is not a creative number.
+01:46:01 Let's hear it.
+01:46:02 Oh, well, this is culture death.
+01:46:05 I mean, three people on the last episode.
+01:46:09 Seriously.
+01:46:10 Oh.
+01:46:11 Well, if no one else is saying it, then I guess I will.
+01:46:15 Every member not in this week's episode listening to this voicemail as it is being played right now.
+01:46:22 Okay.
+01:46:23 You will never let this down.
+01:46:25 Yeah.
+01:46:26 You are a member of the PCP.
+01:46:28 Fucking act like it.
+01:46:31 Damn.
+01:46:32 Harsh words.
+01:46:33 Don't these people also complain when there's like too many people on the show?
+01:46:38 Yeah.
+01:46:39 There's no way.
+01:46:40 That's less of a problem these days.
+01:46:42 There's different camps.
+01:46:45 You know, you can't please everybody.
+01:46:48 All right, fuck it.
+01:46:49 Let's just go straight on to the next one.
+01:46:51 Although fuck everyone who isn't on the PCP.
+01:46:53 It's a delight to be here with my friends.
+01:46:56 I savor the opportunity.
+01:46:58 All right.
+01:46:59 Special shout out to my boy Ben St.
+01:47:02 I love that guy.
+01:47:03 I'm just like the fuck that guy.
+01:47:04 The resignation of just like admitting like that's not much of a problem these days.
+01:47:09 Yeah.
+01:47:10 Yeah, it's true.
+01:47:12 All right, let's check out Nyan Kwan who is leaving us a message.
+01:47:16 Okay, sounds good.
+01:47:17 Take it away, Nyan.
+01:47:19 Hey, everypony.
+01:47:20 It's Pinkie Pie here.
+01:47:22 Just wanted to say hi to my favorite ponies around.
+01:47:25 Of course you crew.
+01:47:27 I'm so proud of how much you've grown and how for you progress in your careers.
+01:47:31 Everyone has achieved so much and I'm so happy.
+01:47:34 I just know that you're all going to do great things.
+01:47:36 Can't wait to see what's in store for the PCP.
+01:47:38 I love you guys.
+01:47:40 Roadies forever.
+01:47:42 That was a really good voice.
+01:47:45 That was really Pinkie Pie.
+01:47:47 That was too real.
+01:47:49 That was real Pinkie Pie in real life.
+01:47:52 I actually really like that.
+01:47:54 Well, I think what it was, there was a thing that was going around Pony Twitter for a while
+01:47:59 because I still follow people into the show.
+01:48:01 There was some AI thing where you can feed in voice information.
+01:48:05 That was really high quality.
+01:48:07 Whatever you wanted to say.
+01:48:09 I mean, some of the Twilight ones I've heard were pretty accurate.
+01:48:14 The Fluttershy ones they were doing have Fluttershy's soft pronunciation for things.
+01:48:20 So it was pretty good.
+01:48:22 That was so nice.
+01:48:23 I was waiting for the other shoot-a-drop and for it to be a mean look.
+01:48:26 Yeah, I was waiting for the other shoot-a-drop.
+01:48:28 Thank you Pinkie Pie.
+01:48:30 The shoot-a-drop is now that Pinkie Pie said such nice things.
+01:48:32 I have to take a hard look at myself.
+01:48:34 Am I worthy of such words?
+01:48:35 No, I don't deserve it.
+01:48:37 Yes we are.
+01:48:38 I feel bad.
+01:48:40 Well at least somebody appreciates all that we do for this world.
+01:48:43 Pinkie Pie.
+01:48:45 She would.
+01:48:46 She would.
+01:48:47 As long as I have Pinkie Pie's respect.
+01:48:49 As long as the main six always appreciate love and respect us,
+01:48:53 then there can be no nothing bad.
+01:48:56 We're on the straight and narrow.
+01:48:58 New bad main six good.
+01:49:01 Pinkie Pie good.
+01:49:03 That's hitting me a little harder than I expected it to.
+01:49:05 And I already listened to it as I was preparing them.
+01:49:08 It's making me a little emotional.
+01:49:10 The thing that Pinkie Pie would be proud of me.
+01:49:12 Oh Jesus Christ.
+01:49:14 Alright, let's move on.
+01:49:16 I could never truly pray all that gay away.
+01:49:19 I wish.
+01:49:20 I wish.
+01:49:21 Alright, let's check out-
+01:49:22 Which you can pay the gay away at Patreon.com.
+01:49:24 Patreon.com.
+01:49:26 D-Pro guys.
+01:49:28 What are we called now?
+01:49:30 No one knows.
+01:49:31 This is from-
+01:49:32 This is simply called Nate's Soundboard.
+01:49:34 Recommended audio.
+01:49:35 Turn your audio way up everyone.
+01:49:37 I'm not going to want to miss a second of this.
+01:49:39 Let's check it out.
+01:49:40 Go.
+01:49:41 Turn it down.
+01:49:42 Bruh.
+01:49:45 These nuts.
+01:49:46 Bazinga.
+01:49:49 Be gone.
+01:49:51 Good.
+01:49:52 Good.
+01:49:53 I'm gay.
+01:49:55 Yes.
+01:49:57 Oh, that's Robin Stinger from One Piece.
+01:49:59 That's a great one.
+01:50:00 That's a great one.
+01:50:07 It's the Nate nodding at every sound effect.
+01:50:09 Yep.
+01:50:10 Yeah, yeah.
+01:50:16 The other promise.
+01:50:17 Roxas theme.
+01:50:19 You make a good other.
+01:50:21 Too long.
+01:50:22 Bazinga.
+01:50:23 Yeah!
+01:50:24 That's a good one.
+01:50:26 I just wanted to let you guys can't hear it.
+01:50:28 You know, I since added Bazinga to my soundboard
+01:50:31 and I'm currently mashing it every half a fucking second.
+01:50:35 I'm mashing it so fucking fast.
+01:50:37 And a couple of farts with reverbs.
+01:50:39 Super crazy.
+01:50:40 None of this is going to come onto the podcast unfortunately.
+01:50:43 But I really loved that moment I was experiencing right now.
+01:50:46 It was great.
+01:50:47 You're like a baby with like a sound box.
+01:50:50 Like a little plastic sound.
+01:50:51 Like the cow goes moo.
+01:50:52 Yeah, cow goes moo.
+01:50:54 The Sheldon goes Bazinga.
+01:50:59 I was, you know what it's like?
+01:51:01 I was saying before it's like having a, being a transhumanist.
+01:51:03 I've attached these soundboards to me.
+01:51:06 I now have additional functions as a human being.
+01:51:08 But really it's more like augmented reality.
+01:51:10 Because I'm wearing the goggles as I'm listening to my computer.
+01:51:14 But none of you guys are.
+01:51:15 So like I'm seeing things that are not there.
+01:51:18 Kind of.
+01:51:19 Okay, anyway.
+01:51:20 My soundboard is sick.
+01:51:21 And I took that as a bunch of suggestions to put on the soundboard.
+01:51:24 And there's some good ones in there.
+01:51:25 Smoke weed every day.
+01:51:27 Not a bad idea.
+01:51:28 All right.
+01:51:29 All right.
+01:51:30 Next one.
+01:51:31 Here we go.
+01:51:32 This is from unga bunga lecture heads.
+01:51:34 Okay.
+01:51:35 And go.
+01:51:36 Hey, I have like a basic ask question for names.
+01:51:42 The one piece lecture.
+01:51:44 Really great.
+01:51:45 I fucking loved it.
+01:51:47 Nice.
+01:51:48 I just feel people are kind of getting the wrong message from it.
+01:51:52 And I just want to know whether you agree or not.
+01:51:55 I see a lot of people who are kind of like, oh, thanks for this.
+01:52:00 I'm just going to skip everything.
+01:52:03 Oh, I'm totally caught up on one piece now.
+01:52:05 Better start on chapter 900 and whatever we're on.
+01:52:09 76.
+01:52:10 I feel like that's like the wrong interpretation of the lecture.
+01:52:15 Right.
+01:52:16 Like your whole point was telling them to go read it.
+01:52:20 But then these people are just kind of thinking that they get to skip everything now.
+01:52:25 I don't know.
+01:52:26 Let me know.
+01:52:28 Well, I can't imagine starting something not at the beginning.
+01:52:32 So this whole concept is.
+01:52:34 Right.
+01:52:35 Of course.
+01:52:36 It would be, it would be insane.
+01:52:37 Kind of.
+01:52:38 I mean, because as, as Sean here says at the very beginning, like, um, like I clarify,
+01:52:44 read one piece and continually throughout it, I'm like, read one piece.
+01:52:47 I have to skip so many details.
+01:52:49 So if you just want your opinion, your thought confirmed, then yeah, certainly I agree.
+01:52:54 That's the correct way to do it.
+01:52:56 And, uh, I would net, like, even if, well, I mean, the lecture covers like the big plot
+01:53:03 elements of like Ponyglyphs and the Grand Line and like what is the King of Pirates
+01:53:08 and like the Willa Dee and shit.
+01:53:09 Like, not even in that much detail, but you're touching all of those.
+01:53:12 But like one piece is, I mean, maybe I should have emphasized this even more, but I did say
+01:53:17 it in there.
+01:53:18 It's about the journey, not the destination really.
+01:53:20 And Luffy made that very explicit at various points in the story.
+01:53:24 So yeah, just got to experience it.
+01:53:25 This, this sentiment, if it's being expressed in the comments is like the equivalent of
+01:53:29 saying, oh, I read a Wikipedia article.
+01:53:31 I don't have to watch a movie that the article was about.
+01:53:33 It's like, it's not even close to the same experience.
+01:53:36 It's like the equivalent of watching like my Gurren Lagann videos and saying, you're right,
+01:53:40 Nate, you can just turn your brain off and enjoy Gurren Lagann.
+01:53:43 That there is nothing beyond what was initially stated as in just the opposite of the intent.
+01:53:48 Do you think this is like people like wanting to be up and like, you know, understanding
+01:53:56 the relevant stuff without having to spend any of the time to get into all of this stuff?
+01:54:00 Absolutely.
+01:54:01 They don't want to commit cowards.
+01:54:03 It's paradoxical.
+01:54:04 People don't want to be left out of the conversation.
+01:54:06 But you won't get anything in the conversation if you don't actually care about the thing
+01:54:10 that's being discussed.
+01:54:11 Yeah.
+01:54:12 Yeah.
+01:54:13 You can't properly care about it unless you go along the actual journey.
+01:54:16 Also, where are they that they're just surrounded by one piece conversation that they have to
+01:54:21 cram for immediately right now?
+01:54:23 This is, I mean, the world has changed for me so much.
+01:54:27 And like, this is why like, given I made the potty cast when I was young, I was the like
+01:54:32 the only one I knew who gave a shit.
+01:54:34 I mean, I wasn't that internet savvy back then.
+01:54:36 So I was just sitting alone, like reading one piece, looking around and hoping for someone
+01:54:40 to care and no one did.
+01:54:42 And then like 15 years past, and now like we have a podcast that has like assembled
+01:54:47 dedicated viewers, people who follow week to week and like give a shit about it in a
+01:54:51 pretty thoughtful way and pretty detailed way anyway.
+01:54:54 And like now, now, and like, I don't know, not, you know, whatever, my feelings aside
+01:54:58 don't matter.
+01:54:59 But guys like Jeff are like doing like catch up things.
+01:55:02 And I wonder about the exact motivations.
+01:55:05 Maybe it's just because they want to be part of the conversation, or maybe it's because
+01:55:10 they feel left out, or maybe it's because they're out of material and one piece is getting
+01:55:14 pretty popular right now.
+01:55:15 I don't know.
+01:55:16 I mean, any of those are fine.
+01:55:18 I don't blame them as businessmen, but it's, I don't know, it's just, it's such a weird
+01:55:23 thing to see like that side of the story when for me, it's just been such like a personal
+01:55:29 thing for a long time, a long time, whatever, I don't begrudge him.
+01:55:33 It's just, it's interesting.
+01:55:34 And yes, I'm a better fan than you and always will be.
+01:55:37 I win.
+01:55:38 You lose.
+01:55:39 That's the end of the conversation.
+01:55:41 Fuck.
+01:55:42 Yeah.
+01:55:43 Old thing.
+01:55:44 Good.
+01:55:45 In that case, my fandom of the series, your new thing is your fandom bad.
+01:55:48 Yeah.
+01:55:49 You go into it now.
+01:55:50 Die.
+01:55:51 God, I love being a gatekeeper.
+01:55:53 It feels so good.
+01:55:54 All right.
+01:55:55 We got one final voicemail.
+01:55:57 This is from, let me see.
+01:55:59 Battery man.
+01:56:00 Yeah.
+01:56:01 Battery man.
+01:56:02 Okay.
+01:56:03 Take it away.
+01:56:04 Go.
+01:56:05 Remember when you could jack off the space jam and nobody thought you were a perfect?
+01:56:08 Yes.
+01:56:09 The only reason people don't want to have Judy Hobbs is because of worries have created
+01:56:13 a stigma.
+01:56:14 Oh my God.
+01:56:15 Thank God for saying this.
+01:56:16 Being attracted to cartoon animal people is completely natural human sexuality.
+01:56:19 It was quite normal before all this shit happened.
+01:56:24 Fuck furries.
+01:56:25 There you go.
+01:56:26 Fuck furries.
+01:56:27 I've been saying that exact thing for years now.
+01:56:31 I feel like this guy is like, I should sue this guy first.
+01:56:36 But I won't because I appreciate him also saying it.
+01:56:40 Yeah.
+01:56:41 Yeah.
+01:56:42 He's saying what we're all thinking, I think.
+01:56:44 Lola Bunny was so unequivocally hot and everyone wanted to have sex with her that it should
+01:56:49 not be any kind of weird thing to feel.
+01:56:51 There wasn't even entertained the thought that it might be a weird thing because these
+01:56:55 weird people did not exist yet to taint and pervert it.
+01:56:59 My father would stride around Walmart proudly wearing his shirt of Bugs Bunny spanking Lola's
+01:57:04 red and ass and it was not frowned upon, but now he wears it simply the time has passed
+01:57:09 and Zootopia is out and now he's getting looks.
+01:57:12 Don't do this to my father, furries.
+01:57:14 Let him live his life.
+01:57:16 Yeah.
+01:57:17 It's a travesty.
+01:57:18 It's one of those terrible things where people associate, people assume you're way in more
+01:57:26 in than you are.
+01:57:29 The whole brony thing.
+01:57:30 I like the ponies, they're cute and all that and because the label brony has been during
+01:57:37 that time, it was a big deal if you were coming out as a brony and everyone would hate you
+01:57:42 or love you and it was just like it needn't be like this.
+01:57:47 It's just a cartoon, it's cool.
+01:57:49 It's why we can't have nice things.
+01:57:51 Everything good and pure is inevitably co-opted by freaks.
+01:57:55 It's just that poisonous binary thinking that everything breaks down to online and it's
+01:58:00 just so reductive and it's disappointing.
+01:58:04 Yep.
+01:58:05 Yep.
+01:58:06 Oh shit, I was going to say something about that.
+01:58:07 Yeah, I want to fuck Lola Bunny is what you were going to say.
+01:58:11 We all want to fuck Lola Bunny.
+01:58:12 We're all in agreement, everyone in the world.
+01:58:14 Secretly, you don't say it out loud, you're all, we all know.
+01:58:17 She was specifically designed to make you want to fuck Lola Bunny, animated and drawn.
+01:58:23 That's when he got a boner on screen and I was like, same.
+01:58:26 Same.
+01:58:27 It is not weird to be attracted to what are obviously humanoid characteristics applied
+01:58:33 to characters who have some non-humanoid characteristics.
+01:58:38 That's why I'll proudly jack off to any quality porn of, I don't know, if it's furry who gives
+01:58:43 a shit, if it's fucking Judy Hopps who gives a shit, if it's fucking My Little Pony who
+01:58:47 gives a shit.
+01:58:48 If there's human-like qualities, yeah, fuck it man.
+01:58:51 I'm not a furry, never been, not interested, but if there are just human qualities that
+01:58:56 are sexy, I will achieve boner status and it will be awesome.
+01:59:01 If I see a tree outside that vaguely resembles the feminine form, I will assume it's flesh.
+01:59:10 That is consent, that tree has consented.
+01:59:13 You ever see the images of vegetables that have tits, a carrot that looks like a penis
+01:59:20 or something?
+01:59:21 Those funny things.
+01:59:22 Have you seen the image that's been posted around during this corona thing, during the
+01:59:27 whatever, being blocked inside of two lights on the ceiling and the way the shadows are
+01:59:32 being cast kind of look like tits and the guy's like, yo, the ceiling about to make me act
+01:59:36 up?
+01:59:37 And same.
+01:59:38 Same, brother.
+01:59:39 Have you guys ever heard that old joke about Tarzan fucking Jane?
+01:59:45 Don't know.
+01:59:47 No.
+01:59:49 Jane wants to fuck Tarzan and she says, you know, put it in here Tarzan, have you ever
+01:59:59 done this before?
+02:00:00 And Tarzan goes, no, me use hole in tree.
+02:00:05 And she goes, well, okay, this is a bit better than that.
+02:00:09 It's, you know, she shows him where to put it and then Tarzan kicks her in the crotch
+02:00:14 as hard as he can.
+02:00:16 And she goes, oh, oh my God, Tarzan, why did you do that?
+02:00:20 And he goes, checking for termites.
+02:00:23 I remember that.
+02:00:24 I remember that one.
+02:00:27 Oh, that is classic.
+02:00:30 That was a deleted scene in the Disney film.
+02:00:33 Indeed.
+02:00:34 God, Jane was so fucking hot in Tarzan.
+02:00:37 Jesus Christ.
+02:00:39 Everything good.
+02:00:40 You know, the voice actor played her, played the like the girlfriend in Goodwill Hunting
+02:00:44 that like British lady.
+02:00:45 I didn't know.
+02:00:46 I forgot her name.
+02:00:47 Mini, mini, is it mini driver?
+02:00:49 Whatever.
+02:00:50 I don't know.
+02:00:51 I love both those things.
+02:00:52 So I thought that was cool.
+02:00:53 Jane and Goodwill Hunting.
+02:00:54 Okay.
+02:00:55 Anyway.
+02:00:56 All right.
+02:00:57 That's the end of the voicemails.
+02:00:58 All done people.
+02:00:59 Speak pipe link down below.
+02:01:00 You know what the gist is.
+02:01:01 And that brings us to the end of the episode.
+02:01:03 That's it.
+02:01:04 PCP episode, whatever this is, 205, 206.
+02:01:07 205.
+02:01:08 205.
+02:01:09 There you go.
+02:01:10 It's done.
+02:01:11 It's done.
+02:01:12 It's done.
+02:01:13 It's done.
+02:01:14 It's done.
+02:01:15 It's done.
+02:01:16 It's done.
+02:01:17 It's done.
+02:01:18 It's done.
+02:01:19 It's done.
+02:01:20 It's done.
+02:01:21 It's done.
+02:01:22 It's done.
+02:01:23 It's done.
+02:01:24 It's done.
+02:01:25 It's done.
+02:01:26 It's done.
+02:01:27 It's done.
+02:01:28 It's done.
+02:01:29 It's done.
+02:01:30 It's done.
+02:01:31 It's done.
+02:01:32 It's done.
+02:01:33 It's done.
+02:01:34 It's done.
+02:01:35 It's done.
+02:01:36 It's done.
+02:01:37 It's done.
+02:01:38 It's done.
+02:01:39 It's done.
+02:01:40 It's done.
+02:01:41 It's done.
+02:01:42 It's done.
+02:01:43 It's done.
+02:01:44 It's done.
+02:01:45 It's done.
+02:01:46 It's done.
+02:01:47 It's done.
+02:01:48 It's done.
+02:01:49 It's done.
+02:01:50 It's done.
+02:01:51 It's done.
+02:01:52 It's done.
+02:01:53 It's done.
+02:01:54 It's done.
+02:01:55 It's done.
+02:01:56 It's done.
+02:01:57 It's done.
+02:01:58 It's done.
+02:01:59 It's done.
+02:02:00 It's done.
+02:02:01 It's done.
+02:02:02 It's done.
+02:02:03 It's done.
+02:02:04 It's done.
+02:02:05 It's done.
+02:02:06 It's done.
+02:02:07 It's done.
+02:02:08 It's done.
+02:02:09 It's done.
+02:02:10 It's done.
+02:02:11 It's done.
+02:02:12 It's done.
+02:02:13 It's done.
+02:02:14 It's done.
+02:02:15 It's done.
+02:02:16 It's done.
+02:02:17 It's done.
+02:02:18 It's done.
+02:02:19 It's done.
+02:02:20 It's done.
+02:02:21 It's done.
+02:02:22 It's done.
+02:02:23 It's done.
+02:02:24 It's done.
+02:02:25 It's done.
+02:02:26 Bye.
+02:02:27 Bye.
+02:02:28 Bye.
+02:02:29 Bye.
+02:02:30 Bye.
+02:02:31 Bye.
+02:02:32 Bye.
+02:02:33 Bye.
+02:02:34 Bye.
+02:02:35 Bye.
+02:02:36 Bye.
+02:02:37 Bye.
+02:02:38 Bye.
+02:02:39 Bye.
+02:02:40 Bye.
+02:02:41 Bye.
+02:02:42 Bye.
+02:02:43 Bye.
+02:02:44 Bye.
+02:02:45 Bye.
+02:02:46 Bye.
+02:02:47 Bye.
+02:02:48 Bye.
+02:02:49 Bye.
+02:02:50 Bye.
+02:02:51 Bye.
+02:02:52 Bye.
+02:02:53 Bye.
+02:02:54 Bye.

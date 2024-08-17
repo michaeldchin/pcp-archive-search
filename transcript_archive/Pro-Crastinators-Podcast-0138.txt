@@ -1,0 +1,3043 @@
+00:00:00 I'm sorry darling, I'm listening to the PCP right now, it's so addicting.
+00:00:23 Ho ho ho, Merry Christmas.
+00:00:27 Uh, soon, in like a couple days, hey, it's the PCP. We're here to, you know, say some
+00:00:33 things about the various events. Uh, I'm Hippocrit, and with us we have Digibro.
+00:00:40 Yo, yo, I'm a GameCube, trying to spread holiday cheer through some holiday fear.
+00:00:46 Not gonna question how that works. And we have Nate with us.
+00:00:53 Um, yeah. Best Nate ever.
+00:00:56 It's, uh, it's just one of those ones, you know, just one of those fucking ones.
+00:01:02 And least, we have Tom.
+00:01:06 I have nothing to say because I'm so small and insignificant, except play my fucking game
+00:01:11 that I made with my own blood, sweat, and tears, follow development, it's great.
+00:01:16 Uh, it's gonna be, it's gonna be a GameCube launch title for sure, confirmed, check it out.
+00:01:21 Dude, let's, let's talk about that just a little bit because, uh, recently I noticed
+00:01:27 that four of the PCP, myself, Davoo, Tom, and, uh, well, Ben and Munchy together have
+00:01:34 like technically made video games this year, uh, and I made a Twitter poll and it was cool.
+00:01:40 It was just like, yeah, Game of the Year, but for us, we're all game devs now.
+00:01:45 We do cool stuff.
+00:01:47 So who won the poll?
+00:01:48 I think it was Endless War.
+00:01:50 Endless War did win the poll.
+00:01:52 I gotta admit, I voted, I voted for Autonomous.
+00:01:56 Autonomous was really nice.
+00:01:58 Autonomous was fucking sick and was a game I would actually love to play.
+00:02:01 Whereas Endless War is mean and they bully me and it's hard, so I, so I gotta say,
+00:02:06 I haven't, I haven't found time to play Autonomous yet, but I did watch a little bit
+00:02:10 of Ben's stream of it and I couldn't keep watching it because when I read the text,
+00:02:15 I could hear Davoo's voice saying every single line in my head
+00:02:20 and the way Ben was reading it was not satisfactory enough of a representation of that for me.
+00:02:26 So I was like, I can't listen to Ben read this.
+00:02:28 I have to go read this myself.
+00:02:29 Fair enough.
+00:02:30 Davoo needs to do a let's read of his own game.
+00:02:33 I don't even need it.
+00:02:35 I can literally hear him saying it.
+00:02:37 Like every line is something he would say in a way he would say it.
+00:02:41 So it's, it's somebody who lived with them for a while.
+00:02:44 It's like trippy to play this fucking game.
+00:02:46 So I guess go play it if you want to like have the experience of Davoo's voice in your mind.
+00:02:51 Great.
+00:02:52 It's a great, it's a super fun game and it's just, it's so chill and like relaxing kind of
+00:02:58 because there's not a lot that goes on it.
+00:02:59 It's just like walking around an environment and examining things,
+00:03:02 but like it's such, it's such a very common interaction in games given center stage
+00:03:07 and it's like really refreshing and it's got good sense of humor
+00:03:10 and the art style is nice and clean and it's great.
+00:03:13 I love it.
+00:03:14 And it's a common interaction in games given center stage.
+00:03:18 Is that like the descriptor?
+00:03:20 That's just what he said and I thought it was really nice.
+00:03:23 Shit.
+00:03:24 So Davoo's, Davoo's off doing bug fixes, which has been keeping him busy for a while now,
+00:03:29 but God damn it.
+00:03:30 I like, this is funny.
+00:03:32 Like I want Davoo to, to take a pause from doing things that actually matter,
+00:03:36 making a real game, to come on this worthless meme podcast,
+00:03:40 to talk with me so I can get a piece of the glory that he's produced
+00:03:44 by telling him how much I fucking loved that game
+00:03:46 and so I can hear his sick developer commentary.
+00:03:49 That game was awesome.
+00:03:50 Yeah.
+00:03:51 We gotta suck his dick hard.
+00:03:52 I can't say, I don't think it's going to be easy to get a hold of such a busy game designer.
+00:03:58 A pro.
+00:03:59 He, he was, he did, I, he's editing my video and I didn't hear from him for about 13 days
+00:04:05 into the month.
+00:04:06 This is what happens.
+00:04:07 This is what happens.
+00:04:08 Oh, I'm working on the video, by the way.
+00:04:09 We're all procrastinators right now, but Davoo has finally hit level 16 and has evolved
+00:04:14 into a professional.
+00:04:15 There it is.
+00:04:16 He doesn't have time for this anymore.
+00:04:17 Yeah.
+00:04:18 I was going to say that.
+00:04:19 Is that when we become next to the professionals?
+00:04:21 Yeah.
+00:04:22 That's when the podcast ends.
+00:04:23 When we're finally doing real shit, we'll be the professionals.
+00:04:28 Then we get to make up our own definition of what a professional is.
+00:04:31 Yeah.
+00:04:32 That's, yeah.
+00:04:33 That's true.
+00:04:34 Shit.
+00:04:35 Speaking of something about game developer reminded me, you guys hear about fucking today,
+00:04:39 the super best friends deleted.
+00:04:42 It's gone.
+00:04:43 They are ending their show.
+00:04:45 They made a video saying, yeah, this is the finale of super best friends and the three
+00:04:50 people.
+00:04:51 Because they're not friends anymore.
+00:04:52 At least one of them.
+00:04:53 At least.
+00:04:54 The woolly guy and Matt Pat and Pat Matt said, you know what?
+00:05:00 I'm done.
+00:05:01 And they were all like in different rooms.
+00:05:03 So yeah.
+00:05:04 Yeah.
+00:05:05 I never really watched them, but they've been around for a long time.
+00:05:08 They're an institution, man.
+00:05:09 I'm kind of surprised they were still around.
+00:05:12 Because I feel like you can't keep, most two guys doing a let's play kind of shows, you
+00:05:18 know, eventually someone gets fucking tired of it or moves on.
+00:05:21 Yeah.
+00:05:22 They were doing it for a long fucking time.
+00:05:24 Nine years.
+00:05:25 Apparently the channel was around.
+00:05:27 God damn.
+00:05:28 Yeah.
+00:05:29 It was that long.
+00:05:30 It's, I mean, I was, this is not, like, I'm not trying to be snot or anything.
+00:05:34 Yeah.
+00:05:35 I was never like a fan or dedicatedly watched their content.
+00:05:39 But just like going to V today and seeing all the threads about people being sad.
+00:05:43 And like then the Janney, lol, Janney cleaning up my threads.
+00:05:46 Clean it up, Janney, you get paid nothing.
+00:05:50 Sorry, my inner Janney rage just came out for a second there.
+00:05:54 And like just people being sad about it ending and then like mods deleting the threads and
+00:06:00 then people making new threads saying janitors are literally cleaning up the most relevant
+00:06:04 games news today, which is the end of the super best friends podcast and let's play
+00:06:09 show.
+00:06:10 And I don't know, it's just interesting.
+00:06:12 That's a good point from those guys.
+00:06:15 And I got to say, and this is 100% out of my own personal bitterness and resentment.
+00:06:21 Yeah.
+00:06:22 That they can't talk about me on a because they talk about extremely anti-e celebrity.
+00:06:29 Like even more than V even more than more than anything.
+00:06:32 Like I get talked about way more on V or on.
+00:06:35 Yeah.
+00:06:36 I get talked about most on V because of the fact that they can't talk about me on a because
+00:06:40 it will get deleted immediately.
+00:06:42 Like even if a thread, the longest threads that have ever existed about me about on a
+00:06:47 are ones that became about me.
+00:06:49 And usually the highest risk for that is in the three by three threads because my three
+00:06:53 by threes get posted as a meme in there.
+00:06:55 Literally every thread.
+00:06:57 I don't know who does it, but someone is very dedicated.
+00:07:01 So like I see that, but like nowadays it doesn't.
+00:07:05 Barney fag is still put.
+00:07:06 Are you familiar with the legend of Barney fag?
+00:07:08 No.
+00:07:09 To this day.
+00:07:10 Just whenever in any way there is actually he's actually tapered off a little bit, but
+00:07:15 for years, for years and years and years, every single time that someone would post
+00:07:21 an image like a like you'd post like ponies.
+00:07:24 He would say kill yourself Barney fag and post a little screen, a little screencap that
+00:07:29 what it shows the airing dates of like my little pony airs that immediately afterward
+00:07:34 like is Barney on like the Disney Channel or something or I might be flipped.
+00:07:38 But like the point was like this is you.
+00:07:40 Like this is who you are.
+00:07:41 Fan of MLP.
+00:07:42 But the thing was this got to such an incredible degree, such an incredible heights where any
+00:07:48 like you'd see like human like a sunset glimmer, whatever the fuck her name was.
+00:07:53 And like, okay, sure, she's kind of pony-esque.
+00:07:56 So he would reply to that and be like, ah, kill yourself Barney fag.
+00:07:59 Okay, that one's a little bit easier.
+00:08:00 Even though it's not literally a pony, then it would be like obscure fan art that kind
+00:08:05 like his interpretations of characters.
+00:08:07 He would still be there.
+00:08:08 Kill yourself Barney Barney fag every single time he would know.
+00:08:12 And then it would be it got to such a level where the absolutely like tiny little cropped
+00:08:18 portions of vaguely my little pony relevant content still immediately Barney fag would
+00:08:25 be there knowing exactly what it was and would be able to pinpoint how this was MLP related.
+00:08:31 So really, he's clearly like the biggest MLP fag that there ever was, but he just he
+00:08:38 chooses to use his powers to, you know, punish those.
+00:08:42 Isn't it more likely that every my little pony fan on that website has the copypasta
+00:08:52 and do it on site.
+00:08:54 No, no, don't ruin the mythos for me, man.
+00:08:56 I was getting infested in this narrative and you've ruined it for me with it cold.
+00:09:00 Well, I choose to believe he's one.
+00:09:02 Even though it would be impressive if people could tell that quickly, you know, like it
+00:09:07 tells you how many bronies are still around on these fucking sites.
+00:09:10 That's true.
+00:09:11 And the sad thing is that like these days, you'll see a thread where like someone will
+00:09:15 post, you know, one of these like crops and people know and they're like, wait for it,
+00:09:18 wait for it.
+00:09:19 But but Barney fag never shows up and everyone's like, where's Barney fag?
+00:09:22 We've been waiting like this thread's gone to like 500.
+00:09:25 That means it has to be one person.
+00:09:27 If it was a bunch of people, somebody would have hopped on the bandwagon, but it had to
+00:09:30 be one guy, one star hero.
+00:09:32 Maybe people only do it if they can get it first.
+00:09:36 Like if they don't get it in time for somebody else to respond, they're just like, well, it's
+00:09:40 not.
+00:09:41 There's no credit.
+00:09:42 It's like in the Dark Knight Rises where Batman is like retired and everyone just waiting
+00:09:46 for him to come back, but he hasn't yet.
+00:09:48 We're all waiting for Barney to make his triumphant return.
+00:09:51 We need we need Catwoman to come in and steal his shit and kick him off his cane and get
+00:09:55 back into shape.
+00:09:56 It's going to happen.
+00:09:57 Exactly like that.
+00:09:58 And there's also the hero, Final Fantasy XV Koon, who is the biggest child like defense
+00:10:04 force for any criticism of Final Fantasy XV.
+00:10:07 It's such a degree where he's like a mythological creature where any defense of Final Fantasy
+00:10:12 XV will be attributed to a post by Final Fantasy XV Koon.
+00:10:17 I don't know.
+00:10:18 It's there's a lot of great characters.
+00:10:20 God, great lore.
+00:10:21 I should make videos about these honestly.
+00:10:23 These are fascinating.
+00:10:24 Well, the only problem with that is that they would shit on you for being a trip fag, basically.
+00:10:31 You'd have to do it on a channel that had no identifiers at all.
+00:10:34 Yeah.
+00:10:35 Well, I don't mean I'd like go fucking post like that.
+00:10:38 You know that guy Wang, you know, that guy Wang who's been rising up in YouTube recently,
+00:10:42 like posts.
+00:10:43 Well, he makes videos about like internet lore, basically.
+00:10:47 And it's like, I don't know.
+00:10:48 I kind of similar to what fit MC does, I guess, where he like only fits focus is more narrow,
+00:10:53 but like every YouTuber, like hundreds of thousands of thousands of YouTubers.
+00:10:58 This guy specifically, his show is called Tales from the Internet.
+00:11:01 Tales gets trolled.
+00:11:03 You know what?
+00:11:04 Let's move on.
+00:11:05 Let's move on.
+00:11:06 They get the idea.
+00:11:08 Digi, I've been rewatching Digi Bros. Let's Plays.
+00:11:12 Oh my God.
+00:11:13 I've been rewatching from the beginning.
+00:11:16 Sonic Adventure 2 is legitimately really, really good, especially at the end of the hero play through.
+00:11:22 I remember having always thought that they got better as they went,
+00:11:25 but they do become more podcasty as they go.
+00:11:28 They get like the Sonic Adventure 2 starts off pretty funny and it gets funnier around the middle
+00:11:34 and it sort of mellows out, but then it gets really funny by the end.
+00:11:37 It's a good Let's Play and it just reminds me of that time when, you know,
+00:11:41 Game Grumps Dan was new and they were doing Wind Waker and it's like, whoa, nice.
+00:11:46 This is Game Grumps-esque content that I can return to,
+00:11:50 that I haven't rewatched a million times already.
+00:11:53 I mean, that's kind of the reason.
+00:11:56 It's really funny.
+00:11:58 I'm like ass out on Let's Plays lately.
+00:12:00 I used to watch so much of them and I realized how important they are to me
+00:12:04 because I can just eat and have something to watch that is, you know,
+00:12:09 just barely not mind-numbing enough to keep my attention for 40 minutes or so.
+00:12:16 So like, right now, Vic and Hope have finally returned to start making Let's Plays again
+00:12:21 and they're like slightly too boring because Victor plays fucking Breath of the Wild
+00:12:28 and it's really not fun to watch.
+00:12:31 I heard you talking about that, but sometimes they come in hot with their hot takes.
+00:12:35 Sometimes they come in hot with some hot takes on the PCV, which is fine.
+00:12:39 Did you hear all of those? Did you hear their hot take and my response?
+00:12:44 The first thing I heard about it was your response to it,
+00:12:47 but it sounds like Vic was getting pretty peeved at us for a while.
+00:12:52 It was pretty funny. I listened to it.
+00:12:54 You were deeply accused of like, why are you making Dozlocks and not doing We Agua?
+00:12:59 You got roasted pretty hard.
+00:13:01 What? I made my fucking Smash meme videos. Those were big. Come on.
+00:13:05 I thought that those were a better idea than me and Maff of a person.
+00:13:08 But you know what? I'll give them the credit.
+00:13:10 I do need to be doing We Agua, so I'm totally with them on that.
+00:13:14 Fair criticism. Fair criticism.
+00:13:17 Anyway, I'm going to fight you one-on-one, Vic. I'm coming to your house.
+00:13:21 I felt like a dearth of Let's Plays and it's funny because there was a time
+00:13:25 where there were so many of them that they were competing for your attention
+00:13:29 and it was like, when I first started mine, a lot of the people who initially were watching it,
+00:13:34 as we kicked up the production cycle, there were a lot of people who were like,
+00:13:37 I already watched Game Grumps. I don't have time for this on top of that, you know?
+00:13:41 Yeah.
+00:13:42 And then I think as a lot of people lost interest in Game Grumps,
+00:13:46 like me, they turned to like, Monkey's Gaming Expedition.
+00:13:50 Back when that was super at peace.
+00:13:52 And then like, that stopped being entertaining.
+00:13:56 So it's like, well, where do I go from here?
+00:13:58 And then now there's like, there's nobody really doing those Let's Plays anymore
+00:14:02 because nobody got big doing it.
+00:14:04 Like, no matter how good your Let's Plays are, nobody is going to be the next Game Grumps
+00:14:09 because just frankly, there's just not enough time in any viewer's day
+00:14:14 to watch like 100 Let's Players.
+00:14:17 And I used to know a lot of people who would say like,
+00:14:19 oh, I've got like 200 subs, but most of it's Let's Plays I don't watch, you know?
+00:14:23 Like, as in some people they are subscribed to.
+00:14:27 So yeah, like, I think that Let's Plays have just quietly been dying
+00:14:32 because of the fact that nobody's...
+00:14:35 Market saturation?
+00:14:36 Yeah, market saturation, which was already going on.
+00:14:38 And we all knew that.
+00:14:39 But like, I think everybody hoped that if they just did it long enough
+00:14:42 at a certain level of quality, more people would pay attention.
+00:14:45 And it's like, usually they hit a certain number of your fans
+00:14:49 who will watch you play a video game and they stop there.
+00:14:52 You know, nobody knew comes in.
+00:14:54 It's like, how many people who watch Digibro After Dark
+00:14:57 are going to watch me play...
+00:14:59 You know, are going to watch me commentate over Pokemon Colosseum
+00:15:02 while Mei plays it.
+00:15:03 Exactly 2.2 thousand.
+00:15:05 That is the view count on every video, you know?
+00:15:08 So it's like, because nobody's blown up through it,
+00:15:12 it's just like, well, I like doing it,
+00:15:15 but it takes time out of my day.
+00:15:18 And eventually everyone becomes way slower at it.
+00:15:20 And then I'm sitting here eating my food and being like, wait a minute,
+00:15:23 I needed those Let's Plays.
+00:15:26 I needed there to be like 40 minutes out of every day
+00:15:30 that I could spend watching really mindless content
+00:15:32 and I don't want to watch another Needledrop review.
+00:15:34 Because I don't give a shit about most of these ads.
+00:15:37 Everybody also, there's like, streaming can get you big
+00:15:41 and it's also a lot easier.
+00:15:43 And donations are like instant advice,
+00:15:45 so it's like more monetarily good.
+00:15:48 So everybody kind of just realized that that's better as like a creator.
+00:15:52 But it's not the same sort of thing.
+00:15:55 You can actually put on an episode of Part of a Stream.
+00:15:58 That's true. You can watch the back stuff.
+00:16:00 I mean, you don't want to sit there for like three hours and be like,
+00:16:03 okay, well, I'll pause it and come back tomorrow.
+00:16:06 I don't know.
+00:16:07 I mean, on the creative side, a Let's Play is difficult
+00:16:10 because you have to constantly find things to talk about
+00:16:13 or else you get boring.
+00:16:14 And like, Back When Me and Victor did Digi Bros.
+00:16:17 for the longest time, it was like, we just had an endless wellspring
+00:16:21 of anything we could possibly think of to talk about.
+00:16:24 At some point, we started running low, so we started asking the audience for questions.
+00:16:27 So then we're doing like Q&A and we're giving extremely long answers to questions
+00:16:31 just to fill up as much time as possible.
+00:16:33 Well, you run out of questions and then it's like,
+00:16:35 well, I guess we got to like do things now and have experiences
+00:16:38 to have new things to talk about.
+00:16:40 And when it came to that point, it's like, we can't do this show twice daily anymore.
+00:16:44 It became like, well, we're going to make it, you know,
+00:16:47 we have to record less often so that we have more to say.
+00:16:51 And now like when me and May do our Let's Plays,
+00:16:53 it's basically just like when we have a topic,
+00:16:56 when we're like, oh man, I have something I want to talk about on a Let's Play,
+00:17:00 then we sit down and record a Let's Play as opposed to, you know,
+00:17:03 being forced to come up with new ideas every day,
+00:17:05 which I think if that was all you did with your career would be one thing.
+00:17:10 But like, I think that as soon as you try to do something else at the same time,
+00:17:14 like obviously the quality of the Let's Play is going to diminish.
+00:17:16 It's like, you're not going to have time to sit around
+00:17:19 and think of the best possible topics to talk about on your Let's Play show
+00:17:23 if you're doing a main show, you know, on top of your Let's Play.
+00:17:27 I'm sure that's true.
+00:17:28 Consistency is the death of me and I'm dead.
+00:17:33 Oh, Victor put out my apology to the PCP episode.
+00:17:36 Did he really?
+00:17:37 Oh, God.
+00:17:38 I have to apologize, Victor.
+00:17:39 It's fine.
+00:17:40 I'll have to listen to that.
+00:17:41 That'll be funny though.
+00:17:42 I mean, if you haven't heard his episode, Nate, you...
+00:17:44 I have not.
+00:17:45 Because you might...
+00:17:46 Is he actually mean?
+00:17:47 Is he actually bullies me?
+00:17:48 He's pretty fucking harsh.
+00:17:50 Like, on every...
+00:17:51 Victor, why?
+00:17:52 No, but it's...
+00:17:53 He's harsh, but like, it's always about Victor,
+00:17:57 the way that he's like, you can hear how much he's smiling at all times.
+00:18:01 So he doesn't really...
+00:18:02 Yeah.
+00:18:03 He doesn't really like have like a vileness to it,
+00:18:06 but it's like, he gets real.
+00:18:07 He lays all the cards on the table.
+00:18:09 You know what?
+00:18:10 He literally says like, I'm calling you out, guys.
+00:18:12 Yeah.
+00:18:13 You guys don't do anything.
+00:18:14 I bet there's a lot of truth in what he says.
+00:18:17 I bet there's a lot of truth.
+00:18:18 There's a lot of truth in it,
+00:18:20 but he also just like misinterprets a lot of things
+00:18:23 about like what everyone is up to, you know?
+00:18:26 Man, I make no defense for myself.
+00:18:28 I mean, if people think that I'm wasting my time
+00:18:30 and focusing on bullshit, I want to know that
+00:18:32 so I can fucking, you know, get back to shit.
+00:18:34 Well, yeah.
+00:18:35 I mean, there's one thing to like agree with, you know,
+00:18:38 the way you come across is your fault at some point.
+00:18:42 There's also like, you know when you're doing something
+00:18:46 and if people don't, you know, believe that you are
+00:18:49 and you tell them or like, you know,
+00:18:52 you don't have to keep like a 24 hour,
+00:18:54 like I'm doing exactly this.
+00:18:56 I'm working exactly this much guys to keep them informed.
+00:18:59 Like people are going to think things
+00:19:01 that are kind of incorrect.
+00:19:03 Yeah.
+00:19:04 I'll tell you though, because I, Victor responded
+00:19:07 in a comment to my response video
+00:19:09 and he said of Nate's trajectory that he was like,
+00:19:13 he said, I do watch everything.
+00:19:15 He was like, I watch everything everyone in the PCP does.
+00:19:17 I watch all of Tom's dev logs even,
+00:19:19 which I was like, Jesus Christ,
+00:19:21 you must have more time than I fucking realized.
+00:19:23 I'm so sorry.
+00:19:25 But like, he said that he thinks
+00:19:29 that Viagra is more like the type of content
+00:19:32 that like endears people to a creator,
+00:19:35 whereas to smash videos are going to be bringing in
+00:19:37 a crowd who doesn't really know about you on a personal level.
+00:19:40 But like, I don't think that's totally true.
+00:19:42 I don't think your videos are that impersonal though.
+00:19:45 Like the smash videos are such a distinctive editing style
+00:19:48 that like, if you see that thumbnail
+00:19:50 and it looks like the thumbnail you saw last time,
+00:19:52 you know what you're going to get.
+00:19:54 And actually people have started to emulate.
+00:19:56 There's been several like copycat videos
+00:19:58 that people have made clearly.
+00:20:00 Yeah, whatever, Tom, what were you saying?
+00:20:02 I think what Victor's trying to say,
+00:20:04 and I totally agree with, is that like
+00:20:06 Viagra is like about Nate and Nate's on camera.
+00:20:10 Like you build that personal relationship with the person
+00:20:13 and that's going to get you to subscribe more than like,
+00:20:15 I like smash, here's a smash video.
+00:20:17 The smash videos are going to get views.
+00:20:19 The Viagra's are going to get subscribers.
+00:20:22 I mean, with every smash video,
+00:20:24 because they're like music videos inherently,
+00:20:26 I make no money from them.
+00:20:28 You know, except for what like patrons give me and stuff obviously.
+00:20:31 So like, okay, so they get a lot of views.
+00:20:33 Does that translate to success, to like earnings and like a stable,
+00:20:37 you know, like are they paying for themselves,
+00:20:39 especially considering how long they take to make.
+00:20:41 Doesn't really seem like they are.
+00:20:43 So I basically just did it because I fucking wanted to
+00:20:46 and I did and they're great and I'll probably do more.
+00:20:48 But I mean, yeah, these are all relevant questions to think about.
+00:20:52 So I get it. It seems reasonable to me.
+00:20:55 I just feel like with Viagra,
+00:20:57 it's so dependent on the independent,
+00:20:59 the individual subject matter to carry,
+00:21:01 whether this video is going to get views or not.
+00:21:03 It's like Viagra is not going to get over 100,000 views ever
+00:21:08 if it's not talking about something that could get that amount, you know?
+00:21:12 That's definitely true.
+00:21:13 Unless you were a much bigger YouTuber.
+00:21:15 But you know, on the other hand, it's also, it's good for me
+00:21:18 to have Viagra to force me to keep making stuff.
+00:21:20 So I, you know, like an object in motion stays in motion.
+00:21:23 Just to have that momentum, I think is a very good thing,
+00:21:26 which is why I wanted that.
+00:21:28 And I'm sorry everybody to keep you waiting for the next one.
+00:21:30 It is in the editing bay, should be out soon.
+00:21:33 But you know, it's, it's one of my other favorite things to watch
+00:21:36 while I eat a fucking sandwich.
+00:21:38 Hooray! By the time you're hearing this, it should be out.
+00:21:40 Thanks.
+00:21:41 Hooray for you people.
+00:21:43 I'll be sure to send you an angry tweet if it's not the case.
+00:21:46 Sounds good.
+00:21:47 Yeah.
+00:21:48 Speaking of growing a channel,
+00:21:51 Monkey's channel's all got destroyed.
+00:21:53 No, they're gone.
+00:21:55 Let's talk about that shit.
+00:21:56 Jesus Christ.
+00:21:57 So, so in case people aren't aware, which you probably are,
+00:22:00 our boy, Monkey Jones, had his two main channels deleted
+00:22:05 for a whole bunch of copyright strike reasons.
+00:22:08 And then when he tried to set up his backup jokes.
+00:22:10 Well, I think they were community guidelines strikes,
+00:22:12 but I can't, maybe I'm wrong.
+00:22:13 I think you're right.
+00:22:14 Yeah.
+00:22:15 They was like content they don't want, that kind of stuff.
+00:22:16 Yeah.
+00:22:17 Hate speech, I think it was.
+00:22:18 Like Elliot Roger is like now a dirty word.
+00:22:20 You can't say it.
+00:22:21 Basically, yeah.
+00:22:22 And then when he tried to make his gaming expedition channel
+00:22:25 that hosted all his precious, precious Nuzlocs
+00:22:27 into his main channel,
+00:22:29 like the whole channel just got taken down.
+00:22:31 I don't know exactly how, like what the strikes were on that.
+00:22:34 Yeah, he seems to have been blacklisted.
+00:22:36 Apparently he was removed from Hornhub as well.
+00:22:38 He was removed from, are you serious?
+00:22:40 What the fuck?
+00:22:41 He was removed from Hornhub.
+00:22:42 I heard that.
+00:22:43 Are you really?
+00:22:44 What?
+00:22:45 How is that even possible?
+00:22:46 That's a fucking, that's a, wow.
+00:22:47 I am shocked if that's true.
+00:22:48 I got to go check this channel right now.
+00:22:49 I mean, all right.
+00:22:50 Maybe that's because one of his patron tears, I think,
+00:22:53 was like, if he gets this much per month,
+00:22:55 he'll put all of his Elliot Roger videos on Hornhub.
+00:22:58 Yeah.
+00:22:59 That's like a funny joke.
+00:23:00 Maybe that potentially,
+00:23:02 Hornhub was like, this isn't porn,
+00:23:04 and they got rid of him for that reason.
+00:23:06 But I just can't, I can't imagine Hornhub
+00:23:08 being like in league with, you know,
+00:23:11 people who blacklist things.
+00:23:13 He said on Twitter,
+00:23:14 Hornhub deleted two of my Elliot Roger videos last night.
+00:23:17 So, yeah, I guess they just deleted it
+00:23:19 for being the Elliot Roger videos.
+00:23:21 Probably, yeah.
+00:23:22 I mean, where in this wide world
+00:23:25 can you go to watch a dark comedy video?
+00:23:28 I just want to put it out there, people.
+00:23:30 We've had our differences.
+00:23:31 I 100% stand with Monkey on this issue.
+00:23:34 There is no debate that this is fucked up.
+00:23:36 No, I don't know if I do,
+00:23:38 because I think this is the least surprising event
+00:23:42 in YouTube history.
+00:23:43 Monkey's channel's already been deleted
+00:23:45 like three times before.
+00:23:47 Like, obviously, the type of content he's making,
+00:23:50 I mean, it is in breach of YouTube's guidelines.
+00:23:54 Like, it's not as though this is like...
+00:23:57 That's questionable.
+00:23:58 How so?
+00:23:59 Make your case.
+00:24:00 I'm curious to hear it.
+00:24:01 Well, first of all, he's shown,
+00:24:02 I mean, the videos that got him taken down
+00:24:03 the first couple of times
+00:24:04 was because he showed, like,
+00:24:06 explicit sexual content from Boku No Pico.
+00:24:09 Oh, right, right, yeah.
+00:24:10 This time, he's got videos that are, like,
+00:24:13 essentially encouraging suicide,
+00:24:15 and like, well, hang on, hang on.
+00:24:18 I don't know if that's true.
+00:24:20 You know, I heard YouTube say in one of their tweets,
+00:24:22 the team YouTube, whatever,
+00:24:23 they said that, like, they don't allow content
+00:24:25 that glorifies or encourages violence.
+00:24:27 And, like, okay, I've always thought that
+00:24:30 I understand the case that making, like,
+00:24:33 basically comedy parody videos about Elliot Rogers,
+00:24:37 I understand the case that that is glorifying it
+00:24:40 in the sense that it's, like, spreading notoriety,
+00:24:42 kind of, it's making it into a thing.
+00:24:44 Maybe this is just me being an idiot,
+00:24:47 but, like, wouldn't the entirety of YouTube gaming
+00:24:50 be glorifying violence in that case?
+00:24:53 Like, if you're just playing Call of Duty,
+00:24:55 and it's just, like, fucking murder simulator
+00:24:57 all day, every day.
+00:24:59 Sure, you can make that argument.
+00:25:01 It's just, YouTube's terms are always so fucking vague,
+00:25:04 and it's just, it's totally arbitrary
+00:25:06 when they decide to pull in what they don't.
+00:25:08 Okay, well, Digi, you're right.
+00:25:10 I agree with you, Digi.
+00:25:11 There's definitely a case to be made
+00:25:13 that this violates content policy.
+00:25:15 My response to that is only,
+00:25:17 I don't believe that that is a good policy.
+00:25:20 I agree with that, but, like, that is...
+00:25:23 It's just that we've been on YouTube this whole time
+00:25:26 under the assumption we were working under this policy.
+00:25:28 Like, I don't...
+00:25:30 There's a lot of shit that I don't put into my videos
+00:25:32 because I'm afraid of getting kicked off of YouTube,
+00:25:35 you know?
+00:25:36 Like, I don't throw in jokes and stuff that I think of
+00:25:39 that I would like to be in there,
+00:25:41 but I think, oh, this will get me kicked off of YouTube
+00:25:44 or this will get this video blocked,
+00:25:46 because I've had my channel taken down several times,
+00:25:48 including for community guidelines reasons, you know?
+00:25:50 I lost my Ask Princess Malestia video back in 2014.
+00:25:53 That was more innocent than anything monkey's ever done, you know?
+00:25:56 Yeah, that's ridiculous.
+00:25:57 So, like, to me, it's just like, I'm...
+00:26:00 Like, I...
+00:26:01 Yeah, it sucks that he lost his channel,
+00:26:03 but, like, this is the least surprising event in history,
+00:26:06 and he's made, like, he's, like,
+00:26:08 tripled his Patreon earnings as a result of this.
+00:26:10 Right, yeah.
+00:26:11 So all he has to do is switch this shit on Google Drive
+00:26:13 and he'll be fucking fine.
+00:26:14 Well, that's the plan as far as I know.
+00:26:15 Or if not Drive the fucking bitchude.
+00:26:17 That they were...
+00:26:18 He was making his own website.
+00:26:20 Like, that's gonna be the new place.
+00:26:21 Well, guys, I mean, we all know this is a terrible punishment.
+00:26:24 Like, the question of discovery alone,
+00:26:26 like, monkey was growing quite rapidly on YouTube,
+00:26:28 and to cut off his future like this,
+00:26:30 I mean, that's the real punishment.
+00:26:31 Yeah.
+00:26:32 Even if in the short term, he's gained...
+00:26:34 Yeah, I mean, it definitely sucks.
+00:26:35 It's one of those things.
+00:26:36 The short term is gonna be fine,
+00:26:38 because Patreon explodes, but, like...
+00:26:40 For now.
+00:26:41 For now.
+00:26:42 Yeah, it's...
+00:26:43 I mean, Monkey seems like somebody that the new clean Patreon would not want, right?
+00:26:47 Guys, let's also be real about something for a second here, though,
+00:26:50 because on the one hand, yes, it's a huge loss to lose your YouTube channel,
+00:26:53 because the YouTube is easy growth,
+00:26:56 which is why we all use it.
+00:26:58 It's a platform that when you know how to turn the wheels on it,
+00:27:01 you can grow pretty easily.
+00:27:03 However, we are also living in an internet age
+00:27:07 where it's even more interconnected.
+00:27:09 Most people are in communities.
+00:27:11 They're in discords.
+00:27:12 They're on Reddit.
+00:27:13 They're all over the place.
+00:27:15 And, like, Monkey's heavily connected with the Dick Show.
+00:27:18 The Dick Show is the ones who are putting up his website.
+00:27:21 Like, Dick and his girlfriend, I guess,
+00:27:23 are helping him to get his website launched.
+00:27:26 Dick is a guy who...
+00:27:28 His YouTube presence is basically non-existent.
+00:27:31 He is just famous for having a podcast that has its own website.
+00:27:36 He got all his fans back through Twitter, you know,
+00:27:39 and now he's like the biggest Patreon,
+00:27:41 one of the biggest Patreons out there.
+00:27:43 Monkey's Patreon just triplicated.
+00:27:45 He is gonna have his own website.
+00:27:48 Anybody who's willing to go over there to watch him, you know.
+00:27:52 And the only reason that this wouldn't work out for him
+00:27:56 is if his content couldn't stand up to that medium,
+00:27:59 if people were not willing to go seek it out.
+00:28:02 I didn't really, like, bring this up just because, like,
+00:28:07 he will be all right.
+00:28:09 It's more like the idea of it is very unsettling
+00:28:14 because, you know, the line is constantly shifting
+00:28:19 a little bit towards, you know, banning things.
+00:28:22 More censorship and shit, yeah.
+00:28:24 Banning channels, like, in a blink of an eye,
+00:28:27 like, whereas before you would have gotten a strike.
+00:28:30 I'm way more worried about how Sargon lost his Patreon
+00:28:33 than I am about serving.
+00:28:35 Like, Monkey losing his channel?
+00:28:37 Not a surprise because it's been, again,
+00:28:39 it's been taken out from community guidelines before.
+00:28:41 Like, I'm not shocked to hear, I'm not like,
+00:28:44 oh, wow, censorship's gone even worse
+00:28:46 when I hear that Monkey gets deleted.
+00:28:48 When I hear that Sargon got removed from Patreon
+00:28:51 for saying nigger on someone else's podcast,
+00:28:55 I'm like, uh-oh, I've done that before.
+00:28:58 You did that just now.
+00:29:00 Granted, he did it in a way that they deemed to be,
+00:29:03 like, racially insensitive.
+00:29:05 But I mean, even a lot of people have argued
+00:29:07 that in the context it might not have been.
+00:29:09 It was definitely dumb the way he fucking phrased it
+00:29:11 one way or another.
+00:29:13 Well, okay, just so that you aren't misinterpreted,
+00:29:17 did you here?
+00:29:19 So it isn't thought that you are unsympathetic here.
+00:29:22 You can separate the two issues.
+00:29:24 On the one hand, there have been objective setbacks
+00:29:27 in the real world.
+00:29:28 Will Monkey be able to make up and, you know,
+00:29:30 survive and grow from here?
+00:29:32 Hopefully, probably, I don't know.
+00:29:34 I gotta hope so.
+00:29:36 But on the other hand, there's just the fact
+00:29:38 that no one wants him to have had
+00:29:40 to have dealt with this shit.
+00:29:42 Even if just for the fact that things are getting closer
+00:29:45 and closer to the fact where I'm gonna face
+00:29:47 some fucking issues like this.
+00:29:49 And I just want that line to stay way away from me.
+00:29:52 Just protect every fucking buddy
+00:29:54 who's even, like, a bit closer to being an edgy boy.
+00:29:58 So on the one hand, will Monkey survive?
+00:30:00 Hopefully.
+00:30:01 Hopefully.
+00:30:02 But maybe not.
+00:30:03 Maybe not.
+00:30:04 But on the other hand, just a separate issue.
+00:30:06 I don't like that this was done.
+00:30:08 I know it's within their terms of service,
+00:30:10 but I don't like the terms of service.
+00:30:12 I guess what I mean to say, the reason I keep saying
+00:30:14 that I'm not surprised is that I've already been
+00:30:16 under the mindset that this is what YouTube does
+00:30:18 this whole time.
+00:30:19 This is what they do.
+00:30:20 They just kill people.
+00:30:21 This isn't surprising.
+00:30:22 It's just disappointing.
+00:30:23 And it's like, I've spent this whole time hoping
+00:30:25 we can find a way to get off YouTube.
+00:30:27 And the way I've seen it is that the only way
+00:30:30 it's going to happen is when they finally ban
+00:30:33 enough high-profile people that those people
+00:30:36 can't rely on YouTube anymore.
+00:30:38 Because the only reason any of us are here
+00:30:40 is that we rely on the platform.
+00:30:42 No one likes the platform, but we need it.
+00:30:44 It's the easiest way to make money
+00:30:46 and it's the easiest way to have growth.
+00:30:49 But any of us could survive without the platform
+00:30:51 as long as we worked really hard
+00:30:53 and played our cards right.
+00:30:55 And just created something that exists on its own
+00:31:00 that doesn't rely on YouTube.
+00:31:01 I mean, I would hope so.
+00:31:02 But honestly, the biggest feature YouTube has
+00:31:05 is the discovery and the way that that's where everybody is.
+00:31:08 And without that, I mean, I don't know
+00:31:10 that we could recover an audience if we lost it.
+00:31:13 I think we could.
+00:31:14 I don't know how.
+00:31:15 I don't think it's as hard as people think.
+00:31:16 I think that, I mean, first of all,
+00:31:18 a lot of people have heard of us already.
+00:31:20 So it's like, it's not difficult to introduce
+00:31:23 the idea of yourself back into the world
+00:31:26 as long as you are a part of a lot of communities
+00:31:28 and you are somebody who gets the word out
+00:31:31 about what happened and where you can be found now.
+00:31:33 But, dude, that's the thing, though.
+00:31:35 Like, fucking, like, Monkeys had his Twitter deleted
+00:31:38 a bunch and like, sure, okay,
+00:31:40 Twitter has the right to delete accounts they don't want.
+00:31:42 Okay, I get it.
+00:31:43 And he's made like a bunch of Twitters
+00:31:45 and he's got one that's technically alive right now.
+00:31:47 I guess I won't say it,
+00:31:48 just so they can't fucking track it down.
+00:31:51 But, like, they're really squeezed in that guy.
+00:31:55 They're really trying to, like, erase him.
+00:31:57 And I know these are technically independent things,
+00:31:59 but you can just see the machinery at work
+00:32:02 just saying this person makes content
+00:32:04 that's unacceptable for the new world
+00:32:07 that we're trying to make here.
+00:32:08 I know that, because the thing is that, like,
+00:32:10 the reason I say it's, I think it's always been this way.
+00:32:12 It's like, this is exactly what happened to Dick Masterson.
+00:32:15 Like, he was kicked off of, like,
+00:32:18 dozens of hosting sites for men are better than women.
+00:32:22 He was constantly sent angry letters.
+00:32:25 He was, like, demonized on the internet.
+00:32:27 He was banned from YouTube, like, early into YouTube,
+00:32:30 not just his channel ban.
+00:32:31 He himself, as a human being,
+00:32:33 was blacklisted from posting to YouTube.
+00:32:35 And it's just kind of like a,
+00:32:37 it's just been long enough that I guess
+00:32:39 they don't care enough to find out
+00:32:41 he has a channel on there now for his show.
+00:32:43 But, like, that's why when they did
+00:32:45 the biggest problem in the Universal Live show,
+00:32:47 he went under his real name,
+00:32:49 because Dick Masterson was technically banned
+00:32:51 and Maddox gave a shit about that, for some reason.
+00:32:53 But, yeah, like, so, you know,
+00:32:56 it can happen even with a more innocent satire,
+00:33:00 even a more obvious satire than what Mumki is doing
+00:33:03 on a scale that even exceeds
+00:33:05 not only was he blacklisted from YouTube,
+00:33:08 but also from, like, tons of, of, you know,
+00:33:13 what's the fucking servers and shit.
+00:33:15 So, like, you know, I know this can happen to people
+00:33:18 and it always has been happening to people
+00:33:20 and the way you get around it
+00:33:22 is by not relying on those platforms.
+00:33:25 It's like, if you are, if you are good enough,
+00:33:28 you should be good enough to survive
+00:33:30 without needing the platform to promote you.
+00:33:34 You know, it shouldn't be that you are entirely
+00:33:36 relying on that for people to care about you,
+00:33:38 because that means that whatever you're doing
+00:33:40 is not good enough.
+00:33:41 And, like, I think Mumki'll be fine in this regard,
+00:33:44 because, like, when you look at people who are,
+00:33:47 who are really, who would really be in danger from that,
+00:33:49 it's the people whose patreons don't succeed.
+00:33:52 Like, someone like Dame Drops, the YouTube food reviewer,
+00:33:55 who had, like, he put out, like, four videos a week.
+00:33:58 He got decent views.
+00:34:00 He had the, oh, my damn song made about him
+00:34:02 and that blew him up initially.
+00:34:04 And, like, even though he got pretty good views,
+00:34:06 when he tried to open a Patreon, it made nothing.
+00:34:09 Because, like, his content was just kind of vapid.
+00:34:12 Like, it wasn't, it didn't, it was just, like,
+00:34:15 hey, I want to watch a guy review fast food for three minutes
+00:34:17 a couple times a week, because why not?
+00:34:19 Nobody was, like, invested, you know?
+00:34:22 And it's, like, it's a lot different for someone like Mumki Jones,
+00:34:24 who has this overarching narrative,
+00:34:26 who has all this drama and baggage,
+00:34:28 who communicates with his fans a lot, you know?
+00:34:31 Like, I'm sure that Twitter or no Twitter,
+00:34:33 he's got a Discord somewhere that's probably got
+00:34:36 a few hundred people in it, you know?
+00:34:38 Like, even if I lost my, if I lost all my social media platforms,
+00:34:42 I at least have my Discord,
+00:34:44 which has, like, 400 people in it, you know?
+00:34:47 So, like...
+00:34:48 Until Discord decides that you're too toxic for there
+00:34:50 and Twitter decides you're too toxic.
+00:34:52 I guess we can cross that bridge when we come to it.
+00:34:54 Yeah.
+00:34:55 Yeah.
+00:34:56 It's easy to learn fear of, like,
+00:34:58 oh, oh, I can't say words anymore.
+00:35:01 Because it's not entirely true,
+00:35:03 but it is becoming truer in certain places.
+00:35:06 We're gonna get back to a podcast to me,
+00:35:08 and Digi did, like, fucking two years ago
+00:35:10 about RSS and email,
+00:35:12 about how, like, at least those things were, like,
+00:35:14 hardcore in your control, and they couldn't take it away from you.
+00:35:17 Guys, I've found an even better way.
+00:35:20 Um, because just last month...
+00:35:22 Is it Web 3.0?
+00:35:24 No, even better than that.
+00:35:26 Just last month, and now again this month,
+00:35:28 the highest tier of my Patreon is a $40 care package,
+00:35:32 where I mail people a USB stick full of exclusive content.
+00:35:37 I like that. I like that.
+00:35:39 So what I've been doing is I've been doing, like,
+00:35:41 just full commentaries over movies,
+00:35:43 and, like, just, like, having background music playing
+00:35:47 in my vlogs, and just, like,
+00:35:49 because they can't copyright strike me.
+00:35:51 It's on fucking USB stick.
+00:35:53 Hang on.
+00:35:54 I have a question about that.
+00:35:55 I thought about this myself a little bit.
+00:35:57 Is it not theoretically possible that, like,
+00:36:00 so the whole, it's not like that YouTube just, like,
+00:36:02 came up with copyright shit out of nowhere.
+00:36:05 That's fucking copyright claims, stuff out of nowhere.
+00:36:08 It's specifically that they're trying to avoid copyright infringement,
+00:36:11 which is a legal thing.
+00:36:12 If you're actually selling content, you know,
+00:36:15 in this way via Patreon, that uses copyrighted material,
+00:36:18 you are still in violation of that.
+00:36:21 You're technically illegal to do what you're doing.
+00:36:24 I mean, the extent they would have to go to,
+00:36:27 to even find out what content I have on these flash drives
+00:36:32 that I'm sending to people, because there's only 10.
+00:36:35 So, like, you'd have to get ahold of one.
+00:36:38 All right.
+00:36:39 You know, find somebody who will tell you what's on there.
+00:36:43 Check it.
+00:36:44 And then even then, I could make a fair use argument
+00:36:46 for a lot of it, because it is common.
+00:36:47 Yeah, it's a fair use.
+00:36:48 Because, like, the reason that YouTube content ideas
+00:36:50 is so terrible is because the robot doesn't know
+00:36:52 how to understand fair use, and it doesn't care,
+00:36:55 and YouTube doesn't care to make it understand.
+00:36:57 So, that's always the problem.
+00:36:59 It's hard.
+00:37:00 You just can't use it in any way, even if it's fair.
+00:37:03 Yeah.
+00:37:04 Okay.
+00:37:05 Well, you know what, there's something to that.
+00:37:06 Like, fucking Red Letter Media sells their, you know,
+00:37:08 their, like, director's commentary shit over movies.
+00:37:10 I think it's just a separate audio track or something,
+00:37:12 but there's got to be something similar with that.
+00:37:15 All I'm saying is consider that that's between 10 flash drives
+00:37:19 at $40 a pop, and they sold out immediately.
+00:37:22 That's $400 for whatever.
+00:37:25 It's not bad.
+00:37:26 You know, and not including the overhead,
+00:37:27 because the overhead's like $100 in itself,
+00:37:29 just a fucking, you know, well, not $100.
+00:37:32 But, you know, there's a lot of buying flash drives
+00:37:34 and mailing shit, depending on how many people are foreign.
+00:37:36 And I charge people extra for that,
+00:37:38 because after the last time, because it was like $10,
+00:37:40 if you're out of the country in any way.
+00:37:43 Sure, sure.
+00:37:44 But, yeah, the, like, the, not with saying the overhead,
+00:37:48 that's a lot of money to make off of a piece of content
+00:37:52 that only 10 people are watching, you know?
+00:37:55 That's true.
+00:37:56 So, like, you really have to think creatively about,
+00:37:58 like, where does your money come from,
+00:37:59 what is your content worth, and who is it for, you know?
+00:38:03 There might only be 10 people who would pay this amount of money
+00:38:06 to get these things from me,
+00:38:08 but, like, as long as those 10 people exist,
+00:38:10 and as long as I can give them something
+00:38:12 that is worth 40 bucks to them, you know,
+00:38:15 which, for a lot of them, just the fact that they're receiving
+00:38:17 a physical thing that has my name on it,
+00:38:19 and, like, a little personalized piece of art is, like,
+00:38:22 you know, worth something in itself.
+00:38:25 So, yeah, I just think that this is the kind of way
+00:38:28 that we can rethink the way we can release content
+00:38:31 and monetize it.
+00:38:32 I could not be more with you on the sentiment that, like,
+00:38:35 we shouldn't rely on these platforms long-term,
+00:38:37 and we should, it's our responsibility
+00:38:39 to make sure that we can fucking survive,
+00:38:41 you know, the storms to come, and the fireballs
+00:38:44 that they're gonna throw at us.
+00:38:45 I've been saying for a while that, like,
+00:38:47 all these platforms should be a place for you
+00:38:49 to advertise your content on top of just making it
+00:38:52 and, like, drive it down a funnel
+00:38:54 to, like, something you have more control over.
+00:38:56 Diversify people.
+00:38:57 Go to APSadventures.site to read Baaljeep
+00:39:00 and other things.
+00:39:01 Do it now before YouTube deletes us.
+00:39:03 And, again, reminder that, for all of Mumki's
+00:39:06 I've Lost Everything, like he said on Twitter,
+00:39:09 again, tripled his Patreon,
+00:39:11 has run successful Kickstarter,
+00:39:13 has sold a book at, like, for hundreds of dollars,
+00:39:16 you know, like, he has a ton of avenues he can explore.
+00:39:19 I am not even...
+00:39:20 I think he probably will have benefited more from this
+00:39:23 than he loses out.
+00:39:24 The amount that his Patreon spiked,
+00:39:26 like, if he doesn't lose all those people quickly,
+00:39:29 if he capitalizes on it by, let's say,
+00:39:32 making a really epic, like, a real documentary
+00:39:36 that uses all kinds of footage he couldn't show on YouTube,
+00:39:39 maybe, you know, something a little edgier
+00:39:41 than what he even could get away with before.
+00:39:44 I'm sure he could keep those people.
+00:39:45 Yeah, I mean, it's a time-tested term
+00:39:50 that the best way to grow your YouTube channel
+00:39:53 is to get unfairly deleted.
+00:39:55 It's happened so many times to people,
+00:39:59 though that's always been in the case
+00:40:01 where they get it back eventually,
+00:40:03 which could theoretically still happen
+00:40:05 for what it's worth.
+00:40:06 You have to milk it and be a crybaby for it to work.
+00:40:09 Because I've had my channel taken away three times,
+00:40:12 and it did nothing for me, because I didn't...
+00:40:14 You need to make a campaign.
+00:40:15 You need to make a thing happen where lots of people hear about it.
+00:40:17 I mean, victimhood is the current social currency.
+00:40:19 It is, like, or not.
+00:40:20 You need to lift those sunglasses up and see the tears,
+00:40:23 throwing the tears rolling down.
+00:40:25 See the sharring guns I have beneath these shades.
+00:40:28 Well, in any case, I feel deep sympathy,
+00:40:31 and I hope things work out.
+00:40:33 And I'm not gonna lie, I'm a little jealous.
+00:40:35 Just when you get your channel deleted,
+00:40:37 you just get so much love from the world.
+00:40:39 I know I sound like an asshole,
+00:40:41 but you really get a lot of attention and love.
+00:40:44 People act like someone in your family died.
+00:40:47 It erases many of your sins.
+00:40:49 They don't matter anymore.
+00:40:50 I'm just saying, this is why victimhood
+00:40:53 is an extremely valuable thing.
+00:40:55 That said, I totally...
+00:40:56 The left got something right,
+00:40:58 and it's being a victim.
+00:40:59 It's very funny.
+00:41:00 I laugh all the way to the bank.
+00:41:03 By the way, so I have a...
+00:41:05 So this isn't a story of deplatforming, per se,
+00:41:08 but it's of deplatforming to come for me.
+00:41:11 There was an event that happened over the last week,
+00:41:14 or it might have been a little bit earlier,
+00:41:16 and I might have forgot to mention last PCB,
+00:41:18 but this actually is sort of a cataclysmic shift in my life,
+00:41:21 in my professional life, specifically.
+00:41:23 Oh, no.
+00:41:24 And I'll share it with you now, ladies and gentlemen.
+00:41:27 Okay, brace yourself for this.
+00:41:29 So I'm at work.
+00:41:31 I'm sitting at my desk,
+00:41:33 and I'm just doing some shit.
+00:41:35 It's like...
+00:41:36 There was a luncheon that happened
+00:41:39 that everybody at the company went to,
+00:41:42 down the street, to a restaurant, or to go eat.
+00:41:44 I just didn't want to go, because I'm like,
+00:41:46 fuck it, I've got work to do.
+00:41:47 And you made steamed hams.
+00:41:49 I made steamed hams, yeah.
+00:41:51 So I didn't go.
+00:41:52 I was in my office at my desk,
+00:41:54 and then I'm just working, just doing my thing,
+00:41:56 and then all of a sudden,
+00:41:58 somebody stops by my door, somebody looks in and says,
+00:42:00 hey, Nate.
+00:42:01 Hey, just so you know,
+00:42:03 the president says that everybody can go home,
+00:42:05 because it's like a party day.
+00:42:07 Just yay, everybody can take the rest of the day off.
+00:42:09 And I'm like, shit, dude, that's awesome.
+00:42:11 I'ma do that.
+00:42:12 And then he turns to leave.
+00:42:14 And as he turns to leave, he pauses.
+00:42:16 He pauses this young man.
+00:42:18 He's like an intern at the company.
+00:42:20 He turns around,
+00:42:22 and he just says
+00:42:24 five words that
+00:42:26 will haunt me for the rest of my days.
+00:42:28 And it's just, forget this one,
+00:42:30 um, and then here they are.
+00:42:32 Are you best guy ever?
+00:42:34 Oh, no.
+00:42:36 Yes, yes.
+00:42:38 I've never spoken to this person before.
+00:42:40 Just independently,
+00:42:42 at work, one of the interns,
+00:42:44 these damn college kids,
+00:42:46 recognized me and knows who I am,
+00:42:48 and is without a doubt,
+00:42:50 spreading the word throughout the company.
+00:42:52 And now that this is really
+00:42:54 a crossing into a new era,
+00:42:56 now that this is happening,
+00:42:58 I have no idea how long
+00:43:00 I can keep things under wraps
+00:43:02 and, uh, and, you know, on the down low.
+00:43:04 I told him like, yeah, that's me, man.
+00:43:06 Do you, you know, you listen to the PCPs
+00:43:08 like, no, I'm just, I watch your main channel
+00:43:10 sometimes. It's, it's pretty funny.
+00:43:12 I'm like, yeah, thanks.
+00:43:14 Yeah, I like to keep that shit on the down low
+00:43:16 here at work a little bit, you know.
+00:43:18 So he was like, yeah, I heard you on calls
+00:43:20 and I recognized your voice and I was like, that can't be.
+00:43:22 But anyway,
+00:43:24 this is, I'm sure that this is, uh,
+00:43:26 this is getting around more
+00:43:28 and people will be aware of my various activities
+00:43:30 online. And I, it started
+00:43:32 a doomsday clock as far as I'm concerned.
+00:43:34 Uh, to one day
+00:43:36 something will be unearthed
+00:43:38 that's not so good that the people
+00:43:40 aren't too fond of at work.
+00:43:42 Uh, all they have to do is scroll back to
+00:43:44 Lolly the Greatest Love of All
+00:43:46 of my main channel and that might be,
+00:43:48 that might be it right there, ladies and gentlemen.
+00:43:50 What if you get fired because you don't upload
+00:43:52 frequently?
+00:43:56 Guys, I gotta,
+00:43:58 I gotta interrupt because
+00:44:00 apparently Victor's apology video
+00:44:02 is like really, really
+00:44:04 sad and at one point
+00:44:06 there's a screen cap someone took where he put
+00:44:08 text on screen that says, at this point
+00:44:10 I just break down crying like a bitch
+00:44:12 for like six minutes. I care
+00:44:14 about the PCP a lot and they have been a big
+00:44:16 positive part of my life for many years
+00:44:18 and I feel closer to and care about
+00:44:20 them more than any of my IRL friends.
+00:44:22 Well.
+00:44:24 I'm so, I'm so confused.
+00:44:26 Victor, it's okay. It wasn't that serious, dude.
+00:44:28 It's all right. It's all right.
+00:44:30 Hashtag save Victor.
+00:44:32 Go send him love. Go to vicanhope.com
+00:44:34 I absolve you, Victor, of all
+00:44:36 sense. We'll have to listen to this apology later.
+00:44:38 I will definitely go listen to it later.
+00:44:40 Uh, anyway.
+00:44:42 What if Victor's playing all of us and he's like taking
+00:44:44 our advice, he's already heard from his podcast
+00:44:46 somehow already and went back into the past
+00:44:48 and it's like, I'm going to play the victim card. I'm going to get all the money.
+00:44:50 Oh, yeah. That's it. That's definitely it.
+00:44:54 So, so on this subject
+00:44:56 I just, this is more than ever.
+00:44:58 The time the clock is accelerating
+00:45:00 at rapid speed to depart from this land.
+00:45:02 Dude, that is the most terrifying thing
+00:45:04 that could possibly happen
+00:45:06 on planet Earth. It was quite terrifying.
+00:45:08 Uh, like, because there are
+00:45:10 people at the company that like once
+00:45:12 or twice I have discussed this stuff with
+00:45:14 which I deeply regret and should not have done
+00:45:16 but, uh, it's never like spread around.
+00:45:18 But this is a guy I've never spoken to before
+00:45:20 just independently. The only
+00:45:22 like good thing to come from that
+00:45:24 is like he doesn't watch the PCP
+00:45:26 so he's watching PG-13 content
+00:45:28 and not your NC-17
+00:45:30 off the rails
+00:45:32 talking with your psychotic friends.
+00:45:34 Like, thank God because
+00:45:36 that's not in the limelight yet
+00:45:38 and you're still okay.
+00:45:40 But who knows.
+00:45:42 Who knows where it's going to go from here.
+00:45:44 It's like, uh, sort of Damocles
+00:45:46 is now in place.
+00:45:48 Like the rope is getting thinner
+00:45:50 and thinner by the day. It's splintering more.
+00:45:52 It's going to drop. But, um,
+00:45:54 I hate to tease everybody like this again
+00:45:56 but like I'm just going to say again
+00:45:58 looking over my finances, looking over
+00:46:00 my future, the day draws
+00:46:02 close when I'm at a place where I can
+00:46:04 when I can do it, when I can make
+00:46:06 this change. So, just saying.
+00:46:08 Just saying.
+00:46:10 Anyway, that was a big thing for me.
+00:46:12 Oh, I've got another funny story.
+00:46:14 No.
+00:46:16 This is a small one. This is a small one.
+00:46:18 Basically, so yes,
+00:46:20 two days ago, my internet just died
+00:46:22 and I didn't know what was going to happen
+00:46:24 and I thought I was going to have to kill myself because I don't have internet.
+00:46:26 But I was a big boy
+00:46:28 called Cincinnati Bell
+00:46:30 Cincinnati's best internet provider
+00:46:32 and I just, I
+00:46:34 talked to them like a big boy that Ham
+00:46:36 having this issue. Can you guys help me?
+00:46:38 And they said, not only can we help you
+00:46:40 we're going to replace your router for free
+00:46:42 but because
+00:46:44 Yeah, that's right. Because
+00:46:46 you are a two year loyal member
+00:46:48 who as far as I know has literally never missed a payment
+00:46:50 or even been late. We're going to
+00:46:52 upgrade you from
+00:46:54 50 megabytes per second
+00:46:56 to 500 megabytes per second
+00:46:58 and it's going to be cheaper.
+00:47:00 It's going to be cheaper than what I was paying
+00:47:02 before.
+00:47:04 What the fuck?
+00:47:06 Is it
+00:47:08 literally because in this
+00:47:10 age of millennial babies that you
+00:47:12 are the only big boy you could ever
+00:47:14 call in?
+00:47:16 Probably. Probably.
+00:47:18 This is the highest endorsement of capitalism I've ever heard
+00:47:20 in my life. Exactly.
+00:47:22 Like, honestly dude, I was
+00:47:24 shocked to my core. But you know what, let me damper
+00:47:26 this a little bit. I looked into it
+00:47:28 and while we thought it was going to be less
+00:47:30 it actually is $2
+00:47:32 more out of like 64.
+00:47:34 Now, I don't know if maybe there's like some shenanigans
+00:47:36 that's going to be on the bill that's going to be less
+00:47:38 but it looks like it was $2 more.
+00:47:40 I mean, from 50 to 500, that's a pretty huge
+00:47:42 10 times the speed.
+00:47:44 10 times the speed.
+00:47:46 I'm going to be
+00:47:48 I'm going to be
+00:47:50 the greatest, I don't know, overwatch player
+00:47:52 I'm going to be playing
+00:47:54 Smash Online and having so many
+00:47:56 gigabits per second. You can stream
+00:47:58 Pokemon video games
+00:48:00 in 4K. Yeah, exactly.
+00:48:02 Get the pixels blown up to
+00:48:04 big pixels.
+00:48:06 You know, this is why capitalism
+00:48:08 is the way the truth in the life, guys.
+00:48:10 You know what's different from me to everybody else
+00:48:12 that complains about this shit? They just
+00:48:14 fuck up. They just fuck up
+00:48:16 and they don't pay their fucking bills and they got
+00:48:18 deadbeat ass jobs. They don't work hard
+00:48:20 to improve at and become a fucking
+00:48:22 manager and they don't go to school
+00:48:24 and they don't tactically take out
+00:48:26 debt in the interest of one day
+00:48:28 paying it off in a timely
+00:48:30 fashion and they also don't have really great parents
+00:48:32 who will just help you and like absolve you of debt.
+00:48:34 You're doing good for a while.
+00:48:36 The point is
+00:48:38 if what you pay into the system
+00:48:40 you will be paid back most of the time
+00:48:42 so fuck you
+00:48:44 every socialist piece of shit out on the planet
+00:48:46 I'm going to knock your block off.
+00:48:48 Nate comes to all the Bernie Bros.
+00:48:50 At once. I'm going to fight every
+00:48:52 Bernie Bro on the planet because you know
+00:48:54 they're at home, you know, fucking
+00:48:56 jerking their dunk ding dong to
+00:48:58 I don't know. I just imagined it's like
+00:49:00 Smash 64 fighting
+00:49:02 polygon team except it's fighting Bernie Bros
+00:49:04 and just one Nate and smash them all
+00:49:06 one after another.
+00:49:08 That's exactly it.
+00:49:10 Anyway, it was great
+00:49:12 and what a wonderful time that was.
+00:49:14 Although, you know, I checked my download speed
+00:49:16 I don't think it's either ticked over yet. It's still like
+00:49:18 54 megabytes per second or something.
+00:49:20 I don't know if I'm getting mean. Disgusting.
+00:49:22 I don't know if I need to like, if I need to wait.
+00:49:24 If it was all a lie just to get you to stay with their service
+00:49:26 then that's the capitalism I know. It's possible
+00:49:28 it's possible. And by the way, I was very diligent
+00:49:30 as you all should be two people and I was
+00:49:32 asking like whoa whoa whoa. Now is this
+00:49:34 upgrade going to like lock me in for like
+00:49:36 a two year contract? Like what's
+00:49:38 what's your angle here? But no, they were
+00:49:40 very thorough. Nothing like that's
+00:49:42 happening. You portray yourself in your own
+00:49:44 stories. It's fucking hilarious.
+00:49:46 Isn't it great? That's true.
+00:49:48 Now
+00:49:50 just one second here
+00:49:52 it seems
+00:49:54 that you're trying to dupe me
+00:49:56 but I made the best
+00:49:58 I'd like to think that is how you talk on the phone.
+00:50:00 That's exactly how I do. You know I do
+00:50:02 change how I talk on the phone versus
+00:50:04 like as most people do.
+00:50:06 I'm a very corporatized
+00:50:08 person. It's the same as my work voice.
+00:50:10 I've gotten a lot of shit for the way that I throw
+00:50:12 my voice when I order food
+00:50:14 at places because I always
+00:50:16 say like yeah can I have a number
+00:50:18 four? Like that
+00:50:20 because it just makes your voice like pierce right
+00:50:22 through that particular type of speaker
+00:50:24 so that they will definitely fucking hear
+00:50:26 you. Well it sounds like it's working.
+00:50:28 I'm really good at like
+00:50:30 figuring out how to
+00:50:32 make a speaker or microphone
+00:50:34 make the exact
+00:50:36 loudest noise it can
+00:50:38 make. Do you know what I mean?
+00:50:40 It's called screaming. Well if you
+00:50:42 sit there with like a megaphone for instance
+00:50:44 if you scream into a megaphone you're not going to
+00:50:46 get a very loud noise but if you put your
+00:50:48 lips directly on it and you go like
+00:50:50 it'll make a noise that is
+00:50:52 just unbelievably shrill and
+00:50:54 hear it throughout the whole fucking universe.
+00:50:56 So you know it plays around
+00:50:58 with your speakers. I'm now just imagining you in your house
+00:51:00 with a megaphone. Just go like
+00:51:02 Yeah. Well I used to use
+00:51:04 a megaphone like
+00:51:06 a toy megaphone very heavily
+00:51:08 in my music. A lot of my old
+00:51:10 shit. Oh yeah that blue fucking megaphone
+00:51:12 thing. Yeah. Dude I
+00:51:14 saw that in real life. Yeah
+00:51:16 even before that I had the IMT
+00:51:18 pain microphone which I would love to get another
+00:51:20 of. It's a microphone
+00:51:22 that you press a button and it makes you sound like
+00:51:24 T-Pain when you sing it do it.
+00:51:28 This is an app for your phone that does that too.
+00:51:30 It's just like it's just any other toy
+00:51:32 like megaphone thing. It's just shaped
+00:51:34 like a microphone but like it when you
+00:51:36 hold down the button it's sort of like auto-tunes
+00:51:38 your voice a little bit. Oh you said it's called
+00:51:40 the IMT pain microphone. Yes
+00:51:42 IMT pain.
+00:51:44 I think that was based on a phone app that
+00:51:46 blew up really big back in like 2009
+00:51:48 that would make sense. Well I
+00:51:50 have a toy microphone of it and I used it on
+00:51:52 like a hundred songs
+00:51:54 and then it fucking broke.
+00:51:58 Including
+00:51:59 Diddy's most famous
+00:52:00 I am a boat starring
+00:52:02 Gigi Bro. I am a boat.
+00:52:04 Yeah at first I was a GameCube
+00:52:06 now I'm a boat.
+00:52:08 Alright speaking of
+00:52:10 music, speaking of like things
+00:52:12 skills and various
+00:52:14 abilities.
+00:52:16 I've been on like one of those
+00:52:18 distractoid mindsets recently
+00:52:20 where I'm like oh you know
+00:52:22 I should really work on
+00:52:24 skill A, B, C, D, E,
+00:52:26 F and G. All of these different
+00:52:28 things I could be doing instead of the thing I should be doing.
+00:52:30 You know the classic
+00:52:32 like procrastination thing.
+00:52:34 But like it's
+00:52:36 very strong for some reason
+00:52:38 at the moment. I think it was also
+00:52:40 Munchie and Tom's
+00:52:42 new podcast Killing Code
+00:52:44 when Munchie is like really excited about
+00:52:46 code and I was
+00:52:48 like yeah yeah I enjoy
+00:52:50 it when I learn the basics of
+00:52:52 a new thing and I'm getting on a path
+00:52:54 towards being a master at it. I never
+00:52:56 go all the way because I'm a fucking idiot
+00:52:58 but like fucking
+00:53:00 there's so many things I want to do
+00:53:02 there's so many like albums
+00:53:04 I want to learn how to record
+00:53:06 I want to draw
+00:53:08 people I want to draw
+00:53:10 myself I want to draw I was looking at
+00:53:12 fucking
+00:53:14 Jaden animations
+00:53:16 the YouTube story time animator person
+00:53:18 one of the better ones
+00:53:20 one of the only ones that I
+00:53:22 really really enjoy the content
+00:53:24 of the thing despite it just
+00:53:26 being you know similar
+00:53:28 looking for those other ones
+00:53:30 like I think Davoo's talked
+00:53:32 about the odd ones out before and how he hates
+00:53:34 the whole concept of that
+00:53:36 channel where it's just a big blob of a guy
+00:53:38 talking about stuff that isn't funny
+00:53:40 and is very relatable and gets
+00:53:42 billions upon billions of views
+00:53:44 and and there's like hundreds
+00:53:46 of different channels that are basically the same thing
+00:53:48 where it's like you know 17 million
+00:53:50 views my my
+00:53:52 guys I had a hard time
+00:53:54 in high school exams
+00:53:56 oh they suck don't they guys
+00:53:58 times I said something
+00:54:00 embarrassing yeah you know
+00:54:02 things like that I'm like yeah whatever
+00:54:04 rolls eyes like I don't really care for
+00:54:06 the relatable hashtag relatable stuff but
+00:54:08 I just had this
+00:54:10 like urge to like
+00:54:12 be one of those people
+00:54:14 and make my own channel
+00:54:16 get a million subs you yeah
+00:54:18 because I have like sad
+00:54:20 like oh I used to be nervous in school
+00:54:22 guys I used to be socially awkward
+00:54:24 and I could I could easily do
+00:54:26 things like that but I also wanted to be
+00:54:28 like the only one of those
+00:54:30 who was like really funny
+00:54:32 because I can I can be really funny
+00:54:34 of course and it's
+00:54:36 just that's that's just
+00:54:38 been on my mind and it's just one of many
+00:54:40 things that has been like
+00:54:42 distracting me from from
+00:54:44 the thing I should be doing he just gave
+00:54:46 me a big projects big new
+00:54:48 projects the ideas of like making
+00:54:50 new channels not necessarily to like grow
+00:54:52 a channel and be a youtuber again
+00:54:54 but to just to be to
+00:54:56 to be able to do one give I think
+00:54:58 I think you should
+00:55:00 experiment in your free time
+00:55:02 making content like this and I would say posting
+00:55:04 it on give and take an established
+00:55:06 channel with some sub base
+00:55:08 exactly the start with something small
+00:55:10 because I would excuse me
+00:55:12 bet my bottom fucking dollar that kind
+00:55:14 of content would do exceptionally well
+00:55:16 as it does for so many hack fraud
+00:55:18 animators on YouTube already
+00:55:20 I think you'd find success there guys
+00:55:22 I just thought of an idea for
+00:55:24 a YouTube channel yeah it'll
+00:55:26 be called everyone is terrible
+00:55:28 and the the host
+00:55:30 is like think of like a raven
+00:55:32 from teen titans esk figure
+00:55:34 like someone just like dark
+00:55:36 hair in front of their eyes you know low
+00:55:38 you know low misanthropic
+00:55:40 and the idea of the channel is that it's sort
+00:55:42 of an analysis channel but the idea
+00:55:44 is that every video is about
+00:55:46 prove is about how everyone is
+00:55:48 provably terrible so the
+00:55:50 idea is that they take recommendations
+00:55:52 and you just tell like you leave
+00:55:54 a comment who do you want them to prove is
+00:55:56 terrible and then every video
+00:55:58 is just about proving another person
+00:56:00 is terrible and it could be literally
+00:56:02 anybody you could talk about your fans
+00:56:04 talk about
+00:56:06 celebrities talk about whoever you want
+00:56:08 just prove that everyone is terrible
+00:56:10 I feel I feel like if
+00:56:12 like Tara Strong herself did
+00:56:14 that channel as raven people
+00:56:16 would love it but if it was a guy then it
+00:56:18 would be like just shut up dude just shut up
+00:56:20 it depends on if
+00:56:22 the guy if it's a guy it has to be
+00:56:24 more funny if it's a girl
+00:56:26 I want it to just be like just
+00:56:28 a girl who's like just looks really dismal
+00:56:30 and hates like legitimately hates everyone
+00:56:32 that does sound funny hilarious
+00:56:34 maybe there's maybe I'm getting head
+00:56:36 Kennedy already but I imagine in my
+00:56:38 world this show would be something that
+00:56:40 the idea the conceit is to indeed
+00:56:42 anything that you say wants to be
+00:56:44 proved terrible this person will make it sound
+00:56:46 terrible and find the way but what that really
+00:56:48 indicates is that everything
+00:56:50 can be interpreted terrible so just
+00:56:52 don't assume
+00:56:54 it's not everything it's every one
+00:56:56 every one it has to specifically
+00:56:58 be about humans like every
+00:57:00 episode is another human being
+00:57:02 why that person is terrible
+00:57:04 sure
+00:57:06 I want it to be like legitimately
+00:57:08 being spirited I want it to be like
+00:57:10 this channel
+00:57:12 is about proving that literally everyone
+00:57:14 is terrible and no one deserves
+00:57:16 to live
+00:57:18 I think we can combine these ideas
+00:57:20 I'm gonna do an animation youtube storytime
+00:57:22 and I'm gonna hire a
+00:57:24 moody sounding girl to just say
+00:57:26 the lines
+00:57:28 it'll be called
+00:57:30 the character will be
+00:57:32 goth brisker
+00:57:34 she'll be like really like even more
+00:57:36 bitchy than usual
+00:57:38 she sounds dismal enough though
+00:57:40 she sounds too peppy
+00:57:42 she can do a really she can do like a
+00:57:44 raven voice okay yeah if she's
+00:57:46 doing a voice fair enough
+00:57:48 I mean I remember
+00:57:50 when Jesse was always talking about his
+00:57:52 idea of having an MLP
+00:57:54 review channel hosted by
+00:57:56 what was it it was
+00:57:58 it was like a tropical sounding pina colada
+00:58:00 like some girl pony that he wanted
+00:58:02 to do and I still stand by
+00:58:04 that would definitely do well not necessarily
+00:58:06 pony anymore but like something like this
+00:58:08 it's kind of weird how little
+00:58:10 of people hiring other people to host
+00:58:12 their shows there is on youtube
+00:58:14 because like I understand
+00:58:16 why Mr. Throps and Lonely and shit
+00:58:18 I understand why a lot of us just
+00:58:20 like have a point of pride we want it to be
+00:58:22 our voice on the thing because we know how to
+00:58:24 deliver it right because like I tried to
+00:58:26 hire a girl to
+00:58:28 to voice one of my scripts once and she
+00:58:30 sent me like she sent me her test
+00:58:32 version and I was just like no
+00:58:34 like not happening like
+00:58:36 the cadence is completely wrong
+00:58:38 it doesn't give a point you know
+00:58:40 but like
+00:58:42 I do think that if if you're somebody
+00:58:44 who can't do great delivery
+00:58:46 like by all means you should just hire somebody
+00:58:48 to read your scripts it's it's not
+00:58:50 expensive you don't even necessarily to pay people
+00:58:52 if you if you already have like a fan
+00:58:54 group fan base like people do it
+00:58:56 your fans will do it you know
+00:58:58 yeah though I never want to rely on
+00:59:00 fan goodwill pretty much for
+00:59:02 anything personally but whatever
+00:59:04 I get you I get the mic
+00:59:06 uh yeah I stumbled
+00:59:08 I stumbled through that that whole
+00:59:10 thing I didn't really know what I was
+00:59:12 gonna say I just know that
+00:59:14 I should you like jaden animations
+00:59:16 want to do stuff like that
+00:59:18 yeah I want to be one of those
+00:59:20 people and I want to go to jaden animations
+00:59:22 when I've got like 20,000 subs
+00:59:24 and say hello and she's going to be like
+00:59:26 hey and then and then
+00:59:28 then we'll say hey don't get on me
+00:59:30 you silly animating boys
+00:59:32 no got them no
+00:59:34 is she like 19
+00:59:36 how old is she if anyone knows I'm just curious
+00:59:38 I don't know
+00:59:40 I think she's like 15
+00:59:42 but I have no idea if that's true or not
+00:59:44 I've never seen this person's content
+00:59:46 this person
+00:59:48 the most recent video
+00:59:50 was just something about
+00:59:52 self-improvement
+00:59:54 self-improvement and
+00:59:56 and mindsets and stuff you know stuff that
+00:59:58 most people in the PCP
+01:00:00 like they're all right with that I occasionally
+01:00:02 like the laps and I'm
+01:00:04 stupid a lot of the time so I just need
+01:00:06 some like
+01:00:08 motivational but like like helpfully
+01:00:10 motivational I think that's the way I would describe it
+01:00:12 it's not merely like someone's here for you
+01:00:14 I have this problem too
+01:00:16 it's like she actually is smart in the way that
+01:00:18 she goes about her scripts
+01:00:20 to talking about this stuff
+01:00:22 so I'm like yeah you're a reasonable
+01:00:24 intelligent person the animation is
+01:00:26 good and it's and
+01:00:28 you know the jokes are pretty good and I like
+01:00:30 them and I want to be your
+01:00:32 friend jaden animations but not through the PCP
+01:00:34 hey you know wanting to be
+01:00:36 someone's friend is how you got into youtube in
+01:00:38 the first place well okay not how you started
+01:00:40 but like pony stuff it's
+01:00:42 um wanting to be digi's
+01:00:44 friend was how I became a brony analyst I think
+01:00:46 right right right
+01:00:48 it works
+01:00:50 so keep it up
+01:00:52 you know on that point give I've long
+01:00:54 thought that it was kind of strange
+01:00:56 that you didn't leverage more of your animation
+01:00:58 skills on youtube
+01:01:00 for your youtube content since it's kind of
+01:01:02 like your primary skill
+01:01:04 it's alright primary skill
+01:01:06 primary skill is like one way
+01:01:08 of putting it it is a skill that I have
+01:01:10 and I know a lot about it
+01:01:12 animation is very
+01:01:14 time intensive and it's very
+01:01:16 involved
+01:01:18 if I can get away if I can get away with
+01:01:20 not animating anything
+01:01:22 I would
+01:01:24 it's like one of the biggest things
+01:01:26 I was thinking about how Tom spent
+01:01:28 like a year and a half
+01:01:30 animating like six pages of
+01:01:32 emotion comic and Nate's like
+01:01:34 why don't you just do it
+01:01:36 two videos
+01:01:38 if only it was that
+01:01:40 god I'm smart
+01:01:44 like it's
+01:01:46 one of the major things I learned
+01:01:48 because you know to save time
+01:01:50 in animation
+01:01:52 there is an art to
+01:01:54 not animating
+01:01:56 like over animator stuff you draw
+01:01:58 on ones
+01:02:00 some things just don't work on one some things
+01:02:02 work when there's like just one frame
+01:02:04 extreme frame and then another extreme frame
+01:02:06 like a trigger does this a lot
+01:02:08 with stuff they leave
+01:02:10 out a lot of in-betweens to make it more punchy
+01:02:12 and so I learned
+01:02:14 that you can do a lot with
+01:02:16 a lot less as long as you know when to
+01:02:18 do a lot less
+01:02:20 so I'm you know especially with editing
+01:02:22 I apply that to editing and
+01:02:24 anything visual you don't need to
+01:02:26 show everything that's why a lot of the animations
+01:02:28 I did for
+01:02:30 my uni course were like
+01:02:32 you know the first one the fish at the door
+01:02:34 there is no background and the character
+01:02:36 there's no color but like the point of
+01:02:38 it is just to make you laugh with the joke
+01:02:40 so as long as the joke comes through
+01:02:42 with the right timing
+01:02:44 it really doesn't matter what it looks like
+01:02:46 and that's how I managed to make that
+01:02:48 really good despite having no drawing in it
+01:02:50 really at all
+01:02:52 it's like yeah
+01:02:54 brief history lesson the trigger style you're describing
+01:02:56 is called limited animation
+01:02:58 it's basically
+01:03:00 all anime uses to some extent
+01:03:02 however in the
+01:03:04 70's animator Yoshinori Kanada
+01:03:06 I believe was the guy who
+01:03:08 started making like really dynamic
+01:03:10 poses between extreme frames
+01:03:12 and popularized that style
+01:03:14 and uh, Gainax were big fans of him
+01:03:16 especially Maishi so they basically
+01:03:18 you know did that
+01:03:20 I'm gonna tell that guy
+01:03:22 if he shows me that shitty animation
+01:03:24 take your ass back to Canada
+01:03:26 where you came from
+01:03:28 oh fuck you
+01:03:30 to answer the question
+01:03:32 of why I don't do animation in my
+01:03:34 content is really just
+01:03:36 it's a lot of work
+01:03:38 it's a lot of work and it's easier to
+01:03:40 just put a camera on and
+01:03:42 dance for the camera
+01:03:44 like how I look at my stupid dance in face
+01:03:46 that's fair but now
+01:03:48 I look gross and I want to never be seen
+01:03:50 on live action ever again
+01:03:52 that's excellent motivation
+01:03:54 I'd say
+01:03:56 uh, yeah
+01:03:58 I mean it seems like animators
+01:04:00 just get a lot of views
+01:04:02 so it seems like
+01:04:04 there's something
+01:04:06 I can imagine that if I was
+01:04:08 like more myself
+01:04:10 in the way that I approached
+01:04:12 topics and was like really
+01:04:14 analytical or really edgy
+01:04:16 that it wouldn't get really any views
+01:04:18 because
+01:04:20 part of it is like the hashtag
+01:04:22 relatable me and
+01:04:24 stuff and the teenage audience
+01:04:26 and the demographic you see an animating
+01:04:28 like channel
+01:04:30 you know cool
+01:04:32 but if you see the title it's like
+01:04:34 relatable x thing
+01:04:36 it's like oh you know what I'm clicking on it
+01:04:38 yeah
+01:04:40 even though I know that it's very often
+01:04:42 like not interesting I do that
+01:04:44 these channels are kind of like the youtube
+01:04:46 equivalent of the four panel comics on tumblr
+01:04:48 and twitter it's like the same kind of idea
+01:04:50 of just like here's the thing that everybody
+01:04:52 does and it connects with them
+01:04:54 so they get views
+01:04:56 you know this really this reminds me that
+01:04:58 like so there's a resurgence a little bit
+01:05:00 this happens every once in a while the galco video
+01:05:02 which like start to get a bunch more views
+01:05:04 and it's really fascinating
+01:05:06 the success of that galco video is
+01:05:08 not at all
+01:05:10 what I intended and I kind of don't deserve
+01:05:12 the like success of it
+01:05:14 because while everything I said
+01:05:16 in it was true
+01:05:18 the message that people took away
+01:05:20 wasn't as like 1.15
+01:05:22 million views or whatever
+01:05:24 the reason is because it struck
+01:05:26 a nerve with fat girls
+01:05:28 fat girls who like
+01:05:30 think that they have such a great personality
+01:05:32 love that fucking video
+01:05:34 because they think when I'm talking about
+01:05:36 thick girls I'm talking about them
+01:05:38 when that was never intended
+01:05:40 but that's just what is read into it
+01:05:42 and uh
+01:05:44 it's like almost a body positivity
+01:05:46 video looking back on it now
+01:05:48 as a like just be yourself
+01:05:50 it's a literal I don't know
+01:05:52 nay nay you should make a follow up
+01:05:54 called fat is whack
+01:05:56 I've been thinking about making a clarification
+01:05:58 we Agua on that video
+01:06:00 explaining it's just just like
+01:06:02 you can take away from it whatever you want
+01:06:04 I believe in death of the author for the most part
+01:06:06 but I just want to explain what I meant
+01:06:08 and I you're not gonna like it
+01:06:10 ladies but I'm gonna tell you
+01:06:12 what I meant to say
+01:06:14 that honestly that's a great idea
+01:06:16 it disappears
+01:06:18 it disappears it's gone
+01:06:20 I can see it now you just like start with like
+01:06:22 a narration over like anime
+01:06:24 or whatever like more of a galco
+01:06:26 footage then just cuts to you like doing
+01:06:28 pull-ups like without a shirt on it's like
+01:06:30 do you really think I give a shit about you bitches
+01:06:32 that's true that's true and it's like
+01:06:34 like it was it's interesting because like people
+01:06:36 like like jessica nigiri started following me
+01:06:38 after I made that video and she's
+01:06:40 basically the target I was
+01:06:42 I was hoping to reach that's like actually
+01:06:44 hot you know girl
+01:06:46 and whatever you can have whatever thoughts you want
+01:06:48 about old bald nigiri no offense Jessica
+01:06:50 I love your content
+01:06:52 I'm sure you're listening to this right now
+01:06:54 but like so she she's
+01:06:56 like a woman who takes care of herself
+01:06:58 she's fit but she was probably always like
+01:07:00 awkward weird anime girl
+01:07:02 in high school who didn't fit in and
+01:07:04 like that I get because
+01:07:06 she's someone who works hard and I respect
+01:07:08 what she does and
+01:07:10 that's all cool but but then
+01:07:12 you've got definitely definitely
+01:07:14 a bunch of fat girls just listening
+01:07:16 to this episode being like oh my god
+01:07:18 galco looks exactly like me and I'm such
+01:07:20 like a nice person but nobody can recognize
+01:07:22 it because they just judge me based on McCurves
+01:07:24 I am positive that that
+01:07:26 is the demographic that like
+01:07:28 resonated with the video the most
+01:07:30 and I don't like you people
+01:07:32 so you know
+01:07:34 well it was big on tumblr so
+01:07:36 I just get comments
+01:07:38 unironically gotten comments
+01:07:40 and yeah it was big on tumblr so that's how you know
+01:07:42 I got
+01:07:44 comments saying literally
+01:07:46 like OMG and I'm sure this person was like
+01:07:48 12 or something but with huge titties
+01:07:50 like OMG
+01:07:52 galco looks just like me
+01:07:54 and also I'm super nice
+01:07:56 but everyone treats me you know
+01:07:58 like I'm just a dumb girl you actually
+01:08:00 got comments like that one
+01:08:02 absolute I'm gonna go find one right now
+01:08:04 and read it off because it's it's it's
+01:08:06 unreal if she if they say
+01:08:08 galco looks just like me they're lying
+01:08:10 they are telling a lie if they say that
+01:08:12 or they're delusional what if there's a few of them
+01:08:14 that are actually like that
+01:08:16 those people wouldn't be dumb enough
+01:08:18 to comment on this fucking video saying that
+01:08:20 that's I unironically
+01:08:22 think that
+01:08:24 I'm gonna go find one right now
+01:08:26 okay thoughtful a lot of shitty
+01:08:28 galco does not have a body type that is common
+01:08:30 no
+01:08:32 absolutely not
+01:08:34 hard to imagine dude I look just like galco
+01:08:36 in my dreams
+01:08:38 there's a lot of comments like am I the only one
+01:08:40 who blah blah blah
+01:08:42 shut the hell up okay now see this boy
+01:08:44 this boy gets it uh sadly
+01:08:46 there are no real women with
+01:08:48 weaponized thickness for the forces of good
+01:08:50 now this guy proud migtau such as
+01:08:52 myself um okay well you know what
+01:08:54 I'll I'll I'll let you know if I
+01:08:56 find one but we can
+01:08:58 we can move on here
+01:09:00 uh oh here we go another red pilled individual
+01:09:02 you know girls like her don't exist
+01:09:04 irl good looking and kind
+01:09:06 is a myth anime proved
+01:09:08 it pretty well in showing us example
+01:09:10 of perfect girls that you can't find
+01:09:12 in our 3d world xd
+01:09:14 that's a real comment
+01:09:16 that's like that's like the v goer
+01:09:18 that's just your mind on in in like
+01:09:20 a text form like the minority
+01:09:22 viewers of this video are like people on
+01:09:24 4chan who just like want to watch a review of
+01:09:26 galco or whatever like me
+01:09:28 and that's and like that's
+01:09:30 clearly coming from that crowd it's just
+01:09:32 fascinating you know oh my god
+01:09:34 here we go okay here's one here's the go
+01:09:36 this is it this is a real
+01:09:38 comment on the galco video an anime
+01:09:40 heroine with my body type
+01:09:42 and personality
+01:09:44 well guess I'm a weeb again
+01:09:46 that's no real
+01:09:48 comment on this
+01:09:50 video oh dear
+01:09:52 can you believe that
+01:09:54 that's real
+01:09:56 your fat I'm sorry but your fat
+01:09:58 you need to just address the reality of
+01:10:00 the situation you need to move on
+01:10:02 okay let's move on I'm sorry to waste
+01:10:04 this is it this is the one this is the episode
+01:10:06 that your work is gonna find
+01:10:08 and you're done
+01:10:10 Nate we brown out you
+01:10:12 don't respect women and we have
+01:10:14 a clear no discrimination
+01:10:16 guys guys
+01:10:18 you know all women are queens
+01:10:20 Nate doesn't respect fat men
+01:10:22 they're all women
+01:10:24 I don't respect fat men that's true
+01:10:26 it's not a sexist thing
+01:10:28 our corporate policy dictates
+01:10:30 that being fat is a protected class
+01:10:32 and so you can't say anything
+01:10:34 I mean that's true in some
+01:10:36 fucking people's corporate
+01:10:38 anyway anyway
+01:10:40 we could go to voicemails
+01:10:42 unless somebody else want to talk about something else
+01:10:44 I just really want to get a drink
+01:10:46 okay you can take a minute
+01:10:48 somebody say something entertaining
+01:10:50 well I'm gone
+01:10:52 oh Christmas I said that in the beginning
+01:10:54 it's coming
+01:10:56 if you guys want to get us a present for Christmas
+01:10:58 go to patreon.com
+01:11:00 slash the procrastinators
+01:11:02 get your significant other
+01:11:04 the gift they'll treasure forever at patreon.com
+01:11:06 slash procrastinator by stealing their credit card
+01:11:08 and signing them up for an account
+01:11:10 you know go straight for the $100
+01:11:12 tier would be my recommendation
+01:11:14 the best Christmas present you can give your family
+01:11:16 is 20 amazing bonus episodes
+01:11:18 of the PCP they couldn't listen to before
+01:11:20 it's $5 a month
+01:11:22 it's funny to shill but it's not that funny
+01:11:24 we know this from
+01:11:26 from experience
+01:11:28 alright
+01:11:30 Christmas decorating
+01:11:32 every year
+01:11:34 my family
+01:11:36 has the old tree
+01:11:38 the cut real wooden tree
+01:11:40 we put it somewhere we decorate things with lights
+01:11:42 but this is the first time
+01:11:44 we have the dog
+01:11:46 on a Christmas
+01:11:48 and this dog loves chewing
+01:11:50 he loves eating
+01:11:52 we were really scared that he would
+01:11:54 destroy everything
+01:11:56 but he's been very good
+01:11:58 so that's my Christmas decoration
+01:12:00 story
+01:12:02 how do you guys decorate
+01:12:04 during the holidays
+01:12:06 you know just throw some shit around
+01:12:08 I think we have a fake tree that we need to set up
+01:12:10 or something I can't remember
+01:12:12 no we definitely don't I should buy one
+01:12:14 I'm feeling not Christmasy at all
+01:12:16 have you guys just fucking scrooge that I didn't
+01:12:18 even realize it was almost Christmas
+01:12:20 yeah me neither
+01:12:22 the holidays have ceased to exist
+01:12:24 when Halloween came around
+01:12:26 and Ben and Munchy just showed up
+01:12:28 I'm like oh right
+01:12:30 it's Halloween
+01:12:32 I guess we should do something and we didn't
+01:12:34 I don't like being a scrooge
+01:12:36 if I'm not
+01:12:38 thinking about it I will forget
+01:12:40 but I also
+01:12:42 I'm not huge into the preparations
+01:12:44 and the music
+01:12:46 it's just nice to have it around me
+01:12:48 maybe saying scrooge is the wrong
+01:12:50 I'm just like so in my own shit
+01:12:52 and disconnected from all of humanity
+01:12:54 that like
+01:12:56 it doesn't even occur to me until it's like
+01:12:58 on my doorstep, literally
+01:13:00 when the children are ringing the doorbell
+01:13:02 you're involved being a pure energy
+01:13:04 I'm not even trying to flex
+01:13:06 I'm saying it as a negative
+01:13:08 that I'm just so disconnected from everything that happens
+01:13:10 because it's fine
+01:13:12 to be a little disconnected and all
+01:13:14 but I get a lot of joy
+01:13:16 from like specifically
+01:13:18 I'm actually not going to be with my family for Christmas
+01:13:20 for the first time ever because I'm going to Hawaii
+01:13:22 to hang out with Michelle and her family
+01:13:24 which is going to be dope
+01:13:26 but it's going to be a little sad
+01:13:28 because I'm not with those guys because I really like
+01:13:30 being with my family around the holidays
+01:13:32 but taking a year off
+01:13:34 taking a year to be doing something else
+01:13:36 my family is like
+01:13:38 I won't say that they're
+01:13:40 insufferable around the holidays
+01:13:42 but it's like
+01:13:44 everyone's harder to be around
+01:13:46 when they're all like
+01:13:48 worried about the holidays
+01:13:50 when everyone's like trying to set up
+01:13:52 for the holidays it's just like
+01:13:54 anything about the holidays that stresses me out
+01:13:56 I hate
+01:13:58 I just want to relax and be happy
+01:14:00 I've never understood why people do these things
+01:14:02 that stress them out for the sake of tradition
+01:14:04 it's just like
+01:14:06 because they're the same people who will be like
+01:14:08 the holiday isn't about this corporatization
+01:14:10 it's about spending time with family
+01:14:12 guys we have to get a treat
+01:14:14 and I'm like
+01:14:16 it's about family
+01:14:18 but it's more about impressing the family
+01:14:20 to let the parents know that we're doing well
+01:14:22 and we're not fucked up
+01:14:24 mom it's okay
+01:14:26 I'm doing well
+01:14:28 my children are fine, it's all good
+01:14:30 my house is lovely and clean
+01:14:32 oh my god
+01:14:34 that's what Christmas is for a lot of people
+01:14:36 the weirdest thing is that my family is like
+01:14:38 three people
+01:14:40 and I put on appearances
+01:14:42 I live here
+01:14:44 all the rest of the days
+01:14:46 I understand what this house is really like
+01:14:48 you're not fooling me, you just look like an idiot right now
+01:14:50 stop it
+01:14:52 very weird
+01:14:54 there's one positive thing
+01:14:56 when people come to visit
+01:14:58 my mom came to visit a couple months ago
+01:15:00 for the first time
+01:15:02 and we had to clean up around here
+01:15:04 because
+01:15:06 we had moved in fairly recently
+01:15:08 we were all just kind of around
+01:15:10 having my mom come was an excellent motivator
+01:15:12 to finally get our shit together
+01:15:14 and actually clean up and make this place decently livable
+01:15:16 and now it is
+01:15:18 and it's nice and if she hadn't come
+01:15:20 we probably would have been so lazy
+01:15:22 that it still would just be like shitty stuff in boxes
+01:15:24 not totally moved in
+01:15:26 so like in that way
+01:15:28 I kind of like having those kind of
+01:15:30 fires under my ass
+01:15:32 to actually get shit done be it like a holiday
+01:15:34 or just people coming to visit or something
+01:15:36 so I don't know
+01:15:38 there's an advantage I kind of like about it
+01:15:40 but I just like the traditions
+01:15:42 I like having a tree
+01:15:44 I like doing gifts even though it's kind of stressful
+01:15:46 I just don't like
+01:15:48 ever having to do anything
+01:15:50 okay I'm with you
+01:15:52 I like
+01:15:54 I like some of it
+01:15:56 I like the getting of gifts for
+01:15:58 at least my immediate family
+01:16:00 because it's something I don't really do
+01:16:02 well
+01:16:04 obviously I don't do it all the time
+01:16:06 my birthday presents
+01:16:08 but you know
+01:16:10 it's just a big because I like getting gifts
+01:16:12 I had a phase when I was kind of a little
+01:16:14 younger when I was like
+01:16:16 you know what Christmas
+01:16:18 I'm just gonna not ask for anything
+01:16:20 and then I didn't get that much and I was sad
+01:16:22 because I like getting stuff
+01:16:24 so like I
+01:16:26 made a point to be like
+01:16:28 you know I'm going to try
+01:16:30 and just do the giving part
+01:16:32 I never did that as a child
+01:16:34 and my parents kind of made fun of me for like
+01:16:36 because I remember vividly
+01:16:38 there was an advert for like some
+01:16:40 fucking thing
+01:16:42 and in the advert a boy gave
+01:16:44 his parents a present and there's like
+01:16:46 enjoy the gift of giving with this fucking
+01:16:48 product
+01:16:50 and they said they look to me
+01:16:52 it's like hey you never did that when you were young
+01:16:54 I didn't know I had to do that
+01:16:56 so then I started buying
+01:16:58 gifts for parents and brothers and
+01:17:00 it was good it's just
+01:17:02 a nice feeling to be like
+01:17:04 you know thanks
+01:17:06 for thanks some for this thing
+01:17:08 it's like yeah no problem
+01:17:10 unironically not a joke giving gifts
+01:17:12 just feels good I totally
+01:17:14 subscribe to that
+01:17:16 but it's annoying is all
+01:17:18 it costs money Christmas cards
+01:17:20 Christmas cards are the worst thing because that's like
+01:17:22 the biggest obligation and it's easy
+01:17:24 enough to send like
+01:17:26 my mom has like
+01:17:28 boxes of
+01:17:30 upon boxes of like Christmas cards
+01:17:32 that she's bought in advance ready to
+01:17:34 like in like a
+01:17:36 fucking celebrity at a book signing
+01:17:38 to just sign a bunch of these cards
+01:17:40 get everybody around the family to sign these cards
+01:17:42 to send to every single relative possible
+01:17:44 and friend and it's just
+01:17:46 that's so much work
+01:17:48 it's a lot of work for a piece of card that people
+01:17:50 open they're like oh that's nice
+01:17:52 I know I'm about to make an argument that I'm sure
+01:17:54 someone else has made before
+01:17:56 but like the problem I have with Christmas gift
+01:17:58 giving is that giving someone a gift
+01:18:00 is most fun when you happen
+01:18:02 to find something that they will like
+01:18:04 when you like see something
+01:18:06 that makes a big difference I feel like this person
+01:18:08 would like this before yeah and it's not
+01:18:10 as much fun when you have to like go out
+01:18:12 in search of something for that person
+01:18:14 and you can't find anything and then like
+01:18:16 so for me when it comes to holidays
+01:18:18 and shit I just always
+01:18:20 take people out to eat it's always been my policy
+01:18:22 it's just like I'll buy you a meal
+01:18:24 because
+01:18:26 because I get something out of it too
+01:18:28 I have somebody to go eat with
+01:18:30 and I love to go out to eat
+01:18:32 and like
+01:18:34 so yeah because in any other
+01:18:36 circumstances if I do just find
+01:18:38 something I want to buy for somebody and buy it
+01:18:40 and it's not Christmas I'm not
+01:18:42 going to hold on to it
+01:18:44 it's just like here just take the thing
+01:18:46 you could use it now probably
+01:18:50 why hold out
+01:18:52 I never really like I
+01:18:54 started off like the first year I did it
+01:18:56 you know you never hear
+01:18:58 of people just asking each other for gifts
+01:19:00 it's always a surprise you have to get a surprise gift
+01:19:02 so I bought some crap
+01:19:04 at a toy store for my brothers and they didn't like it
+01:19:06 and that was the end of that
+01:19:08 so the next year I just asked them what they wanted
+01:19:10 and
+01:19:12 then they
+01:19:14 asked me what I wanted and it was like
+01:19:16 we just
+01:19:18 very upfront about it and then we forget
+01:19:20 what we asked for and then we get it and it's like
+01:19:22 it's still a surprise because we forgot
+01:19:24 by the time me and my brothers were adults
+01:19:26 we were like ordering our own
+01:19:28 off of Amazon like our own Christmas presents
+01:19:30 like my dad's just like here's your budget
+01:19:32 go buy as much whatever you
+01:19:34 okay you know what I'll just say on the
+01:19:36 on this subject I
+01:19:38 my fucking
+01:19:40 parents do this and I
+01:19:42 hate that they do this and it's exactly
+01:19:44 what you're talking about they'll say
+01:19:46 Nate go find what you want
+01:19:48 for Christmas and we'll buy it
+01:19:50 I don't want a homework assignment
+01:19:52 for a gift that I have to go do
+01:19:54 and I hate it I will never
+01:19:56 ever force anyone to do that
+01:19:58 and no one ever asked me
+01:20:00 to pick up my own fucking gift
+01:20:02 the funny thing is that it got so much better after that point
+01:20:04 because once we all finally grew up
+01:20:06 and we were like we're too old
+01:20:08 for Christmas I don't want anything anymore though
+01:20:10 that's the thing I just don't want to bother
+01:20:12 I don't want anything I have my own money
+01:20:14 so then once it reached that point
+01:20:16 like where it was like yeah everybody's like
+01:20:18 because me and my brothers are all like that
+01:20:20 we're all just like I don't buy anything
+01:20:22 I can get it myself
+01:20:24 because it got to that point my dad
+01:20:26 still wanted to have Christmas he just started
+01:20:28 buying people whatever the fuck he felt like
+01:20:30 and it was way better
+01:20:32 that's where my robe came from
+01:20:34 like that's where my big fucking coat
+01:20:36 came from
+01:20:38 this is when your dad just started picking out stuff
+01:20:40 yeah when he just started buying us whatever
+01:20:42 he wanted us to have
+01:20:44 he liked goofy coats and stuff
+01:20:46 because he likes to see me wearing that shit
+01:20:48 and those were sick
+01:20:50 I'm like no problem dude
+01:20:52 it's called
+01:20:54 it's not giving if the person picks out
+01:20:56 exactly what it is
+01:20:58 I know some people are into it
+01:21:00 some people just like to be pragmatic
+01:21:02 I despise it
+01:21:04 I don't know
+01:21:06 I feel like it's
+01:21:08 nice when you get something that you want
+01:21:10 and you didn't have to pay for it
+01:21:12 I don't know what it is
+01:21:14 I'd even rather get something I don't want
+01:21:16 that somebody just thought I would like
+01:21:18 they put some degree of thought into it
+01:21:20 at all
+01:21:22 sometimes one of us just doesn't know what we want
+01:21:24 and then the other person has to think of something
+01:21:26 that's the real gift
+01:21:28 that process of thinking what we want
+01:21:30 as far as I'm concerned that's the actual gift
+01:21:32 that they're giving you
+01:21:34 the issue with
+01:21:36 getting gifts that you've asked for
+01:21:38 is that when you're in that situation
+01:21:40 you usually have to get somebody else a gift
+01:21:42 as well
+01:21:44 let's say I'm
+01:21:46 getting a gift from my sister
+01:21:48 and she tells me what she wants
+01:21:50 and I get her something
+01:21:52 I haven't really gotten a gift
+01:21:54 I've just paid for what I got indirectly
+01:21:56 let's say I want a playstation game
+01:21:58 she wants a switch game
+01:22:00 I basically just bought the game
+01:22:02 I just wasn't at the register when it happened
+01:22:04 it feels
+01:22:06 not the same
+01:22:08 I'm still at 60 bucks
+01:22:10 nothing's happened
+01:22:12 I guess you're right
+01:22:14 I don't know I don't feel so bad about it
+01:22:16 and I don't want to start feeling bad about how
+01:22:18 feel bad
+01:22:20 I'm not trying to say that that's wrong
+01:22:22 that's just
+01:22:24 I think I'm too cynical about it
+01:22:26 and I think over thought it
+01:22:28 and I'm like damn it it's ruined
+01:22:30 what sucks for me is that
+01:22:32 I had outsmarted all this when I was a kid
+01:22:34 but couldn't keep up as an adult
+01:22:36 because when I was a kid
+01:22:38 I would just make shit for my parents
+01:22:40 I would always just write my mom
+01:22:42 a poem or a song
+01:22:44 give them a card
+01:22:46 that had some cool writing a picture
+01:22:48 or something
+01:22:50 me and my brothers always made stuff for our parents
+01:22:52 because my mom is impossible to buy shit for
+01:22:54 she doesn't particularly like anything
+01:22:56 unless it's like an Alice in Wonderland
+01:22:58 collectible or the Sandman
+01:23:00 collectible
+01:23:02 those are the only sure-fire things
+01:23:04 or some kind of monkey
+01:23:06 plush or something like that
+01:23:08 maybe a plushie I don't fucking know
+01:23:10 she doesn't like anything
+01:23:12 so you just make something for her
+01:23:14 and she'll always appreciate it way more
+01:23:16 but then I kind of ran out of ideas
+01:23:18 the last thing I did
+01:23:20 for my parents was on each of their birthdays
+01:23:22 made them an analysis video
+01:23:24 back in the early pony days
+01:23:26 you could find thoroughly analyzing
+01:23:28 Todd Collins or whatever in my playlist
+01:23:30 oh yeah
+01:23:32 but
+01:23:34 once you've done that once
+01:23:36 I'm not going to make up new shit to say about you
+01:23:38 yeah
+01:23:40 well you know
+01:23:42 there's a lot I don't know about my parents
+01:23:44 alright
+01:23:46 this year
+01:23:48 it was particularly
+01:23:50 it felt good
+01:23:52 because me and mom were going around
+01:23:54 shopping for people
+01:23:56 and mom was buying baby toys for
+01:23:58 new members of the family
+01:24:00 even more
+01:24:02 nephews and all that
+01:24:04 and she's buying baby toys
+01:24:06 and she's asking me like
+01:24:08 don't you know that my little pony thing
+01:24:10 what is this
+01:24:12 you know that was a weird moment
+01:24:14 but there was this
+01:24:16 this nice necklace
+01:24:18 and my mom was looking at it
+01:24:20 and it was like 18 pounds
+01:24:22 and I was like I'll buy that for you for Christmas
+01:24:24 and she's like oh really
+01:24:26 there's really nice views
+01:24:28 like a pound necklace
+01:24:30 for a second
+01:24:32 that's a chain boy
+01:24:34 we call that a chain
+01:24:38 yeah very good
+01:24:40 very funny
+01:24:42 god I've heard that so often for some reason
+01:24:44 like every time I speak in my own currency
+01:24:46 everyone's like
+01:24:48 oh you idiot
+01:24:50 that joke was the first thing that came into my head
+01:24:52 when you said that
+01:24:54 even to me that feels stale and old
+01:24:56 I didn't say it as a joke
+01:24:58 I legitimately thought that you were talking
+01:25:00 about an 18 pound necklace
+01:25:02 and I was like whoa
+01:25:04 yeah I know
+01:25:06 it's just I hate it
+01:25:10 anyway I felt like a real man
+01:25:12 because I had cash in my wallet and I paid
+01:25:14 for the thing and I have it
+01:25:16 and I'm gonna wrap it up nice and she's gonna open it
+01:25:18 and she's gonna be like oh yeah
+01:25:20 it's not really about like
+01:25:22 the surprise or like
+01:25:24 the
+01:25:26 it's the thought that counts and the thought is
+01:25:28 I'm going to give you something
+01:25:30 yeah sure
+01:25:32 I don't really
+01:25:34 I mean my brothers I don't know how they feel about it
+01:25:36 I assume they just don't really care
+01:25:38 and they don't feel like oh man
+01:25:40 I would have rather gotten something random
+01:25:42 that you care to give me
+01:25:44 they don't give a shit
+01:25:46 they're just happy to have a new thing
+01:25:48 my thing right now is that my parents
+01:25:50 are still like we need to get you
+01:25:52 something for Christmas and I'm just like
+01:25:54 no you don't
+01:25:56 you can stop because
+01:25:58 my parents don't have a lot of money
+01:26:00 but they still try and do those things
+01:26:02 and I'm like on the one hand I don't want to like
+01:26:04 I mean it's a matter of pride
+01:26:06 I know it is because there was a time when
+01:26:08 my family they couldn't afford to throw a Christmas
+01:26:10 there was one time
+01:26:12 my grandma actually did it for us
+01:26:14 she didn't really have the money
+01:26:16 to do it but she was just like it's too important
+01:26:18 that they have a Christmas
+01:26:20 then like
+01:26:22 I get that but like I'm 30
+01:26:24 it's okay because like they were talked
+01:26:26 I was over there like a month ago
+01:26:28 and I was talking with the parents and they were like
+01:26:30 yeah we want to get your younger sister
+01:26:32 because I have a younger sister who's like 17
+01:26:34 and like she really wants a
+01:26:36 switch and we're like is there any way we can
+01:26:38 get it cheaper than $300
+01:26:40 getting Nintendo products on sale hilarious
+01:26:42 so I'm like no like it's gonna be
+01:26:44 like that's just how much you're gonna have to pay for it
+01:26:46 they might have a holiday bundle or something
+01:26:48 it's gonna be $300
+01:26:50 and so I was saying like
+01:26:52 just get me nothing and put my money
+01:26:54 that you would spend on me towards that
+01:26:56 like it's chill I don't mind
+01:26:58 you know and they were just like oh no
+01:27:00 but like we already like bought it and stuff
+01:27:02 like we're already planning on getting it
+01:27:04 like we still need to get you something we got your sister a guitar
+01:27:06 so like we need to get you something like
+01:27:08 you don't have to it's chill it's fine
+01:27:10 you know like use like because I don't
+01:27:12 the only thing I think I know what I want
+01:27:14 for Christmas now is a cheap guitar
+01:27:16 it's like that's a good one that's good
+01:27:18 because like cheap because
+01:27:20 if they asked me like son like what would you
+01:27:22 like for Christmas like what if like
+01:27:24 what would you like a roof over your head
+01:27:26 yeah yeah and it's like
+01:27:28 roll it through your fucking brain
+01:27:30 things that I would ask for like things
+01:27:32 that I would like like want
+01:27:34 for like production for like my work and stuff like
+01:27:36 oh could you get me a fucking
+01:27:38 like Dell XPS 13 with a 4k
+01:27:40 screen and like yeah that's the thing
+01:27:42 like the things that I quote unquote
+01:27:44 want are like a grand
+01:27:46 plus and I'm never going to ask for
+01:27:48 something that's that much because it's insane
+01:27:50 so I'm just like just don't worry about it
+01:27:52 like I would the gift for me in that situation
+01:27:54 is like I would like my little
+01:27:56 sister who's becoming a gamer and is going
+01:27:58 to have her life ruined forever to at least
+01:28:00 have the console to console her when all her friends
+01:28:02 thinks she's too weird you know what she'll be
+01:28:04 she'll be one more precious
+01:28:06 viewer giving that one cent of ad
+01:28:08 revenue on imgames.com
+01:28:10 so that's worth it that's a worthwhile
+01:28:12 investment that is not fun sorry
+01:28:14 sorry it's it's fun
+01:28:16 patreon.funds
+01:28:18 give me some funds you know when I
+01:28:20 actually the microphone I'm using right now
+01:28:22 was technically a Christmas
+01:28:24 present I believe like three years ago
+01:28:26 but like because it's so expensive
+01:28:28 there's like 400 bucks or whatever I asked
+01:28:30 my parents to put down like half the money and I'd
+01:28:32 put down half and that's how we would like
+01:28:34 you know kind of there's there was a lot of
+01:28:36 credit in that way around my yeah
+01:28:38 yeah Victor's camera
+01:28:40 was bought that way
+01:28:42 all right shit's expensive man
+01:28:44 where the money go
+01:28:46 I just need that dick
+01:28:48 replacement but I you know it's more than
+01:28:50 get the money they're willing to spring for
+01:28:52 all right well guys good talk
+01:28:54 is it time yeah it's time let's get to
+01:28:56 these voicemails okay so we got
+01:28:58 we got nine total but the first one
+01:29:00 is a public service
+01:29:02 announcement from
+01:29:04 from stop please
+01:29:06 is the name of this individual so
+01:29:08 hang on I know there's a little dead
+01:29:10 sound so I'm gonna let it play for a second here
+01:29:12 but okay here it goes
+01:29:14 stop
+01:29:16 talking over voicemails
+01:29:20 that's it but why
+01:29:22 how are we gonna make comments about things
+01:29:24 they say this okay this is an
+01:29:26 interesting one which is why I wanted to play it
+01:29:28 first so
+01:29:30 talking over voicemails I think
+01:29:32 is something that like adds to the experience
+01:29:34 but I don't want to make things inaudible
+01:29:36 for people either you know
+01:29:38 don't we post them in the show notes
+01:29:40 no we actually don't
+01:29:42 they're all hosted on SoundCloud
+01:29:44 I mean the most important thing
+01:29:46 the most important thing to hear
+01:29:48 is laughter when there's a joke
+01:29:50 absolutely absolutely
+01:29:52 yeah I mean that person would be fucking
+01:29:54 probably devastated if they didn't hear any laughter
+01:29:56 over their joke
+01:29:58 yeah okay let's just try to talk less
+01:30:00 over the audio I guess when would appropriate
+01:30:02 but I'm not gonna fucking stop laughing
+01:30:04 okay duly noted thank you
+01:30:06 moving on here's Bobo the
+01:30:08 addicted hobo calling in
+01:30:10 what have you got
+01:30:12 alright guys you know that funny ha ha
+01:30:14 meme about the pcp being addicted like
+01:30:16 ajo dust and you actually start
+01:30:18 craving it well it's not a ha ha funny
+01:30:20 meme for me it's actually real life
+01:30:22 so let me give you my backstory
+01:30:24 a year and a half ago I was
+01:30:26 at the gym and I was a wee
+01:30:28 weak boy and I was too embarrassed
+01:30:30 that people were looking at me so I started listening
+01:30:32 podcasts to distract myself
+01:30:34 it all started with a monkey and didgy one
+01:30:36 and I liked it so much that I was like
+01:30:38 why not give the pcp a chance
+01:30:40 yeah then
+01:30:42 I started listening to it even after I was
+01:30:44 doing the gym on my way to home
+01:30:46 I liked it even more
+01:30:48 so I started listening to it every single
+01:30:50 time when I'm outside
+01:30:52 and I'm walking and I'm not talking to another
+01:30:54 person but I actually
+01:30:56 realized how bad this shit is
+01:30:58 two days ago when I lost my
+01:31:00 phone I wasn't able to listen to the pcp
+01:31:02 I was riding my bike to
+01:31:04 uni my mind wasn't in
+01:31:06 normal state I was confused
+01:31:08 I was scared and I actually hit
+01:31:10 a guy because
+01:31:12 I was not doing the pcp
+01:31:14 fuck
+01:31:16 this shit is bad
+01:31:18 it was probably missed that five more episodes
+01:31:20 and I'll be caught up and I'll have
+01:31:22 to wait a week to get my
+01:31:24 dose fuck
+01:31:26 I know you guys have other
+01:31:28 shit go try listening to that
+01:31:30 go listen hopefully
+01:31:32 okay hang on it will be like
+01:31:34 jesus christ good enough but
+01:31:36 I don't know man
+01:31:38 it's scary
+01:31:40 it really is
+01:31:42 alright look look
+01:31:44 it's like the saying goes
+01:31:46 the first 137 hits are free
+01:31:48 but then you gotta pay
+01:31:50 for the bonus episodes
+01:31:52 that's exactly right
+01:31:54 that's the right way to go
+01:31:56 20 episodes waiting for you
+01:31:58 20 bonus episodes
+01:32:00 if you like digi bro
+01:32:02 there's the every youtube video
+01:32:04 featuring digi bro playlist with
+01:32:06 two months of content plus on it
+01:32:08 our boy here
+01:32:10 he's talking about how he's listening to
+01:32:12 all the pcp but he doesn't seem to have listened to any of
+01:32:14 our solo content so that's a world
+01:32:16 unto his own god there's a rabbit hole
+01:32:18 there's multiple rabbit holes
+01:32:20 watch the radcon playlist too but all three
+01:32:22 radcon playlist check those out
+01:32:24 and if you finish all our shit
+01:32:26 the dig show is also good for the same
+01:32:28 purposes
+01:32:30 I am racist
+01:32:32 but I couldn't understand
+01:32:34 what he was saying
+01:32:36 I got the gist of it
+01:32:38 did he run over someone on his bike
+01:32:40 he said he hit someone on his bike
+01:32:42 cause he couldn't listen to the pcp
+01:32:44 and he was getting the shakes
+01:32:46 and so he just swerved his bike
+01:32:48 oh like a drug
+01:32:50 there it is
+01:32:52 oh well good luck with your addiction
+01:32:54 keep listening though
+01:32:56 we're your sole provider
+01:32:58 alright next up moonju
+01:33:00 back at it again
+01:33:02 munchie tom
+01:33:04 I love the fact that you're starting
+01:33:06 to code frankly it is my
+01:33:08 favorite activity
+01:33:10 and I too am learning to code through school
+01:33:12 but why python
+01:33:14 python like I
+01:33:16 looked at it and it seems to be
+01:33:18 a really hard language for beginners
+01:33:20 like
+01:33:22 you know me
+01:33:24 and presumably you
+01:33:26 seeing as you both have
+01:33:28 little to no experience
+01:33:30 in actual coding
+01:33:32 so why did you choose python over any other
+01:33:34 beginner friendly languages
+01:33:36 like game maker
+01:33:38 studios or
+01:33:40 I don't know
+01:33:42 anything really
+01:33:44 game maker studios
+01:33:46 is very specific to video game making
+01:33:48 coding is not necessarily just
+01:33:50 games well I know
+01:33:52 the reason he's asking is because we both
+01:33:54 said the reason we're learning to code is to
+01:33:56 make games so the question is like
+01:33:58 a fair one to ask and I have
+01:34:00 the reason why is very simple
+01:34:02 it's because munchie is learning to code
+01:34:04 primarily to work on endless war
+01:34:06 and that's a discord and you extend discord
+01:34:08 through python so that just makes sense for him
+01:34:10 and then for me the game engine
+01:34:12 I want to use to make games in is godot
+01:34:14 and gd script its language
+01:34:16 is a derivative of python
+01:34:18 so just for our personal purposes the tools
+01:34:20 are going to be using pythons the one
+01:34:22 that makes the most sense
+01:34:24 I mean if I was just going to go into it
+01:34:26 completely blind I would probably just choose
+01:34:28 C sharp because it's like everywhere
+01:34:30 it even can be using to go
+01:34:32 they just added version to go that supports C sharp
+01:34:34 and it's also in unity and
+01:34:36 so like that would be like the most
+01:34:38 logical one to do
+01:34:40 but just because of the tools that we're both
+01:34:42 using and they both happen to line up with python
+01:34:44 python was like
+01:34:46 the one to go with
+01:34:48 I was curious about that
+01:34:50 you know I was actually his assertion that python
+01:34:52 is a particularly difficult language for beginners
+01:34:54 I find that strange
+01:34:56 I've heard the opposite I've heard python is a great
+01:34:58 beginner language python is in fact great
+01:35:00 in many ways one of which being
+01:35:02 you do not need to compile code
+01:35:04 in order to run it which is a huge advantage
+01:35:06 though one of the weird things
+01:35:08 about python is that white space management
+01:35:10 is extremely important
+01:35:12 and it will break your code
+01:35:14 someone got really mad at us for using python
+01:35:16 in the comments for that reason
+01:35:18 because they were just like oh the white space thing
+01:35:20 is bad and I personally because
+01:35:22 I've done a bit of gd script which again
+01:35:24 uses white space indentations for
+01:35:26 breaking up functions
+01:35:28 so I was like I didn't have a problem
+01:35:30 so I was just simply asked why
+01:35:32 and there was a paragraph
+01:35:34 this huge essay about
+01:35:36 how he worked on a professional project
+01:35:38 and one tab
+01:35:40 and it came up for days
+01:35:42 and it was like the worst experience ever
+01:35:44 man that's his fucking fault
+01:35:46 python tells you when you just weren't
+01:35:48 reading your fucking errors when you're compiling it
+01:35:50 you dumb shit so fucking get in there
+01:35:52 do it again and figure it out
+01:35:54 I personally like the white space
+01:35:56 because I am inherently lazy
+01:35:58 because like when I code an html
+01:36:00 it's a mess
+01:36:02 and I have to force myself to go back in after
+01:36:04 and format it so the fact that python
+01:36:06 forces good behavior
+01:36:08 shit in order
+01:36:10 or you're an idiot and it's not going to work
+01:36:12 I like that aspect
+01:36:14 I suppose you could kind of consider it
+01:36:16 training reels but whatever
+01:36:18 it's I find it kind of nice
+01:36:20 so whatever
+01:36:22 the other hand is like when I code an html
+01:36:24 tons of times I forget to close the bracket
+01:36:26 and nothing runs and I have to look through it
+01:36:28 everywhere trying to find where the bracket isn't
+01:36:30 for a present
+01:36:32 indeed
+01:36:34 you're fucked either way
+01:36:36 before the record I am in fact a professional
+01:36:38 programmer and python is the
+01:36:40 biggest language I use day to day
+01:36:42 that in Java but mostly python
+01:36:44 and you know what I thought might be fun at some point Tom
+01:36:46 I listened to the whole show enjoyed it quite a bit
+01:36:48 I thought that at some point maybe be fun
+01:36:50 especially since you're doing python
+01:36:52 to bring in
+01:36:54 my code that I made for the
+01:36:56 PCP pay calculator which is pure
+01:36:58 python
+01:37:00 dude it's funny that you say that because the last episode
+01:37:02 we just recorded last night
+01:37:04 I said I wonder when we're going to get to the
+01:37:06 point when we could make the
+01:37:08 PCP pay calculator yes
+01:37:10 that's a and Munchy said he wants
+01:37:12 to try and recreate it
+01:37:14 in his spare time to see if he can do it
+01:37:16 he should I'd be happy to provide just finished
+01:37:18 version like 1.5
+01:37:20 the other day which
+01:37:22 incorporates now individual
+01:37:24 this wasn't in the in the functions before
+01:37:26 but now you can
+01:37:28 attach a minor or major penalty
+01:37:30 not only to editors but to
+01:37:32 participants in the episode for degrees of
+01:37:34 lateness so now that's a function
+01:37:36 that's in there that I was using for the last one
+01:37:38 because this was an issue
+01:37:40 anyway we can talk about that later I just
+01:37:42 like talking about this a little bit
+01:37:44 code is cool and I'm excited
+01:37:46 to learn more python I like it so far
+01:37:48 and to be honest I looked at C sharp
+01:37:50 because like the tutorials for
+01:37:52 like Godot they have a toggle where you can
+01:37:54 look at the code in C sharp or python
+01:37:56 or Judy script and
+01:37:58 C sharp looked really scary and python
+01:38:00 looked
+01:38:02 not scary so I've never used C sharp
+01:38:04 so I don't know about it
+01:38:06 all right it's in my code
+01:38:08 let's go to the next one
+01:38:10 this is from JustJapGirls
+01:38:12 on Bowie
+01:38:14 is the full name
+01:38:16 let's see what he's got
+01:38:18 okay so this question is for
+01:38:20 Nate and I'm going to Japan
+01:38:22 for summer
+01:38:24 oh yeah
+01:38:26 see the new one this film
+01:38:28 and my question is what is the best
+01:38:30 length of time to be in Japan under two weeks
+01:38:32 because I don't have money
+01:38:34 for more than two weeks
+01:38:36 to get a good grasp of Japan
+01:38:38 yeah
+01:38:40 okay this is a preposterous question
+01:38:42 did you just use the whole two weeks?
+01:38:44 yeah the question was
+01:38:46 how much of a length of time
+01:38:48 under two weeks
+01:38:50 is the best amount of time
+01:38:52 to like get to know Japan
+01:38:54 all of it
+01:38:56 just use the two weeks
+01:38:58 okay I don't know
+01:39:00 if there's like some larger point there
+01:39:02 I could imagine that like
+01:39:04 I think he means bang for your buck ratio
+01:39:06 like what is the best?
+01:39:08 no what he means is that
+01:39:10 if he stays there for like five or six days
+01:39:12 it'll be okay but once you get over that
+01:39:14 people are going to start to notice that he's not Asian
+01:39:16 and they're going to start heckling him
+01:39:18 so he's going to have to get out of dodge quick
+01:39:20 it's one of those things
+01:39:22 where like
+01:39:24 potentially he could go for two weeks
+01:39:26 but if he could save money
+01:39:28 and go for a little less time
+01:39:30 and see basically the same amount of stuff
+01:39:32 he would rather go for less time
+01:39:34 how big of
+01:39:36 how much of Japan is he planning to explore
+01:39:38 that's the important part
+01:39:40 that's what I was going to say
+01:39:42 you don't need to be in Tokyo for one in a week probably
+01:39:44 so I spent all my time in Tokyo
+01:39:46 with one trip to
+01:39:48 Kuro Tamago mountain
+01:39:50 I forget what it is
+01:39:52 like I don't fucking know Japan very well
+01:39:54 I was there one time for like two months
+01:39:56 and I
+01:39:58 lived in the city and I kind of know what that's like
+01:40:00 a little bit but
+01:40:02 basically I can't help you there
+01:40:04 but I'll just tell you what I tell everybody
+01:40:06 go check out the dope unlabeled restaurants
+01:40:08 just go in and explore
+01:40:10 go to Akihabara because why the fuck not
+01:40:12 and go to the side shops
+01:40:14 just do some research
+01:40:16 just look up shit that you're interested in
+01:40:18 you won't understand Japan after two weeks
+01:40:20 by flanderizing Akihabara video
+01:40:22 because shit tons of people
+01:40:24 who either live in Japan or have been there
+01:40:26 commented on that
+01:40:28 and weighed in with not only their impressions
+01:40:30 of Akihabara but also like what other places
+01:40:32 you can go to get cheaper merchants
+01:40:34 that was a truly fascinating video did you
+01:40:36 which I absolutely loved
+01:40:38 for some reason I thought that was
+01:40:40 a super bunny hop video
+01:40:42 it did not look like that
+01:40:44 I copied his writing style on purpose sometimes
+01:40:46 sometimes I try to talk like bunny hop
+01:40:48 you didn't put epic noodles
+01:40:50 going up and down meme though
+01:40:52 oh yeah how could I have left that
+01:40:54 I don't know if that's in Akihabara though
+01:40:56 oh really okay
+01:40:58 alright next call
+01:41:00 let's go to Captain D
+01:41:02 hang on play and go
+01:41:06 hello this is the official
+01:41:08 what part of discord representative
+01:41:10 speaking
+01:41:12 are these all the same guy like what
+01:41:14 I don't know
+01:41:16 but jesus
+01:41:18 very poorly
+01:41:20 in the discussion around pcp
+01:41:22 discord lately
+01:41:24 and those would like to announce
+01:41:26 that we are declaring war
+01:41:28 on all other pcp
+01:41:30 related discord
+01:41:32 oh my god I repeat
+01:41:34 the mud puddle is going to war
+01:41:36 on all other pcp related
+01:41:38 discord
+01:41:40 the mud puddle
+01:41:42 okay hang on
+01:41:44 oh fuck
+01:41:46 sorry I paused it
+01:41:48 so this is the captain D the official representative
+01:41:50 of the mud puddle discord
+01:41:52 your personal discord give
+01:41:54 that's my personal discord
+01:41:56 alright I guess the joke is
+01:41:58 there seems to be like a large
+01:42:00 the people in my discord
+01:42:02 seem to be mostly german
+01:42:04 at least the people who like
+01:42:06 they're gonna do fuckin blitzkrieg bro
+01:42:08 literally like
+01:42:10 is that who all these collars are
+01:42:12 are these all german? is that what this accent is?
+01:42:14 I mean I don't know all of their voices
+01:42:16 but you know maybe
+01:42:18 so is this your doing
+01:42:20 are you the secret puppet master
+01:42:22 leading blitzkrieg against?
+01:42:24 I ain't saying anything
+01:42:26 alright let's let him finish his point here
+01:42:28 please take contact
+01:42:30 on the usual routes
+01:42:32 this was the mud puddle discord
+01:42:34 representative captain D speaking
+01:42:36 good day and remember
+01:42:38 to kill all whites
+01:42:42 hahahaha
+01:42:44 hahahaha
+01:42:46 the fourth one right cause a little bit
+01:42:48 different story than I remember
+01:42:50 different flavor
+01:42:52 I like it though it's spicy it's new
+01:42:54 well I've gotta weaponize
+01:42:56 everybody in BGE's ticket to enlightenment
+01:42:58 my patron discord
+01:43:00 rev up your artillery
+01:43:02 rev up the anti air cannons
+01:43:04 everybody in the poddyskord
+01:43:06 you know
+01:43:08 prep the guns
+01:43:10 I am games discord
+01:43:12 I am games
+01:43:14 oh my god just weaponizing
+01:43:16 the ratty fuckers cop killers though
+01:43:18 is going to be now that's an
+01:43:20 experienced warfare in culture
+01:43:22 we need to we need to make some sort
+01:43:24 of event some sort of event where
+01:43:26 representatives from each of the discords can
+01:43:28 beat the shit out of each other in live action
+01:43:30 it's a good idea it's a good idea in real life
+01:43:32 boxing gloves
+01:43:34 well until we figure that out
+01:43:36 next call is from
+01:43:38 Steve I'm saved saint
+01:43:40 who I think we've heard from before
+01:43:42 who was in tough times
+01:43:44 let's see how he's doing
+01:43:46 hey PCP I think a thank you's
+01:43:48 in order because not only have you provided
+01:43:50 a great podcast for me to listen to
+01:43:52 you also
+01:43:54 exercised my house from benton saint
+01:43:56 oh right the digi's advice
+01:43:58 and it worked I breaded all my meat
+01:44:00 and that's one food you can't steal
+01:44:02 and uh
+01:44:04 pipa was the real man the real MVP
+01:44:06 I scheduled everything in my house and not only did I
+01:44:08 schedule it but just in case
+01:44:10 he was on time one in a million
+01:44:12 I made sure I was early to everything
+01:44:14 so well there's absolutely no fucking way he could
+01:44:16 do anything so
+01:44:18 just wanted to say thanks to you guys and I guess
+01:44:20 I'll ask a real question this time since
+01:44:22 I've been memeing a lot
+01:44:24 Mr. Bessman since you're a god among
+01:44:26 men and will definitely be alive to see starfleet
+01:44:28 what's the first thing you're going to do
+01:44:30 when we achieve that
+01:44:32 alright thanks guys
+01:44:34 I'm going to head on over to
+01:44:36 patreon.com
+01:44:38 the procrastinators
+01:44:40 and so should you
+01:44:42 I got to say it was really nice to finally
+01:44:44 hear just a down home American white guy voice
+01:44:46 for once on this
+01:44:48 yup
+01:44:50 yup last guy killed all the whites but
+01:44:52 Steve I'm saved saint brings them right back
+01:44:54 like the cockroaches they are
+01:44:56 um
+01:44:58 he sounded kind of southern right
+01:45:00 a little bit
+01:45:02 next one here is from
+01:45:04 Ryan Harper
+01:45:06 shit no play almost type pray
+01:45:08 haha hashtag atheism
+01:45:10 oh shit I don't know
+01:45:12 if I sent the last
+01:45:14 voicemail or if I
+01:45:16 fucked it up
+01:45:18 but I wanted to tell you guys
+01:45:20 Mr. PCP
+01:45:22 that I love y'all
+01:45:24 you guys
+01:45:26 do a pretty good podcast
+01:45:28 it's
+01:45:30 my 21st birthday
+01:45:32 hey that explains a lot
+01:45:34 like that all
+01:45:36 before
+01:45:38 I had my second beer
+01:45:40 ever today
+01:45:42 sooo
+01:45:44 Nooo
+01:45:46 hahaha
+01:45:48 oh yeah I'm like
+01:45:50 I think like 10
+01:45:52 10 drinks and
+01:45:54 something along those lines
+01:45:56 beer
+01:45:58 wine and shots I don't know what to split we gotta get this guy to start
+01:46:03 watching I am games but you're right I've got a suggestion to you guys okay you
+01:46:09 guys should give mage a button that when she presses it and it's everyone else
+01:46:18 in that way she can say things and she's she's the most relatable and
+01:46:28 important person really in the PCP you all should respect her more he relates to
+01:46:36 like scrapping in the streets of Lithuania with like angry squirrels or
+01:46:40 whatever her story was like he relates to this like amorphous color-based
+01:46:43 creature with no definable characteristics how you know you're drunk
+01:46:48 you relate to mage well that was sweet nonetheless well we'll try to give old
+01:46:56 mage you know give her give her a roll give mage a solo podcast we'll leave
+01:47:01 and let her the legendary solo PCP podcast will just be one problem because
+01:47:06 major solo podcast you just dream about it and that'd be it oh that's true that's
+01:47:11 true oh okay next one two more people this is from the anti-procrastinator is
+01:47:16 here oh shit are getting shit done man let's see what he's got all right news
+01:47:24 our solutions are pretty cool so just one little problem with them that's sad
+01:47:29 everyone waits till fucking January to start on what the fuck are you doing stop
+01:47:34 procrastinating starting girls right the fuck now he's got a good point he's got
+01:47:40 a great point personally though I try to wrap everything up before the end of the
+01:47:43 year so that I have a clean slate to do the new thing you know that yeah well my
+01:47:48 favorite thing to do is to get rid of obligations by January yeah yeah that's
+01:47:53 good that's good for me it's like I usually I really like the idea of
+01:47:57 thinking of things in terms of years just like I like having clear cutoffs the
+01:48:01 way I do my job is always like what do I have to get done by the end of this month
+01:48:05 you know yeah so like I always have that mentality of like okay everything has to
+01:48:10 be clear by the time the next increment starts so that we can you know we can
+01:48:15 hit the ground running and just do the whole new plan you know yeah it's it's
+01:48:20 a lot more difficult like even if you have a good plan if you're still supposed
+01:48:26 to be doing other things while your new plan is supposed to be implemented you
+01:48:30 like I guess like I should do the thing I said I would do but I still got to do
+01:48:34 this oh geez and then you you die I've never really been a big news resolution
+01:48:39 guy which I guess is probably weird for me but I don't know it just like I mean
+01:48:45 I guess I don't want to just like pretend like I'm so glad like well I just do
+01:48:49 everything immediately I'm so good just for whatever reason the whole new
+01:48:52 year's resolution thing I think it's the same thing for me right it's with
+01:48:55 holidays I just don't even like the end of the year doesn't even register to me
+01:48:59 I'll be like somebody yeah like oh my god it's the next year you know I just set
+01:49:04 all of my I kind of wish I did my new year's resolutions are just like a
+01:49:09 reasonably doable but kind of extreme goal for that year so like make a hundred
+01:49:17 thousand dollars this year it's like there's a chance it could happen there's
+01:49:21 a chance it won't happen it's good to move in on how things go but like that's
+01:49:25 this is where I'm trying to be you know if I fail I just make the same thing the
+01:49:30 next year until it works I make sense yeah but if I would have like a new year's
+01:49:35 resolution I don't often do but like I've been thinking 2019 is gonna be the
+01:49:42 year of music where I finally get around to all the music stuff to do so I will
+01:49:49 make albums I will make attempts to learn how to produce myself properly and
+01:49:54 record myself well and get better at certain instruments I'm okay at drums
+01:49:58 but I just need to get a little better before I can you know lay down some sick
+01:50:02 beats and all that maybe I'll even pick up FL studio again even though I hate it
+01:50:09 and I don't like it and it sucks and I would rather hit things with my drum
+01:50:13 sticks than click buttons to make the same thing happen much easier yeah but
+01:50:18 yeah that that's the year of music if it's the year if it's a whole year of
+01:50:21 like one thing then if I don't know what I'm doing or I finished a project and I
+01:50:26 don't know what to do next I know at least that it's the year of music I can
+01:50:29 do I can work on the next just like the year of Luigi that's our Nintendo yeah
+01:50:34 yeah the year of Sanji the year of my maybe I'll maybe I'll make an effort to
+01:50:40 kind of get into it more this year like I'm thinking of just making red to a into
+01:50:46 a thing where like I run every day for that year and then I like track my
+01:50:51 progress and like see what's changed over that time you gain 365 pounds in
+01:50:56 yeah exactly exactly I don't know and that's not that's not the currency this
+01:51:00 time and I've got I mean I've got some some big events happening in my life
+01:51:04 coming up hopefully relatively soon but I don't know I'll think about it I'll
+01:51:09 think about it as I go anyway let's get to our next fucking call here oh this is
+01:51:13 our last one too from oblivion fall not mad just passionate is the full I don't
+01:51:24 know okay let's oblivion go we can spend an age discussing the multitude of
+01:51:29 reasons why going to college for art is a waste of time no already art degree is
+01:51:34 worthless the only thing that matters is your portfolio and connections and
+01:51:38 college is really not necessary for that this is especially true if you are
+01:51:43 already an artist with an established presence I went no we don't need this
+01:51:48 anymore this is done this interesting course I was the top of my class and
+01:51:53 the only thanks I got was a worthless degree and $20,000 worth of debt but I
+01:51:59 am against a munchy going to college if munchy wants to go to college he could
+01:52:05 do great because I'm doing great I am only 23 years old yet despite college
+01:52:12 holding me back for two years I managed to emigrate from New Zealand to the
+01:52:17 United States of America I have a green card I am now happily married to a
+01:52:22 beautiful wife I am earning four thousand dollars a month working two dream
+01:52:27 jobs doing animation and animation directing on YouTube the products of
+01:52:32 which have earned over 250 million views that is more than all of your
+01:52:39 channels including side channels combined if I can do it anyone can fucking do
+01:52:45 it certainly munchy can do it he's a talented kid he's got a bright future
+01:52:49 ahead of him stop filling his head with doom and gloom he's going to be fine
+01:52:53 have faith in him interesting is that the fact that we had faith in him the
+01:52:58 reason we didn't want him to go to college well there's an maybe so I
+01:53:04 noticed one thing in that story that stands out as strange to me so his whole
+01:53:08 point is that you can you know like do just fine go into college and then be an
+01:53:13 artist whatever but but he frames it as you can overcome the setback that is
+01:53:19 going to college why so why encourage college if it's a setback why would you
+01:53:24 do that it isn't it's hired I was funny I gotta think that the funny thing for me
+01:53:33 is that like college is great it opens up all these opportunities I have 250
+01:53:38 million views on YouTube yeah YouTube well to be fair to be fair I think he's
+01:53:44 talking about like obviously he wasn't the only person working on these
+01:53:47 projects so is it really fair to say that he obtained every one of those views
+01:53:50 himself I don't think that was a point I think the point was saying that the
+01:53:54 product is working on is successful and that's great I mean God yeah yeah yeah
+01:53:59 exactly is this still a part of the same call that was okay I have nothing
+01:54:09 further to say on that but oblivion way to just never talk about is an interesting
+01:54:12 guy ever again yeah yeah we don't need to talk about oblivion oblivion fall is a
+01:54:18 cool guy he he he he snuck PCP references into a lot of big animation
+01:54:23 yeah he didn't whoa where can I find these there was there was like a
+01:54:28 cuphead music video animation the music that the song sucks the song's really
+01:54:32 bad but he put like but chugger and face yeah and hippo tries not to die the
+01:54:39 video game yep he did and he's cool and he famous you would be way into this
+01:54:44 didgy he made you know that like come song that this guy made with all the
+01:54:48 PCP imagery you know you don't talking about people yeah I think like whatever
+01:54:53 whatever that is is like actually that that video I heard oblivion talking about
+01:54:59 this it's like obtaining strangely renewed popularity now and it's just full
+01:55:04 of like PCP imagery for no reason wait what is there's no connection what do you
+01:55:08 what is it's a song about come yeah it's about like I need to hear this song I
+01:55:12 haven't heard this before God I wish I do I did we play it I don't remember what
+01:55:16 it's called okay let's definitely put in the show notes we can definitely find
+01:55:19 it before then so everybody go check that out I don't know I guess that's it
+01:55:24 oblivion's interesting and I like to hear his perspectives on this is a great
+01:55:26 voice sounds like he's been to the most speech therapy out of anyone ever probably
+01:55:34 turned out all the kings well I guess that's it like 23 oh yeah cuz he had the
+01:55:41 one New Zealand accent I don't think I won't catch your one slip up you fake
+01:55:45 American accent man I posted the brother is brothers and arms cuphead song that's
+01:55:51 what it's called right that's the one with with the PCB memes you got to look
+01:55:54 close but they're there but they're there in the background um all right well
+01:55:59 that's it that's it everybody I guess that's it that's that's it patreon.com
+01:56:03 slash the procrastinators wow 20 bonus episode people five dollars and you get
+01:56:08 them all one dollar and you're in the discord you can talk about stuff that's
+01:56:12 fun that sounds good shouts out to Victor for Bastard indeed rest in peace
+01:56:17 yeah I'm gonna go listen to his radio after this. Pray for our boy Victor Victor's a good boy
+01:56:23 you wouldn't hurt a fly. Yeah Victor I knew watching his video he did not
+01:56:27 intend for it to be insulting to anybody it's just that he's a sensitive young
+01:56:35 man yeah all right well follow us at TP Crass news on Twitter speak pipe link in
+01:56:42 the description give us some more voicemail still respond to people keep
+01:56:46 them coming that's good shit he needed his apology video so what god damn it oh
+01:56:52 I wanted at least yeah I want to listen to that damn it Victor well like a lot
+01:56:56 of people like all the comments on it were like you don't need to apologize
+01:56:59 what the fuck are you talking about so maybe he just went this is gay and he
+01:57:02 pulled it maybe the only evidence will exist in this podcast where we discuss
+01:57:06 everything there is all right well anyway we'll see you guys next week have a
+01:57:11 wonderful time oh and I won't be here by the way because I'm gonna be away so I
+01:57:15 won't be here to record so that'll be that'll be pretty pretty kooky guys
+01:57:20 pretty kooky squad all right anyway rest in peace see you later bye-bye
+01:57:27 welcome to the cum zone that's the one
+01:57:57 I am a stupid I got a deadline don't want to do it

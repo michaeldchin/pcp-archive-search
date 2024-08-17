@@ -1,0 +1,3878 @@
+00:00:00 This episode of The Pro Crastinators Podcast was brought to you by our bonus episode!
+00:00:05 Go to patreon.com slash The Pro Crastinators and pledge $5 or more to get access to all our bonus monthly episodes.
+00:00:11 Last month's episode was Insomnia!
+00:00:30 That's Patreon.com slash The Pro Crastinators, making you fall asleep every single time.
+00:00:57 Hello everyone and welcome to another episode of The Pro Crastinators Podcast.
+00:01:26 This is episode 99 of The Pro Crastinators Podcast.
+00:01:31 I am the best guy ever.
+00:01:34 We're getting there.
+00:01:37 I'm a Digibro.
+00:01:39 You've got Tom Oliver.
+00:01:41 I am...
+00:01:42 Nice one, dude.
+00:01:43 I'm not Digibro at all.
+00:01:46 I'm a...what's the opposite of digital?
+00:01:48 Analogue.
+00:01:49 Physical.
+00:01:50 Analogue.
+00:01:51 I'm an analog bro.
+00:01:52 Analogue bro.
+00:01:53 When's the lore of analog bro gonna break in there?
+00:01:56 Oh, no wait.
+00:01:57 Look forward to anal bro.
+00:01:58 Look forward to the awesome origin story of analog bro at Radcon 3.
+00:02:04 That's right.
+00:02:05 That's right.
+00:02:06 That's right.
+00:02:07 All right.
+00:02:08 Right off the bat, making false promises that we can't keep right off of that.
+00:02:10 Everything's a lie.
+00:02:11 Don't believe any of it.
+00:02:12 There's a...
+00:02:13 Every time anyone mentions anything concerning Radcon 3, there's always little asterisk at
+00:02:16 the end that makes a notch in the mind.
+00:02:18 Do you sound like a munchie hat?
+00:02:20 Munchie hat?
+00:02:21 My favorite hat producing content creator in the entire world, known exclusively for
+00:02:25 his hat making skills.
+00:02:26 I don't think so.
+00:02:27 Tom Oliver.
+00:02:28 Pretty good.
+00:02:29 Known for being black and white.
+00:02:31 For affinity user.
+00:02:32 Yeah, for affinity user.
+00:02:33 Whoa.
+00:02:34 That's for a future episode.
+00:02:37 It's true.
+00:02:39 We've got Hippocrates.
+00:02:41 Get ready.
+00:02:43 Get ready.
+00:02:44 Get ready.
+00:02:45 I am ready.
+00:02:46 What are you doing?
+00:02:47 Get ready.
+00:02:48 Get ready for the podcast.
+00:02:49 Okay, shut up.
+00:02:50 Ben Taint is here.
+00:02:51 There he is.
+00:02:52 Ah, the crisp, refreshing taste of Diet Mountain Dew Code Red.
+00:03:02 There's so many adjectives.
+00:03:04 Okay, and what are we talking about today, everybody?
+00:03:06 Let's just get to the fucking topic.
+00:03:08 Today is the day that we revisit a topic that we had previously attempted, the only failed
+00:03:13 PCP episode up to this point, the legendary, much awaited, weird utilitarianism.
+00:03:19 What?
+00:03:20 Whether there have been failures is debated.
+00:03:24 Well, okay.
+00:03:25 Any technical failures.
+00:03:27 This was ruined by Nate's work, if I remember correctly.
+00:03:30 Well, it's true.
+00:03:31 My computer had died in the middle of our episode.
+00:03:34 We were 45 minutes into it, so we had wanted to put the capper, put the stopper on all
+00:03:40 discussions of this weird utilitarianism meme and make it so that there was just a one-stop
+00:03:45 shop for all your WU needs.
+00:03:47 We wanted to end it once and for all, indeed.
+00:03:49 We wanted to slay that dragon.
+00:03:51 Fucking fizzled out and died much like Nate's hopes and dreams and his computer, and we
+00:03:55 had to restart here today for you.
+00:03:57 He's not wrong.
+00:03:58 He's not wrong.
+00:03:59 I think he said in the original episode, I think I'm going to come down on your side,
+00:04:03 Nate, but also make fun of you.
+00:04:05 What better way to start Radcon than to fucking end weird utilitarianism forever?
+00:04:11 Never to have it rise again.
+00:04:13 I just want to reiterate for everybody.
+00:04:15 Yes, indeed.
+00:04:16 Radcon is next week from when you're hearing this.
+00:04:18 This is episode 99.
+00:04:20 There will be the PCP episode 100 spectacular at Radcon.
+00:04:25 You guys have been fucking asking about Nate's fucking weird utilitarianism since day fucking
+00:04:30 one, and here we go.
+00:04:31 We're finally going to be able to put that ghost to rest and suck him up in our fucking
+00:04:35 ghost bathroom.
+00:04:36 Put that ghost right back in its shell, everybody.
+00:04:38 Here we go.
+00:04:39 I think the best way to start is to reference Nate yourself.
+00:04:46 You are the urban dictionary this time.
+00:04:48 So what is weird utilitarianism?
+00:04:51 Excellent question.
+00:04:52 What does it mean to you?
+00:04:54 It's a complicated thing, but as a good starting point.
+00:04:56 Does anybody know where the term came from?
+00:04:58 Was it from the comments?
+00:05:00 Someone in the comments.
+00:05:02 I was actually trying to remember who specifically said it, but I couldn't.
+00:05:05 That exact phrase came up multiple times.
+00:05:08 I don't know if it was inspired by one person, but multiple people would refer to Nate specifically
+00:05:14 as weird utilitarianism as your thing.
+00:05:17 That's true.
+00:05:18 It came a little bit of a meme, and now obviously it's grown a little bit.
+00:05:23 Let's start with the word utilitarianism.
+00:05:26 So here's your urban dictionary defines it as such.
+00:05:30 A philosophy that people should act in order to increase the frequency and longevity of
+00:05:35 pleasure throughout the world.
+00:05:37 Although the idea acting to increase long term and global pleasure sounds desirable,
+00:05:42 utilitarians believe that the pleasure of many outweighs pleasure of a few.
+00:05:46 A utilitarian may believe that killing one person in order to increase the pleasure of
+00:05:50 any or killing someone and harvesting their organs would be a just action.
+00:05:54 Some utilitarians have seen that this can be dangerous.
+00:05:57 Many utilitarians, because of this, follow a slightly different ideology.
+00:06:01 They should act to increase the frequency and longevity of pleasure throughout the world
+00:06:04 by following the best social standards.
+00:06:06 Okay, Nate, well it sounds like utilitarianism is already weird,
+00:06:10 but what's weird about your utilitarianism?
+00:06:13 Well, what's weird about mine, I guess in contrast to this,
+00:06:16 we'll flesh it out throughout this entire podcast,
+00:06:19 but the definition here, even in here, it is confused on urban dictionary.
+00:06:25 It's like bringing multiple interpretations at you.
+00:06:28 The weird thing about that definition is the fact that they started off with like,
+00:06:34 it's all about bringing the maximum amount of happiness to the maximum amount of people.
+00:06:37 I'm like, that's what every philosophy is about.
+00:06:40 That's not you need to utilitarianism.
+00:06:42 What they feel to define here is that utilitarians think purely in mechanical terms
+00:06:47 and in like, there's no soul to be conscious of or thoughts of the afterlife.
+00:06:53 It is purely a materialistic view, which is not synonymous with immoral Christians.
+00:06:58 So that the utility calculus is every utilitarianism.
+00:07:02 Correct, he had the soul of a champion.
+00:07:05 Well, okay, I personally, the reason why I like the term weird utilitarianism so much
+00:07:11 is because I am 100% against identitarianism in every form.
+00:07:17 What's that?
+00:07:18 Identitarianism, just the idea of grouping any people together under a label to quantify them,
+00:07:25 I find it definitely harmful and mostly immoral.
+00:07:31 I hate labels so much.
+00:07:33 I'm so glad people have made this label for me.
+00:07:37 Well, yeah, but that's the thing because the weird utilitarianism label is a label of one, me, just me,
+00:07:44 which is exactly how we should think of people as individuals and that's it.
+00:07:49 Like the word, if I tell someone I'm a Democrat, which I'm not,
+00:07:52 then like they will immediately pour all these assumptions onto me.
+00:07:56 If they say that they're a weird Democrat.
+00:07:58 Well, then you got something special going on.
+00:08:03 I would say the same thing about me.
+00:08:07 If you attach the word weird in front of it, yeah, it helps to diminish some of those.
+00:08:11 It's like, yeah, he's kind of like, it's kind of like if you call yourself like a weird feminist,
+00:08:15 like nobody wants to be called, or I shouldn't say nobody wants to be called a feminist anymore.
+00:08:20 But a lot of people don't want to be called a feminist because of the fact that they're like,
+00:08:24 oh, it has too many connotations.
+00:08:26 But if you're just a weird feminist, it's like people get that you're on board for women,
+00:08:30 but they're not sure why or like what things you're into.
+00:08:33 What are his true motives?
+00:08:35 There's a lot of people that would look at feminists now and be like,
+00:08:37 those are pretty fucking weird people.
+00:08:39 Yeah, but if you're a weird feminist, you've got to confuse them so that they're not upset.
+00:08:44 I don't want to have to meet a girl and have her say she's a feminist,
+00:08:48 and then I just start to project all my bullshit baggage onto her.
+00:08:52 I don't want to do that.
+00:08:53 And of course, I don't want people to do that to me either.
+00:08:55 There could be some old fucking mom from the 70s who doesn't even know what a computer is,
+00:09:01 but still calls herself a feminist because that's what she was when she was a little babe.
+00:09:05 The biggest problem I see in today's online discussions,
+00:09:10 and it's probably been the problem forever, and it's just become clear to me as I get a little more mature and worldly,
+00:09:17 the problem across the board is twofold.
+00:09:20 People, one, they talk past each other and they don't understand what the other, excuse me, is actually saying.
+00:09:27 They're not actually paying attention to what the other person is saying.
+00:09:30 They are making assumptions and projecting things onto them from their predetermined biases about what these people think.
+00:09:36 That is problem one.
+00:09:37 Problem two is that people do not actually comprehend that people believe what they say.
+00:09:45 They don't actually understand the difference in foundational worldview that people have.
+00:09:51 You can be an atheist and you can go around and be like, oh, Catholics are so evil.
+00:09:57 Always preaching about hell.
+00:09:59 It's so immoral and I say that because on a base level, I do think it is immoral.
+00:10:03 But if you think about it from the perspective of the Catholic,
+00:10:07 if they don't force their children through whatever means are necessary to be a good, virtuous Christian,
+00:10:14 that is dooming their child to an eternity in hell.
+00:10:18 That is so much more significant than any amount of discomfort they will suffer in life,
+00:10:22 that it would be super immoral of them to not do whatever was necessary to protect their kid from this perceived danger.
+00:10:29 The problem with people, oh, sorry, continue.
+00:10:32 No, no, go ahead, go ahead.
+00:10:34 The problem with people on, like, fighting just in general, but also on the internet, especially if you can see it,
+00:10:39 people's conversation is laid out bare-hair.
+00:10:42 People respond to the invisible words.
+00:10:45 People may be implying by just being part of the hate effigy that they are assigned to.
+00:10:51 So if you just see, not even in the text, if you just see some sort of avatar or name
+00:10:56 that could in fact signify that they are a part of some group vaguely,
+00:11:00 then you are just going to bring up your hate effigy that you have of that group.
+00:11:05 Dude, I for one am sick and tired of people seeing my brony icon
+00:11:12 and just making all this shit on the page, just making all these blanket assumptions about.
+00:11:16 It's not cool.
+00:11:17 I gotta tell you, if you want people to take anything you say seriously ever,
+00:11:22 don't make your whole aesthetic memes, because if your whole aesthetic is memes,
+00:11:27 that is often the case.
+00:11:29 Let's say you go to Drill's Twitter.
+00:11:31 Drill's Twitter is a big meme.
+00:11:33 That's the joke.
+00:11:34 It's a joke Twitter.
+00:11:35 His pictures are all goofy.
+00:11:37 His name is stupid, but it's great.
+00:11:39 Sometimes you see people and their name is cuntlord,
+00:11:43 and they've got a picture of a gaping ass as their avatar,
+00:11:47 and they're leaving comments like, this video was okay,
+00:11:51 but I think if you improved your sound quality or whatever,
+00:11:54 am I taking advice from cuntlord with the gaping ass?
+00:11:59 The gaping ass is just how you kick cuntlord with the main building.
+00:12:04 Consider your brand.
+00:12:05 Your brand affects the way that people perceive the things you say.
+00:12:08 And even if you're nobody on Twitter, people still are gonna...
+00:12:12 It's amazing how often I get responses that I don't understand on Twitter,
+00:12:17 because it's like some random guy who I don't know anything about,
+00:12:21 and his profile is just so uncomprehensible that I can't even understand the tweet itself.
+00:12:25 Even if it's written kind of plainly,
+00:12:27 I don't know what perspective they're coming from,
+00:12:30 and it's hard to get that in 140 characters,
+00:12:32 and with the minimal information that's on somebody's Twitter page.
+00:12:35 280 characters, 280.
+00:12:37 My phone still is 140. It's annoying.
+00:12:40 It's very annoying.
+00:12:41 Anyway, right at the back here, we're just describing for the viewers,
+00:12:45 just that tribalism is...
+00:12:47 Everyone's packed into a label and Nate doesn't like that.
+00:12:49 Does anybody disagree with that, that tribalism is bad?
+00:12:52 Probably not.
+00:12:53 I think we're all on the same page.
+00:12:55 Well, they're funny.
+00:12:57 I don't think that tribalism is bad.
+00:13:00 I do think labels are bad.
+00:13:02 I think it's fine to be a part of it.
+00:13:03 I think the tribadism is pretty cool.
+00:13:05 I think it's fine to be a part of whatever...
+00:13:07 What is that, Ben?
+00:13:08 I'm trying to talk and you fucking talk it over,
+00:13:10 because that's why no one's reacting to your goddamn joke.
+00:13:12 What was he saying? What is your thing?
+00:13:15 What are you asking?
+00:13:16 Tribadism.
+00:13:17 What's a tribad?
+00:13:18 Shit. It's some kind of lesbian thing.
+00:13:21 Thank you, Ben.
+00:13:22 I think it's scissoring. I think it's scissoring.
+00:13:24 Oh, tribadism. Ignore me.
+00:13:26 I pronounce it tribadism, not tribadism.
+00:13:29 Well, I guess you'd be the expert.
+00:13:31 Wait, wait, wait. I looked it up.
+00:13:33 A tribad, according to Urban Dictionary,
+00:13:35 is a female with a greatly enlarged clitoris,
+00:13:37 thought to be of as a result of hormone imbalance,
+00:13:40 especially one of homosexual orientation.
+00:13:42 Ben, what cartoon is it?
+00:13:43 It looks like I was watching.
+00:13:45 Steve from Universe.
+00:13:47 Well, in any case, I'm okay with the idea of people
+00:13:50 sticking with their groups.
+00:13:52 I mean, we are a tribe. That's pretty clear.
+00:13:54 Are you telling me you're a white nationalist, did you?
+00:13:56 Yeah.
+00:13:57 Invisible word.
+00:13:58 Absolutely.
+00:13:59 I don't think anybody questions that the PCP is a tight-knit group
+00:14:03 that's kind of insular,
+00:14:04 but we do try to avoid having labels on this group.
+00:14:08 There's a lot of podcasts that you can point at
+00:14:11 and say that's a libertarian podcast,
+00:14:13 or that's a liberal podcast,
+00:14:15 or this is a comedy podcast, or this is that.
+00:14:17 PCP is like, it is tribal in that it's the PCP,
+00:14:20 but there's no other simple way to describe it.
+00:14:23 I love...
+00:14:24 Yeah, we're just ourselves.
+00:14:25 One of my favorite things is insisting that I am a red pill
+00:14:28 and a blue pill at all times.
+00:14:30 Yeah.
+00:14:31 Just it.
+00:14:32 Both ends of the spectrum.
+00:14:33 And see...
+00:14:34 Yeah, that's just...
+00:14:35 Pure and simple.
+00:14:36 That's fair, but that's just...
+00:14:37 Yeah, that's you just rejecting.
+00:14:38 Nobody likes to be labeled.
+00:14:39 Being labeled is not fun.
+00:14:40 People should be judged on their ideas.
+00:14:42 Some people really like it.
+00:14:43 Some people are all about it.
+00:14:44 Some people derive a lot of it.
+00:14:45 Okay, well, you know what?
+00:14:46 Labeling yourself is a fickle enterprise
+00:14:48 that far too many people identify with.
+00:14:50 You got your guys like Richard Spencer,
+00:14:52 who would just say, like, I'm white.
+00:14:53 I care about white people.
+00:14:54 I don't care about, like, whatever.
+00:14:55 I just want, like, a future for the white race.
+00:14:57 And, like, I get why he thinks that way,
+00:15:00 the tribal nature of humanity and stuff,
+00:15:02 but I think it is a very huge mistake
+00:15:05 to just say let your race, like,
+00:15:07 should define the group that you hang with.
+00:15:10 And, like, you got groups like, I don't know,
+00:15:12 like feminists or whatever.
+00:15:14 People just push their particular agenda
+00:15:16 and increase the amount of, like, fragmentation
+00:15:19 by having, like, purity tests over and over.
+00:15:21 Like, if you've got, like,
+00:15:23 how feminist is feminist enough to be a member of a community?
+00:15:26 Or how white is white enough to be in Richard Spencer's country?
+00:15:29 Well, I think the big problem with collectivism in general is that,
+00:15:31 and we're seeing it happen now,
+00:15:33 is that whenever you have, like, a collective ideology,
+00:15:35 it kind of, like, turns on itself,
+00:15:37 because there's more, like you said,
+00:15:38 there's more purity tests that happen over and over again.
+00:15:41 And it seems like the inevitable end game of collectivism
+00:15:43 is just individualism.
+00:15:45 Because, like, eventually, you're going to keep breaking down groups smaller and smaller
+00:15:48 until it's just me versus you.
+00:15:50 So it's like, why waste, like, a fucking century of, like,
+00:15:53 infighting and, like, social unrest
+00:15:55 when we already came to the answer?
+00:15:57 That's exactly right. That's exactly right.
+00:15:59 Hey, we're not really talking about weird utilitarianism.
+00:16:01 We're talking about labels generally.
+00:16:03 And we're going to continue nonsense because I weren't talking about something that Digi said.
+00:16:05 Yeah, and I have to go out and read.
+00:16:07 As soon as everybody else is done.
+00:16:09 Oh, yeah, it's fine. Digi, I think that it is misguided
+00:16:12 that it is good that the PCP is so insular.
+00:16:14 Because I don't think that it is.
+00:16:16 I think that we should be branching out more as we are with guests.
+00:16:20 Oh, I didn't mean to say it's...
+00:16:22 I don't mean to say it's good for us to, like, never talk to anybody
+00:16:25 and all stuff like that.
+00:16:27 I just mean it's nice to have a tribe.
+00:16:29 Like, it's good to have people who generally see things the same way you do
+00:16:33 and that you can relate to and bounce ideas off of
+00:16:36 and, like, get a better understanding of yourself.
+00:16:38 Like, I don't think anybody in the PCP would have been as successful
+00:16:41 if not for having a bunch of like-minded individuals
+00:16:44 they can bounce their ideas off of, you know.
+00:16:47 It's usually advantageous to just not be in one particular group.
+00:16:53 You know, on that side...
+00:16:55 Why limit yourself to just one box?
+00:16:57 Yeah, that's right.
+00:16:59 Zero artistry and just pick any one you want.
+00:17:02 I think it is important to note that humans definitely are tribal.
+00:17:07 We definitely are that way, just biologically speaking and psychologically speaking.
+00:17:12 We definitely, like, are more comfortable with things that we've, like, grown up with
+00:17:16 and then when you go to foreign cultures, like, it feels foreign.
+00:17:19 You know, you can't just instantly absorb the culture of, like, a new place immediately.
+00:17:23 I actually...
+00:17:24 What Munchie was saying about, like, don't limit yourself to one box.
+00:17:27 Pick as many different labels as you want.
+00:17:29 I like that.
+00:17:30 Yeah.
+00:17:31 Well, you were joking about it, at least.
+00:17:33 I think it's a good idea to...
+00:17:35 I think it's funny everybody, like, has, oh, I have this one religion
+00:17:38 and this one, like, philosophy.
+00:17:40 Like, oh, I'm a...
+00:17:41 I'm a fucking, like you said, atheist or zero-astry-anist or whatever.
+00:17:45 Like, pick two.
+00:17:47 Pick three.
+00:17:48 Some of them are mutually exclusive.
+00:17:50 Some of them are, but not all of them.
+00:17:52 Like, I would consider myself a Taoist
+00:17:55 because nothing about it contradicts my own philosophy, you know.
+00:17:59 So, like, why not throw it on the pile?
+00:18:01 There you go.
+00:18:02 You know, be a...
+00:18:03 That just cheapens the idea of labels, which we already know.
+00:18:06 They should already be cheapened
+00:18:07 because they're not worth anything.
+00:18:08 Well, it should be super cheap.
+00:18:09 Taoism based off of Tao, the greatest devout commenter of all time.
+00:18:13 Yeah, exactly.
+00:18:15 Shout out to Tao.
+00:18:17 I want to go on a...
+00:18:18 Okay, well, let's talk more about...
+00:18:20 I want to go on a rant here
+00:18:21 because this is a perfect opportunity for it
+00:18:23 since you're all here and this is all your fault,
+00:18:26 which is that I, as a...
+00:18:28 This is super relevant.
+00:18:30 As a member of being in the PCP,
+00:18:32 have been judged to have opinions I don't have
+00:18:36 based on other members of the PCP.
+00:18:39 Same.
+00:18:40 This has happened where...
+00:18:41 The biggest way this happened to me
+00:18:43 is recently there's a board called TRANS
+00:18:48 that exists on Reddit.
+00:18:49 It's spelled like that, like a ton of letters.
+00:18:51 And it's for, like, trans people making fun of themselves, essentially.
+00:18:54 Like, you know, self-effacing humor about trans issues.
+00:18:59 So they had a thread called a gender-fluid egg,
+00:19:04 something like finding a gender...
+00:19:05 The rare gender-fluid egg is what it was called.
+00:19:07 And it was just a bunch of quotes of me
+00:19:09 from my Crunchyroll interview
+00:19:11 talking about how I wanted to be Ranma
+00:19:13 and being able to switch between male and female freely.
+00:19:16 And people in this thread,
+00:19:18 a bunch of people were saying,
+00:19:19 like, oh, I always thought Digi was like that
+00:19:21 because I watched his videos
+00:19:22 and he talks about wanting to be a girl all the time, you know?
+00:19:25 And I was like, this thread was a huge revelation for me
+00:19:28 because I never thought about it and I'm reading it
+00:19:30 and I'm like, oh, my God, these people are right.
+00:19:32 Like, I've been ignoring this this whole time.
+00:19:34 But then somebody comes in the thread and is like,
+00:19:36 Digi can't be...
+00:19:38 Digi's probably not gender-fluid
+00:19:40 because he's part of a transphobic group
+00:19:43 called the PCP,
+00:19:45 who all hate trans people and want them...
+00:19:49 Is that what people say about us now?
+00:19:50 They want them to have no rights and their red pill.
+00:19:52 And also, you were considered...
+00:19:54 This was considered a...
+00:19:56 What's the word I'm looking for?
+00:19:58 The...
+00:19:59 Hate group?
+00:20:00 No, the red one, not the blue one.
+00:20:02 But not Republican.
+00:20:04 Oh, yeah.
+00:20:06 Conservatives?
+00:20:07 Yeah.
+00:20:08 This was described as a conservative transphobic podcast.
+00:20:11 And I was just like, I don't...
+00:20:14 Even if there was at least...
+00:20:17 This was all based on a discussion of, of course,
+00:20:20 Nate and Ben and DeVue, I think,
+00:20:23 being, like, aggressively misunderstanding
+00:20:27 trans issues or something in some podcast.
+00:20:30 But it got attributed to me, and I was just like,
+00:20:32 I've been the most pro-trans person that I know
+00:20:35 for as long as I've known that it was a thing, you know?
+00:20:38 Like, I've always been totally down
+00:20:40 for trans rights and everything.
+00:20:43 So it was very strange for me to see that.
+00:20:45 And I was just like, the PCP is not a conservative podcast
+00:20:49 or a transphobic podcast.
+00:20:51 If it was, then I wouldn't be on it, you know?
+00:20:54 Like, that would...
+00:20:55 Because for it to, for the entire podcast to be,
+00:20:58 that would mean that everyone on there was that, you know?
+00:21:00 But it's not.
+00:21:01 It's a multifaceted podcast with a bunch of different personalities
+00:21:04 with different worldviews.
+00:21:05 That's the problem.
+00:21:06 People who feel as though they can actually talk to each other
+00:21:07 in spite of the differences in their worldview, you know?
+00:21:10 That's right.
+00:21:11 It's unfortunate, but this is people...
+00:21:13 You know, like, I understand why people make this connection.
+00:21:16 Well, first of all, to make the case that, for example,
+00:21:18 what I said on the podcast was transphobic,
+00:21:21 I said something...
+00:21:22 Actually, what I said in this podcast was equally damning
+00:21:25 in terms of me being a hater against trans rights.
+00:21:29 Because what I said previously in this very podcast
+00:21:31 was I am staunchly anti-identitarian.
+00:21:34 And that is exactly synonymous with saying
+00:21:37 what I said in that podcast was that I don't care about trans people.
+00:21:41 Because that's what I mean.
+00:21:42 I don't care about these individual issues
+00:21:44 that have literally nothing to do with my life.
+00:21:46 And I don't care about Republican rights.
+00:21:48 I don't care about anyone's rights.
+00:21:50 I don't care about black people.
+00:21:52 I don't care about white people.
+00:21:53 I don't care about any of this shit.
+00:21:55 I just care about individual rights as a person to person.
+00:21:58 I think every trans person should be 100% free
+00:22:00 to do whatever they want.
+00:22:02 I completely think you should do that.
+00:22:04 But, like, you know, I've got a lot of shit to do.
+00:22:07 I don't have a lot of time to worry about everyone's problems.
+00:22:10 That's how I feel.
+00:22:11 Fight your own battles.
+00:22:12 I definitely believe in that.
+00:22:15 Say that again?
+00:22:16 Oh, fight your own battles.
+00:22:17 Like, everybody's always trying to fight for somebody else.
+00:22:19 They're always trying to be like...
+00:22:21 Every time I get a complaint that I said,
+00:22:23 nigga, from a non-black person,
+00:22:25 I'm just like, you're...
+00:22:27 Why do you care?
+00:22:28 You know, like...
+00:22:29 Yeah.
+00:22:30 And even if it is a black person,
+00:22:31 I'm like, why do you care either?
+00:22:32 But, like, it's just very strange to me
+00:22:35 when I see people fighting,
+00:22:36 like, trying to fight for other people.
+00:22:38 It's like, fight for your own shit.
+00:22:39 I know you've got problems.
+00:22:40 You know, I know you've got your own shit.
+00:22:42 I don't know.
+00:22:43 White guilt or something.
+00:22:44 People want to be allies and something.
+00:22:46 I don't know what are the ideas there.
+00:22:47 I think...
+00:22:48 I'm sure that's part of it, Nate.
+00:22:49 I'm sure that's a growing culture.
+00:22:50 But I think a lot of it is just, like,
+00:22:52 people trying to be goody-to-shoes.
+00:22:54 Though, I say that in, like, a mean way.
+00:22:57 But I'm sure in their heart of hearts,
+00:22:58 they want to be a gay person.
+00:23:00 See, I completely agree.
+00:23:02 Yeah.
+00:23:03 I completely agree that these people are actually
+00:23:05 being good and being honest with their worldview.
+00:23:07 I don't even begrudge them that.
+00:23:09 I simply have a different worldview,
+00:23:11 and I think that it is not helpful
+00:23:13 to just, like, call me evil or hateful
+00:23:16 or, like, you know, any of that shit
+00:23:18 as opposed to convincing me...
+00:23:20 Like, pedantic romantic is trans.
+00:23:22 And message me.
+00:23:23 And, like, politely explain some areas
+00:23:25 where I made basically just complete mistakes.
+00:23:28 And I just politely said,
+00:23:29 oh, well, thanks.
+00:23:30 I wasn't aware of that.
+00:23:31 You know, I don't spend a lot of time
+00:23:32 thinking about these issues as should be clear.
+00:23:34 So, yeah, I was definitely wrong about that.
+00:23:36 Thanks for correcting me.
+00:23:37 We had a completely civil discussion.
+00:23:38 I respected her points, and it was fine.
+00:23:42 And that's a civil discourse
+00:23:44 that actually gets somewhere.
+00:23:46 Yeah, that's it.
+00:23:48 But the reason we're all grouped together,
+00:23:50 this is the other problem here.
+00:23:51 It's that people can think whatever they want
+00:23:53 about, like, me and what I've said.
+00:23:55 But because I am, like, officially,
+00:23:57 I have the label.
+00:23:58 I do have a label of member of the PCP.
+00:24:01 And, Digi, you also have the label
+00:24:04 of member of the PCP.
+00:24:06 And people can just latch onto that.
+00:24:08 And they can make any connections they want.
+00:24:10 They could say that, first of all,
+00:24:12 they wrongly perceive me to hate trans people.
+00:24:15 They could say, he's in the PCP.
+00:24:17 Therefore, the whole PCP is tainted with this idea.
+00:24:19 Therefore, Digi is also tainted with this idea.
+00:24:22 Or he's, like, encouraging it.
+00:24:23 This is a huge part of why we've essentially lost Jesse
+00:24:26 and why all of you are responsible
+00:24:29 who listened to the show for associating him
+00:24:31 with everything we say.
+00:24:33 When he does not want to be associated
+00:24:35 with a lot of what we say, you know?
+00:24:37 But, like, again, like you said,
+00:24:39 you get a target on your back just for being,
+00:24:41 like, friends with somebody who, you know,
+00:24:44 who people don't like.
+00:24:45 And it's one thing if it's, like, a criminal,
+00:24:47 I'd be, like, yeah, you shouldn't be,
+00:24:49 like, if someone's doing something really bad,
+00:24:51 even if they're just being an asshole,
+00:24:53 like, yeah, you should probably not
+00:24:55 openly associate with them.
+00:24:57 But, like, this is a podcast.
+00:24:58 It's a discussion.
+00:24:59 I'm not holding you guys responsible
+00:25:01 for the things you say on the PCP,
+00:25:03 because it's, first of all, a comedy show.
+00:25:06 It's not a fucking...
+00:25:07 We're not, like, trying to decide laws.
+00:25:10 We're not, like...
+00:25:11 This is a whole other rant
+00:25:13 that, like, people these days
+00:25:15 are constantly holding, like, YouTubers to task
+00:25:17 to be right about everything.
+00:25:19 It's, like, this podcast is not about
+00:25:21 being correct about anything.
+00:25:23 It's a fucking comedy podcast.
+00:25:25 A bunch of, like, guys in their late 20s
+00:25:28 get to sit around...
+00:25:30 Well, and munchy.
+00:25:32 You know, sit around and just be all whatever
+00:25:35 thoughts they happen to have about some topic,
+00:25:38 because we're pals.
+00:25:39 And if you like listening to it, that's fine.
+00:25:41 But, like, every time people are, like,
+00:25:43 coming down on us super hard,
+00:25:44 because, like, something we said was a little edgy
+00:25:46 or, like, offended someone,
+00:25:47 I'm just, like, dude, it's a podcast, you know?
+00:25:49 Like, don't worry about it.
+00:25:51 It's not gonna hurt anybody.
+00:25:53 I mean, it's one of those things,
+00:25:54 and also none of us were, like,
+00:25:57 transphobic in, like, a really bigoted,
+00:25:59 like, stupid way.
+00:26:00 Right.
+00:26:01 Like, we were all just curious
+00:26:02 and, like, talking about it, like,
+00:26:04 if none of us was.
+00:26:05 But that's the thing.
+00:26:06 It could not be an ally.
+00:26:08 You know?
+00:26:09 The problem is to these people,
+00:26:10 these are, like, life-or-death questions
+00:26:12 in their mind.
+00:26:13 So to not be an ally fighting on their side
+00:26:16 is to be, at the very least, like,
+00:26:18 facilitating harm.
+00:26:20 And that is, like...
+00:26:21 If you have that kind of mindset,
+00:26:22 you need to fuck off.
+00:26:23 I mean, yeah, I would agree with that.
+00:26:25 I would agree with that.
+00:26:26 Like, anyone who doesn't agree with me totally
+00:26:27 or isn't, like, fighting, you know,
+00:26:29 for my battles and my rights, it's, like,
+00:26:31 dude, I got my own shit to worry about.
+00:26:33 So you can fuck off, you know?
+00:26:35 I mean, that's how I feel.
+00:26:36 I'm completely libertarian on this front.
+00:26:37 I encourage anyone to do whatever they want
+00:26:39 on all of this front.
+00:26:40 But to say that, like, we have to be
+00:26:43 fighting the same battles as you,
+00:26:45 like...
+00:26:46 Fuck off.
+00:26:47 You can't tell me what to do.
+00:26:48 Fuck off.
+00:26:49 Your particular world view trumps everything else
+00:26:51 and has to be respected above all others.
+00:26:54 If anyone's being hurt,
+00:26:56 if there are people being murdered or, you know,
+00:26:58 any of this shit is happening,
+00:26:59 let me know so that the...
+00:27:01 Well, don't let me know, because I don't care.
+00:27:03 But the police care.
+00:27:04 The police fucking care.
+00:27:05 You know, there was probably a couple murders
+00:27:07 in Africa, probably a couple murders in Russia today.
+00:27:09 Guess what?
+00:27:10 I don't care.
+00:27:11 I don't know those people.
+00:27:12 I'm sorry.
+00:27:13 The police of Russia have to deal with those murders.
+00:27:15 It's out of my jurisdiction.
+00:27:17 It is outside my fucking jurisdiction.
+00:27:19 That's how I feel.
+00:27:20 The problem with the PCP and everyone taking all of our
+00:27:22 opinions...
+00:27:23 I have real trans friends, by the way.
+00:27:25 I have real trans friends who I talk to and like.
+00:27:28 And we are friends.
+00:27:29 But here's the thing.
+00:27:30 I like them because they're my friends,
+00:27:32 not because they're trans.
+00:27:34 That's the thing, guys.
+00:27:36 That's what I want.
+00:27:37 Everyone to fucking understand.
+00:27:38 I have trans friends who are really...
+00:27:41 We have not talked about weird utilitarianism at all.
+00:27:44 Man, I would have said something
+00:27:45 completely else other than weird utilitarianism
+00:27:47 right now as well.
+00:27:48 Okay.
+00:27:49 Go for it.
+00:27:50 We'll get to it.
+00:27:51 This is going to be side tangents forever.
+00:27:54 We're at the very end.
+00:27:55 We're going to be like,
+00:27:56 what were we talking about at the beginning of this podcast?
+00:27:58 Anyway, the problem with the PCP and everyone
+00:28:00 taking all of our opinions as whole is
+00:28:02 everyone's taking...
+00:28:03 Print out each of our icons,
+00:28:06 put them in a bowl,
+00:28:07 put them in a microwave,
+00:28:08 and you've made an opinion soup.
+00:28:10 Not only do all of our opinions
+00:28:12 get mushed into one,
+00:28:13 they're warped opinions.
+00:28:14 Just do the nature of the way the internet works.
+00:28:16 Everyone will warp your opinion no matter what.
+00:28:18 To be a cartoonish, evil, hate, effigy version
+00:28:21 of what it originally was.
+00:28:23 It's a double...
+00:28:25 You will have...
+00:28:27 If you close comments on your videos...
+00:28:29 It won't be attributed to Hippo or something like that.
+00:28:31 It won't even be...
+00:28:32 It won't even be your warped opinion.
+00:28:33 It'll be someone else's.
+00:28:34 Yeah.
+00:28:35 And people...
+00:28:36 It's like when you close comments on a video
+00:28:38 and suddenly you deny all criticism.
+00:28:42 That's the kind of logical...
+00:28:44 That's how the internet works.
+00:28:46 You turned off comments on one video
+00:28:49 and now you cannot take criticism at all.
+00:28:52 That's how people now take you.
+00:28:54 It's funny you mentioned that
+00:28:55 because there were a lot of people back
+00:28:58 when we did comment rules part two.
+00:29:00 The entire PCP is anti-comments.
+00:29:03 When half of that episode was a debate
+00:29:06 about whether they were good or bad.
+00:29:08 People recently who have been criticizing you
+00:29:10 for your whatever stance on comments or whatever,
+00:29:13 they'll take clips of you
+00:29:15 saying these things from a PCP episode.
+00:29:18 You can hear me cutting in,
+00:29:20 making a counter-argument,
+00:29:22 and arguing against that point.
+00:29:23 And then they say,
+00:29:24 oh, the PCP believes this.
+00:29:25 And we just have clearly different opinions.
+00:29:28 I'm trying to say mine,
+00:29:29 but then they just say the PCP thinks this.
+00:29:31 I think this is like...
+00:29:33 I don't really blame people for doing this.
+00:29:35 It's like intellectual shorthand.
+00:29:37 I feel like that's kind of like...
+00:29:38 Our brands are designed to do that
+00:29:40 because it frees up resources to do other things.
+00:29:43 Back in the day,
+00:29:44 when you're trying to make sure you don't get mulled
+00:29:46 by a saber-toothed tiger,
+00:29:47 you don't really have time to noodle
+00:29:49 on the nuances of everything going on around you.
+00:29:52 Our brands are good at picking out patterns really quickly.
+00:29:56 And I think that's what happens in situations like this.
+00:29:59 It's easy to just make a flat association
+00:30:02 and roll with it,
+00:30:03 as opposed to sitting there mumbling over.
+00:30:04 I completely agree that it's totally reasonable
+00:30:06 that this happens in people's heads.
+00:30:08 But I think as soon as they open their mouth,
+00:30:10 that's when you need to start thinking about it.
+00:30:12 That's right.
+00:30:13 We cannot judge people's thoughts,
+00:30:15 but we can 100% judge their actions, and we should.
+00:30:17 I'm not excusing people.
+00:30:19 I'm just saying I understand why it happens.
+00:30:21 I think 90% of the time it's not maliciously done.
+00:30:24 I think people are just not thinking it through.
+00:30:26 When you're tasked with being a trans police officer
+00:30:29 and you're on your morning commute to work every day,
+00:30:32 you have to scan every podcast to see which one is transphobic.
+00:30:35 And you only have five minutes to do so
+00:30:36 in which you're eating crunch bars.
+00:30:38 You're going to make some mistakes and miss files here and there.
+00:30:40 I understand.
+00:30:41 We get it, guys.
+00:30:43 By the way, I just want to clarify, guys,
+00:30:45 it's not like I've said this before,
+00:30:47 but I don't like not care about trans people.
+00:30:49 It's that your issues are your own, they're not my issues.
+00:30:52 That's how I feel.
+00:30:53 I think that people can't comprehend the idea of a group
+00:30:58 that isn't the same.
+00:31:00 We're a group of friends.
+00:31:02 Most groups of friends don't go under a group
+00:31:05 that is like a brand as well.
+00:31:07 So we sit around having meanings deciding
+00:31:09 what opinions we're going to have as the PCP.
+00:31:12 I feel like some people imagine
+00:31:14 that we all sit in the chat going like,
+00:31:16 oh, hey, everybody, fuck commenters, right?
+00:31:18 And then everyone's like, yeah, yeah.
+00:31:20 Then we all rally together and we say a chant.
+00:31:22 We're like, fuck comments, fuck comments.
+00:31:24 Because that's what's presented on the show
+00:31:26 is this weird, frat boy, fun atmosphere.
+00:31:30 That is interesting.
+00:31:31 That's the podcast.
+00:31:32 Yeah, we're all total chads and everyone knows it.
+00:31:34 You know what was a fascinating video recently?
+00:31:37 Uncle Adams and Anthony Fantano were having
+00:31:39 a bit of a tiff recently.
+00:31:41 They got together finally and they kind of just,
+00:31:44 they had a podcast together.
+00:31:46 And what was fascinating about that
+00:31:48 was Anthony Fantano is like, he's a big meme guy.
+00:31:52 But on this podcast with Uncle Adams,
+00:31:54 he opens up and really says like, yeah, you know,
+00:31:57 like I present myself as a big meme-er,
+00:31:59 but I still get like a lot of like really vicious,
+00:32:02 terrible comments.
+00:32:03 I mean, of course,
+00:32:04 he's got like 1.3 million subs and shit.
+00:32:06 So he gets like vicious, terrible things
+00:32:08 and he's aware of how terrible his comments are.
+00:32:11 And like, and he talked about that for a while.
+00:32:14 But to some degree, it's his fault.
+00:32:16 But like, what he says is that like,
+00:32:18 there's nothing I can do about it.
+00:32:20 Because these people, they will just,
+00:32:22 they're here to do this stuff.
+00:32:23 And Uncle Adams was making all these points
+00:32:25 about like how toxic his fans were like,
+00:32:27 you know, when Fantano shit on him,
+00:32:28 he got all this hatred and stuff.
+00:32:30 And Fantano was just like, yeah, man, you know,
+00:32:32 it's an unfortunate reality.
+00:32:33 But what was interesting was how mature
+00:32:35 Uncle Adams really was about this.
+00:32:37 He was just like, look, people can shit on me
+00:32:39 all they want.
+00:32:40 But like, I'm getting death threats calls to my house
+00:32:42 and like my family was getting this kind of shit.
+00:32:44 And Fantano was just going along with him.
+00:32:46 Like this perceived guy who appears to be like a bastion
+00:32:49 of how much he, you know, like doesn't give a fuck
+00:32:52 and just memes everything.
+00:32:54 He actually, like he deliberately goes out of his way
+00:32:57 to like not address it because that's what they want
+00:33:01 in a situation like that, you know,
+00:33:03 going off in a tangent here,
+00:33:04 but I just thought it was interesting
+00:33:05 and irrelevant to this comment discussion.
+00:33:06 Even the most meme-y guys out there
+00:33:08 or among the most, they are aware
+00:33:10 that comments can be terrible
+00:33:12 and that they generally are,
+00:33:14 but they allow them to exist
+00:33:16 because no good comes from like closing them.
+00:33:18 Like you got to just let people do what they want
+00:33:20 and that's just how it is.
+00:33:21 I don't know if we all agree with that,
+00:33:23 that no good comes from it.
+00:33:25 Well, it's not that no good comes from it,
+00:33:28 but you know, there's a lot of bad that comes with it.
+00:33:31 I think in the case of Fantano though,
+00:33:34 part of why his comments are so bad
+00:33:36 is that he, for the longest time in his videos,
+00:33:39 was like, you know, leave a comment
+00:33:43 if you have something negative to say to me.
+00:33:45 And it's like, well, you're encouraging people
+00:33:47 to leave negative comments at that point.
+00:33:50 That's true.
+00:33:51 And like encouraging the memes to perpetuate themselves
+00:33:53 and like every video he makes
+00:33:55 is all the comments are just memes now
+00:33:57 and it's the same memes, the same stale memes.
+00:33:59 And it's like...
+00:34:00 Pretty good meme video, Fantano,
+00:34:02 but did you have to praise Hitler 50 times?
+00:34:04 Exactly.
+00:34:05 You know, you see that like every time.
+00:34:06 It's always that.
+00:34:07 And there are ways to deal with that.
+00:34:09 You can just like block some of those people
+00:34:12 or delete some of those comments
+00:34:13 or favorite comments that are good.
+00:34:15 Like it's a huge, huge thing
+00:34:18 that you can do for your channel
+00:34:20 is if you hit that heart button next to a comment
+00:34:22 that you think is thoughtful and good,
+00:34:24 that'll make it show up at the top of the fucking comment thing
+00:34:26 and then everybody will see that like top comment
+00:34:28 is a thoughtful comment, you know?
+00:34:30 That's interesting.
+00:34:31 Yeah, I like that.
+00:34:32 I haven't thought of that.
+00:34:33 See, that's a positive way to do these sorts of things.
+00:34:36 I really like how the weird utilitarianism podcast
+00:34:40 was lost to time
+00:34:41 and here we are trying to revive it
+00:34:42 and 30, 40 minutes in
+00:34:44 we still have not gotten around
+00:34:46 to even starting to talk about it.
+00:34:47 Yeah, hey Nate,
+00:34:48 what is weird utilitarianism mean to you anyway?
+00:34:51 Let's get back to it.
+00:34:52 Okay, here's the thing guys.
+00:34:53 Here's the thing.
+00:34:54 I think that was all good.
+00:34:55 We're talking about ideologies here
+00:34:57 and all this kind of stuff
+00:34:58 and like group think and stuff
+00:35:00 and weird utilitarianism,
+00:35:02 as I've come to understand it,
+00:35:04 is the bastion rebelling against all things
+00:35:07 identitarian and bad and gay
+00:35:10 and fake and not real.
+00:35:12 I don't think that's what people mean
+00:35:14 when they say weird utilitarianism.
+00:35:16 Yeah, I've never thought of it that way.
+00:35:18 I think you're confused.
+00:35:19 I'm projecting, I'm lying.
+00:35:21 I think when people say
+00:35:23 you're weird utilitarianism,
+00:35:25 they mean your drive
+00:35:29 to your belief in bettering humanity
+00:35:32 for the greater good
+00:35:33 and your weird and frankly insane belief
+00:35:37 that you can do it through YouTube.
+00:35:40 When did I ever say that I could do it through YouTube?
+00:35:42 I've said that I can control it.
+00:35:44 Okay, okay.
+00:35:46 I actually want to just revisit.
+00:35:48 It's been like 40 minutes now,
+00:35:50 but if we revisit the definition of utilitarianism,
+00:35:52 the thing that I didn't like about that definition
+00:35:55 was they talk about this thing of like,
+00:35:57 I mean the little example here
+00:35:59 is people who believe in utilitarianism
+00:36:01 believe that it is all right to kill one person,
+00:36:03 take their organs and distribute them to many.
+00:36:05 Or like a utilitarian with the trolley cart problem
+00:36:08 where you've got a train headed to one person
+00:36:10 or headed to five people
+00:36:12 and you have the power to flip a switch
+00:36:13 so it'll instead run over one person
+00:36:15 and you get a net gain of life.
+00:36:17 These are the sorts of questions
+00:36:19 that are dealt with by this.
+00:36:21 You know, I've never understood that real car thing
+00:36:23 because it seems like obviously you kill the one.
+00:36:26 Like who would choose otherwise?
+00:36:28 Well, but then you're responsible for killing the one.
+00:36:31 Okay, well you're responsible by an action
+00:36:33 for killing four people then.
+00:36:35 There's a moral quandary here about action.
+00:36:41 The idea, yeah, like the responsibility for the death
+00:36:43 is the quandary here.
+00:36:45 Is it moral like to kill one person to save a billion?
+00:36:48 Like is that moral?
+00:36:50 Well, that's your question.
+00:36:52 Even I don't necessarily agree.
+00:36:54 It seems so obvious to me
+00:36:56 because it's obvious to me and that's the way that I think.
+00:36:58 Okay, what if you had to torture a person
+00:37:00 for a thousand years to save a billion people?
+00:37:03 What if you had to do that?
+00:37:05 First of all, it's a huge waste of my fucking time.
+00:37:07 Yeah, why am I living a thousand years?
+00:37:09 Yeah, I'd pay someone else to do it, obviously.
+00:37:11 We're using examples here, goddammit.
+00:37:13 Are you saying I push a button and it causes somebody
+00:37:15 to suffer a thousand years to save a billion people?
+00:37:17 Is that what we're talking about?
+00:37:19 Basically.
+00:37:21 Are all the people I love in that group of a billion people?
+00:37:24 Yes, let's say yes.
+00:37:26 Okay, then I'm pressing the button.
+00:37:28 Okay, what if it's your dad you have to kill to save everyone?
+00:37:30 Ooh.
+00:37:32 Does the rest of the family die if I don't torture him
+00:37:34 for a thousand years?
+00:37:36 Let's say you have to kill your family
+00:37:38 to save a billion other people.
+00:37:40 No.
+00:37:42 I don't care about anybody else outside my family.
+00:37:44 Okay, well see, that's interesting.
+00:37:46 I do.
+00:37:48 Which of the PCP would I torture for a thousand years
+00:37:51 to save a billion people?
+00:37:53 Digi, Tom, Mage, Nate.
+00:37:56 This is the question.
+00:37:58 This is actually utilitarianism discussion.
+00:38:00 This is the good stuff.
+00:38:02 It's like making calculations,
+00:38:04 trying to figure out how to maximize happiness
+00:38:07 and health and human life and intelligence
+00:38:10 and everything that comes with humans being alive.
+00:38:12 I just want to mention that this problem
+00:38:14 Vsauce did as part of his
+00:38:17 special YouTube Red series,
+00:38:19 but one of the free ones.
+00:38:21 Where he set up a situation
+00:38:24 with the train thing
+00:38:26 and it was like
+00:38:28 he actually fooled real people
+00:38:30 and one of them
+00:38:32 pulled the thing and killed the guy
+00:38:34 but it's like this simulation ended
+00:38:36 and then they interviewed her
+00:38:38 and then everybody else
+00:38:40 was just stunned
+00:38:42 and frozen, could not
+00:38:44 even though they were told
+00:38:46 how to press the thing
+00:38:48 and it was like
+00:38:50 it's a good video.
+00:38:52 That sounds fascinating.
+00:38:54 And that's exactly the sort of thing.
+00:38:56 When you're in the hot seat
+00:38:58 and it is you now
+00:39:00 let's say forget a button,
+00:39:02 what if you have to slow,
+00:39:04 the only mechanism is to physically cut
+00:39:06 the throat of the person.
+00:39:08 You have to reach down with a knife
+00:39:10 and save, but see that's the thing.
+00:39:12 I agree it is a different story.
+00:39:14 How it affects you as a person
+00:39:16 is relevant here, but the bigger question
+00:39:18 is it's the amount of
+00:39:20 suffering that you're calculating here.
+00:39:22 Will this person suffer more
+00:39:24 than the goodness that will be acquired
+00:39:26 through saving
+00:39:28 100 people or whatever.
+00:39:30 The real difficulty with utilitarianism
+00:39:32 and acting it out is because you have to put
+00:39:34 your own personal values
+00:39:36 and comforts aside.
+00:39:38 The discomfort of
+00:39:40 cutting someone's throat would override
+00:39:42 the utilitarian value
+00:39:44 of saving a million people.
+00:39:46 This is a great thing.
+00:39:48 Sam Harris has an argument
+00:39:50 that has been made against him a thousand times
+00:39:52 by guys like Glenn Greenwald
+00:39:54 and stuff, and it's this.
+00:39:56 Sam makes the case in
+00:39:58 one of his books, I don't know which one,
+00:40:00 for ethical uses of torture
+00:40:02 and a lot of people,
+00:40:04 a lot of Christians, for example,
+00:40:06 that's obviously ridiculous.
+00:40:08 No, there's no ethical case for torture.
+00:40:10 Funny that the Christians would be the one
+00:40:12 bringing that up.
+00:40:14 Of all people.
+00:40:16 But when you think about it,
+00:40:18 let's say you've got a guy,
+00:40:20 a Saudi Arabian terrorist
+00:40:22 or let's say
+00:40:24 what's the one?
+00:40:26 A Palestinian terrorist, because Palestine has nukes.
+00:40:28 He's part of them.
+00:40:30 So you've got him here,
+00:40:32 you've got him locked up, and this man
+00:40:34 knows the location of a base
+00:40:36 where his current,
+00:40:38 like Palestinian terrorists,
+00:40:40 are preparing a nuke to launch against the United States.
+00:40:42 So let's say Los Angeles,
+00:40:44 where the technology
+00:40:46 is such that we won't be able to stop it.
+00:40:48 This man has the information
+00:40:50 and he will not talk.
+00:40:52 Tell me the moral justification
+00:40:54 for not doing what's ever necessary
+00:40:56 to get that information out of him
+00:40:58 to save millions, if not billions
+00:41:00 of people.
+00:41:02 That's true.
+00:41:04 That is very true. Slippery slope is real.
+00:41:06 Setting a precedent or something?
+00:41:08 I think it makes a huge difference
+00:41:10 if you are guaranteed
+00:41:12 to know that he has that information
+00:41:14 versus suspect.
+00:41:16 Which is what I think is usually the case.
+00:41:18 How do we know
+00:41:20 until we torture them if they know?
+00:41:22 You're not wrong.
+00:41:24 You are not wrong.
+00:41:26 When the question is,
+00:41:28 we're talking about saving millions of people.
+00:41:30 It's a reasonable thing to bring up.
+00:41:32 How much are you willing to do?
+00:41:34 Are you willing to
+00:41:36 not give him a cup of coffee
+00:41:38 when he asks for one?
+00:41:40 Are we willing to torture him on that level?
+00:41:42 I'd say people would probably say yes.
+00:41:44 Are we willing to,
+00:41:46 I don't know,
+00:41:48 give him an Indian burn.
+00:41:50 One Indian burn, exactly one.
+00:41:52 Will we go that far? Where is the line?
+00:41:54 Will we do literally nothing to him?
+00:41:56 Are we comfortable with putting him down
+00:41:58 or are we finally roughing him up
+00:42:00 a little bit around the edge?
+00:42:02 I think it comes down to what people are comfortable with themselves.
+00:42:04 You're putting yourself in that situation.
+00:42:06 Some people would be more comfortable
+00:42:08 with going places than others.
+00:42:10 My thing with utilitarianism
+00:42:12 is that
+00:42:14 from a raw intellectual perspective
+00:42:16 I have a hard time arguing against it
+00:42:18 even in its most extreme cases
+00:42:20 just because
+00:42:22 when it comes down to math
+00:42:24 the math adds up.
+00:42:26 It's uncomfortable
+00:42:28 and unable to do it as I would be
+00:42:30 because I'm a sensitive little bitch.
+00:42:32 At the end of the day
+00:42:34 if someone needed to murder me
+00:42:36 to save a million people
+00:42:38 I can understand the math
+00:42:40 and I have a hard time presenting a rational argument
+00:42:42 opposing it.
+00:42:44 I feel like a lot of us would be okay
+00:42:46 with somebody doing the horrible thing
+00:42:48 to save millions, but not us.
+00:42:50 I agree
+00:42:52 that it's hard to argue against
+00:42:54 that making more people happy
+00:42:56 is good, even in an extreme case.
+00:42:58 Intellectually I want to say that
+00:43:00 probably you should kill that
+00:43:02 one dude to save that billion.
+00:43:04 But it's
+00:43:06 the putting it into action
+00:43:08 that is like, well, but how do you know?
+00:43:10 Sure, you can be like, well in theory
+00:43:12 if torturing this one person will save 100 people
+00:43:14 utilitarianism would say
+00:43:16 that I should do it and probably I should.
+00:43:18 You can't know for sure
+00:43:20 an outcome like that.
+00:43:22 I mean, when you're talking about a math equation
+00:43:24 you're assuming that
+00:43:26 all the variables in the equation
+00:43:28 are accounted for.
+00:43:30 Just because we don't have literal mathematical
+00:43:32 absolutes doesn't mean that there
+00:43:34 couldn't be a case.
+00:43:36 What if the one guy who could have got killed
+00:43:38 was a future Bill Gates
+00:43:40 and was going to save
+00:43:42 literally billions with his money
+00:43:44 or millions and the others
+00:43:46 were worthless.
+00:43:48 I feel like that's an interesting thought experiment
+00:43:50 but there's no way to account for the future in the present.
+00:43:52 I think even with
+00:43:54 the fact that this is
+00:43:56 even though it's a thought experiment that I understand
+00:43:58 this is like a black and white cartoon
+00:44:00 situation like press this button
+00:44:02 kill one person instantaneously
+00:44:04 save a billion others
+00:44:06 obviously this is not an everyday case
+00:44:08 and when you get out of the minute details
+00:44:10 of what would an actual utilitarian
+00:44:12 philosophy entail in the real
+00:44:14 actual not thought experiment world
+00:44:16 it gets more muddy than just
+00:44:18 here's why.
+00:44:20 This is not really what weird utilitarianism is
+00:44:22 I think.
+00:44:24 Let me just respond to his one point there
+00:44:26 the reason why we have
+00:44:28 conversations like this is so that
+00:44:30 because laws have to
+00:44:32 follow ethics
+00:44:34 first you have to have the philosophy in place
+00:44:36 and then you build from that in practice
+00:44:38 and then you apply that to the real world
+00:44:40 and that's why we discuss things
+00:44:42 like this so that we can in our
+00:44:44 heads understand what is an
+00:44:46 inappropriate thing to do in a certain situation
+00:44:48 what isn't so that then we can extrapolate
+00:44:50 from that.
+00:44:52 I'm just saying that like
+00:44:54 we're all saying that like intellectually
+00:44:56 we would all agree with that
+00:44:58 and I'm sure we all would
+00:45:00 I'm not saying that this is a bad thing
+00:45:02 as a thought experiment I'm just saying that once you
+00:45:04 get into the more minute details of everyday life
+00:45:06 it starts to become less just like instantaneously
+00:45:08 like yeah I cannot
+00:45:10 well the thing is like when you talk about
+00:45:12 utilitarianism in a crazy thought experiment
+00:45:14 it's very easy to like understand
+00:45:16 logistically how it would work
+00:45:18 but like I don't think utilitarianism holds much value
+00:45:20 in everyday practice because it's very
+00:45:22 easy to make utilitarian arguments
+00:45:24 for everything and like the whole reason we
+00:45:26 have like morality
+00:45:28 would break down at that point
+00:45:30 I feel like morality is just kind of like
+00:45:32 a religion that we all kind of inherently
+00:45:34 apply to to keep like social structure
+00:45:36 in place without like any moral
+00:45:38 commonalities
+00:45:40 in people like everything would break down
+00:45:42 and utilitarianism really doesn't have any morality
+00:45:44 other than math and like you can fudge the numbers
+00:45:46 based on how you make the argument
+00:45:48 no you can't I think that's totally
+00:45:50 bullshit but I think
+00:45:52 there's wiggle room to determining what constitutes
+00:45:54 like creating more happiness
+00:45:56 versus taking it away
+00:45:58 we need to get into the fact that this is not what weird utilitarianism is
+00:46:00 this is what utilitarianism is
+00:46:02 weird utilitarianism is where
+00:46:04 Nate eats nothing but beans all day
+00:46:08 that is weird utilitarianism
+00:46:12 I was talking about this
+00:46:14 I got to crack open a can
+00:46:16 I love
+00:46:18 talking about all you guys
+00:46:20 because you're all such you're all just like
+00:46:22 perfect like encapsulations
+00:46:24 of certain ideas you know
+00:46:26 and Nate is a
+00:46:28 Nate as a man who eats beans all the time
+00:46:30 is like a great example
+00:46:32 for conversation
+00:46:34 like oh yeah like my friend Nate I mean that guy eats nothing
+00:46:36 but beans so that's one way you can live
+00:46:38 like that's something I say to people
+00:46:40 that's one way you can live if you can call that living
+00:46:44 that's where we get into the real
+00:46:46 because okay I was making fun of you the other day
+00:46:48 to my girlfriend
+00:46:50 my fiance because of the fact that
+00:46:52 you
+00:46:54 I was like you know Nate is a big fitness boy
+00:46:56 but like
+00:46:58 for the last few years he's been like
+00:47:00 kind of you know
+00:47:02 by your own admittance
+00:47:04 by your own admittance you haven't really been
+00:47:06 at the gym like everyday
+00:47:08 you haven't like kept maintaining
+00:47:10 like being perfectly hot
+00:47:12 but you're still eating nothing but beans
+00:47:14 like even though
+00:47:16 you're not like optimizing
+00:47:18 the
+00:47:20 serious
+00:47:22 what you say
+00:47:24 the facade has been ruined
+00:47:26 I didn't ask for this
+00:47:28 okay alright go I can take it I can take it
+00:47:30 throw it at me hit me
+00:47:32 I want it I want I feel the pain
+00:47:34 I'm just saying that
+00:47:36 I'm just saying that if you're going to eat
+00:47:38 beans all the time
+00:47:40 you need to have like all of the weird
+00:47:42 utilitarian lifestyle beans are good
+00:47:44 have you eaten a bean they're good
+00:47:46 I like beans alright I've tried
+00:47:48 a lot of beans dark red kidney beans
+00:47:50 that's the one that's the one I'm telling you
+00:47:52 I mean in fairness I think it's
+00:47:54 I think it's fine that you're doing
+00:47:56 like something at all times like
+00:47:58 you obviously have a good figure
+00:48:00 like even if you're not like as cut as you want
+00:48:02 to be you're in the gym all the time you look good
+00:48:04 and obviously if eating
+00:48:06 beans all the time is contributing to that
+00:48:08 then that's fine like it's just for me
+00:48:10 when I'm like oh I'm going to be on a
+00:48:12 workout and diet routine it's like it has to be
+00:48:14 everything it has to be like the whole lifestyle
+00:48:16 because otherwise it's like I can't
+00:48:18 if I'm not
+00:48:20 like really going ham into the
+00:48:22 bean life then like just eating
+00:48:24 beans every day it's really unsatisfying
+00:48:26 for an everyday life like how do you reward
+00:48:28 yourself after you finish like work
+00:48:30 that's that's that's entirely true
+00:48:32 I do reward myself
+00:48:34 with oranges
+00:48:36 I do not okay this is a meme
+00:48:38 I don't actually just eat beans all the time
+00:48:40 and in fact I went for quite a while
+00:48:42 not eating beans for the last I don't know
+00:48:44 like a month or something I didn't eat beans for lunch
+00:48:46 there was a reason for that it's because like
+00:48:48 a girl who did the apartment wasn't accepting
+00:48:50 beans as the only meal that she eats
+00:48:52 well I generally eat beans at work
+00:48:54 like I have a shelf
+00:48:56 just full of cans of beans at work
+00:48:58 that I just open up and grab a can
+00:49:00 but it's like
+00:49:02 I left this particular batch in my car
+00:49:04 in winter and it had frozen and then thawed
+00:49:06 and the thing was then when I had eaten the beans
+00:49:08 they were like gross and I didn't
+00:49:10 like they were even more unpleasant
+00:49:12 than normally they're pretty good
+00:49:14 but these were pretty grainy and terrible
+00:49:16 they was looking forward to his daily bean treat
+00:49:18 but unfortunately he was met with something entirely different
+00:49:20 this is the thing this is where utilitarianism
+00:49:22 can bite you in the ass because I am a human being
+00:49:24 and I think you'll like this
+00:49:26 so I just wasn't eating
+00:49:28 my beans because
+00:49:30 they were like this this particular batch had like frozen
+00:49:32 and thawed and was just gross and unpleasant
+00:49:34 and so for like a month
+00:49:36 I kept telling myself I really gotta eat these beans
+00:49:38 for lunch and I'll fuck it I'll just go get fucking McDonald's
+00:49:40 or something you should have thrown away those beans
+00:49:42 and just got the beans
+00:49:44 that is exactly what I did last week
+00:49:46 I finally was like you know what the existence
+00:49:48 of these beans are literally preventing me from
+00:49:50 eating beans I need to destroy them
+00:49:52 and start fresh so I did
+00:49:54 so I threw them all in the trash and then bought
+00:49:56 the whole new batch of beans
+00:49:58 and now I'm eating them again and it's much better
+00:50:00 but see that's what I'm trying to say
+00:50:02 I am a man with many weaknesses
+00:50:04 I go out and I like to preach ideas
+00:50:06 which I think is valuable but everyone has flaws
+00:50:08 and I admit I'm a man of many many flaws
+00:50:10 I do not stick
+00:50:12 to my plans all the time
+00:50:14 I have missed on Monday I didn't work out
+00:50:16 and then last week's Monday I missed that as well
+00:50:18 so I've only been working out twice a week
+00:50:20 for the last couple of weeks and that's terrible
+00:50:22 that's a business I've been working out
+00:50:24 see I'm an embarrassment I'm an embarrassment
+00:50:26 but I know
+00:50:28 the right things to do and I'm slowly
+00:50:30 gearing myself more in that direction
+00:50:32 like my
+00:50:34 YouTube success came from
+00:50:36 a cold hard analysis of like
+00:50:38 okay what's happening now it's not
+00:50:40 working out you know marginal success so far
+00:50:42 but I'm working on it
+00:50:44 what I've been doing up to this point has not been working out
+00:50:46 I have to re-evaluate
+00:50:48 and figure something out and so I just
+00:50:50 made up me a mafia got that idea
+00:50:52 in my head just did it it was great
+00:50:54 and now it's been re-cajiggered doing we-agwas and stuff
+00:50:56 and it's more in line with the formula
+00:50:58 I'm still trying to make the big projects
+00:51:00 you know whatever
+00:51:02 but I wanted to bring up
+00:51:04 oh shit I forgot what I wanted to bring up
+00:51:06 never mind
+00:51:08 fucking you just keep going buddy you just go on all day
+00:51:10 I don't know what the fuck I'm talking about
+00:51:12 all I'm saying
+00:51:14 all I'm saying is that with me
+00:51:16 like I said before I like to start with having
+00:51:18 the right principles
+00:51:20 principles are in place so that then
+00:51:22 I personally for my life
+00:51:24 can then like work on
+00:51:26 quote-unquote laws or just like strategies
+00:51:28 that I'm going to employ
+00:51:30 it was that you were saying
+00:51:32 how you preach a lot and can't
+00:51:34 necessarily like you know practice it
+00:51:36 perfectly and
+00:51:38 I have weaknesses many well you know
+00:51:40 we're all here on YouTube being like
+00:51:42 we're here on a soapbox like that's what
+00:51:44 we're here to do a lot of the times people
+00:51:46 make fun of me for the fact that like
+00:51:48 they say something in a video and then totally
+00:51:50 contradict it later or make another video that
+00:51:52 contradicts it and do that all the time
+00:51:54 and it's because these are just
+00:51:56 like these videos are just thoughts
+00:51:58 they're just ideas they're just
+00:52:00 here's an idea what if the world's like
+00:52:02 this you know like idea channel
+00:52:04 have these people not seen Steven Universe
+00:52:06 you need to here comes a thought you let it
+00:52:08 come and then you let it go they need to
+00:52:10 they need to catch up
+00:52:12 great great joke Nate good job
+00:52:14 I have no idea what to talk about
+00:52:16 Stefani here comes a thought
+00:52:18 that might alarm you come on
+00:52:20 oh fuck you guys none of us understood it
+00:52:22 that was the universe
+00:52:24 I just didn't care
+00:52:26 hope you enjoyed it okay
+00:52:28 who else wants to tell me how cool I am
+00:52:32 let's tell me more
+00:52:34 utilitarianism sucks because human
+00:52:36 happiness is worthless
+00:52:38 I sort of agree
+00:52:40 including weird utilitarianism
+00:52:42 okay here's the thing I take a totally
+00:52:44 pragmatic view that I think
+00:52:46 human happiness is a non-tangible good
+00:52:48 and like I don't
+00:52:50 actually care about it but what human happiness is important
+00:52:52 for is that human beings
+00:52:54 are machines that have a happiness gauge
+00:52:56 and if that dips they become
+00:52:58 less efficient so it is in our best
+00:53:00 interest to keep people happy and productive
+00:53:02 I think of it like that
+00:53:04 to accomplish what ends Nate
+00:53:06 now you guys are talking about the whole like
+00:53:08 objective like what's the purpose of life
+00:53:10 like where are we going what's all about and that's
+00:53:12 that's where I can tell you
+00:53:14 I'm not asking I just want what do you
+00:53:16 want humans for
+00:53:18 but it applies the question
+00:53:20 and that's totally relevant that's the foundation
+00:53:22 of all this like you have to start a bedrock
+00:53:24 like where are we going then how
+00:53:26 do we get there you know assess human nature
+00:53:28 etc etc okay Starfleet
+00:53:30 right Starfleet I see
+00:53:32 yeah oh boy here we go
+00:53:34 Starfleet is the
+00:53:36 vision of the future that seems
+00:53:38 like a rational place
+00:53:40 for human beings to go and I don't think that's necessarily
+00:53:42 like the end point
+00:53:44 of where humans go like Starfleet Star Trek
+00:53:46 is a very transitional phase
+00:53:48 for humanity even in the show
+00:53:50 it's a period of exploration not a
+00:53:52 period of like we're done exploiting
+00:53:54 like we found everything let's just work run our shit now
+00:53:56 it's a period of trying to pursue
+00:53:58 you know the truth that exists
+00:54:00 outside of the current human perception
+00:54:02 and I think as long as human beings are alive
+00:54:04 there will always be things for us to discover
+00:54:06 and new stuff I mean just obviously obviously
+00:54:08 so
+00:54:10 what Starfleet is to me
+00:54:12 is an idea of where
+00:54:14 humans could go sort of in the short
+00:54:16 term this idea of being a multi-planetary
+00:54:18 colonizing
+00:54:20 you know species shout out to my boy
+00:54:22 Elon
+00:54:24 having space travel you know
+00:54:26 and hopefully developing some sort of space travel
+00:54:28 that allows us to go faster in the speed
+00:54:30 of light I mean I don't know if that's actually going to
+00:54:32 happen or if it's practical but that
+00:54:34 you know without that we are kind of trapped
+00:54:36 exactly where we are right now in space
+00:54:38 so hopefully we'll find something out that allows
+00:54:40 us to do that
+00:54:42 you know warps and whatnot in Star Trek
+00:54:44 so I mean to me and like look at the
+00:54:46 ideas of the people of the world
+00:54:48 of Star Trek you know there's like the Klingons
+00:54:50 who have their civilization there's the Romulans
+00:54:52 there's all those guys but the Federation itself
+00:54:54 is like the United States and it was made as a
+00:54:56 metaphor for the United States it's a
+00:54:58 conglomerate of different
+00:55:00 allied races of different aliens
+00:55:02 and within the Federation
+00:55:04 every planet has autonomy over
+00:55:06 itself kind of self-governance
+00:55:08 and within those states within those
+00:55:10 systems like on earth right now
+00:55:12 everyone still can just run their shit however
+00:55:14 they please the thing that has changed
+00:55:16 about civilization in Star Trek
+00:55:18 is that want has been eliminated
+00:55:20 it is a post-scarcity civilization
+00:55:22 so what that means is
+00:55:24 if you wake up if you're born on earth
+00:55:26 in Starfleet they call it paradise now
+00:55:28 it's just a paradise because you're born
+00:55:30 of your parents you know you have your
+00:55:32 teenage drugs or whatever when you become an adult
+00:55:34 and you say oh you know what I want to open
+00:55:36 my passion life be a painter
+00:55:38 I want to be a painter and devote myself to that
+00:55:40 you have infinite resources with which
+00:55:42 to make that happen you will not be hungry
+00:55:44 you will be able to do this
+00:55:46 I mean there's probably limitations on space and stuff
+00:55:48 but basically you have everything at your disposal
+00:55:50 to pursue whatever kind of life
+00:55:52 you want so right now imagine
+00:55:54 what would life be like in like the inner city of
+00:55:56 Chicago for example which is you know
+00:55:58 gang violence all this terrible things are happening
+00:56:00 if all of a sudden just everyone
+00:56:02 had everything that like they no longer
+00:56:04 had to fight for money because there's just
+00:56:06 everyone's got food what would there even
+00:56:08 what need would there even be for crime
+00:56:10 in a civilization like that if you just have what you want
+00:56:12 like the only thing at that point is like power
+00:56:14 and influence which is real
+00:56:16 which is a real thing you have to account for
+00:56:18 sociopathy yeah and that kind of stuff
+00:56:20 too but like we can address those issues
+00:56:22 but the main one is an economic
+00:56:24 lever that's been pulled just anything
+00:56:26 you want you now can get
+00:56:28 for the most part
+00:56:30 and with the advance or with the development
+00:56:32 of these things called food materializers
+00:56:34 I'm forgetting the word but like for example
+00:56:36 with that you can just push a button
+00:56:38 it makes food out of it it combines
+00:56:40 subatomic particles that just exist around
+00:56:42 us all the time it assembles
+00:56:44 the food let's move away from
+00:56:46 Star Trek lore to how it applies
+00:56:48 to actual what we're talking about here
+00:56:50 wait wait let me give you some deep
+00:56:52 on the subject of lore here's some PCP
+00:56:54 lore for you some true facts
+00:56:56 almost every single episode that I've
+00:56:58 been on like in recent
+00:57:00 months like clockwork around
+00:57:02 the 55 minute mark when Nate will start
+00:57:04 ranting about something that I don't think I'm going to have a
+00:57:06 response to so I'll just get
+00:57:08 up and go to the bathroom and don't say anything
+00:57:10 and I do it every show at almost the
+00:57:12 exact same time like
+00:57:14 55 minutes that's when Nate goes like
+00:57:16 bam hardcore off the deep end
+00:57:18 and I'm like checking out
+00:57:20 we have no way to wrangle him he's
+00:57:22 like a fucking bull like
+00:57:24 yeah I feel like
+00:57:26 there's not much that
+00:57:28 we can talk about because you're
+00:57:30 the thing with the reason this is like
+00:57:32 a tell me why I'm wrong it's not
+00:57:34 it's well I mean there's this thing
+00:57:36 okay it's not about
+00:57:38 what Star Trek
+00:57:40 is and why you want it it's the
+00:57:42 fact that when it comes up in
+00:57:44 a podcast discussion it doesn't make
+00:57:46 any sense that's not true
+00:57:48 that is bullshit it makes perfect sense
+00:57:50 like when it sometimes makes
+00:57:52 sense but it's like
+00:57:54 you just don't want to hear it
+00:57:56 I don't think makes sense is
+00:57:58 the right phrase for it
+00:58:00 I think it's more that it's weird that he
+00:58:02 brings it up in every context
+00:58:04 that like there's my world view
+00:58:06 god damn it's a found no one else has
+00:58:08 to do that with their world view
+00:58:10 I don't have to bring up that I'm like
+00:58:12 I don't have to bring up like that
+00:58:14 everything I do is gonzo and all my
+00:58:16 values are revolve around gonzo
+00:58:18 like every time I do a podcast
+00:58:20 you know oh here we go all right you fucking
+00:58:22 cunt this is what you were building up to wasn't it
+00:58:24 no what no I said nothing wrong
+00:58:26 hashtag Nate did nothing wrong
+00:58:28 what the fuck this is bullshit
+00:58:30 when this is what I thought this podcast
+00:58:32 was supposed to be that's I thought this was
+00:58:34 the people versus the last
+00:58:36 time the last time we recorded
+00:58:38 this podcast yes like hot off
+00:58:40 the the the the heels
+00:58:42 of you being weird with
+00:58:44 utilitarianism recently and
+00:58:46 we talked about it in that
+00:58:48 I remember we talked about it I don't know
+00:58:50 what it was that we talked about and I can't
+00:58:52 think of any examples but it's just
+00:58:54 the that's the reason it became a meme
+00:58:56 and that's the reason it is now a topic
+00:58:58 yeah explaining what your world view is
+00:59:00 like you know you
+00:59:02 want you want the star fleet
+00:59:04 to exist it you know
+00:59:06 it makes sense I don't really know what
+00:59:08 we can tell what we can say about it
+00:59:10 beyond I think it's it's because like
+00:59:12 it's because Nate Nate wants
+00:59:14 wants star fleet to happen you want
+00:59:16 you want you what you what you want
+00:59:18 is from my understanding
+00:59:20 is what you want is you want to better
+00:59:22 humanity right humanity has this grand
+00:59:24 destiny this grand like
+00:59:26 well I mean I think that we
+00:59:28 we might we might if we
+00:59:30 work at it right that's what you want
+00:59:32 you have this vision is
+00:59:34 but I I don't mind
+00:59:36 your vision I'm perfectly okay
+00:59:38 with you having your word utilitarianism
+00:59:40 it's just it's funny and it was
+00:59:42 vision-shaming me right now
+00:59:44 because you bring it up in topics
+00:59:46 and situations that seem
+00:59:48 weird which is why it's called weird
+00:59:50 it's weird you're taking you're taking
+00:59:52 minute small compact issues that we
+00:59:54 talk about on the PCP and tying them
+00:59:56 tangentially into this like whole fate
+00:59:58 of humankind in the future and I think
+01:00:00 that's where the weird it's alarming
+01:00:02 the words what does like what's the
+01:00:04 the future of humanity
+01:00:06 we're doing like the animals podcast
+01:00:08 and it's like so do we think animals
+01:00:10 come with us into space when we all leave
+01:00:12 earth like that's where the discussion
+01:00:14 is going to go you're asking about
+01:00:16 the morality of how we treat animals
+01:00:18 which is perfect like how do we treat animals
+01:00:20 I don't know that's relevant
+01:00:22 I think that you're always arguing how do we treat
+01:00:24 animals now but how do we treat
+01:00:26 animals in zero gravity
+01:00:28 well okay here's something that a
+01:00:30 DeVu used to give me a lot of shit for
+01:00:32 whenever we had like political arguments
+01:00:34 which is that I always argue from an idealistic
+01:00:36 perspective which means like
+01:00:38 whatever I want the world like if we're
+01:00:40 going to move the world in the direction that I
+01:00:42 think is perfect here's the things we should
+01:00:44 do and DeVu would always be like yeah but
+01:00:46 the world is not moving in that direction
+01:00:48 we need to worry about the issues right now
+01:00:50 and like how we deal with them in the moment
+01:00:52 and so I do think it's funny that
+01:00:54 like I sometimes feel as though
+01:00:56 you view every issue from the
+01:00:58 perspective of like how will we
+01:01:00 feel about this when Starfleet begins
+01:01:02 as opposed to like how do we feel about it
+01:01:04 right now you know you know
+01:01:06 that's I don't even disagree with that
+01:01:08 to some degree I would argue that I'm a very
+01:01:10 pragmatic person but when
+01:01:12 these things come up like yes
+01:01:14 well for example um like
+01:01:16 I understand the ideas of
+01:01:18 movements let's say like like black lives matter
+01:01:20 for example or feminism or any
+01:01:22 those don't exist in space
+01:01:24 they do that right now
+01:01:26 I hope not because I hope by then we don't need
+01:01:28 them to exist but like here's
+01:01:30 like that's the thing this sort of like
+01:01:32 identitarianism I think is relevant to this
+01:01:34 because like any individual
+01:01:36 issue of this kind like
+01:01:38 I think we'll no longer matter
+01:01:40 if we address the larger issues of
+01:01:42 like individualism like if our
+01:01:44 core principle as a civilization is
+01:01:46 like individualism then it's a complete
+01:01:48 waste of time to
+01:01:50 focus on like pushing
+01:01:52 for you know like quotas
+01:01:54 in stuff that may or may not be founded
+01:01:56 on science and you know like
+01:01:58 women quotas at Google or any of this kind of
+01:02:00 shit like what I want to do
+01:02:02 is focus on the topics that will really
+01:02:04 matter long term and I fully admit
+01:02:06 I am less invested in short term ones
+01:02:08 that is true that is true
+01:02:10 it's just funny
+01:02:12 it's just funny how like if a podcast on the
+01:02:14 procrastinators goes long enough it will
+01:02:16 turn into a discussion about
+01:02:18 Starfleet and how all of what
+01:02:20 we have been talking about will affect
+01:02:22 like the heart of the issue
+01:02:24 the kingdom part to me that makes perfect sense
+01:02:26 it makes sense to me too
+01:02:28 because like I used to have
+01:02:30 a gimmick in my writing when I was younger
+01:02:32 that like every time I wanted to explain something
+01:02:34 I would start from like the beginning of the universe
+01:02:36 like I always be like oh the big bang
+01:02:38 happened and therefore
+01:02:40 eventually this led to humans and because we developed
+01:02:42 in this way like this is how we evolved
+01:02:44 this is why we
+01:02:46 say I'm sorry to each other you know like
+01:02:48 okay so
+01:02:50 I get coming from that perspective that's why
+01:02:52 I like that that happens on the PCP
+01:02:54 like but on the other hand
+01:02:56 it does kind of make a lot of episodes end up
+01:02:58 with Amy where we kind of go down the same road
+01:03:00 and like the answer to what
+01:03:02 we're going to do when Starfleet happens is often
+01:03:04 the same and
+01:03:06 I also want to say that
+01:03:08 we can call it weird
+01:03:10 utilitarianism but Nate is just any
+01:03:12 Star Trek next generation fan
+01:03:14 because they all talk like this
+01:03:16 like if you listen to Mike's The Closet from Red Letter
+01:03:18 Media or Neil X
+01:03:20 like all these guys who are into TNG
+01:03:22 all they do is talk about Starfleet and
+01:03:24 what we can do to get there and shit
+01:03:26 we're enlightened, we fucking figured it out
+01:03:28 you're welcome for our wisdom
+01:03:30 the wisdom of watching a television show
+01:03:32 the wisdom of watching a children's cartoon
+01:03:34 yeah basically
+01:03:36 you're all in line by milk
+01:03:38 no it's incredible
+01:03:40 you're all in line Tom
+01:03:42 you're not wrong
+01:03:44 hey you know MLP
+01:03:46 MLK
+01:03:48 Junior
+01:03:50 social importance
+01:03:52 hey how come there's an MLK
+01:03:54 there's no MLP
+01:03:56 wait do you think that we're going to
+01:03:58 have our whole new enlightenment
+01:04:00 when MLP TNG comes back
+01:04:02 and we have the pony version
+01:04:04 of Captain Picard to Twilight Sparkles
+01:04:06 Captain Perk
+01:04:08 that's way too easy to imagine
+01:04:10 like if the current MLP FAM
+01:04:12 is like the original Star Trek
+01:04:14 like I could totally imagine them rebooting it
+01:04:16 with a next generation
+01:04:18 like in a year or two
+01:04:20 the next season is the last one
+01:04:22 and they're rebooting people were pissed
+01:04:24 no way about fucking time
+01:04:26 that's all I guess
+01:04:28 it has been a decade I think
+01:04:30 8 years
+01:04:32 alright alright
+01:04:34 I think we've discussed what you want
+01:04:36 out of weird child feminism
+01:04:38 let's discuss like what we gained
+01:04:40 around earlier because I think that's
+01:04:42 I don't know are we out of things to say about that particularly
+01:04:44 I mean you can
+01:04:46 go on you can move on to it at the top
+01:04:48 what do you want
+01:04:50 to get us to Starfleet
+01:04:52 what do you want to do
+01:04:54 that's the thing people accuse me
+01:04:56 people accuse me as well
+01:04:58 of being idealistic when it comes to this
+01:05:00 but like I really
+01:05:02 that's like getting mad at a philosopher
+01:05:04 for arguing about philosophy
+01:05:06 and like having a focus on philosophy
+01:05:08 because like yeah like you can get mad
+01:05:10 that I keep going
+01:05:12 back to the same thing but I really
+01:05:14 approached the world
+01:05:16 with these thoughts just you know you can ask my fucking
+01:05:18 girlfriend how I go on these like retarded
+01:05:20 tangents about like fill out like
+01:05:22 why the way I'm doing or addressing
+01:05:24 I mean it's because of a philosophical reason like Nate
+01:05:26 shut the fuck up I don't care just buy the coffee
+01:05:28 I don't care right now
+01:05:30 about like the fact that like they might have used like
+01:05:32 immoral means to mine the coffee beans
+01:05:34 that are going to mine from the earth
+01:05:36 coffee you know deep in the chocolate man
+01:05:38 let me tell you I made it
+01:05:40 very clear when I was buying
+01:05:42 an engagement ring that I was like
+01:05:44 you know these are all like at the cost
+01:05:46 of human suffering right like yeah
+01:05:48 diamonds are you know
+01:05:50 I mean I'll buy you the diamond because
+01:05:52 I don't want to look like a cheapskate but
+01:05:54 yeah you know just let you know as long as you
+01:05:56 know like a lot of black people had died
+01:05:58 to get this on your we're participating in some
+01:06:00 fuck like every iPhone every
+01:06:02 smartphone is made with minerals that come
+01:06:04 from some fucked up situations everybody
+01:06:06 so it's good to think about
+01:06:08 these things I think this is a real thing
+01:06:10 if we're ever just interesting like ha ha
+01:06:12 where you want to press do you care about
+01:06:14 the suffering of people in like
+01:06:16 countries I mean if so then yeah you should
+01:06:18 try to be as I don't really
+01:06:20 I try to be like mildly conscious
+01:06:22 about conscientious about certain
+01:06:24 things but it really depends on like
+01:06:26 do I want it like
+01:06:28 yeah with cigarettes I quit
+01:06:30 cigarettes for a while after
+01:06:32 John Oliver episode where he was
+01:06:34 breaking down just like how fucking evil
+01:06:36 the cigarette corporations are they like
+01:06:38 Hock this shit two-year-olds in India
+01:06:40 and stuff like that and yeah I was
+01:06:42 like man that's really bad behavior and I had
+01:06:44 a pack of camel cigarettes and that was one of the companies that he
+01:06:46 called out of time and I just threw it in the trash
+01:06:48 and I was like fuck smoking I'm gonna roll
+01:06:50 my own tobacco
+01:06:52 quickly realized that like if you
+01:06:54 his own well if you the thing is
+01:06:56 you go and like buy a pack of tobacco
+01:06:58 they're all branded like you just
+01:07:00 are buying like camel tobacco
+01:07:02 to roll your own cigarettes with unless
+01:07:04 well the profit margins lower so you're
+01:07:06 doing your part you know so at some
+01:07:08 point I was just like okay
+01:07:10 like I don't want to support this
+01:07:12 corporation but I want cigarettes
+01:07:14 and I don't want to have to grow and roll
+01:07:16 my own and that's why we let these
+01:07:18 corporations exist in the first place
+01:07:20 is to rock that's right provide us with
+01:07:22 the things that we can't you know farm
+01:07:24 ourselves and like if I was
+01:07:26 now don't be wrong I would encourage
+01:07:28 if anybody could to try
+01:07:30 to compete with these companies and sell
+01:07:32 some homegrown tobacco and if it was in
+01:07:34 my town I'd probably go for that instead
+01:07:36 it probably be better you know probably be a
+01:07:38 better product and I would encourage
+01:07:40 people like shop local and
+01:07:42 don't be mind
+01:07:44 controlled by the giant
+01:07:46 corporations like McDonald's
+01:07:48 and fucking Walmart that
+01:07:50 just create the same building a thousand
+01:07:52 times so you get used to it so you're just like
+01:07:54 oh this is what's normal this is what's
+01:07:56 right you know I shouldn't go to
+01:07:58 that store that looks a little run down
+01:08:00 that's in my town even though it's like
+01:08:02 locally owned and operated and the food is amazing
+01:08:04 and it's been around for 20 years and everybody
+01:08:06 like it looks dingy and Walmart's
+01:08:08 right there you got to get out of that
+01:08:10 mindset because like a lot of the your local
+01:08:12 shit is better some of it's bad
+01:08:14 some of it I've got a we've got a place
+01:08:16 we go to called we call sketchmart
+01:08:18 that will just sell you
+01:08:20 expired food and
+01:08:22 they deserve to probably
+01:08:24 get in trouble wait it's actually called
+01:08:26 sketchmart no we call it that
+01:08:28 okay yeah but like well okay
+01:08:30 is fucking everyone who works there looks like
+01:08:32 they're in the mob and some of them are like open
+01:08:34 guys and sometimes we hear conversations
+01:08:36 like oh when did you get out of jail
+01:08:38 while we're in there we're like what is
+01:08:40 it feels like an Italian mafia
+01:08:42 run a store and I wouldn't be surprised
+01:08:44 so like just just going back a little bit
+01:08:46 like I just want to point out that like
+01:08:48 everyone in the world is a utilitarian
+01:08:50 when it comes to their smartphone for example
+01:08:52 because like there are there are conflict
+01:08:54 minerals in your smartphone if you own
+01:08:56 one and you definitely do
+01:08:58 so you are supporting like
+01:09:00 you know like I don't know like
+01:09:02 African fucking
+01:09:04 people getting fucked up in mines and shit
+01:09:06 for rare minerals that we need from those places
+01:09:08 in such an infinitesimal
+01:09:10 and roundabout way that's hardly
+01:09:12 you can't even register it as being
+01:09:14 if you support well that's exactly
+01:09:16 you are making a calculation that it is
+01:09:18 of more value to you to
+01:09:20 use this cell phone than it is suffering
+01:09:22 for these people who are being taken advantage of
+01:09:24 to produce this material you're making that
+01:09:26 calculation whether you like it or not you're doing it
+01:09:28 so as long as you're aware
+01:09:30 I think the main reason to get away with it
+01:09:32 is that most people are unaware
+01:09:34 and nobody wants to be the one
+01:09:36 who breaks the huge story that kills
+01:09:38 your advertisers
+01:09:40 I'm aware and we're all aware and we are
+01:09:42 now guilty of you know
+01:09:44 facilitating this and we should keep that in mind
+01:09:46 I made a video about why
+01:09:48 everyone on YouTube needs to like stop
+01:09:50 talking about Netflix because of the fact that
+01:09:52 like Netflix owns YouTube
+01:09:54 right now like they can put out
+01:09:56 whatever they want and everyone on YouTube is going to talk
+01:09:58 about it and all the ads on my video
+01:10:00 were for fucking Netflix
+01:10:02 because Netflix buys out all the ads based on YouTube
+01:10:04 I can't even the only way I could have controlled that
+01:10:06 is to turn off the ad revenue
+01:10:08 but that just means I'm not going to get any ad revenue off this video
+01:10:10 yeah so fuck that right
+01:10:12 you know how like
+01:10:14 that the whole like
+01:10:16 products have been
+01:10:18 like the kids in Africa
+01:10:20 have been killed to make an iPhone
+01:10:22 and all that and you look
+01:10:24 around at your white privileged life
+01:10:26 and you're like well I mean
+01:10:28 I guess I've killed hundreds of thousands of people
+01:10:32 should I just kill myself
+01:10:34 and end all of this suffering
+01:10:36 or will it make
+01:10:38 so much little difference that is basically
+01:10:40 just like who cares
+01:10:42 I mean the healthy way to think about it I guess would be
+01:10:44 I've consumed all this shit
+01:10:46 I've caused
+01:10:48 I'm always thinking about like my footprint
+01:10:50 on the world not like my carbon
+01:10:52 footprint per se but like my
+01:10:54 human death toll I guess
+01:10:56 like how much of what I've consumed could have
+01:10:58 like the excess that I've consumed
+01:11:00 rather like not just what's kept me alive
+01:11:02 but like all the excess consumption
+01:11:04 all the excess stuff I've bought
+01:11:06 how many people could have been helped with that
+01:11:08 with that money or that food
+01:11:10 but then I have to think well okay
+01:11:12 whatever I owe the world
+01:11:14 that's what I now have to pay forward
+01:11:16 like I have to make stuff that's good enough
+01:11:18 or I have to help enough people to like
+01:11:20 make up for this
+01:11:22 like the eight human lives that I've taken
+01:11:24 with my YouTube channel
+01:11:26 um
+01:11:28 at least
+01:11:30 618 years
+01:11:32 of view time
+01:11:34 at least eight human lives have been
+01:11:36 spent watching my YouTube videos
+01:11:38 that is eight people who have died
+01:11:40 who have lived and died their entire lives
+01:11:42 just watching my YouTube channel
+01:11:44 that's an interesting way to think about it
+01:11:46 I'm not sure I would exactly say it works out that way
+01:11:48 like people might have just gotten more benefit out of your videos
+01:11:50 or like I just want to say that like
+01:11:52 yeah like nobody
+01:11:54 none of you listening I'm sure
+01:11:56 give a fucking shit
+01:11:58 about like I don't know maybe there was
+01:12:00 people in Ukraine today who got like killed by Russian soldiers
+01:12:02 during the occupation of Ukraine that's happening
+01:12:04 uh or you know the part of Ukraine
+01:12:06 or whatever like do you care
+01:12:08 no you definitely don't
+01:12:10 and I like I don't know it's got
+01:12:12 on shlooshed or whatever the fucking where it is
+01:12:14 got absorbed
+01:12:16 um so like
+01:12:18 so you just get absorbed and nobody's talking about it
+01:12:20 no no no it was one piece that had been
+01:12:22 like contested between Ukraine and Russia
+01:12:24 and it is currently under Russian control like they just took it
+01:12:26 and actually the people there kind of wanted it
+01:12:28 but not everybody did so it's
+01:12:30 it's a complicated but you know aside from that
+01:12:32 there's a ton of fucking crazy shit going on in the world
+01:12:34 like what about
+01:12:36 what about the fact that Saudi Arabia
+01:12:38 uh you know like it executes gay people
+01:12:40 uh it still is
+01:12:42 absolute monarchy in 2018
+01:12:44 yeah and it classifies
+01:12:46 terrorism as terrorism
+01:12:48 that's what it does if you're an atheist in Saudi Arabia
+01:12:50 you are considered a terrorist for holding that belief
+01:12:52 I don't think
+01:12:54 the point I'm getting to here
+01:12:56 the point I'm getting to is that the reason
+01:12:58 that you don't care viewers
+01:13:00 about any of this shit
+01:13:02 at least you don't waste any time thinking about it
+01:13:04 even though the injustices
+01:13:06 are like incalculable
+01:13:08 and need to be addressed with
+01:13:10 are need to be addressed in like
+01:13:12 we would think they need to be addressed
+01:13:14 and people were not designed
+01:13:16 to live in a global civilization
+01:13:18 but we do now and we're aware
+01:13:20 of all the fucked up shit that's happening around the world
+01:13:22 but we're still tribal
+01:13:24 that is like we care about the people
+01:13:26 in our immediate vicinity about the shit we see
+01:13:28 with our eyes we don't care about the 100,000
+01:13:30 people that die that get reported on CNN
+01:13:32 and that's because
+01:13:34 this is human nature
+01:13:36 and human nature is
+01:13:38 immoral you cannot fall back on
+01:13:40 it's just human nature that's just how we are
+01:13:42 there are defects in the system
+01:13:44 totally to be addressed
+01:13:46 Nate I have a question for you then
+01:13:48 and I'm not trying to put you in a gotcha
+01:13:50 I'm just kind of curious
+01:13:52 is that you're talking about Starfleet
+01:13:54 and like you're putting all this value on the future
+01:13:56 of humanity why are you so willing to pass
+01:13:58 off the present of humanity
+01:14:00 because I am a weak tribal human like everybody else
+01:14:02 so you're just
+01:14:04 you're hoping future people fix your problem
+01:14:06 essentially
+01:14:08 absolutely not I am aware of the problems that exist in the world
+01:14:10 I think that we have to find ways
+01:14:12 to address them and
+01:14:14 I'm aware that we need magical future
+01:14:16 technology to make Starfleet real
+01:14:18 that we have no guarantee will ever exist
+01:14:20 but we can get closer
+01:14:22 by doing things like optimizing
+01:14:24 the rate of
+01:14:26 production and you know
+01:14:28 I think that what Starfleet is
+01:14:30 essentially trying to make a human tribe
+01:14:32 like that's what the show is about
+01:14:34 is that all of humans
+01:14:36 even though we're not supposed to
+01:14:38 be a global community
+01:14:40 we're not genetically
+01:14:42 disposed to it
+01:14:44 but it would be possible if everyone understood each other
+01:14:46 enough and there was no reason for them to fight
+01:14:48 you know
+01:14:50 so that's like the idea and then there's of course
+01:14:52 they're still fighting though because it turns out there's other tribes
+01:14:54 out there in the universe
+01:14:56 even in Starfleet in Deep Space Nine
+01:14:58 there's a big war against these guys called the Maki
+01:15:00 they're just humans that settled
+01:15:02 in this contested area
+01:15:04 and the Kardashians this other alien race
+01:15:06 like they're just like oh we're taking this back now
+01:15:08 and the Maki
+01:15:10 we're just like no like this is ours now
+01:15:12 and so like those guys actually started a war
+01:15:14 against the Federation and the Kardashians
+01:15:16 so like yeah like obviously
+01:15:18 these things still happen on like political
+01:15:20 and issues in it
+01:15:22 do they get fucking destroyed?
+01:15:24 well they were really sneaky
+01:15:26 they were really really sneaky but I think they still existed
+01:15:28 by the end of that series
+01:15:30 good old fashioned guerrilla warfare even in space
+01:15:32 pretty much
+01:15:34 like if they were presented
+01:15:36 like not everyone has like a radar
+01:15:38 like oh where are people dying right now
+01:15:40 there's someone dying in Ukraine right now
+01:15:42 well I feel sad now
+01:15:44 if someone were to be alerted to like a news article
+01:15:46 it wouldn't just be like a blanket
+01:15:48 just like oh I don't care just look away now
+01:15:50 people I think most people
+01:15:52 most people in the comments most people listening
+01:15:54 will probably feel a little bit bad about it
+01:15:56 but there's just no
+01:15:58 practical way that you can
+01:16:00 that you can make sure that people
+01:16:02 everywhere don't die
+01:16:04 well I think it comes down to like a lot of people
+01:16:06 like it's just like
+01:16:08 everybody says you want to help people
+01:16:10 you got to help yourself first
+01:16:12 capitalism has done more good for the world
+01:16:14 than any form of socialism or collectivism
+01:16:16 like even if I said
+01:16:18 right now like I want to make a difference
+01:16:20 like I can't even keep my shit straight
+01:16:22 you know like I'm in no position
+01:16:24 to help anybody else because I can barely help myself
+01:16:26 and I think the majority of people
+01:16:28 have that problem
+01:16:30 that is a burden that humankind
+01:16:32 should take up
+01:16:34 and people try it like it is
+01:16:36 a choice here if we could give up
+01:16:38 or we could try and we might break under the strain
+01:16:40 of doing so and I'm not saying like we should
+01:16:42 nanny state it up what we should do is
+01:16:44 apply principles across the board
+01:16:46 that we think will best facilitate us
+01:16:48 to getting to whatever destiny we choose
+01:16:50 starting now that's what
+01:16:52 you know that's really what I think so it's about
+01:16:54 finding the philosophy that makes the most
+01:16:56 sense to advance and this is what
+01:16:58 people argue all the time this is why we have political
+01:17:00 arguments for these exact reasons
+01:17:02 I personally think that
+01:17:04 it would be best if we left it up to individuals
+01:17:06 to flourish on their own and have less state
+01:17:08 intervention and stuff and just let people do what
+01:17:10 they want but and I'm willing to hear
+01:17:12 arguments of all kinds and I do I listen
+01:17:14 to political stuff all the time different people's
+01:17:16 views on this stuff but I have come to
+01:17:18 a conclusion and I think that it's a pretty good
+01:17:20 one but I'm willing to evolve it at any
+01:17:22 time and this is
+01:17:24 not passing things off to the future like
+01:17:26 if only we had replicators then
+01:17:28 everything would be great so guys we need to make
+01:17:30 replicators what are we doing not
+01:17:32 investing in a replicator technology
+01:17:34 I'm not saying that at all what I'm saying is
+01:17:36 like let's continue
+01:17:38 to encourage capitalism
+01:17:40 because capitalism seems to get
+01:17:42 results it's got issues that we should
+01:17:44 work on but we should
+01:17:46 like continue to champion that because I think
+01:17:48 it's like the best way to go and then
+01:17:50 yeah go on much you know they just
+01:17:52 released a new version of a capital called
+01:17:54 Anarcho Cavals I think we should upgrade to that
+01:17:56 version so we can get the ball really
+01:17:58 there's good things and bad things about it you know
+01:18:00 but I've learned I've heard about it I
+01:18:02 don't know I've heard about that game I think it's
+01:18:04 pretty good that's pretty good
+01:18:06 I've been watching the trailers I don't
+01:18:08 know like talking about all this I don't
+01:18:10 know whether I have
+01:18:12 a worldview
+01:18:14 like like it just
+01:18:16 even like if I sat down sort of thought to
+01:18:18 myself well what do I think
+01:18:20 it would probably just be blank space
+01:18:22 we're like I don't know
+01:18:24 I think my views are contradictory to one another
+01:18:26 most of the time and I think that the fact that I
+01:18:28 am contradictory to myself
+01:18:30 and the fact that I think multiple things
+01:18:32 is my worldview because
+01:18:34 I'm very against
+01:18:36 not as a blanket just all the
+01:18:38 time but I'm very against generally speaking
+01:18:40 tribalism and them
+01:18:42 like me versus you
+01:18:44 well that's a worldview of a sort
+01:18:46 of a sort yeah there's things I
+01:18:48 feel
+01:18:50 such as emotions that's a worldview of
+01:18:52 a sort said Nate snickering
+01:18:54 himself
+01:18:56 you could say that it's kind of broad
+01:18:58 but I don't care if you die
+01:19:00 but like I'm thinking
+01:19:02 about this and I'm realizing
+01:19:04 right now why people
+01:19:06 like labels of world they love
+01:19:08 they can latch on to because if I
+01:19:10 don't I would need to like
+01:19:12 like look inside myself and think
+01:19:14 about every single thing
+01:19:16 to come up with like a what like I have
+01:19:18 worldviews on all different types
+01:19:20 of things
+01:19:22 like I don't have like a blanket worldview
+01:19:24 and if there was one that would like
+01:19:26 approximate basically
+01:19:28 the things I say I would ascribe
+01:19:30 myself to that because it's easier than
+01:19:32 trying to think of every single individual thing
+01:19:34 see that's why
+01:19:36 Tumblr culture like the fucking
+01:19:38 gloom genders out there and shit you know
+01:19:40 like people love
+01:19:42 by the way gloom gender if I remember
+01:19:44 correctly it was like this is a gender
+01:19:46 it is like 50% female
+01:19:48 25% like
+01:19:50 fucking shadow from
+01:19:52 like 50% it was Oscar
+01:19:54 and cat it was part cat part
+01:19:56 Oscar and mostly gloom as in
+01:19:58 depression and sadness
+01:20:00 this is the gender of this person
+01:20:02 that was a legendary moment
+01:20:04 I've never seen this before please
+01:20:06 show it to me
+01:20:08 I don't know if I could find it but like
+01:20:10 me Ben and Nate we're on a way to
+01:20:12 like 2014 or whatever and I was just
+01:20:14 happened to stumble upon this thing and we
+01:20:16 stopped at a rest station and I'm like guys
+01:20:18 do you need a mental rest right now do you want to
+01:20:20 reset your brain for a quick sec check this out
+01:20:22 and we all had a good old chuckle
+01:20:24 what a legend by the way I searched
+01:20:26 gloom gender on Urban Dictionary it doesn't
+01:20:28 even have a definition it's just not
+01:20:30 I feel like that
+01:20:32 I think gloom gender
+01:20:34 was someone's weird utilitarianism
+01:20:36 that's exactly what I was gonna say this sound
+01:20:38 this is gonna sound a little bit hypocritical
+01:20:40 this is gonna
+01:20:42 sound a little hypocritical but like what I
+01:20:44 these people continue to splinter down
+01:20:46 but they take a thing like
+01:20:48 gender and they splinter it down
+01:20:50 into a little special identity
+01:20:52 that they can latch on to and
+01:20:54 weird utilitarianism
+01:20:56 is actually a meme
+01:20:58 that is not a real
+01:21:00 thing it doesn't mean anything
+01:21:02 I always thought that the gloom gender thing seemed like it was
+01:21:04 um
+01:21:06 not satirical per se but it's intended
+01:21:08 to be kind of funny
+01:21:10 the fact that it's like
+01:21:12 12% oska is your
+01:21:14 gender and 80% gloom
+01:21:16 people have lost the plot
+01:21:18 the whole tumblr was written
+01:21:20 in this very like
+01:21:22 childish dialogue that made it hard to
+01:21:24 determine if it was sincere or not
+01:21:26 I don't think that it's insincere
+01:21:28 I just think that it's intentionally funny
+01:21:30 like you can
+01:21:32 is what we have here like a kid just like playing
+01:21:34 with gender is that what's going on here
+01:21:36 I think that's what's going on in that particular case
+01:21:38 okay but I mean that's the kind of shit
+01:21:40 that is literally the kind of shit I would
+01:21:42 have done like when I was 14
+01:21:44 it just is factually inaccurate
+01:21:46 it deserves to be told that they're wrong
+01:21:48 I think that's part of the point is that it's fact
+01:21:50 like it's just kind of a fuck you
+01:21:52 to anybody who says you can't be whatever you want
+01:21:54 but you literally can't be
+01:21:56 that's not real
+01:21:58 no I'm fucking 80% gloom bitch
+01:22:00 well it's not that it's not real
+01:22:02 because sex and gender are considered
+01:22:04 two different things by this
+01:22:06 but saying that you're 12%
+01:22:08 Oscar as your fucking
+01:22:10 gender
+01:22:12 doesn't make the point it's a deconstruction
+01:22:14 of what gender is because then gender
+01:22:16 doesn't really have a clear definition
+01:22:18 like according to the
+01:22:20 principles that these people are operating under
+01:22:22 there's a
+01:22:24 strong disconnect between the
+01:22:26 concepts of sex and gender
+01:22:28 your sex is what gender do I have your genders
+01:22:30 how do I see myself sort of
+01:22:32 and so I think if this person sees themselves
+01:22:34 it's like well if gender
+01:22:36 doesn't matter anyways if saying male female
+01:22:38 whatever it doesn't actually mean anything
+01:22:40 I might as well just make up my own
+01:22:42 that communicates how I see myself
+01:22:44 to other people
+01:22:46 my always weird
+01:22:48 okay thought to that
+01:22:50 is like why even hijack the term gender
+01:22:52 why don't you just like say this is my personality
+01:22:54 it's just like postmodern art
+01:22:56 you put it in a museum
+01:22:58 postmodern art sucks
+01:23:00 I have less than no time
+01:23:02 to indulge people who want to tell me
+01:23:04 and I think this podcast is postmodern art
+01:23:06 well I can't be a part of it anymore
+01:23:08 I have less
+01:23:10 I have less than no time to indulge someone
+01:23:12 who wants to tell me that their gender is a fictional
+01:23:14 character I have no time for it
+01:23:16 it's not worth it
+01:23:18 it's a very young person's idea
+01:23:20 of how to deconstruct and
+01:23:22 subvert this idea
+01:23:24 the problem is that serious people take this seriously
+01:23:26 and they're like yeah I gotta respect their gender
+01:23:28 I don't know if anybody takes
+01:23:30 I mean I don't think
+01:23:32 it's taking it seriously to say
+01:23:34 I respect your decision to call yourself whatever
+01:23:36 the fuck you want
+01:23:38 it's not that I'm saying I respect your gender
+01:23:40 I totally agree that you are
+01:23:42 25% oska it's just call yourself whatever
+01:23:44 you want what I'm objecting to is the idea
+01:23:46 that I would ever have to validate
+01:23:48 someone's opinion of themselves in any way
+01:23:50 you're still in New York right
+01:23:52 isn't like on the books right now there's 40 something
+01:23:54 genders in New York and you could be fine
+01:23:56 I'm not sure
+01:23:58 what if you think you're fucking dope
+01:24:00 and I think you're fucking shit
+01:24:02 am I oppressing your world view
+01:24:04 am I
+01:24:06 I wouldn't say you're oppressing their
+01:24:08 well okay
+01:24:10 it's the same shit I'll say that you are
+01:24:12 but it's not a bad thing
+01:24:14 everyone's world view should be oppressed
+01:24:16 because all of us are fucking wrong about everything
+01:24:18 so we all deserve to be horribly
+01:24:20 lambasted for our views
+01:24:22 in fact realistically
+01:24:24 as human beings
+01:24:26 we don't even perceive the reality of our
+01:24:28 universe we live in and we're probably wrong
+01:24:30 about fucking everything
+01:24:32 all math probably doesn't even
+01:24:34 actually work in like the next
+01:24:36 one dimension up none of it makes sense
+01:24:38 I could go on a thing about that
+01:24:40 then tell us go on your thing
+01:24:42 I want to hear it
+01:24:44 math works definitionally because we
+01:24:46 created it and we
+01:24:48 created the axioms that it works on
+01:24:50 maybe did you mean like physics?
+01:24:52 math is not a thing that we discovered
+01:24:54 and it works within our own definitions
+01:24:56 I feel like this entire podcast
+01:24:58 has just been Tom, Nate, and Digi
+01:25:00 talking endlessly and then
+01:25:02 Hippo, me, and Ben just being disgruntled
+01:25:04 but not really knowing how to express myself
+01:25:06 I don't know
+01:25:08 I don't know
+01:25:10 this was the intellectuals episode
+01:25:12 you guys
+01:25:14 I'm shifting it to disgruntled gender
+01:25:16 right now
+01:25:18 the way to solve that
+01:25:20 for me is to bring up the
+01:25:22 the previous
+01:25:24 lost episode of
+01:25:26 utilitarianism that we did record
+01:25:28 and I posted my audio on Gibb and Take
+01:25:30 you just play
+01:25:32 both of those videos at the same time and I'll basically
+01:25:34 have the same points
+01:25:36 I just realized, Nate
+01:25:38 you just gave me a great idea for the term
+01:25:40 gender drifting
+01:25:42 like if you need to
+01:25:44 pull off 5 consecutive
+01:25:46 hair point genders
+01:25:48 while
+01:25:50 blasting running in the 90s
+01:25:52 you're like, oh shit, I gotta be like
+01:25:54 I gotta be a man, a woman, a gloom
+01:25:56 a fucking vile plume
+01:25:58 and I gotta be a fucking
+01:26:00 a ghost by the end of the night
+01:26:02 and the prom is tomorrow
+01:26:06 the only way to do it is gender
+01:26:08 drifting
+01:26:10 you just stop, you just take your foot off
+01:26:12 the pedal of the gender
+01:26:14 and you just like flow through the conversation
+01:26:16 you know
+01:26:18 it's funny that you take it that way
+01:26:20 because I took it to be the opposite
+01:26:22 gender drifting should be like a slower
+01:26:24 version of gender fluid
+01:26:26 where when you're gender fluid
+01:26:28 there are instances where you're not
+01:26:30 but when you're gender drifting
+01:26:32 it's like a percentage based each time
+01:26:34 you run into the same problem I ran into
+01:26:36 last time I called something drifting
+01:26:38 which is that you're thinking of it in terms of
+01:26:40 like drifting along and I'm thinking of it in terms of
+01:26:42 Tokyo Drift
+01:26:44 hard core Mario Kart DS drifting
+01:26:46 you're getting your acceleration
+01:26:48 you're building up your charge so you can release that and just burst
+01:26:50 forward to the speed
+01:26:52 boost forward to the speed of
+01:26:54 gender
+01:26:56 in the first season of Initial D
+01:26:58 there's this gigantic mountain that has five
+01:27:00 consecutive hair point turns on it
+01:27:02 and so like the whole show is about
+01:27:04 how can you tackle this
+01:27:06 five consecutive hair point turns and the only way to do it is drifting
+01:27:08 is that the one with the Donkey Kong
+01:27:10 barrel that shoots you to the top
+01:27:12 yes
+01:27:14 Mario Kart
+01:27:16 that's how we're going to build Starfleet because
+01:27:18 the only thing that travels faster than light is gender
+01:27:20 we have to build gender
+01:27:24 oh my god
+01:27:26 for real though I do respect
+01:27:28 transgender people
+01:27:30 with non-traditional gender identities
+01:27:32 that's cool man
+01:27:34 I have no hatred in my heart
+01:27:36 don't you think it's sad that we have to make that
+01:27:38 addendum though
+01:27:40 I feel like the reason
+01:27:42 everybody has to say that is because he constantly
+01:27:44 says that he doesn't care about them at all
+01:27:46 because I don't care about any identities
+01:27:48 god damn it I'm consistent here
+01:27:50 and also for what it's worth there is like a strong
+01:27:52 like culture on
+01:27:54 YouTube of like conservative people
+01:27:56 who do have a problem with trans
+01:27:58 people so like I understand why people
+01:28:00 are like wary why some
+01:28:02 like for the PCP
+01:28:04 has like a weirdly large trans audience
+01:28:06 which is entirely my fault
+01:28:08 it is interesting because I have a really large trans
+01:28:10 audience but like
+01:28:12 but I do think
+01:28:14 that some of those people you know come
+01:28:16 here and they're like uncomfortable at first
+01:28:18 because they're like I don't know if these guys
+01:28:20 would hang out with me if I was
+01:28:22 there you know because they're afraid that
+01:28:24 like we're going to treat them
+01:28:26 I will hang out with you but I will laugh at the fact
+01:28:28 that you call yourself gloom gender
+01:28:30 I would love to hang out with that gloom gender
+01:28:32 I would love to meet them and pick their brain
+01:28:34 like the thing with
+01:28:36 the PCP is that
+01:28:38 we're really really edgy
+01:28:40 a lot of the time
+01:28:42 we have no problem
+01:28:44 we're not the sort of people
+01:28:46 who would disassociate with a type
+01:28:48 of person because it's kind of funny
+01:28:50 what they are to us
+01:28:52 that makes me like them more
+01:28:54 that they're funny
+01:28:56 alright do we want to move to questions
+01:28:58 or do we have more to say about weird utilitarianism
+01:29:00 I feel like we've
+01:29:02 run the gamut here
+01:29:04 it has
+01:29:06 closing points anyone
+01:29:08 anyone on this thing
+01:29:10 I don't know what happened
+01:29:12 I want to talk briefly
+01:29:14 about how have you
+01:29:16 come to the point on your life
+01:29:18 where you are
+01:29:20 or at least you claim to be and I'm sure that you are
+01:29:22 consistent in 100 spin of the facets in your life
+01:29:24 where everyone can
+01:29:26 every one of the choices in your life can be
+01:29:28 whittled back to weird utilitarianism
+01:29:30 or if it occasionally can't
+01:29:32 it is an insane bias
+01:29:34 I don't think it's a bias
+01:29:36 what it is is a consistent application
+01:29:38 of my current world views
+01:29:40 that are absolutely subject to change
+01:29:42 but that's what it is
+01:29:44 it's just for the last, I don't know
+01:29:46 maybe like three or four years
+01:29:48 I have been like this really seems like the right approach
+01:29:50 to me and I'm always on the lookout
+01:29:52 for ways that I might be wrong
+01:29:54 and in fact I'm hearing some critical
+01:29:56 points like to utilitarianism
+01:29:58 as a whole like you know there's always the ideas of
+01:30:00 like you know when you put too much
+01:30:02 like these guys were memeing about like
+01:30:04 oh if you're a utilitarianism
+01:30:06 you have to murder people and steal their organs
+01:30:08 to save more lives, like that is ridiculous
+01:30:10 it violates some foundational stuff
+01:30:12 it doesn't make sense, totally bullshit point
+01:30:14 but I really feel
+01:30:16 I strive in all things
+01:30:18 to be completely honest
+01:30:20 and fair to all ideas
+01:30:22 but I do have
+01:30:24 opinions and I have experiences in my life
+01:30:26 and I have arrived at a place
+01:30:28 where I really think that like
+01:30:30 utilitarianism has been shown to work
+01:30:32 it really works well
+01:30:34 but it needs some you know regulation
+01:30:36 like the future presented in Star Trek
+01:30:38 I think is a
+01:30:40 good vision for where human beings should
+01:30:42 like keep in mind as a star
+01:30:44 as a distant star in our mind
+01:30:46 to head towards and I think like
+01:30:48 treating things in a utilitarian way
+01:30:50 generally speaking is like
+01:30:52 the most moral and
+01:30:54 to do the most good for the world
+01:30:56 and because of all these things like
+01:30:58 there's a little silly label on that stuff
+01:31:00 for my views of weird utilitarianism
+01:31:02 two points on that
+01:31:04 first of all what I meant was practically
+01:31:06 like have you ever sat down and thought
+01:31:08 like I need to change some opinions of mine
+01:31:10 or have you warped your philosophy
+01:31:12 to set your own personal opinions
+01:31:14 and then second of all
+01:31:16 if you like you keep
+01:31:18 like in a way that like this is like a far off thing
+01:31:20 for Starfleet which probably is
+01:31:22 but then like
+01:31:24 then certainly it shouldn't take up this much
+01:31:26 time of the fucking podcast if it's such a far off
+01:31:28 distant like pie in the sky thing
+01:31:30 um okay to your first point
+01:31:32 I am
+01:31:34 subject every single day to
+01:31:36 examination of my ideas
+01:31:38 I mean obviously everyone gets attached
+01:31:40 to their world view to some degree I do not
+01:31:42 feel I am overly attached to my world view
+01:31:44 on on these economic ideas
+01:31:46 in some ways like my
+01:31:48 like my atheism I am
+01:31:50 very very convinced that
+01:31:52 I am right on that but I could be corrected
+01:31:54 I could absolutely be correct if there was evidence to the contrary
+01:31:56 but none is forthcoming
+01:31:58 but to your other point of is it a
+01:32:00 utilitarian idea to bring up
+01:32:02 weird utilitarianism so much in the podcast
+01:32:04 are we producing the most wealth for the world
+01:32:06 in doing so is that the most useful use of time
+01:32:08 I don't know we just
+01:32:10 have to react to market forces and let them
+01:32:12 dictate whether or not it's the right way to go
+01:32:14 um and that's it
+01:32:16 I think that I bring it up
+01:32:18 when it is occurs to me
+01:32:20 when when something comes occurs to me
+01:32:22 that's that resonates with my world
+01:32:24 view on this stuff I bring it up
+01:32:26 because that's just what this
+01:32:28 podcast is it's a it's a train of
+01:32:30 thought well yeah I
+01:32:32 hope that now that we have made
+01:32:34 this big uh dump
+01:32:36 info on your world view
+01:32:38 it will it will happen less often
+01:32:40 cannot promise that but
+01:32:42 I hope that if it comes up
+01:32:44 we can just say I'll just go watch
+01:32:46 episode 99 and then skip
+01:32:48 skip you you you edit a lot of these episodes
+01:32:50 so every time he goes on a weird utilitarianism
+01:32:52 and just cut it out just be like
+01:32:54 and now go to PCP episode
+01:32:56 99 to understand what the fuck the
+01:32:58 15 minutes are you saving three hours
+01:33:00 of your life instead of doing that instead
+01:33:02 of doing that please edit this entire podcast
+01:33:04 into that section of that podcast
+01:33:06 and play it in its entirety that would be
+01:33:08 ever see seven-hour episodes that's the
+01:33:10 PCP but every time Nate opens his mouth
+01:33:12 we play the entire weird
+01:33:14 utilitarianism exactly
+01:33:16 exactly someone's gonna do that
+01:33:18 and they're gonna be the hero of time
+01:33:20 complete with complete with the 40
+01:33:22 minutes of not talking about which
+01:33:24 every time Nate says right while
+01:33:26 someone else is talking
+01:33:28 like every time he goes oh right right
+01:33:30 you have to also put the entire
+01:33:32 podcast
+01:33:34 excellent I think I am always right
+01:33:36 yeah
+01:33:38 guys I think that we're good
+01:33:40 we're good on that
+01:33:42 let's do it mother fuckers
+01:33:44 let's get into some goddamn questions
+01:33:46 oh I like this one
+01:33:48 from the procrastinators
+01:33:50 patreon questions lounge
+01:33:52 pledge one dollar at least you can get
+01:33:54 this exclusive club secret club
+01:33:56 that you can't tell anyone about or you'll be banned
+01:33:58 we have
+01:34:00 from cappy what is the human
+01:34:02 body lacking a built-in gun
+01:34:04 I
+01:34:06 immediately thought tentacles
+01:34:08 like okay
+01:34:10 I don't feel I have enough dicks
+01:34:12 I feel one is
+01:34:14 not enough women have more than one
+01:34:16 whole and lots of
+01:34:18 like play like okay the reason
+01:34:20 tentacle porn is so great is that it's just
+01:34:22 like it wraps all around her and fills all the
+01:34:24 holes right sure like and I want to be
+01:34:26 able to do that I want to be able to wrap
+01:34:28 around and fill everything all at once
+01:34:30 and not have to like move around and do all that
+01:34:32 other shit I just want to be like a monster that
+01:34:34 just I'm just too lazy to bank guys like
+01:34:36 I don't know what to tell you I don't want to move
+01:34:38 I just want to be able to do it you've taken
+01:34:40 this wholesome Christian podcast and do it
+01:34:42 you
+01:34:44 just said
+01:34:46 do you do you think
+01:34:48 a fucking tentacles should all come
+01:34:50 from like your groin area like there's
+01:34:52 just an already come from everywhere groin
+01:34:54 wait are you
+01:34:56 are you asking sorry I wasn't paying attention
+01:34:58 because of a fucking famous gay porn
+01:35:00 actor just died
+01:35:02 Billy Harrison yeah from
+01:35:04 all those fucking what's it called
+01:35:06 all those Japanese
+01:35:08 yeah that guy
+01:35:10 wait he died he died he died in a car
+01:35:12 crash yesterday I think
+01:35:14 no it's true
+01:35:16 I have no idea who you're talking about
+01:35:18 Billy Harrington I think is his name
+01:35:20 I was saying this to my friends he died
+01:35:22 100% it's like he was like
+01:35:24 I don't know 40 something and he just died in a
+01:35:26 car crash that's fucking
+01:35:28 I feel legitimately
+01:35:30 saddened though I can't believe
+01:35:32 he's dead how could I
+01:35:34 reserve this news on the fucking PC
+01:35:36 probably the person I love that guy
+01:35:38 probably the saddest death
+01:35:40 of a gay porn star the world will ever
+01:35:42 experience besides when you died
+01:35:44 did you
+01:35:46 anybody else got anything they think the human
+01:35:48 oh hey but what were you asking me about the tentacles
+01:35:50 before I got distracted by the
+01:35:52 it was saying like would they all come
+01:35:54 from the groin area or would they be like
+01:35:56 all over your body I would
+01:35:58 like a forehead dick oh man
+01:36:00 I don't know like I would always assume
+01:36:02 that like I maybe said watch too much spider
+01:36:04 man the tentacles come from like your back
+01:36:06 yeah that's not that's a good one
+01:36:08 if it's coming I mean I would just prefer to
+01:36:10 be like a blob monster made of tentacles
+01:36:12 you know like or like a tank a lot of
+01:36:14 type creature that can be a raid
+01:36:16 did you how much homestuck
+01:36:18 fan porn have you seen not much
+01:36:20 have you are you aware
+01:36:22 of the tenta bulge
+01:36:24 no
+01:36:26 what oh no
+01:36:28 oh is that the that's the that's the homestuck
+01:36:30 dicks right that's the troll dick yeah
+01:36:32 imagine like a
+01:36:34 giant as I'm sure you're doing
+01:36:36 but
+01:36:38 but the clitoris is a tentacle
+01:36:40 oh
+01:36:42 and it's all slimy and
+01:36:44 and the and the slime colors
+01:36:46 based off your of your blood color
+01:36:48 of course it's not supposed to be tentacles
+01:36:50 that are like a foot long
+01:36:52 there's no canon like a troll
+01:36:54 dick but yeah that's what the fan
+01:36:56 fan them is
+01:36:58 the tentacle is like a foot long
+01:37:00 because they don't reproduce that way
+01:37:02 just for it's just for pleasure
+01:37:04 they're built for pleasure not for speed
+01:37:06 the the trolls
+01:37:08 um built for need
+01:37:10 hey can I can I read a let me read a question
+01:37:12 wait you gotta answer the fucking
+01:37:14 we're missing about
+01:37:16 150 extra pounds of lean
+01:37:18 body mass just out of the gate
+01:37:20 we're missing where you just want us to
+01:37:22 be gorillas
+01:37:24 that body mass has to come from somewhere
+01:37:26 and it's gonna come from our brands and it's
+01:37:28 gonna come from our ability to last without constantly
+01:37:30 have you have you guys seen that picture of that
+01:37:32 that like creature that was
+01:37:34 a human being this is what a human being would have to look like
+01:37:36 to survive a car crash
+01:37:38 that's great that's what we're missing
+01:37:40 we're missing a lot of that stuff
+01:37:42 look it up right now if you haven't seen that
+01:37:44 put it in the show notes
+01:37:46 because I'm not looking up right now but I want to see it later
+01:37:48 I think what we're missing is
+01:37:50 a hand like directly in the center
+01:37:52 of our back humans are so
+01:37:54 front focused it's fucking disgusting
+01:37:56 there's no back representation
+01:37:58 in our body and our body mass
+01:38:00 we need some sort of limb on our back
+01:38:02 so we can better defend ourselves from back stabs
+01:38:04 as you all know those are an instant kill
+01:38:06 and it takes 12 seconds to respawn
+01:38:08 it'd be like a leg
+01:38:10 and you can kick people like a donkey
+01:38:12 for anybody who might know this
+01:38:14 this is him how did we used to sleep
+01:38:16 how did humans sleep before beds
+01:38:18 like you would just gather around a fire
+01:38:20 and then take turns I guess
+01:38:22 you get a bunch of leaves and break
+01:38:24 and grubbly grubs and you just huddle up
+01:38:26 did you lay on your back
+01:38:28 did you lay on your back
+01:38:30 on the ground or just like
+01:38:32 I don't know
+01:38:34 or whoever posted this
+01:38:36 what do the breasts add
+01:38:38 is surviving the car crash
+01:38:40 so you can nurse yourself back to health
+01:38:42 with supple milk drinking
+01:38:44 oh my god this is like a whole thing
+01:38:46 there's like
+01:38:48 why is this
+01:38:50 I thought this was going to be like a funny scene
+01:38:52 human beings would have to be built like
+01:38:54 to survive a car crash is the idea
+01:38:56 yeah but why the weird nipples
+01:38:58 it was originally developed
+01:39:00 by a car crash
+01:39:02 thing
+01:39:04 they published that and it went viral on facebook
+01:39:06 and I think there has since been like
+01:39:08 further
+01:39:10 is it like deliberately disgusting
+01:39:12 to prove a point or something
+01:39:14 we almost
+01:39:16 made it a whole podcast without looking at images
+01:39:18 to piss off people
+01:39:20 thanks to me
+01:39:22 thanks to me everyone
+01:39:24 praise me for that
+01:39:26 but just in concept it's just this disgusting
+01:39:28 like bulbous creature
+01:39:30 a lot of padding around the brain obviously
+01:39:32 with these big ass thick feet
+01:39:34 he looks like the juggernaut but if he had
+01:39:36 under his helmet
+01:39:38 was shaped like his helmet
+01:39:40 basically
+01:39:42 anybody else got answers for that question
+01:39:44 I have a couple answers actually
+01:39:46 I think first of all a tale of some sort
+01:39:48 to help with balance because I'm horribly clumsy
+01:39:50 yeah
+01:39:52 no it's like
+01:39:54 we're missing a lot of fur and cat ears
+01:39:56 I want to be a neckochon that's what we're missing
+01:39:58 I'm missing the neckochon appeal
+01:40:00 I realized a great one
+01:40:02 but our eyes need to be large
+01:40:04 did you would you not want to have real life cat girls
+01:40:06 I mean come on
+01:40:08 then shut the fuck up
+01:40:10 I think we're missing file conversion
+01:40:12 in our biological body
+01:40:14 it takes too long for me to convert files
+01:40:16 I need a body
+01:40:18 I'm literally about to say that we need a USB port
+01:40:20 like that's a good one
+01:40:22 you charged my fucking phone
+01:40:24 transhumanism watch that episode
+01:40:26 no another thing is
+01:40:28 I was just recently found out that the
+01:40:30 we only have like 10% of our
+01:40:32 or 10 or 20% of our
+01:40:34 the cells in our eyes are good for like acute vision
+01:40:36 the rest are like really shitty
+01:40:38 and if all of the cells were like
+01:40:40 the stuff that we could use like acute vision with
+01:40:42 our brain would have to be like three times its size
+01:40:44 to accommodate all the visual information
+01:40:46 so bigger brain or if we could do
+01:40:48 like the fucking andolites
+01:40:50 and anamorphes have like the high stocks
+01:40:52 that can go look behind you
+01:40:54 so you can look in multiple directions at the same time
+01:40:56 I was gonna say
+01:40:58 I wish we could see a greater range of the electromagnetic spectrum
+01:41:00 we're so limited
+01:41:02 it's pathetic
+01:41:04 we can't even sense microwaves
+01:41:06 let alone radio waves
+01:41:08 do I want to sense microwaves all the fucking time
+01:41:10 like I used a microwave
+01:41:12 do I want to sense it
+01:41:14 do I want to fucking feel my body
+01:41:16 like she just sees them
+01:41:18 they'd be like a different color
+01:41:20 and you'd be like oh neat I see there's some microwaves
+01:41:22 I don't want to see more of the spectrum
+01:41:24 because I don't want to see in other
+01:41:26 qualities how bad my art is
+01:41:28 the limited spectrum I see is bad
+01:41:30 you know what spectrum I'd love to be able to see
+01:41:32 is the autism spectrum
+01:41:34 before I talk to somebody
+01:41:36 so clever
+01:41:38 imagine if like those color codes
+01:41:40 that they had it
+01:41:42 bad enough about myself I don't need another measure
+01:41:44 let me take a step back to explain
+01:41:46 we're missing the UI to just our vision
+01:41:48 imagine it's fucking Vincent from the Vapors
+01:41:50 and every time you walk up to someone you can like
+01:41:52 turn to the rank of autism
+01:41:54 well remember at BronyCon
+01:41:56 they had these for the audience
+01:41:58 who wasn't there which is everyone I guess
+01:42:00 they had these fucking badges
+01:42:02 where you could
+01:42:04 they had like a three color system
+01:42:06 where it's like if you have green that means
+01:42:08 you can talk to me if you have yellow
+01:42:10 or hesitate to talk to me
+01:42:12 and red means don't talk to me at all
+01:42:14 and it was like it was literally a system
+01:42:16 for like the unbelievably
+01:42:18 large autism population of BronyCon
+01:42:20 to you know
+01:42:22 communicate whether they wanted to be spoken to or not
+01:42:24 or for you to communicate
+01:42:26 that to them not that they fucking
+01:42:28 work because like
+01:42:30 course not but because you just got a glomp
+01:42:32 sometimes you just got a glomp my dude
+01:42:34 I think we all just need
+01:42:36 to glomp every now and again
+01:42:38 get out of our system
+01:42:40 we build up our glomp receptors
+01:42:42 we just need to let them burst
+01:42:44 point being I'd love to be able to see those colors on everybody
+01:42:46 point being I'd love to glomp
+01:42:50 I think we should have big
+01:42:52 porphy cheeks like this fish right here
+01:42:54 because
+01:42:56 it looks funny and you could
+01:42:58 you could inhale bigger
+01:43:00 and you could exhale
+01:43:02 and big face
+01:43:04 if anybody whose DTF
+01:43:06 should have like a
+01:43:08 like a graphic over there
+01:43:10 you know the quest markers and
+01:43:12 MMOs like the little exclamation point
+01:43:14 anybody who's like wants to fuck
+01:43:16 should have an exclamation point above their head
+01:43:18 oh wait wait wait
+01:43:20 that's like
+01:43:22 what if when you want
+01:43:24 you want to go at it
+01:43:26 your skin changes like to be
+01:43:28 extremely red and then people like oh I know
+01:43:30 I'm sick of accidentally
+01:43:32 raping all these women who didn't actually want it
+01:43:34 I feel as though a lot of people
+01:43:36 like the reason that they're afraid
+01:43:38 this is definitely true for me like part of why
+01:43:40 I could never cold approach girls is like
+01:43:42 I don't know if they want to be spoken to
+01:43:44 a lot of people see you have to do it to
+01:43:46 find out at all yeah I just want to
+01:43:48 so everybody knows here's the right way to
+01:43:50 assume they don't want to talk to you once you
+01:43:52 know that then your arm you know it's the worst
+01:43:54 but still do it anyway
+01:43:56 of course yeah anyway that's right
+01:43:58 Ben you
+01:44:00 you are the creator of science
+01:44:02 you've made physics
+01:44:04 what would we have to do to the human body
+01:44:06 to make it be able to see more colors
+01:44:08 I mean
+01:44:10 more cones and rods yeah we just have to
+01:44:12 have like a greater like
+01:44:14 I don't know what would have to change in our cones
+01:44:16 and rods they just have to be
+01:44:18 you know set up to be sensitive
+01:44:20 to more frequencies
+01:44:22 just shove a little
+01:44:24 bumblebee in there and then he'll
+01:44:26 work it out for you yeah
+01:44:28 you put bumblebees in your eyes
+01:44:30 and they will see different colors
+01:44:32 and then they will like type up on the little
+01:44:34 computer like okay there's
+01:44:36 we might as well get that
+01:44:38 and then that gets sent to the brain
+01:44:40 what part of the eyeball do you think tastes the best
+01:44:42 enough for this shit let's move on to the next question
+01:44:44 I want the answer to the eyeball that's probably the best
+01:44:46 here's a question from
+01:44:48 no there's a question from roo guy
+01:44:50 he says have you ever pushed yourself to a point
+01:44:52 where you opened your inner strength
+01:44:54 what
+01:44:56 I feel as though I've done that like almost
+01:44:58 every time I do anything physical
+01:45:00 because I never believe I can do as much as I can
+01:45:02 I climbed the tallest mountain
+01:45:04 in Virginia one time with my friends and family
+01:45:06 they were all like
+01:45:08 workout guys who were swollen like ready
+01:45:10 I showed up you know
+01:45:12 overweight in pajamas like
+01:45:14 but I climbed the fucking mountain
+01:45:16 so you know it took
+01:45:18 like there's times
+01:45:20 in school
+01:45:22 years like where we do like
+01:45:24 a run round
+01:45:26 several blocks for like 10 minutes
+01:45:28 it's like a long run
+01:45:30 and
+01:45:32 when you get to the end or like near the end
+01:45:34 you're like I'm gonna die but you gotta
+01:45:36 look cool so you have to sprint at the end
+01:45:38 and you always kill yourself but
+01:45:40 inner strength
+01:45:42 you can't do it until you see
+01:45:44 the glory that is sprinting over the end
+01:45:46 when I was like
+01:45:48 when I was like a little kid
+01:45:50 I used to wrestle like every single day of my life
+01:45:52 with my friends
+01:45:54 with my family
+01:45:56 with my estranged relatives
+01:45:58 I used to wrestle with fucking everyone
+01:46:00 and every time I was like pinned to the ground
+01:46:02 by you know a woman in her 40s
+01:46:04 or my best friend who was 2 years younger than me
+01:46:06 I would always think like this is it
+01:46:08 this is where I fucking die in this playtime of wrestle
+01:46:10 but then I would like channel
+01:46:12 my chi and I would like close
+01:46:14 my eyes and I would start breathing heavily
+01:46:16 and I would overcome the hate
+01:46:18 and he would remember that he's a 7 foot 5
+01:46:20 juggernaut and this would destroy them
+01:46:22 and I would fucking obliterate them completely
+01:46:24 and I would like scream
+01:46:26 as I like as I come up from my
+01:46:28 pin using all of my body force
+01:46:30 in the world and all of the g-force
+01:46:32 I've been saving up by burning up against my wall
+01:46:34 I've been saving my g-force
+01:46:36 I can fucking release it all in one punch
+01:46:38 and obliterate them even though he said to not punch each other
+01:46:40 it was just a wrestling match
+01:46:42 I would do it anyway
+01:46:44 what a champion
+01:46:46 that reminds me of the thing I used to do with my brothers
+01:46:48 where like we would get like all the soft
+01:46:50 things in the house like all the cushions
+01:46:52 all the pillows
+01:46:54 all the duvets all the blankets
+01:46:56 and then one person
+01:46:58 usually me because I was the oldest
+01:47:00 would get covered by all of the stuff
+01:47:02 and I'd have to like scratch my way out
+01:47:04 like punch my way out and they would lay on me
+01:47:06 and then I would be like
+01:47:08 oh I have no strength left
+01:47:10 but like right at the end
+01:47:12 I burst forth
+01:47:14 and I'm alive now
+01:47:16 and now it's your turn to be fucking suffocated until you're dead
+01:47:18 dude dude
+01:47:20 and what
+01:47:22 well here finish your thing
+01:47:24 no no I'm done
+01:47:26 my friend who used to wrestle with
+01:47:28 fucking rocky I'm talking about him
+01:47:30 we sports fucking shitter
+01:47:32 like literally
+01:47:34 we were like the RPG
+01:47:36 I was like all attack and all
+01:47:38 but I was like super slow
+01:47:40 and he was lying on attack but he was super fast
+01:47:42 that was literally it
+01:47:44 and the way it would work is like once I got him in a pin
+01:47:46 on him it would be over
+01:47:48 that would be the end of the game
+01:47:50 so he had to find ways
+01:47:52 to like get jabs at me without
+01:47:54 me being able to like grab him because if I grabbed him
+01:47:56 I could get into like an infinite combo
+01:47:58 and I would like instantly win the set
+01:48:00 so like he would have to fucking
+01:48:02 evade through me
+01:48:04 but I always fucking got him because he was a fucking bitch
+01:48:06 fuck you rocky
+01:48:08 I found inner strength
+01:48:10 while I was working on Mia Maffova
+01:48:12 I definitely physically
+01:48:14 that was an extremely demanding
+01:48:16 time and I
+01:48:18 just persevered
+01:48:20 there was no one moment of just like
+01:48:22 you know unlocking something
+01:48:24 but just the physical fortitude required
+01:48:26 to get it done despite you know
+01:48:28 I found inner strength working
+01:48:30 on Brunswick I worked on it like
+01:48:32 most of every day all day
+01:48:34 for like most days I worked
+01:48:36 for most of the day for like an entire month
+01:48:38 and I was like the most
+01:48:40 focused I've ever been on finishing a thing
+01:48:42 it's similar to this
+01:48:44 two for one
+01:48:46 which are both related to one another
+01:48:48 for the past couple of days before I came here
+01:48:50 I've been a bit of a boss now hello
+01:48:52 before I came here I was
+01:48:54 working on finishing up the vape rent for Ben
+01:48:56 and I realized two things
+01:48:58 like most of the day was just me doing the vape rent
+01:49:00 which was great and it felt good to just
+01:49:02 like do work all day but I also just
+01:49:04 realized that like I can
+01:49:06 just stay up forever
+01:49:08 like I don't get tired
+01:49:10 like I get there's like a dip
+01:49:12 in between like I spent
+01:49:14 like in the last month in February I had
+01:49:16 like eight or nine
+01:49:18 twenty per hour days
+01:49:20 and it like wasn't hard at all
+01:49:22 like there would be a dip where I'd normally go to bed
+01:49:24 that would be kind of hard but after I get over that
+01:49:26 it's just like really fucking easy
+01:49:28 I would get like
+01:49:30 kind of tired around
+01:49:32 ten p.m. and then I would be fine again
+01:49:34 until maybe like four
+01:49:36 a.m. or five a.m.
+01:49:38 yeah exactly exactly been exactly
+01:49:40 like well over
+01:49:42 thirty hours for me to like
+01:49:44 if there's a crunch time that makes sense
+01:49:46 but you got to sleep some time
+01:49:48 so it doesn't seem like you're really just making me
+01:49:50 miss like being young
+01:49:52 because that's what I did when I was your age
+01:49:54 was just like not sleep
+01:49:56 as much as possible like not even so much
+01:49:58 because it was like super easy to do
+01:50:00 but just like to me it was
+01:50:02 the coolest thing to do is like if you can stay up for
+01:50:04 forty eight hours that's the best possible
+01:50:06 like night because it just means that you did
+01:50:08 shit non-stop for two days without
+01:50:10 like any interruption and especially
+01:50:12 for me as a kid when I valued
+01:50:14 weekends so strongly because like
+01:50:16 my cousin would come over and we watch anime
+01:50:18 all night and it's like if you pass out you don't
+01:50:20 get to watch as much anime you know
+01:50:22 if you pass out you don't get to see every show that comes
+01:50:24 out it'll swim so you got to be up all night
+01:50:26 you know and
+01:50:28 yeah so I got used to doing that
+01:50:30 but it's a lot harder now
+01:50:32 I think one of the best
+01:50:34 one of the best times that I
+01:50:36 pushed myself physically
+01:50:38 and Digi you were there too
+01:50:40 the first burning con we hung out
+01:50:42 we didn't sleep for like three days straight
+01:50:44 yeah well
+01:50:46 because we couldn't and because we didn't want to
+01:50:48 in that order
+01:50:50 yeah that was definitely
+01:50:52 almost every con I've been
+01:50:54 to I've pushed myself physically because it's just
+01:50:56 up until recently
+01:50:58 up until the last couple cons I went to
+01:51:00 because of the fact that I decided
+01:51:02 first of all I'm an adult now
+01:51:04 most of the shit at this con is not really exciting
+01:51:06 to me I'm not going to try to be anywhere in a
+01:51:08 timely fashion I'm going to make sure I get my fucking sleep
+01:51:10 in my shower because
+01:51:12 you know when I was younger it was like no
+01:51:14 sleep no shower ever
+01:51:16 always by day three I was like
+01:51:18 my voice doesn't work anymore and I look like
+01:51:20 shit and I feel like shit I always want to get the
+01:51:22 hell out of Baltimore like usually leave
+01:51:24 like by noon on
+01:51:26 Sunday because I'm like I don't want to fucking be here
+01:51:28 anymore but you know
+01:51:30 again now that I'm older it's harder to
+01:51:32 actually do that and also there's less
+01:51:34 incentive because like
+01:51:36 I feel like every year sleep
+01:51:38 means more to me you know
+01:51:42 I understand that's a terrifying development
+01:51:44 we really need to get on
+01:51:46 I still hate sleep it's still my
+01:51:48 enemy I would still never do it
+01:51:50 oh I still hate anime hey but
+01:51:52 if you guys want to listen to us
+01:51:54 talk about sleep for a bunch of hours
+01:51:56 you can go look at the procrastination bonus
+01:51:58 episode in song yeah five dollars
+01:52:00 I thought you were gonna
+01:52:02 recommend the sleep podcast
+01:52:04 but we want the money one though
+01:52:06 please yeah the money
+01:52:08 also it's more recent
+01:52:10 from fucking where
+01:52:12 oh from Zeno
+01:52:14 grade in the questions bar
+01:52:16 if you could completely get away
+01:52:18 with one crime what would it be robbing a bank
+01:52:20 that has all the money in the world
+01:52:24 um then if you buy anything
+01:52:26 they'll catch um rape next question
+01:52:30 state enforced homosexuality
+01:52:32 that would be well that wouldn't
+01:52:34 be a crime oh shit you're right
+01:52:36 never mind yeah if I could get
+01:52:38 away with one I got master
+01:52:40 plan if I could get away with one crime
+01:52:42 I would illegally pass legislation to make
+01:52:44 all crime legal
+01:52:46 oh okay
+01:52:48 okay illegally yeah but
+01:52:50 again that we're like dealing with like law here
+01:52:52 like why not just do that legal
+01:52:54 why not legally pass the law to make all crime legal
+01:52:56 because
+01:52:58 they would say that sounds hard
+01:53:00 okay whatever
+01:53:02 my crime would
+01:53:04 I would somehow make it that
+01:53:06 I have
+01:53:08 like amnesty from everything
+01:53:10 so then I can just do whatever I want
+01:53:12 I can like cook the books
+01:53:14 so anything I do from that point forward
+01:53:16 I can't there's no
+01:53:18 legal ramifications for my actions
+01:53:20 all you guys are playing fucking like wishing for three more wishes
+01:53:22 yeah we are
+01:53:28 I will
+01:53:30 say my opinion on the internet
+01:53:32 oh god
+01:53:34 but I'm so fucking scared
+01:53:36 that's too far
+01:53:38 I'll get away with it though that's the best deal of all time
+01:53:40 I would take a giant robot
+01:53:42 and destroy a city with it
+01:53:44 why
+01:53:46 because you get to fucking destroy
+01:53:48 a city in a fucking robot
+01:53:50 it'd be awesome
+01:53:52 I used to have a fantasy I used to think about this all the time
+01:53:54 when I was younger that if I ever became like a billionaire
+01:53:56 this was my plan
+01:53:58 I was gonna own a private island
+01:54:00 and I was gonna own like some kind of
+01:54:02 mech or giant like some kind of destructive
+01:54:04 suit of something I could pilot
+01:54:06 and
+01:54:08 then just like have a city
+01:54:10 built on this island
+01:54:12 that I can destroy and then I just keep
+01:54:14 rebuilding and destroying the city whenever I feel like it
+01:54:16 yeah okay
+01:54:18 fantasy of mine as a kid
+01:54:20 you just gotta play wretch and plank too
+01:54:22 did this tie into the fact that you were a god
+01:54:24 um no I was even
+01:54:26 probably younger than that when I had this fantasy
+01:54:28 before you're a god baby
+01:54:30 you were a malevolent billionaire
+01:54:32 before I was a whole god
+01:54:34 back when I was only a half god
+01:54:36 alright here's another question
+01:54:38 from OneSpar
+01:54:40 he says hey guys it's OneSpar
+01:54:42 the one man
+01:54:44 who's sparingly on time for questions
+01:54:46 what are your go-to excuses
+01:54:48 for being late
+01:54:50 ah
+01:54:52 Ben, you have the floor
+01:54:54 um
+01:54:56 I just didn't care enough to show up on time
+01:54:58 yeah there you go
+01:55:00 works every time
+01:55:02 they burst into applause
+01:55:04 when he trots that one out
+01:55:06 yeah I'm owning it
+01:55:08 I'm making it look good
+01:55:10 my go-to excuse will be
+01:55:12 finding something that I was actually doing
+01:55:14 that sounds like you're an asshole for making me feel bad about it
+01:55:16 that's good
+01:55:18 that's good
+01:55:20 that's pretty much what it comes down to
+01:55:22 like I find something that was outside
+01:55:24 my control and I project
+01:55:26 the excuse onto that
+01:55:28 dude there was just so much traffic
+01:55:30 what could I do
+01:55:32 my friend Matt really got this down to a science
+01:55:34 because Matt
+01:55:36 Matt Pat
+01:55:38 yeah we had
+01:55:40 he's a whole game theory about it
+01:55:42 he uh
+01:55:44 he'd constantly be late for work
+01:55:46 and so his way around it
+01:55:48 was that if he realized he was going to be late for work
+01:55:50 he'd be like I'm just going to be later for work
+01:55:52 and he would go get donuts for everybody
+01:55:54 and then he'd bring them in
+01:55:56 like why are you late? I got everybody donuts
+01:55:58 everybody was happy and he never got in trouble
+01:56:00 that's a reasonable idea
+01:56:02 there should be a podcast
+01:56:04 with talking Tom and Matt Pat
+01:56:06 can you imagine the disparagey there
+01:56:08 the richest man in the world
+01:56:10 and the poorest man in the world
+01:56:12 there's some knowledge
+01:56:14 that can be gleaned from that
+01:56:16 that would be good I would love that
+01:56:18 that would be literally the most opposite to
+01:56:20 tracking the entire thing
+01:56:22 the most happy positive man who's ever lived
+01:56:24 you know it's just a theory but he claims it's true
+01:56:26 and then versus Tom that would be
+01:56:28 that would be something
+01:56:30 make it happen guys patreon.com
+01:56:32 slash me
+01:56:34 patreon.com
+01:56:36 slash Tom versus Matt Pat
+01:56:38 we should get Matt Pat on the PC
+01:56:40 it's a good idea
+01:56:42 it's a good idea
+01:56:44 does anyone else find Matt Pat kind of like
+01:56:46 kind of adorable
+01:56:48 no
+01:56:50 yo what's up guys sorry I haven't made a video in a long time
+01:56:52 it's the Tom bomb here time for another
+01:56:54 game excuse
+01:56:56 I don't know he's so like
+01:56:58 like he's kind of like overly sincere
+01:57:00 but it's kind of in a way like
+01:57:02 he doesn't see anything I don't know
+01:57:04 I think he's just like
+01:57:06 I think he's very authentic
+01:57:08 yeah he's really authentic and he's like he's
+01:57:10 I don't know it's like
+01:57:12 he's so authentic that I search into optimization
+01:57:14 sometimes I'm kind of embarrassed for him
+01:57:16 but then I'm like oh but
+01:57:18 but you know he's having fun with it
+01:57:20 I just get
+01:57:22 I stop at the embarrassed thing
+01:57:24 I love game theories on
+01:57:26 five nights of fun
+01:57:28 I actually really like them
+01:57:30 I do they're so much better than
+01:57:32 the game it's the presentation
+01:57:34 I just like it's just not for
+01:57:36 it's a taste issue it's a taste issue and I just
+01:57:38 can't sit do how much fucking how
+01:57:40 repetitive his videos are
+01:57:42 they could each be half the length
+01:57:44 we're fucking you guys we're fucking everything
+01:57:46 up we can't say all this shit because we need to
+01:57:48 get him on the show okay stop
+01:57:50 I apologize Matt Pat I meant none of it
+01:57:52 I remember Matt Pat responsible for one of
+01:57:54 the greatest childhood tragedies that ever
+01:57:56 occurred my entire life what was that
+01:57:58 I was using the family computer like in
+01:58:00 just like the living room
+01:58:02 like like and like the way my house was
+01:58:04 positioned like if my mom were to come out of
+01:58:06 her bedroom and like look in the living room she could
+01:58:08 instantly see it was on my screen and one day
+01:58:10 in like in like the the dead of night
+01:58:12 aka 10 p.m. she walked
+01:58:14 out from her bedroom and saw me
+01:58:16 looking at Matt Pat like
+01:58:18 like the boobs episode of Game Thea
+01:58:20 where he called his video game characters boobs
+01:58:22 nooo
+01:58:24 and she flew off the handle
+01:58:26 how old are you at this point one year old
+01:58:28 yeah I was like eleven
+01:58:30 boobs involved because that dude puts boobs
+01:58:32 in like all his shit
+01:58:34 what is it definitely a boobie man
+01:58:36 hey
+01:58:38 would you like to enter a lightning round of
+01:58:40 Radcon 3 hype questions
+01:58:42 before we wrap up the podcast
+01:58:44 I think that's only fair because the next episode
+01:58:46 the 100th episode will be in Radcon
+01:58:48 that's right let's do it
+01:58:50 alright so here's all the questions we got about
+01:58:52 Radcon we got AJ
+01:58:54 Shoup who asks who's gonna smell
+01:58:56 the worst at the end of Radcon 3
+01:58:58 digi
+01:59:00 wait wait
+01:59:02 hold the fuck
+01:59:04 do you
+01:59:06 okay
+01:59:08 when Ben saint moved out of my house
+01:59:10 the room had to be pressure washed
+01:59:12 for days before it stopped smelling like
+01:59:14 his body odor
+01:59:16 my dad literally pressure washed the room twice
+01:59:18 like all the walls
+01:59:20 I smell great what are you talking about
+01:59:22 everything had to be cleaned multiple times
+01:59:24 before it's less lost the scent
+01:59:26 Ben saint
+01:59:28 well there you go
+01:59:30 the answer is Ben
+01:59:32 but Ben will smell no worse
+01:59:34 at the beginning of Radcon than the end
+01:59:38 also we will all smell
+01:59:40 fucking terrible except for Nate
+01:59:42 who will probably wake up at 5 in the morning
+01:59:44 and shower at 8
+01:59:46 we're in a fucking mansion
+01:59:48 we have showers
+01:59:50 we're good man
+01:59:52 it's a big house
+01:59:54 if you want to understand what Radcon 3 will be like
+01:59:56 just take the late great
+01:59:58 Billy Harrison's
+02:00:00 fucking locker room scene
+02:00:02 or Harrington
+02:00:04 fucking the locker room scene but instead of
+02:00:06 there being lockers we are locked inside
+02:00:08 and the smell permeates the entire building
+02:00:10 that's what it's like
+02:00:12 well here's an answer that much he can just say
+02:00:14 my name immediately and be correct about
+02:00:16 Mr. Tangelo asks
+02:00:18 who will get the drunkest at Radcon 3
+02:00:20 digi
+02:00:22 who else really seriously drinks out of this group
+02:00:24 yeah I don't think so
+02:00:26 not as much drunk on life
+02:00:28 cause that would be me ladies and gentlemen
+02:00:30 the question is though in the environment
+02:00:32 of Radcon who could be motivated
+02:00:34 to drink more perhaps it would begin
+02:00:36 I was gonna say hippos the only person
+02:00:38 who I could see out drinking me
+02:00:40 but it would only be once
+02:00:42 it wouldn't be that he drank more overall
+02:00:44 it would be that he might at one point get drunker
+02:00:46 guys do you want to play staves
+02:00:48 Tom could get that too
+02:00:50 that's when you
+02:00:52 duct tape your beer cans to each other
+02:00:54 and the more you drink the longer your wizard staff gets
+02:00:56 and whoever has the longest wizard staff
+02:00:58 wins the night
+02:01:00 oh that's good yes
+02:01:02 actually no cause I don't want to die
+02:01:04 I will agree before I know what that is
+02:01:06 I just told you what it is
+02:01:08 I don't get it
+02:01:10 you drink your new beer
+02:01:12 and you duct tape it to the top of the old beer cans
+02:01:14 oh those things
+02:01:16 I thought you were talking about duct taping it
+02:01:18 to the other person and having to drink it
+02:01:20 I do that with orange juice
+02:01:22 I want to play the corona
+02:01:24 I definitely want to play that beer stacking thing
+02:01:26 I've never done that before
+02:01:28 but I want to
+02:01:30 here's what I have done though
+02:01:32 you get two big cans of beers
+02:01:34 and you duct tape them to your hands
+02:01:36 and you're not allowed to
+02:01:38 remove them until you finish
+02:01:40 beers duct tape your cans
+02:01:42 we did this with a game of
+02:01:44 we combined this with a game of 20 questions
+02:01:46 every time you got a question wrong
+02:01:48 you had to take a drink
+02:01:50 because we wanted to be able to use our hands
+02:01:52 we just stood there
+02:01:54 me and the guy I was doing this with
+02:01:56 facing each other and questioning each other
+02:01:58 until one of us finished our beers enough
+02:02:00 to get our hands free
+02:02:02 yeah it's a fun game
+02:02:04 I don't mind the idea of
+02:02:06 a big drunk party time
+02:02:08 because I will not drink
+02:02:10 unless pressure
+02:02:12 I will have a beer
+02:02:14 and I won't go like I'm gonna get drunk
+02:02:16 unless that's the point
+02:02:18 in my life I have drunk the beers
+02:02:20 and the alcohol laws after this point
+02:02:22 but recently I like never drink
+02:02:24 just because it's not around
+02:02:26 and it's just a waste of time
+02:02:28 it's the biggest waste of time
+02:02:30 here's a really important question
+02:02:32 the other day I went out
+02:02:34 and we were at dinner
+02:02:36 it was like a mango teeny
+02:02:38 and I drank it and I felt
+02:02:40 swasted after one martini
+02:02:42 it was
+02:02:44 it hit me
+02:02:46 I'm gonna go for alcohol and it's pure
+02:02:48 swarm and eat pure pieces of wheat
+02:02:54 I'm not the middle man
+02:02:56 I have a very important question
+02:02:58 if I were to bring weed to Radcon
+02:03:00 would anyone smoke with me
+02:03:02 I would not
+02:03:04 nobody would do it
+02:03:06 because I have smoked weed on a number of occasions
+02:03:08 and I have never enjoyed the sensation
+02:03:10 well that's unfortunate
+02:03:12 I have never smoked a weed
+02:03:14 so I might try one
+02:03:16 I might try it once
+02:03:18 but I hate the smell
+02:03:20 I know I hate the smell
+02:03:22 I mean I don't care if you bring it
+02:03:26 for the record
+02:03:28 it is totally decriminalized in Massachusetts
+02:03:30 so this would not be like a legal
+02:03:32 it's all good
+02:03:34 but I would have to
+02:03:36 drive it
+02:03:38 give me that kush
+02:03:40 I mean don't be high the whole time
+02:03:46 let's talk more about this little shit later
+02:03:48 one final
+02:03:50 last Radcon related question
+02:03:52 from agent MM
+02:03:54 to those in a relationship
+02:03:56 what does your significant other think of PCP or Radcon
+02:03:58 and would they join in
+02:04:00 I'll answer first
+02:04:02 my fiance
+02:04:04 is a huge fan of the PCP
+02:04:06 excited about Radcon
+02:04:08 to see what's going to come out of it
+02:04:10 she has no interest in being a part of the PCP
+02:04:12 whatsoever
+02:04:14 because the chemistry
+02:04:16 of this group is like very
+02:04:18 I mean first of all
+02:04:20 anyone new joining the PCP
+02:04:22 is a terrible fucking idea
+02:04:24 no one should ever join this group again
+02:04:26 the standards have elevated
+02:04:28 astronomically
+02:04:30 the point of this
+02:04:32 is that it's a long standing group of friends
+02:04:34 for years
+02:04:36 I mean I could see if say
+02:04:38 we all move to Boston and we all
+02:04:40 have our girlfriends with us and everybody becomes
+02:04:42 best pals I could see them
+02:04:44 getting involved in some way in the future
+02:04:46 if we're doing
+02:04:48 like
+02:04:50 if you're doing
+02:04:52 do you not want to have anyone around to do set designs
+02:04:54 to turn on your cameras to switch your batteries
+02:04:56 to manage your data
+02:04:58 to do all the things that I pay a secretary
+02:05:00 who happens to
+02:05:02 be my fiance to do
+02:05:04 but what happens if you break up
+02:05:06 you got to hire a new guy
+02:05:08 but
+02:05:10 when you put your relationship in the middle of your business
+02:05:12 you're asking for trouble
+02:05:14 I have no interest
+02:05:16 I think that you're going to run into the same trouble
+02:05:18 I actually have a hard opinion on this
+02:05:20 and I think if you want to use them as a camera man
+02:05:22 I think that's perfectly fine
+02:05:24 as a camera man
+02:05:26 if you just want to have them be a tech guy
+02:05:28 you fucking need those people around
+02:05:30 it's like with red letter media
+02:05:32 if you actually see a picture
+02:05:34 of the whole group
+02:05:36 there are other people in red letter media who never show up on camera
+02:05:38 like if you look at a picture of all of them
+02:05:40 there's people who just run the cameras and stuff
+02:05:42 I believe there is a woman
+02:05:44 in red letter media
+02:05:46 she's never in any of the videos
+02:05:48 the one who's been around in a couple episodes back in the day
+02:05:50 maybe it might be her
+02:05:52 because it was that girl who was in the documentary
+02:05:54 I don't know if she's considered a part of the group
+02:05:56 or if she was tangentially related
+02:05:58 but I'm pretty sure there's someone
+02:06:00 there's at least one member of the group
+02:06:02 who I don't think ever shows up in videos
+02:06:04 well hey, hey, I'll tell you this
+02:06:06 I have legitimate nightmares
+02:06:08 about girlfriends getting involved in the PCP
+02:06:10 legitimate nightmares
+02:06:12 like do you actually have them at night
+02:06:14 it's the worst case scenario
+02:06:16 life has gone to hell because girlfriends
+02:06:18 have been involved in PCP work
+02:06:20 it is the worst case scenario to me
+02:06:22 and let's just say I'm not interested
+02:06:24 that's how I feel about it
+02:06:26 if May was ever involved
+02:06:28 for any reason in the future
+02:06:30 it would not be a girlfriend involved
+02:06:32 because we're already engaged
+02:06:34 same difference
+02:06:36 the fact that this even comes up
+02:06:38 is a terrible thing for me
+02:06:40 this is the wrong questions to be asking
+02:06:42 this is the last question that anybody had
+02:06:44 and I want to know what everyone's girlfriends think
+02:06:46 of the fucking PCP and Radcon
+02:06:48 if they would be involved
+02:06:50 if you think so
+02:06:52 briska thinks you're old
+02:06:54 fucking game
+02:06:56 I don't know
+02:06:58 my girlfriend loves the PCP
+02:07:00 is a fan
+02:07:02 is a fan of everybody in it
+02:07:04 patrons most of us
+02:07:06 she has said that she has no interest
+02:07:08 in PCP
+02:07:10 though to be fair
+02:07:12 after knowing how I felt about it
+02:07:14 so perhaps her opinion was colored
+02:07:16 she has made no bones bad
+02:07:18 that she doesn't want
+02:07:20 to be involved
+02:07:22 it's not her thing
+02:07:24 I think that generally
+02:07:26 are spouses
+02:07:28 of whatever kind
+02:07:30 recognize that
+02:07:32 this group has already
+02:07:34 anything that tampers with it is already a problem
+02:07:36 everything we've tried to do
+02:07:38 has already been a problem
+02:07:40 so let's not make it any worse
+02:07:42 Michelle was just telling me about
+02:07:44 the super best friends cast
+02:07:46 apparently
+02:07:48 people were coming them and asking them questions
+02:07:50 we see your girlfriends occasionally
+02:07:52 why don't you get them involved
+02:07:54 the guys were like they're not in the show
+02:07:56 the girls themselves
+02:07:58 this is coming from Michelle
+02:08:00 it's a third party thing
+02:08:02 they said themselves
+02:08:04 that's their thing
+02:08:06 they are doing their thing over there
+02:08:08 it has nothing to do with us
+02:08:10 if we want to do something with them
+02:08:12 we can do another project
+02:08:14 if there is going to be a gigantic
+02:08:16 hey it's all the PCPs
+02:08:18 and their dates and they're doing a fun
+02:08:20 whatever like that's fine
+02:08:22 but they don't need to be a part of the PCP
+02:08:24 you know
+02:08:26 I feel like
+02:08:28 you organized this
+02:08:30 what the hell are you groaning about
+02:08:32 well that was just a friendship initiative
+02:08:34 except it was all over twitter
+02:08:36 it was super publicized
+02:08:38 it was used as a PCP group activity
+02:08:40 that groan was on relation to you
+02:08:42 that groan was in relation to me moving my stomach around
+02:08:44 okay sure
+02:08:46 not going down hard on the anti-girlfriend side
+02:08:48 did you I think it's a funny joke to say
+02:08:50 haha I think it's fair for me to say
+02:08:52 I am staunchly on the anti-girlfriend side
+02:08:54 very very much so
+02:08:56 in terms of them getting involved in the PCP
+02:08:58 I would agree I'm not a fan of
+02:09:00 anyone new being involved in the PCP
+02:09:02 but you know what this is kind of an interesting question
+02:09:04 I've thought about this more as time's gone on
+02:09:06 I think something like what did you did with corrupting your kids
+02:09:08 like what he did was he's just
+02:09:10 making new content
+02:09:12 for people who choose to be involved with it
+02:09:14 that way you're not putting any pressure
+02:09:16 on like old people to just like
+02:09:18 get with the times into your role
+02:09:20 the college fund was the same thing
+02:09:22 okay there you go
+02:09:24 college fund was definitely part of what inspired it
+02:09:26 but because it was just
+02:09:28 it was pretty immediate it was like Ben moved in
+02:09:30 and they immediately had a new channel
+02:09:32 that had totally different content
+02:09:34 we had been making it like before I moved in
+02:09:36 it just didn't get done until after I moved in
+02:09:38 I mean it's always important
+02:09:40 to keep in mind like if you're an internet content creator
+02:09:42 you only have so much time to work on stuff
+02:09:44 so like if your workflow if you start
+02:09:46 devoting like all your time to this side project
+02:09:48 obviously that's something to like watch out for
+02:09:50 but it depends on if like at the same time though
+02:09:52 I think there's a lot of potential
+02:09:54 in like for instance corrupting your kids
+02:09:56 for that to end up being a flagship channel
+02:09:58 well that's perfectly fine
+02:10:00 but you have to recognize that
+02:10:02 at the moment you know that's not bringing home
+02:10:04 the bacon like a main channel digital video
+02:10:06 that's all that's all be practical that's all I'm saying
+02:10:08 um yeah
+02:10:10 interesting question I've certainly thought about that
+02:10:12 quite a bit you know as I have a gf now
+02:10:14 and whatnot it's hard not to especially
+02:10:16 when you're living with your fucking
+02:10:18 significant other and they're like witnessing
+02:10:20 all they're sitting there all up in it
+02:10:22 they're all up in it like listening
+02:10:24 to the pcp right now
+02:10:26 while you're performing it
+02:10:28 and are every time you record
+02:10:30 so sometimes it's weird but other times
+02:10:32 it's fine
+02:10:34 and incidentally uh like
+02:10:36 just the other day with the the new we Agua
+02:10:38 had like a thing filmed
+02:10:40 uh by Michelle who was just around
+02:10:42 as I filmed my little Hillary section
+02:10:44 I had a music video that was filmed by
+02:10:46 May yesterday the uh fucking
+02:10:48 there you go there you go it was great
+02:10:50 uh was it that uh uh well okay it wasn't
+02:10:52 but I'm just making a joke uh weed hit spot
+02:10:54 would you fucking I'm a thang but the weed hit spot
+02:10:56 no it's very important everyone knows that it's not
+02:10:58 me and me dude the first thing we thought
+02:11:00 was like wow did you wow he really did it
+02:11:02 he really did it this time anybody doesn't know
+02:11:04 there's literally porn
+02:11:06 in my youtube in my
+02:11:08 uh music video for this song
+02:11:10 which didn't look nearly as apparent
+02:11:12 when I was editing it like okay
+02:11:14 because my monitor is so dark
+02:11:16 I thought that this was like really obscured
+02:11:18 and like uh May couldn't even see
+02:11:20 she was like oh I don't see anything
+02:11:22 yeah no when you look at it on a phone it's like
+02:11:24 way fucking obvious that it's porn
+02:11:26 and I was just like well I posted porn on youtube
+02:11:28 now hopefully I don't get my channel
+02:11:30 deleted on the subject of that song
+02:11:32 me and Michelle roasted it endlessly
+02:11:34 for quite a while but but once we just
+02:11:36 it really got into our heads
+02:11:38 and now we just say to each other weed hit the spot
+02:11:40 dude that song is intended to be
+02:11:42 here's how you need to listen to it
+02:11:44 if you're in the grocery store
+02:11:46 and you realize that you are picking up
+02:11:48 hot dogs but you didn't get buns
+02:11:50 and you need to go back to get buns
+02:11:52 and you're gonna haul ass across the whole grocery store
+02:11:54 weed hit the spot when you're fucking
+02:11:56 in my thang baby weed
+02:11:58 I want to time my gigantic
+02:12:00 strides as I leap across
+02:12:02 the fucking grocery store
+02:12:04 it's replaced sabotage by Beastie Boys
+02:12:06 as my run across the grocery store
+02:12:08 mental song because I used to make a playlist
+02:12:10 for that I should make a fucking playlist
+02:12:12 I get most of my cardio done at the grocery store
+02:12:14 because I forgot hot dog buns
+02:12:16 and I've only got hot dogs
+02:12:18 and have to move back for more
+02:12:20 my diet consists of only hot dogs
+02:12:22 no buns cause I keep forgetting
+02:12:24 and I can too I don't have enough
+02:12:26 music to make it across the store
+02:12:28 it takes me like 4 minutes and the strong is like
+02:12:30 we need this playlist
+02:12:32 what's your hot dog bun song
+02:12:34 what's your hot dog bun song
+02:12:36 Detachable Penis
+02:12:38 by whoever made that song
+02:12:40 Detachable Penis
+02:12:42 I know what you're talking about
+02:12:44 guys let's just give a meme shout out
+02:12:46 to our boys on the twitter
+02:12:48 just to placate them temporarily
+02:12:50 okay here we go
+02:12:52 djphilis asks how do I get a GF
+02:12:54 what's your meme answer for this question
+02:12:56 become famous
+02:12:58 become rich and famous in hands
+02:13:00 rich indoor famous
+02:13:02 and get a fucking snapchat
+02:13:06 that advice is terrible
+02:13:08 just talk to girls
+02:13:10 Ben what the fuck
+02:13:12 oh wait is this a meme
+02:13:14 oh shit you said meme answer
+02:13:16 oh I ruined it
+02:13:18 I'm cutting this out
+02:13:20 now all these guys are gonna actually get GFs
+02:13:22 no no god I wasn't paying attention
+02:13:24 rape
+02:13:26 you did it Ben
+02:13:28 you solved it
+02:13:30 great save that's a good meme
+02:13:32 I would say log on to RuneScape
+02:13:34 2007 edition
+02:13:36 and just farm for gold until you have enough to buy
+02:13:38 the best places
+02:13:40 Grand Exchange and Varric
+02:13:42 sometimes Faldor but you know
+02:13:44 don't go to Lumbridge though
+02:13:46 that's where all the them
+02:13:48 what do you call it
+02:13:50 thoughts
+02:13:52 what do you call it
+02:13:54 thoughts
+02:13:56 oh excellent
+02:13:58 good thank you everyone
+02:14:00 I think it's time we shut it down
+02:14:02 it's time to power off
+02:14:04 this utilitarianism machine we've got here
+02:14:06 thank god
+02:14:08 we've made so much progress for humanity here today
+02:14:10 really gonna be useful
+02:14:12 we've really made a difference
+02:14:14 whining about topics we don't really understand
+02:14:16 on this podcast that no one watches
+02:14:18 yeah you're not wrong
+02:14:20 that weed has really hit the spot
+02:14:22 at this point
+02:14:24 that's how I feel
+02:14:26 alright we're done
+02:14:28 hey patreon.com
+02:14:30 bonus episodes
+02:14:32 insomnia episodes out there's a total of 12
+02:14:34 bonus episodes you just split 5 dollars
+02:14:36 you get them all 1 dollar you get into our patreon chat
+02:14:38 it's a fun time we're hanging out all the time
+02:14:40 we got some merch clicking the links
+02:14:42 in the description everything's up on google play
+02:14:44 and iTunes for the podcast
+02:14:46 tom here's handling that and that's
+02:14:48 everything
+02:14:50 magical episode of radcon 3
+02:14:52 fucking week look out for fucking rad content
+02:14:54 it's gonna be on everybody's channels
+02:14:56 you're gonna wanna look for the radcon 3 playlist
+02:14:58 which I think already exists and has one video
+02:15:00 like the um the thing
+02:15:02 like I would watch that playlist that's where
+02:15:04 everything's going to be
+02:15:06 if you could subscribe to a playlist you should but you can't so
+02:15:08 watch everybody's channel radcon 3
+02:15:10 coming in a week it's kind of it's gonna roll out
+02:15:12 over time but there will definitely be some during the con
+02:15:14 so let's keep let's prepare ourselves
+02:15:16 for that new journey
+02:15:18 thanks everybody we'll see you next time
+02:15:20 bye
+02:15:30 why do we do that
+02:15:32 I don't know
+02:15:48 you

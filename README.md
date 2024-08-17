@@ -28,3 +28,6 @@ created a copy of whisper_output and removed all non .srt files
 # Search setup (~1hr)
 `npm install sqlite3`
 `node setup-search.js`
+
+# to make shortened files
+node transformSRT.js 

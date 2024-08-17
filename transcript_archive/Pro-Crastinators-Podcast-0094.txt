@@ -1,0 +1,1572 @@
+00:00:00 Welcome everybody to the PCP!
+00:00:25 Guys, it's time we addressed the elephant in the room.
+00:00:29 Which one?
+00:00:30 Dumbo.
+00:00:31 Get out of here, Dumbo.
+00:00:33 Your film was racist.
+00:00:35 That's the best guy I ever joined.
+00:00:37 They won't pay me back the $20 I lent you to go to fucking five guys.
+00:00:42 You messed up my order.
+00:00:43 This is the last time I'm trusting your Dumbo.
+00:00:45 Go back to Anthrocon Dumbo, you piece of shit.
+00:00:48 Joining us today is the best guy I ever.
+00:00:50 Hello.
+00:00:51 That's me.
+00:00:52 We've got Tommy Oliver.
+00:00:53 Yo.
+00:00:54 We've got The Hippocrit.
+00:00:57 Snort.
+00:00:58 Ben Sain.
+00:01:00 Um, I am Pickle Rick.
+00:01:03 And Munchy.
+00:01:06 Watashi wa Munchy, seksu no tegesu.
+00:01:12 It's a fucking full house.
+00:01:14 It's six whole motherfuckers here to talk about PCPHQ.
+00:01:18 The myth, the mythical legend that people have been like, like strung along hearing about for years.
+00:01:25 And they're just like wondering when the fuck it's coming.
+00:01:28 It's spoken about in hushed language around the campfire in the wee hours of the morn.
+00:01:34 Wondering what is it?
+00:01:36 When is it coming?
+00:01:37 Is it even real?
+00:01:38 Well, folks, today we're going to reveal all.
+00:01:42 I've been really excited to talk about this topic for a while.
+00:01:44 Like it's no secret that the PCP has been like a cagey mess recently.
+00:01:48 And I really want to try and be open as possible.
+00:01:50 Like that's my leader agenda.
+00:01:52 That's my unique unit.
+00:01:53 The no bullshitter.
+00:01:55 Plus 15 combat strength.
+00:01:57 We're not being a little bitch.
+00:01:58 That's me.
+00:01:59 No, no, guys, this is all great.
+00:02:01 But we have to say, first of all, this episode is coming out in the context of when this comes out.
+00:02:05 We are two weeks into our current Radcom 3 Arena Kickstarter.
+00:02:09 Everybody, please, this is the most important thing.
+00:02:12 If you're a patron, you know, and you only got so much money, allocate those funds to the Kickstarter because we need that thing to go.
+00:02:19 Oh, man.
+00:02:20 They have a Red Cross like a mini prototype of everything we're going to discuss here.
+00:02:24 Indeed.
+00:02:25 That's right.
+00:02:26 All y'all need to say is if you pledge $50, you get a t-shirt.
+00:02:30 That's right.
+00:02:31 It's a good t-shirt.
+00:02:32 That was enough to get.
+00:02:33 It's going to be a dope t-shirt.
+00:02:35 Don't pledge too many, though, because then I have to make all of them by hand.
+00:02:41 Oh, no.
+00:02:42 I'm a weak-willed little boy.
+00:02:44 He's weaving.
+00:02:45 But they'll be handcrafted with love each and every one of them.
+00:02:48 Put Tom to work, everybody.
+00:02:49 And they will all be a randomized, like, still from the gift that is the logo of Armour Tree.
+00:02:55 But you see, this is a beautiful thing to make.
+00:02:57 That's great.
+00:02:58 The first Radcon had, like, a static logo.
+00:03:03 And then Radcon 2, we had everybody make logos because we couldn't decide on one.
+00:03:07 And now we have kind of encapsulated our one logo is many logos.
+00:03:12 It's self-contained.
+00:03:13 It is actually pretty cool that all the, you know, you don't know which one of the colors
+00:03:18 you're going to get.
+00:03:19 But the way you said it is, like, the t-shirt will have a randomized gift on it.
+00:03:22 It just sounded so terrible.
+00:03:23 It's got an LCD screen.
+00:03:25 Well, we're all going to have one, right?
+00:03:28 Absolutely.
+00:03:29 So if you want to match the cool kids and fit in with their click, you know, like, if you're
+00:03:33 one of those kids who, when you're at school, you see all the skater kids and so you just
+00:03:37 start dressing like a skater kid so they'll talk to you, like, you know, just saying,
+00:03:42 wear a Radcon shirt around us.
+00:03:44 There's a good chance you're going to start a conversation.
+00:03:46 You know, when you walk into the high school lunch room and you see all those dark emo
+00:03:51 kids sitting alone in their own table and you think, what are they fucking conjuring
+00:03:55 over there?
+00:03:56 They must be up to something special.
+00:03:57 That's what you're going to look like if you wear these t-shirts.
+00:03:59 You may have come to Anthrocon alone and friendless every year up to this point in your life,
+00:04:04 but if you strut in there wearing a Radcon 3 t-shirt, let me just say your life's going
+00:04:08 to change.
+00:04:09 That's all I'm going to say.
+00:04:10 For those who don't know, Radcon is a gathering of us.
+00:04:13 If you didn't understand, we didn't mention that at all.
+00:04:16 Everybody, please click the link to the Kickstarter.
+00:04:18 There's a link in the description to the Kickstarter.
+00:04:20 Read everything.
+00:04:21 It's big.
+00:04:22 It's going to be exciting.
+00:04:23 We've done Radcon 1 and 2, of course.
+00:04:25 It's great.
+00:04:26 This is extremely linked to HQ.
+00:04:28 And everybody on this episode right now is going to be there.
+00:04:31 I love our advertising method of, like, pretending we're extremely desperate but in, like, a
+00:04:36 skeevy.
+00:04:37 Like, we're all trying to, like, jokingly manipulate people into buying the shirts.
+00:04:41 That's the advertising strategy.
+00:04:43 Isn't that how advertising works in general?
+00:04:45 It's all about manipulation.
+00:04:46 But we're showing them our cards.
+00:04:48 We're showing them the method.
+00:04:49 You hit them in the brain and you hit them in the heart.
+00:04:51 You play all fronts.
+00:04:52 That's what a PZPR is like so far.
+00:04:54 It's just a skeevy monster mix.
+00:04:56 That's all that we are in it.
+00:04:58 Talking about.
+00:04:59 It's the worst parts of real-life advertising and internet advertising combined into an amorphous
+00:05:04 beast.
+00:05:05 Hey, can we talk about the actual fucking reason we're doing this episode today?
+00:05:08 Can we actually talk about the actual...
+00:05:10 What are you doing?
+00:05:11 The Urban Dictionary definition of PCPHQ.
+00:05:13 I'm doing it right now.
+00:05:15 I'm doing it right now.
+00:05:16 It's loading.
+00:05:17 It's loading.
+00:05:18 I did actually find that already.
+00:05:19 A place that seems to get further and further away as human scientific knowledge improves.
+00:05:24 About 100 years ago, PCPHQ was right above our heads.
+00:05:29 Humans started flying airplanes.
+00:05:31 It wasn't there.
+00:05:32 So it moved right above the atmosphere.
+00:05:33 Finally, we send people in the outer space into the moon.
+00:05:36 It wasn't there either.
+00:05:37 So now PCPHQ is past Pluto somewhere.
+00:05:41 What is this?
+00:05:42 Where did you get that?
+00:05:43 We gotta get there.
+00:05:44 Yeah, we gotta get there.
+00:05:45 That's what fucking Radcon's about.
+00:05:47 We gotta send space probes there to get PCPHQ.
+00:05:51 I also looked up, just for other people out there, alternate definitions.
+00:05:57 First of all, here's the definition of PCP.
+00:05:59 Oh, oh boy.
+00:06:00 Human as angel dust, probably the scariest of all drugs, was used as a horse tranquilizer.
+00:06:06 Makes the user hallucinate because it's extremely violent and not feel anything.
+00:06:10 Which is what the PCP does.
+00:06:12 I gotta say that it's a little ironic that we would name our show after what initially
+00:06:17 started as a horse tranquilizer.
+00:06:19 Oh my god.
+00:06:22 Oh shit.
+00:06:23 Holy shit.
+00:06:24 How has this connection ever been?
+00:06:26 It ended in that GIF.
+00:06:28 Now listen to this.
+00:06:29 People have known, have been known to do horrible things to the Selms while under the influence
+00:06:33 of PCP.
+00:06:34 Do not use PCP.
+00:06:36 Do not.
+00:06:37 It will ruin your life.
+00:06:38 Head over to the Kickstarter to fund Radcon.
+00:06:41 Things like not go to college.
+00:06:44 Here's another PCPHQ definition.
+00:06:46 A fiery place as overcrowded with jihadists and terrorists besides the traditional politicians,
+00:06:52 tax fugitives, bankers, traders, lawyers, and CEOs.
+00:06:55 That's Radcon.
+00:06:56 That's Radcon.
+00:06:57 Three years before.
+00:06:58 Real talk.
+00:06:59 Real talk.
+00:07:00 How unlikely do you think it is for a PCP fan to get a college degree?
+00:07:04 What do you think they beat over under?
+00:07:07 I know.
+00:07:08 I know they're out there doing their studies.
+00:07:11 I feel like we encourage people to drop out on this show.
+00:07:14 We do.
+00:07:15 If someone asked me about college, I would absolutely tell them not to go unless they're
+00:07:18 going into a certain specific field.
+00:07:20 Yeah.
+00:07:21 I would never tell anyone to not go to college.
+00:07:24 I'm very consistent on this point.
+00:07:25 Have a plan.
+00:07:26 Whatever you want to do.
+00:07:27 I know, man.
+00:07:28 If you need to go to college, then do it.
+00:07:29 If you need to go to college, then do it.
+00:07:30 The numbers prove that it's increasingly a waste of time and money.
+00:07:33 Well, then do the not.
+00:07:36 I've been real hard on college a lot in my life.
+00:07:40 Recently, I've started to rethink that.
+00:07:42 I think I've wasted my entire life doing this instead of actually going to college and
+00:07:45 getting a degree.
+00:07:46 I've been keeping myself every single night for that for the past two months.
+00:07:49 We're forgetting the real reason we don't want anybody who watches the PCP to go to
+00:07:52 college.
+00:07:53 What is that money instead to fund PCPHQ?
+00:07:55 PCPHQ.
+00:07:56 That's right.
+00:07:57 Now, I got one last thing here, guys.
+00:08:01 Listen to the definition of just the word headquarters from Urban Dictionary, aka HQ.
+00:08:06 One, a central place for a group or organization.
+00:08:08 That's number one.
+00:08:09 And number two, slang for PC shop where people play World of Warcraft, Dota, and other gay
+00:08:15 ass games.
+00:08:16 Dude.
+00:08:17 That's what it says.
+00:08:18 I can't wait.
+00:08:19 That's exactly it.
+00:08:20 That was the plan all along.
+00:08:21 That's what we're going to do.
+00:08:22 Your definitions are what we want the PCPHQ to be and what it's inevitably going to devolve
+00:08:26 into.
+00:08:27 All right, guys.
+00:08:29 Let's get into it.
+00:08:30 Let's talk about the basic broad concepts.
+00:08:33 What is the PCPHQ?
+00:08:35 Let's start there.
+00:08:36 For all the uninitiated people who don't even know what's going on.
+00:08:39 The PCPHQ, just to go over the bear facts, is you should check out our Patreon page.
+00:08:44 We talk a little bit about it on there, but what it is is it is the magical dream realm
+00:08:50 place that we all imagine of the members of the PCP being able to live in proximity and
+00:08:55 then come to the HQ to work together, to make our collaborative projects similar to what
+00:09:00 happens with the ride con stuff.
+00:09:02 Of course, that's a different animal because we all gather and kind of live together.
+00:09:05 Well, the ultimate goal is basically to make the red letter media set up because those
+00:09:09 guys are a bunch of like 35 year old filmmaker buddies who have a similar sense of humor and
+00:09:16 style so they all moved into the same place and rented out a studio and that allowed them
+00:09:20 to make much higher quality products than what's typical on YouTube.
+00:09:23 And since we all like to be quality over quantity type of guys as much as we can, YouTube kind
+00:09:29 of necessitates you to fucking just churn shit out, but like, you know, red letter media
+00:09:34 has got like a real fucking successful Patreon and real healthy view counts off of like putting
+00:09:40 out a video once every couple of weeks, you know, because they can really go all in on
+00:09:45 making the quality maximized and we think we are people with like strong enough personalities
+00:09:50 and chemistry to carry a show.
+00:09:52 Obviously we can do this show, but like this shows growth potential is nothing compared
+00:09:56 to what could be if we could raise our production quality and really attract people to this
+00:10:02 this motley underground niche crew, you know, so again, in layman's terms, PCP HQ is all
+00:10:10 of the PCP members living in proximity, like in the same city and having some sort of space
+00:10:16 where they can record, you know, studio type stuff and do new content that couldn't do
+00:10:21 over the internet.
+00:10:22 Real quick, I don't even want to give people the impression that like, because whatever
+00:10:25 we say that red letter media stuff, I feel like people imagine it's just going to be
+00:10:29 the plebe in the weave or like other half in the bag, you know, rip off or like a fucking
+00:10:34 best of the worst rip off shows.
+00:10:36 But I also think of it as like, all right, you know, like when Seth Rogen and James Franco
+00:10:41 and they've got like all their friends and they all just live in Hollywood, so they make
+00:10:45 movies together just because they all live in the same place and they're all comedians,
+00:10:49 like that's also what I see PCP HQ as is like any random funny idea that we just can't do
+00:10:56 by ourselves and we need like one other funny guy to be nearby, like it's real convenient
+00:11:02 to have some stuff like that for say, if you've seen the collabs that me and Nate did when
+00:11:07 I went to your house, I'll talk to a workout training, it's just like, it's like a little
+00:11:12 four minute comedy video, but like the way it's filmed and the idea of it, like it couldn't
+00:11:17 have been done without both of us being there and like this specific combination of senses
+00:11:22 of humor, even body type, you know, like is all plays into the joke of that video, you
+00:11:27 know, so it's like something that couldn't have happened with either of us alone.
+00:11:31 One of the big strengths of having the HQ is going to be able to like increase the ability
+00:11:35 to make spontaneous spontaneous content, because like if we have an idea, we can just do it
+00:11:40 as opposed to me like, well, I want to do this idea with Digi, I got to track him down,
+00:11:42 we got to plan our time, we actually do something together and blah, blah, blah, like it's just
+00:11:45 like, you want to do it, man? Yeah, we'll come on over and then that's it.
+00:11:48 You serves don't understand how much the fourth dimension adds to content, like like the ability
+00:11:55 to be in the same room as something, someone automatically alters how the content flows.
+00:12:00 I, even though like, like I don't think I act any differently online than I do offline,
+00:12:07 it's inevitable that just, that just is the case. It just is the case. I don't know how
+00:12:10 to stop it, it just is the case. And I think, you know, in all the degradation types, you
+00:12:15 know, digital links and like, you're in all the sort of stuff like there, I think, I think
+00:12:18 I, I think I have a certain flow in my, you know, natural unscripted live action sort of
+00:12:25 stuff that I just can't replicate online because that's, you know, it's just hard. I'm not
+00:12:29 in front of people. I can't gauge things. So just being live action will really benefit
+00:12:32 like all of us and I mean, just look at the reaction of people to the lectures, the PCP
+00:12:38 lectures, which are a shining example. That's the biggest proof, I think that it's there.
+00:12:43 I, I, that it's worthwhile. Like, look at the thing about those. They're huge.
+00:12:48 That they were obviously got a huge response and imagine if we could do those anytime we
+00:12:52 wanted. Imagine a PCP world without the fucking Sanchu lecture or the fucking
+00:12:57 declination lecture or the Kingdom Hearts lecture. Like those are two fucking or three
+00:13:01 insanely influential pieces of fucking work. They are, they are integral to the PCP lore
+00:13:06 and they're all like, you couldn't fucking have a lecture of declination. It would not
+00:13:09 be the same. If I wasn't there pacing back and forth for two hours and people falling out of
+00:13:14 their fucking chairs thinking about Jace, that would not be the same. You could only have that
+00:13:18 sort of stuff in person. I think there could be no debate that there's a lot of content that we
+00:13:23 can only make in that situation. And here's my main pitch to people. People don't always think
+00:13:30 about this, but if you want to make your, if you want to find yourself in a place where you're
+00:13:35 making like interesting or unique content, you have to set yourself up in a position where you
+00:13:40 can succeed doing it. So like we could, you know, continue to like slave away on like projects,
+00:13:46 just doing exactly what we're doing forever. You know, we could always do that. But like
+00:13:50 the amazing thing to me is I like to think back to a moment in the Kingdom Hearts lecture that I
+00:13:54 never, ever could have planned. I never would have thought to write this joke, but the way it
+00:13:58 just emerged from this, you know, emergent gameplay of the lecture of playing off the people in the
+00:14:03 audience was amazing. And it was when, when Jeff asked the question, and I was talking about like
+00:14:07 Nominee and Rokus and Sora, how like they're all the same person. And he just said like, Nate, so
+00:14:12 okay, or Mr. Best Guy. So if they were to fuck, like what percentage of masturbation would that be?
+00:14:19 And then just, you know, I immediately respond, for me, 100%. And it got a gigantic, like it was
+00:14:25 the funniest moment in the whole thing. It's amazing. I watch it back all the time. And I never
+00:14:29 could have written that joke. And it works in the context of that setting. So well.
+00:14:32 You watch back the moment that you really nailed it over and over again, just like reliving the
+00:14:37 glory of the times. You're literally, you're masturbating to your masturbation.
+00:14:42 It's his, it's his ringtone now.
+00:14:47 I feel you hard. I feel you hardcore. The new lecture was completely unscripted. And I had no
+00:14:53 idea what I was going to do when I fucking got up there. And I just thought, well, might as well
+00:14:58 just go as hard as I fucking can. And there's that catchphrase, that catchphrase, that legendary
+00:15:03 phrase was fucking born out of the ashes. That nigger has not gotten up off the ground.
+00:15:08 He's still there. He's slam. He's part of the fucking soil at this point. He's decomposed.
+00:15:18 I mean, I don't, I don't know what else there is to say. Like just the fact that, like, because none
+00:15:22 of that, all this was like an 18 minutes into the podcast date. I don't know what else there is to
+00:15:27 say. Well, I'm on this front. I just mean, because I think that really sums it up just in terms of
+00:15:35 like the tangible benefits right there. Well, no, I think there's another, another tangible benefit
+00:15:40 is because we're talking about like all this extra content we can do. But I think another good thing
+00:15:45 to point out is that even the base PCP will increase dramatically in quality because so much of like
+00:15:50 conversation and like interaction is nonverbal. So being in the same room, if we all recorded
+00:15:55 in person, there'd be a whole other dimension to the conversation that'll just like subconsciously
+00:16:00 one of my favorite podcast is the sleepy cast and they record in the same room. The audio isn't
+00:16:08 great. But like the energy in that room of them just fucking around and talking about bullshit
+00:16:15 is just so it's like it leads to so much more funny moments. The fucking energy, man. It's the
+00:16:20 energy. When you're on the computer, it's too easy to like, Oh, look to the side. What's that bag of
+00:16:23 pretzels doing there? Look to the side. Oh, there's that glass of milk that I haven't taken downstairs
+00:16:27 now to house mold all over the top of it. Well, you're in person. You can't do that. You have to
+00:16:32 keep focused on the person you're talking to. And it creates a, you know, a more natural dynamic
+00:16:37 conversation. It's like, it's like when we did tbap, like, like all the energy in tbap was because
+00:16:42 we were doing it live. And I remember like when we didn't live in the same place, like we didn't
+00:16:46 want to keep doing tbap because it wouldn't be the same to record it. Yeah, literally call or whatever.
+00:16:52 Literally remember tbap, like, like, not as you don't think about it for like a second.
+00:16:56 Hey, speaking of which, you pledged $9,000 and $1,000 to the Kickstarter,
+00:17:00 hashtag maxrevive tbap. Those stretch goals suck. I mean, we had a moment just now where
+00:17:08 six people tried to talk at once. And that's the exact reason that this should be done live.
+00:17:13 You know, like, that doesn't happen when you're all live, because you can all see each other
+00:17:17 gearing up to speak, you know, when someone's getting ready. Here we've got a delay so we
+00:17:22 can't even tell until after someone has decided to start speaking that they have begun speaking,
+00:17:27 you know, it's a lot harder to manage flow in a conversation, especially on like a laggy
+00:17:32 discord server with six people on different parts of the fucking continent, you know.
+00:17:37 So yeah, think about all that and also think about the fact that the rain reason we don't do
+00:17:41 face cam is that sinking six fucking face cam videos would be a pain in the ass getting everybody's
+00:17:47 quality consistent, you know, and like also it's kind of sucks to be held accountable for two hours
+00:17:53 to not like play with your dick, you know. So, but when you're surrounded by everybody else,
+00:18:03 then you can't touch your dick. You can touch each other's dick. Yeah.
+00:18:07 Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah.
+00:18:09 First like. Yeah. Okay. Okay. So that appeal for real. The appeal of having great
+00:18:16 higher g content that that's all good and well, and I know all of our fans would love that. You
+00:18:21 guys just listen to the rad con stuff, all that impossible to do online. So that's all squared
+00:18:26 away. That's all, you know, obvious that that's all incredible. But here's the thing that also
+00:18:31 like, like, you know, the PCP is about content, right? Well, the other flip side of the PCB is
+00:18:37 that we're all friends. And we never see each other ever. None of us ever like fucking like like
+00:18:42 culture shock, intellectual alarm clock blasting your fucking ears listener, the PCP don't talk
+00:18:49 to each other and they don't hang out ever. And PCP you will hopefully fix that. I hope please.
+00:18:56 I definitely want to hang out with everyone more. Yeah. Do like, like, you know, let's plays,
+00:19:03 but not like for a video. Just just having a place to go and be like, Yeah, what are you
+00:19:09 working on? I'm working on my video over here. Exactly. I imagine it being like a combination
+00:19:15 of red letter media with the big room where we film things. And then maybe some small I have no
+00:19:20 idea what we're like, what we could afford. Like, super fucking cool. If like, for example,
+00:19:26 we're all in the same place. And maybe like hippo, you're just like, Hey, I'm working on the next
+00:19:30 hypocrite video. Like, look at what I got so far. What do you think? Yeah, things like that. We can
+00:19:36 all influence our content as it's being developed. Because there's one thing that I've had like
+00:19:42 ideas and I've been told by like Digi, at least, that I could send like my scripts to people to
+00:19:48 see what they think. But it's it's, I don't know, it never really feels right to send a script that
+00:19:54 I'm working on even when I'm stuck to anybody. But when I'm like, I'm because it's like, it's more
+00:20:01 in the delivery and stuff. It would be so so dude, it is 1000 times. Let me tell you, this is
+00:20:08 something I've gotten personally, because I've been living with with my fiance now, because she
+00:20:14 left her job to work for me. And like, reading a script out loud to somebody else, like, you
+00:20:21 could just ask them, like, is that the right word? Like, is that the word I wanted? You know, or like,
+00:20:26 is that funny? And then they can go, Oh, yeah, that was funny. Or like, you watch them, you can see
+00:20:31 them laugh. And you're like, Okay, that's funny. I'm leaving that in the video. Like, I have definitely
+00:20:35 been using we both have like, whenever we make something, we just look at the other person,
+00:20:39 like, which parts of this are good, you know, and I think with PCP, with all of us having like,
+00:20:45 you know, pretty similar senses of humor and holding each other to a pretty high standard,
+00:20:49 having critical eye, you know, I think, if maybe I could watch one of, you know, Nate or hippos
+00:20:55 videos over their shoulder, right before they publish it, I could be like, that joke is real
+00:20:59 funny. That one I would cut, you know, and then you can look at my video and be like,
+00:21:03 This is fucking boring. You should make it funny. And I'll be like, Okay,
+00:21:08 let's do that.
+00:21:09 Let me paint a picture for the viewers here. So imagine all of the PCP are like nice castles
+00:21:15 on a hexagon grid in the in the middle in the middle of all these kingdoms is a barren desert
+00:21:23 wasteland. That is our discord chat room. And all communication must go through this desert
+00:21:29 wasteland. This is like fucking Sahara, you have to put on your turban and you will have to get
+00:21:33 your fucking slaves. You have to venture across this barren wasteland, get to the other empire
+00:21:38 to fucking talk to the other king there. That's what that's what talking online is like. If you
+00:21:43 fucking help us get PCB HQ, we can just walk over to each other's houses and we won't have to
+00:21:49 fucking toil endlessly under the hot blistering discord sun. Now I do just want to put in here.
+00:21:55 I don't want to feel I don't want to like make it sound like just give us money and this will
+00:22:00 happen like real fast. I want to add just a little bit of a damper to this whole fun conversation
+00:22:06 just to say this is a long term goal that we're all working on and obviously if we're talking about
+00:22:11 the lives of like at least six people here that have to be like you know financially economically
+00:22:17 you know housing situation has to be resolved and all that stuff takes like a lot of money
+00:22:20 and a lot of effort. So in no way are we saying this like just get us to like right now on the
+00:22:25 PCP Patreon we say like give us five grand I think it's like per episode that we release
+00:22:30 and like we will start to make PCB HQ happen. That is start it will not like officially be fully
+00:22:35 realized at that point. We're definitely not going because like we're doing a Kickstarter for
+00:22:39 the Radcon 3 and that's like a temporary like oh we want to meet up we want to jump together and
+00:22:44 just do some stuff and like make more content to like impress you all but like the actual getting
+00:22:51 over and everybody getting situated and you know ordering a studio that would never be like that
+00:22:57 won't be crowdfunded it will just be like when we all have enough money in order to support ourselves
+00:23:03 when we have income that we can rely on that's when it will happen we just need you know to bolster
+00:23:09 our own and and the PCP and all that. It makes perfect sense it takes five thousand dollars to
+00:23:15 fund PC for to fund Radcon and that's for a week so if we release a video every week and it's five
+00:23:21 thousand a video then that means it's a Radcon every week. Oh my god. You know what I'm saying?
+00:23:25 Basically check it out. You're blowing your fucking minds. Just keep in mind that this entire podcast
+00:23:30 is speculative and not at all like a promise. You're hearing the first real murmurings of this
+00:23:36 nationalist ethno-state movement live on air. Yeah. Well one of the main reasons we decided
+00:23:43 even to do this episode is like we've been talking because we haven't had set down and had a super
+00:23:48 constructive conversation about this anyways. We've tried. So it's just as much for us. It's too far
+00:23:52 out. It's too far out. Well hold on. I think okay you guys are bothering me with this. It's too far
+00:23:58 out. It's no reality. Look I'm moving to Boston in June that's happening so PCPHQ starts June 1st
+00:24:07 when I moved to Boston. PCPHQ is real until two PCP guys live in the same place. Whoever shows up
+00:24:12 after me that's it's officially HQ. The second that there's two people that Tom's already there
+00:24:17 so me and Tom can already have PCPHQ. If it takes a month for the rest of you to show up Tom's
+00:24:25 going to be living in my garage by that point by the by. So you know the PCPHQ will be me and Tom
+00:24:35 and Pantsu party over here fucking making vlogs until everybody else shows up. Whoa what the fuck
+00:24:41 does Pantsu party have to do with PCPHQ dude. Let's put a stamper right now on that shit.
+00:24:46 Just saying that's what it'll be until the rest of you guys show up. What the fuck is everybody.
+00:24:51 That's all good well and put up in there. We should come back to that but that's nitty gritty
+00:24:56 shit and we should probably keep this abroad still because I still want to. My point is everybody
+00:25:01 stop trying to make it less hype by making it sound like it's too far away because then the
+00:25:06 audience isn't going to give us all their money because they're going to be like I don't care
+00:25:09 about like you know when they release those like teaser trailers for a movie that comes out in like
+00:25:14 a fucking year and you're like I literally will not remember that this movie is supposed to come
+00:25:18 out like I don't care enough about any movie. Well on the other hand you don't want to be a final
+00:25:23 fantasy 15 and promise something and then take 10 years to deliver something that's way shittier
+00:25:27 than it was initially promised. You don't want to be Kingdom Hearts 3 and buy like two consoles for
+00:25:31 a game that. No we don't want to be any of that stuff we want to be a game that announces it's
+00:25:35 going to be released six months beforehand and then comes out and everyone loves it that's what
+00:25:39 we want to do so let's just let's just tell everybody it's happening in six months and then
+00:25:45 do it in six months. But the complexity involved like am I going to be ready to literally quit
+00:25:48 my job in six months. Make it that way. Make it so it's that way. Well I think I mean I think what
+00:25:54 it is is that like PCP HQ like like the ultimate like the ultimate hypothetical form of it where
+00:26:01 like all of us live together is like maybe far out and it's complicated but like it doesn't have to
+00:26:07 be it's not black and white like that like PCP HQ can start to form like yes that's what I'm saying
+00:26:13 it's it's it's on a spectrum like I've always expected exactly I've always expected that me
+00:26:20 and Nate are probably going to be the first ones to meet up because I'm I'm definitely moving
+00:26:25 Nate's probably going to be ready to move before too long if we are all if we're all going to
+00:26:30 wherever Tom already is then he'll be there so I'm thinking like you know there's we don't have to
+00:26:35 wait for everybody else to show up before we start making videos you know like whoever's available
+00:26:39 is going to be the initial crew of making like the live action content and everybody else is
+00:26:44 going to still probably be in the audio only version you know and like I expect that to basically
+00:26:49 exist until everybody shows up you know and it'll be like all right we don't need that to exist anymore
+00:26:53 you know but like whoever's there will make content and you guys already know me and Nate
+00:26:58 make shit together I went to your house and we made like 20 fucking videos so like you know as
+00:27:04 soon as two of us are in the same place it's PCPHQ and then what that is can grow and evolve as
+00:27:09 more people turn up and contribute to it there's one general broad thing that I would like to brush
+00:27:16 up upon that's like that may not seem immediately relevant but I think it is extremely relevant
+00:27:20 to HQ as a whole what is the PCP to everyone else maybe uh here I'll I'll I'll I'll say I'll say
+00:27:27 what I perceive the PC to be to be to me it's sort of like a weekly world war like with each member
+00:27:35 being like a mighty empire like each rich in culture in their own right banding together to duke it
+00:27:41 out intellectually and physically each sunday to appease our suzerain 15 000 fold no one's main
+00:27:50 identity should be like should be appearing on these podcasts like the PCP is like supplementary
+00:27:55 material to all of our individual content that's how to say the PCP kind of isn't important all right
+00:28:00 I'm gonna I'm gonna go ahead and make a promise right now when PCPHQ happens if there is a live
+00:28:05 action version of the PCP in any form physical fighting will be a part of it
+00:28:13 it has to it has to end with blood physical violence will definitely be be a sponsored content
+00:28:19 of the PCP you know another tangible benefit he'll throw me I mean it's kind of it's kind of part of
+00:28:24 this whole situation but like right now Gibb does in fact live in another country and if PCPHQ
+00:28:30 can form and become like a stable actual sort of business model then we could get visas for Gibb
+00:28:35 to come work and live as a employee yeah I think that's the biggest financial goal like the the
+00:28:41 reason that PCPHQ needs like the reason we need a kicker the reason we need a patreon for it you
+00:28:47 know like why does it have to be a patreon goal with me and Nate could just move into the same
+00:28:51 place anyways it's because we can't do that with someone like hippo who's you know not even from
+00:28:55 this country like we need to have a real stable foundation for someone like him to come over right
+00:28:59 yeah it's not because I looked into it a lot of times and checked and stuff and there's like two
+00:29:05 main ways I could get into the US well three if I'm if I'm illegal but like two is like one is
+00:29:14 like marrying someone from this country and the other one is being hired by an by a company
+00:29:19 and if the PCP can become like a literal like LLC company thing I think that would be an avenue
+00:29:26 that I could like like you can hire me in I could be on shows and be like haha and then I can have a
+00:29:32 house and what if we kickstarted Gibb what if we kickstart Gibb and munchies wedding you know
+00:29:37 they're mad down dude I keep telling you it's not a fucking joke I will gay marry you to get you into
+00:29:42 America this is a full like my legs are spread just whenever you're ready it's so weird I can't
+00:29:50 tell my parents that I'm getting gay married to a big fat Mexican lad that's like 16 real question
+00:29:55 remember that movie now I now pronounce you Chuck and Larry or whatever it was about like two guys
+00:30:00 like okay why what was the problem exactly why can't you just marry like is there do you have to
+00:30:05 like prove you like love them or something like why doesn't that just work that was the conceit of
+00:30:10 the movie I don't know if that's true in reality yeah I'm real curious I've never heard of like
+00:30:15 because people get shotgun married all the time so yeah yeah or maybe they I think it was because
+00:30:20 they had to be married specifically for some kind of grant that they were trying to get or some
+00:30:25 ride I don't fucking know who cares well whatever I have no idea about it I I mean if it comes down
+00:30:31 to that I just won't tell anybody in my family that I'm technically married to a man I will just
+00:30:39 you're not married to a man you're married to a god
+00:30:43 like we'll just we'll it'll just be munchy and the detail there will be no further details
+00:30:48 yeah I'll just say I found God and they're like oh
+00:30:52 became a christian and much is every gender at once so fuck respond to what I said by the way
+00:31:00 what was that what what is the pcp to everyone I can answer that oh right yeah the pcp is basically
+00:31:06 a virus or no no no more more accurate would be to say a a a a a a a a a a a a a a a a a paramecia
+00:31:13 or a single celled organism with many nuclei and these nuclei inside control the main body
+00:31:20 and stretch it and squish it however they see fit with the goal of expanding and and assimilating
+00:31:26 more and more into the entity as a whole like we're all working independently but we're all
+00:31:31 working to the shared goal of getting our big fucking blob body as big as it can get yeah
+00:31:36 I'm all about my blob body getting bigger. We're just a big old blob. We're absolutely filled with goop
+00:31:43 We're laden with it. Does anyone else share my adjustics my justice league interpretation of the PCP?
+00:31:49 I forget the world war. I don't remember. I don't get it parry it to the justice league at all
+00:31:57 Or like yeah, but the United Nations. Yeah, what I see it as is what is has always been
+00:32:04 Like sans podcast is just a group of internet creators who are like intellectually cool and fun
+00:32:12 And I don't hate them and they like me as well. So that's good and we can all make each other
+00:32:19 Grow
+00:32:20 Our penis is big because we like each other so much, you know, this has changed over time
+00:32:26 But I certainly still think of the PCP when you know
+00:32:29 I had the idea to start doing the podcast and the reason for it was because I just wanted to talk to you guys
+00:32:36 And if not for the podcast that simply would not happen. Yeah, and you know it had and now it's actually making some money
+00:32:42 Which is very nice and all these other things about wanting to move in together. It's helping facilitate that goal
+00:32:48 so to me it's an excuse to continue talking to my friends continue collaborating with the very few content creators online or some of
+00:32:55 them that I respect and
+00:32:58 Yeah, it's just it's just a dream of like you you are the guys that I want to work with and I do and I hope to continue to do so in
+00:33:05 New ways in the future and this is a unifying element
+00:33:08 I do not put a I mean I love just talking at length as as obviously because I just like love doing the PCP in general
+00:33:14 So for me, it's just a great way to just dump a bunch of bullshit every week on in a podcast and shit
+00:33:19 But other than that, it's a great unifying element with people who I respect and want to work with
+00:33:24 Yeah, that's what it is for me
+00:33:26 The PCP is like a combination of both a collaborative and competitive effort
+00:33:31 Because like we come together and we're all friends. We hang out we talk shit
+00:33:35 And we just make a collaborative product, which is great
+00:33:38 And it's an excuse to talk with all you guys
+00:33:39 But at the same time the PCP is an enterprise is also a way for me to like keep tabs on what everybody is doing and
+00:33:46 It kind of keeps me motivated because like I've talked before about how I feel like I have to earn my place here
+00:33:52 So I definitely feel like there's like a bar that needs to be bet and that kind of helps keep me working harder than I might
+00:33:59 Buy myself. I might like lose motivation. Can I just put out this thought on that? Okay, go ahead
+00:34:04 Go ahead. Yeah, I've definitely felt like other groups of friends or people are not
+00:34:11 They I don't it's it. They're not like hard on me enough like they don't they just say
+00:34:18 Yeah, that's great and like the Brody's like the Brody's it's it's it this group is like one part everything
+00:34:25 I said before but then another part
+00:34:27 It is yeah, it is competitive
+00:34:29 It's like we're always trying to one-up each other and we get annoyed when one of us is like the the most popular digi
+00:34:35 And we
+00:34:41 But the rest of us are like vying for
+00:34:44 We're also jealous of digi we all made a snow idol of him and murdered him
+00:34:51 Like it's like it's it's good to have competition. It's like a friendly rivalry like like like it's like an anime like everyone
+00:34:58 It's funny give that you mentioned the the the hard talk and stuff because I remember at one point like this time last year
+00:35:04 I felt very isolated from the group and I approached you specifically about it and you straight up told me like your shit
+00:35:09 Just hasn't been interesting and none of us have felt it's worth talking about and that like kicked my ass and from that point on
+00:35:14 I was like I need to bust my ass harder. Yeah, but then they basically started making money and you cozyed up real
+00:35:25 Above above all else as much as I like being a content creator. I like being a Jew so much
+00:35:34 It's not bad and by the way, here's your dose of hashtag re-utilitarianism for the day
+00:35:39 I literally believe unconditional love is immoral and I will never subscribe to it at any point
+00:35:47 It has everything to do with this because if we were just friends who didn't criticize each other and we're just like supportive in everything
+00:35:52 That we did there would be stagnation and at least within our relationship. I want to bring him my move. I see a PCP
+00:35:59 Okay
+00:36:01 There's something wrong
+00:36:06 I've broken my brain, but uh, no, I I think
+00:36:12 How I see the PCP is that everyone in this group is an artist who given the opportunity
+00:36:18 Would attempt to make the greatest piece of art they possibly could and then attempt to one up at every time they made something new
+00:36:25 Given the opportunity now right now
+00:36:28 Everyone's in a position where they're trying to become financially stable through art in order to give them the leeway to do that
+00:36:33 All of us are young as fuck. Nobody's even 30 yet. Most artists don't even really become big until their 30s, you know
+00:36:40 Hello, I see us as a
+00:36:42 I see us as a group of people with an insane amount of potential because everyone in here is so creative and has been doing it for
+00:36:48 Such a long time that they've kind of proven themselves
+00:36:50 No one in here is like a flake. None of us were one success and then we quit YouTube
+00:36:55 You know, we all tried to build multiple careers here and are still trying to grow and are still like hungry and I think
+00:37:03 You know Nate is obviously somebody who wants to make really highly produced and epic videos
+00:37:09 He might not ever put the like the like stupid amount of effort he put into some of them again, but like incorrect
+00:37:20 It's stupid
+00:37:25 But if you didn't have to make we Agua you would just focus on making those right
+00:37:29 But but I do have to make we I want to succeed on YouTube. So I do
+00:37:35 I only just recently got to a point where I'm able to take more of a step back
+00:37:39 And even then I still try to I still try to put out shit constantly just because
+00:37:43 There's some people who just want to hear my voice all day and I want to appease those people as well
+00:37:47 And I have fun doing it. It's a good way to just constantly like throw every
+00:37:54 Well, yeah, because we say one of those people is me is that we said yeah, oh, yeah
+00:37:58 Well, I mean like you know something like Nate doing we Agua a lot of these are video ideas
+00:38:03 And we all have this this all this happens to everyone in this group that we have way more ideas than we can actually fucking make
+00:38:09 Like the worst Nate there's no way Nate could ever in his lifetime make fully edited videos out of every idea
+00:38:15 That's on we Agua. So there is a reason for that show to exist
+00:38:19 And I'm sure you wouldn't just kill like that lower effort content entirely just because you were able to make higher effort stuff
+00:38:26 But like you probably would be like hey, there's not gonna be a weekly show instead
+00:38:30 I'm gonna make fucking movies that are gonna like you are never gonna want to stop watching this video, you know indeed indeed
+00:38:37 And I think that's what everybody I think it's everybody in here would try to do if like they had the unlimited
+00:38:43 Resources and and time, you know, I don't think anyone in here is somebody who if we had all the money in the world would be like
+00:38:49 I'm never doing art again. We'd just be like
+00:38:53 Masterpiece, you know, yeah, you know, I feel guilty even saying this but you know looking back on it
+00:38:59 I got to say my respect for Aaron Hansen is
+00:39:03 Coming back around as just a businessman and as a practical guy who was like this is what I got to do to succeed
+00:39:09 Make game around great just grow it
+00:39:11 I you know the more time that passes the more I recognize just what a mature and that dude could do anything
+00:39:16 He wants now like if he wants to make an animation
+00:39:20 He fucking I mean you I was just like first you get rich then you can just do anything
+00:39:24 So like first get rich everybody just do it. Just do the day. I was looking at fucking kitty cat gaming
+00:39:29 his wife's channel and like
+00:39:32 He animated a full intro for that like just for his wife's channel
+00:39:35 Just cuz he felt like it like he knew there would be no profit for him in doing that other than like
+00:39:40 Hey, my wife will have a neat little intro animation, but like that. It's like a fully flat. Oh, yeah
+00:39:47 But like, you know, I'm just looking at that
+00:39:49 I'm like, this is what you this is a freedom you have when like you don't have to interrupt your schedule of like
+00:39:54 I have to have an animation about a popular game done every month, you know
+00:39:58 Like most people have to see what he just announced on game grumps or whatever like when they were doing game grumps touring
+00:40:03 There was no production company that could handle like what they were asking for as youtubers
+00:40:07 So they just built their own and now they're like looking for people and I was like goddamn
+00:40:11 I want to sign up to this shit. I want to tour maybe I can work with the game grumps and do this shit
+00:40:15 God, I'm so impressed by these people
+00:40:17 Fucking they made a visual novel, you know, like these are the kind of things that if we I think at our group
+00:40:24 If we all lived in one area and we didn't have the monetary concern of like I need constant videos
+00:40:29 That's the kind of shit we would come up with I mean
+00:40:32 Just made a visual
+00:40:38 I'm assuming we all have like a big project like it's somewhere in our minds that given no constraints we would do
+00:40:45 I know I do yeah, of course
+00:40:47 I've got a lot like I can't diss a but right now
+00:40:51 I just got myself up to a point where I'm allowed to make like one video a month on the main channel
+00:40:56 And that's enough for me to make something pretty big
+00:40:58 But I've never been able to like oh I had to disappear for six months to make this piece of art
+00:41:02 So, you know like in we all know, you know, our buddy the endless one did that
+00:41:07 I don't know how well that worked out for him financially
+00:41:10 But like that's how we got horseshoe finale is dude had to disappear for six months and make that thing because that's that's why
+00:41:16 That's why it's a masterpiece is that it had that much time and some
+00:41:20 Kind of focus, right? There's a concept called deep work, which it's a concept. I've been reading up about
+00:41:26 Deep web. Yeah, the deep the deep web but like deep work
+00:41:30 It's it's when because it was interesting was reading this book and was talking about how like social media is destroying people's attention spans
+00:41:36 And it's actually like making making it more difficult for creators to do what's called deep work
+00:41:41 Which is when you just spend like three four five six hours at a row without any inter interactions or interruptions just working on something
+00:41:49 That's how I make all my videos. That's where the majority of like good work comes. That's like um, oh, there's there's a talk by um
+00:41:56 Oh god, one of the one of the Monty Python guys
+00:41:59 Who's the big one please? Yeah, John Cleese John. Yeah, there's a talk by John Cleese about like the
+00:42:05 Like creative mode and like and how like you need like time to like let your mind enter the creative mode or something
+00:42:12 sounds similar and
+00:42:14 They're talking about how like with multitasking and stuff like when you like no one can actually multitask like your brain can't do it
+00:42:19 You just do tasks switching and the interesting thing was like your brain when you switch tasks
+00:42:24 You don't immediately just stop doing the other thing. It's still kind of lingering in your mind
+00:42:28 So it takes a little while for your brain to completely switch off from one thing and focus on another
+00:42:32 So if you're constantly going and checking social media or whatever else or like doing smaller things in the middle of your work
+00:42:37 You never fully commit to it a hundred percent. Yeah, so it's like it's just a really interesting like how like the brain works
+00:42:43 Oh, I'd love to be able to if you're someone who has problems with that fucking get like the stay focused app
+00:42:48 You know that shit just blocks you from all social media for like a day or it gives you it gives you ten minutes
+00:42:53 Of time every day, and then it'll just block the page
+00:42:56 So you got ten minutes of Twitter today, and you better fucking use it spare you better use it right, you know
+00:43:02 Or if you waste it all in the morning
+00:43:03 It's like well
+00:43:04 I guess you're grinding on your writing all night because you ain't open in that fucking way that better if you get out of the way
+00:43:09 And sometimes I've been in cycles where I was doing like I would just do it all at the beginning and then not have it all
+00:43:15 Day sometimes I want like I need that little spice of like breaking away from what I'm writing for like just a minute
+00:43:22 You know to look at Twitter and but I try to spread that out all night
+00:43:26 You know I'm only allowed to look for 30 seconds because it's gonna cut into my 10 minutes
+00:43:30 So like that's another way to kind of keep yourself on track
+00:43:35 Yeah, yeah, man
+00:43:37 Excellent, I feel I feel like
+00:43:40 Like like coming back to to you know like like a piece of HQ and have and how that will affect us and how we'll be able to
+00:43:47 Be better people because of this even even if you disregard any of
+00:43:52 the you know business
+00:43:55 Content-wise things again, just being together will in like like like you know
+00:44:01 I just said you know remove content
+00:44:02 But even just being better friends and just talking to other will you know influence our content and make it better
+00:44:09 I know that like like being together will like fucking like pacify all of our dark mental urges and fucking like you know
+00:44:18 Moderate our suicidal and and homicidal tendencies and try and make us into more productive
+00:44:25 Moral people with a fucking backbone for once and so just being friendly with one other and being able to actually see another person
+00:44:32 Every you know once every week or so instead of the zero time we all get to see that will be great
+00:44:38 And that will be able to make us you know more functional fucking people and therefore better content
+00:44:43 Let me make break out one of my favorite comparisons like fucking in the fighting game community like people who get big as like
+00:44:52 Fighting game players they have to play against other big players like you can't get good playing against like your local guys
+00:45:00 Like even if they're really great like if you're not playing against a pro
+00:45:03 They just know so much more that like just playing against them teaches you way more about the game
+00:45:08 You know that's that's preparing you for an entirely different meta
+00:45:12 Exactly and so like us living together is it or even working together all this time has always been that way like we've had
+00:45:18 Everyone in the PC piece had a very massive influence on each other. I think that's pretty fucking obvious
+00:45:23 Which is why why we all share a fan base because people generally you know can see the threads of each other's work in
+00:45:30 and everything we do but like
+00:45:33 You know living together just to kind of increases that it's I
+00:45:37 One of the things about like that the reasons people recommend going to college is like they say you'll get experience just by like
+00:45:44 Seeing things that you wouldn't have seen at home. You know and with the piece with with working with you guys
+00:45:50 I've had times were like just watching someone edit you might like learn a whole new way to edit
+00:45:55 You know or watching someone's workflow or just being around when someone's being creative gives you ideas about how to approach creativity
+00:46:02 You know, I might have different brainstorming methods from Nate
+00:46:06 But like maybe if I copy the way he takes notes, it'll let me make a different kind of video or something like my famous note taking
+00:46:11 Yeah, I mean
+00:46:12 I've been exploring all this because I'm helping my fiancee launch her channel and like we've been just watching YouTube videos fucking
+00:46:19 Constantly and like taking notes on what everybody does, you know
+00:46:22 So I've been in this constant state of like man being around youtubers is powerful
+00:46:26 like being around people who do the same work you do like will really
+00:46:30 Just like kind of reconfigure your mind to think of things in a different way and I've learned a lot from even just seeing like hippos
+00:46:38 Writing style like how he writes the jokes into his fucking scripts, which I don't do at all
+00:46:43 Like hippo like writes notes about how to deliver jokes in the scripts themselves
+00:46:47 A lot of people might not have even thought about that and some people will probably just learn something just by me explaining that on this podcast
+00:46:54 You know so like the more we learn from each other the more we can tell the world because like I might take for granted the way
+00:46:59 I write but then one of you guys looks at it and goes oh fuck guys
+00:47:03 Did you know you could write like this and now everybody knows, you know, you know
+00:47:07 I just don't want to I don't want to get anybody to whipped up in a frenzy
+00:47:10 But I just want to say like keep your eyes on what's going here if you if you like what we do
+00:47:15 I don't want to make anybody give like us money or whatever to support a dream
+00:47:18 That doesn't have a tangible benefit for them, but I think that we can offer that I mean, I mean there's no like there's no like
+00:47:25 Yeah, there's no like fun for this, right?
+00:47:28 Yeah, just the main PCP patreon, you know does include language saying like if we hit 5,000 goals
+00:47:35 PCP HQ will become real now like we'll start to make it when we have the money personally to do it
+00:47:40 We will do it
+00:47:41 And it depends on whether we individually get big or the PCP allows us like we get an income from that right right
+00:47:48 But it's not gonna be like yeah, we're not gonna fund it directly
+00:47:52 Speaking of that Nate about specific things that we don't people get all riled up about
+00:47:56 Let's talk about specific things that will rile people up
+00:47:59 I think we've all talked about the general broad stuff. I think it's time to get the nitty gritty like what exactly we plan to do
+00:48:05 Like can I give you my vision here? Yeah. Yeah, sure
+00:48:08 Let me let me give you my general vision of what I see when PCP HQ becomes real in my mind
+00:48:13 I see and this is just me other people might disagree and this will all be figured out in time when this sure starts to become real
+00:48:18 But in my world there is a core unifying show perhaps weekly
+00:48:23 That is something akin to a half-in-the-bag style show like live-action people sitting down talking about thing
+00:48:30 They want to talk about with probably I don't know
+00:48:33 I imagined some sort of we Agua style editing it'll depend on like who the editor is and what the workflow becomes for that sort of thing
+00:48:39 Um and so and that's like the main core content on the channel and then aside from that
+00:48:44 Probably just like relative or content that's currently relevant to whatever's going on
+00:48:49 So for example something like the podcast me and digi did about
+00:48:55 Like the era manga sensei like I imagined things along those lines appearing on there as well
+00:49:00 Maybe live-action maybe not and I I do get inspired by a lot of what red-letter media does in terms of they'll just make like random videos
+00:49:07 Like science man explains like transformer genesis or you terminate like whatever it is all that kind of shit like that
+00:49:14 That's the hand boy winter war sort of thing well
+00:49:17 That's the kind of stuff that it helps to have the studio set up for because like exactly they created
+00:49:22 Oh, it's a different type of video
+00:49:24 But like all they really had to do is swap out a few assets and like they already have the lighting
+00:49:28 They already have the big cameras like everything is ready to go just swap out the basic props of like the set and
+00:49:35 For us even just working individually
+00:49:37 I'm sure this is true for all of you because we all fucking work in our bedrooms
+00:49:40 They have to set up your whole fucking setup every time you want to record anything
+00:49:44 You know see that honestly when I dream of PCB HQ the number one thing I dream of considering
+00:49:49 I literally have to like construct my set every time I set up having a studio room where I just go
+00:49:55 Flip some switches and I'm ready to record. That is my dream. That is my dream
+00:49:59 I that was what we tried to do at the at rad con and with the set that was in my my old house
+00:50:05 But like I never quite got the lighting good because it's hard to justify spending a lot
+00:50:10 To make a proper set you're gonna have to drop a lot of money
+00:50:13 But like if everyone was there and we were all using it it would be justified, you know
+00:50:17 Like if we wanted to get real professional shit, you know, I think all of us
+00:50:22 Understand that that's the next layer to go to but it's like there's not enough
+00:50:26 There's not enough evidence that that will profit us to do it for just our own videos, you know
+00:50:32 But like if everyone's working together, it's like okay
+00:50:34 Well having a dedicated setup will mean we can like just churn shit out like you know pencil in what whatever
+00:50:40 You're doing that day and let's fucking film the schedule, you know, yeah, yeah for sure
+00:50:45 That's one thing I dream of in the meantime. I'll probably construct like some sort of home studio
+00:50:49 I don't I feel like I'm gonna move pretty soon probably before PCB HQ becomes real and the most important thing is to get a room
+00:50:56 Where I can just set up my shit, and I don't maybe get another computer just all that kind of stuff, man
+00:51:00 I dream it every fucking day. God. I fucking hate sitting on my goddamn camera
+00:51:04 I'm really glad that we're talking about like specific things
+00:51:08 We're going to do because one of my main concerns with PCB HQ, you know before this a while ago was a
+00:51:14 Well, we had like, you know, of course the obvious benefit of like oh, we'll be able to do things together
+00:51:20 There will be new shows available
+00:51:22 That's kind of where the conversation ended and there was no like fit like actual show like yeah
+00:51:27 Sure, there would be a show if we were all together
+00:51:29 But when we're talking about moving and putting people's lives on the line
+00:51:32 It's better to have an actual show
+00:51:34 Planned instead of just saying there will be a show eventually
+00:51:40 The reason it's sort of vague when we initially came up with it was it's just it will be us talking about media like we do
+00:51:49 Well, but there's like two of us instead of one or maybe just one like the reason
+00:51:54 Like I I mean, I don't do we agile with style things
+00:51:58 But I could but I'm just like not that good on camera generally and I have a really bad place to record but like um I
+00:52:06 Doing like edited review things only really works with me when it's something that I already have a history with and I can sort of
+00:52:14 explain and
+00:52:16 And and do all that sort of like big editing long-form stuff
+00:52:20 And if I wanted to do that for like my channel to get you know talk about new games and and get like new
+00:52:27 Viewers and whatever like it would be way easier if I could just have somebody there and we say yeah
+00:52:33 We played this game. This is what we think about it and that would be the show, but it would be great because it's like
+00:52:38 It's it's just t-bap, but with a video game
+00:52:42 Yeah
+00:52:44 I
+00:52:45 I've I've turned my nose up a bit at red letter media before but I've been watching it a bunch lately and
+00:52:51 Thinking about it in terms of like like what if like what if the PCP had like a similar setup
+00:52:57 And I don't know it's just really great. It's really exciting, right, right?
+00:53:02 There you go. I mean just like you know this they have these props and they just do these fucking
+00:53:08 Shit things
+00:53:10 Up to succeed it would just yeah, they did and it would just be it's so much better than it would be if it was audio-only
+00:53:17 Mm-hmm
+00:53:18 Like if they couldn't do they couldn't do like any of the shit
+00:53:20 They do if they didn't have like a studio at the very least their meme potential like two
+00:53:26 They're big memes on TV just posting red letter media, you know like gifts and images and stuff like they are
+00:53:32 They're kind of a cultural phenomenon in their own small way
+00:53:34 Oh, they have a pretty big cult fan base, you know, like indeed like one of them a grown-up version of uh of what we got, you know
+00:53:42 um
+00:53:43 But I think the reason that it's been so nonspecific is that for me
+00:53:47 I usually base the projects I do on what is at my disposal
+00:53:51 So like the way I see it again, if it was only gonna be me and Nate for a few months
+00:53:56 I would just invent a show that is for me and Nate and is meant to last a few months
+00:54:01 You know until we get the next guy or like if it or designed to go on until it needs to be replaced
+00:54:06 Or unless it's super successful in which case we just keep doing that show even after pcph
+00:54:12 So like
+00:54:14 Basically for me, it's just like all right. Who do I have? What equipment do we have right now?
+00:54:18 What space do we have, you know?
+00:54:20 If if me and Nate both move to the same place and we can't yet afford or justify the expense of a studio space
+00:54:25 We might just do something in a home studio, but with both of us, you know, but there's a lot of potential there
+00:54:31 So
+00:54:32 Yeah, I think that's why it's been so nonspecific
+00:54:34 But I just want to have the ability to
+00:54:37 If there is an idea to do it like again with the otaku workout training video
+00:54:41 And I realized that a lot of the stuff that I tend to cite as like what I want to be able to do more of is not necessarily
+00:54:47 Like the most popular videos we do like
+00:54:50 Obviously, I think all of us have been are most successful when we're critiquing popular media more so than like just trying to carry something on the strength of like
+00:54:58 our personas, you know
+00:55:02 I think that
+00:55:03 There's a lot more room to explore what we can do with that
+00:55:07 Whenever we do make a weird video like that like a comedy video
+00:55:10 There's a crowd of people who's like this is my favorite thing you've ever made and I'm like I agree with that crowd
+00:55:15 The passionate fans are the ones who will throw their money at you. They're the ones
+00:55:20 They're the ones we should be worried about
+00:55:23 I got a show idea
+00:55:24 But I don't worry about I mean we should we should care about their opinion and not the and not the fair weather people who are just interested in
+00:55:30 The popular thing we might be talking about
+00:55:33 I I I got a show idea
+00:55:35 All right, because like we've got all these like vague things like just uh
+00:55:38 personalities put them together and talk about something
+00:55:41 That's that's that's all good. We can make a billion different types of those sort of shows
+00:55:45 But here's here's a specific one
+00:55:47 It'll be we go. I don't know where the Walmart sells like a brick a giant bricks of limestone
+00:55:53 But we go and get the
+00:55:56 And then we bring them into a room and we get some hammers and chisels and we just learn how to sculpt
+00:56:04 I'm definitely down let's sculpt let's sculpt
+00:56:07 Let's sculpt me and native had a long long time plan to do some kind of show about learning Japanese
+00:56:13 Uh, you spilled the beans, but it's true guys. We've had that plan for like a fucking solid year
+00:56:18 And we like it obviously would get done way easier if we live, you know, what is it?
+00:56:22 Okay, now that you've said it, let me just give everyone my dream
+00:56:25 This is a project I came up with and I think it is literally the best idea of all time
+00:56:28 It is a podcast
+00:56:29 I mean it'd probably be live action if we if we get this shit together
+00:56:32 But it is a a a like regular maybe weekly style show where we are learning Japanese beginning with the fundamentals
+00:56:39 And like every week we'll make a new lesson learning more stuff
+00:56:42 And the point of this is that one day when many episodes are made
+00:56:45 This will simply be a fun youtube playlist podcast where you can just watch and if you like practice and do the lessons along the way
+00:56:51 You will just learn Japanese as well. Is that not the greatest idea?
+00:56:56 It's like our people for Japanese culture
+00:56:58 There will and there will also be a competitive element to it and like lots of lots of dunking on each other
+00:57:04 Like that's gonna be integral. You know, I love that idea. Get dunked on bro
+00:57:10 Make a lot of money. We'll be playing the entire time
+00:57:13 I'm gonna get on a train of thought and ben. I think I think you'll be interested in this
+00:57:16 So please chime in whenever you feel necessary. Okay. I am not a video person
+00:57:22 I do not create videos as my main thing. Of course, you know
+00:57:27 The main thing I do now, you know, like like that people see not behind the curtain is videos
+00:57:32 But you know, I don't perceive myself to be that I am a draw person first and foremost and in my heart
+00:57:37 And so it like, you know, if I were to go to psphq, well, of course, I would benefit from studios and stuff such as that
+00:57:43 That's not the main thing that I would be doing is, you know, creating new types of the main
+00:57:48 I have I have types of videos that I would like to do. I would like to do a cooking show
+00:57:51 I'd like to do literal fighting. I want I want to literally record fights. That's not a joke or a meme
+00:57:57 I want to do that. I'm intensely interested in that. I like wrestling
+00:58:00 Uh, and there's stuff that I could do and I want to do but I think even like even the, you know
+00:58:06 Most individualistic sort of stuff like, you know dry and stuff just being around like, you know
+00:58:11 This goes back to what we were talking about earlier being influenced if I was around ben or if I were around, you know
+00:58:16 Any of the other draw boys hippo tom here, that would be great. That would be that would be a huge influence
+00:58:21 That would be a huge rush. I I totally
+00:58:24 Imagine being in the same room as one of those people and just like we are both just drawing together
+00:58:29 Like we're not like being like, oh fair. Check out this draw. Check out this panel. How do you think about that?
+00:58:33 We could do that, but I'm just saying, you know, in fucking silence in our in our cave. Uh, I got it
+00:58:39 Let me pitch a show to you for when pcbhq happens that you and the draw boys all get together draw erotic comics
+00:58:45 And whoever achieves the biggest boner for the audience is the winner. What do you think?
+00:58:50 I like it
+00:58:51 I'm gonna punch you. Let me tell you
+00:58:53 I got a I got a notebook full of real creative fun drawings that ben st
+00:58:58 Drew while me and devu pretended we knew how to draw next to him and it was it was a great time
+00:59:04 You know, I remember those they're all like colored and shit
+00:59:07 Yeah, you were just like fucking around with your markers and drawing like masterpieces while me and devu were just like
+00:59:12 Like attempting to even make what we were doing like like visibly readable
+00:59:17 I remember it was a great time. I'm totally I'm bored with you
+00:59:19 Munchie because like I think just being around because there's I I live in a vacuum
+00:59:23 All right, I have no friends. I have nobody who's creatively inclined around me ever at all
+00:59:28 So I just do my shit and that's it
+00:59:30 But like if I was like
+00:59:31 In the proximity of someone who is doing shit that I want to do and doing it better
+00:59:35 I'd be like I love you, but I want to fucking kill you and it would definitely make me more
+00:59:40 More productive and better and I I I suppose the the piece of me podcast would probably still exist by the way
+00:59:47 We'd probably just keep doing this shit. I forgot to mention that it would get better for sure
+00:59:51 That's why I was saying having it be in person would have a whole new dimension to it
+00:59:56 Because we'd have that like personal like real life interactive element to it by the way
+01:00:00 So when you say something stupid, I can go over and punch you in the face
+01:00:04 All about drawing said here here fucking fastball like like hit you in the fucking skull before you could even react
+01:00:10 Tom hippo, let's have like a three musketeers live action show or you know something to that effect where we're all art people who hate ourselves
+01:00:19 Yeah, that's good. That's the main that's the main theme here. That's the main theme
+01:00:23 We should all just have a show where we just like shit on everybody else who does like reviews and commentary because it's gay
+01:00:29 Yes
+01:00:31 Okay, fucking tentative plans for for a bunchy patreon
+01:00:35 The highest goal is I will never talk about another piece of media in my life
+01:00:38 I will never comment or even think about other art in my entire life
+01:00:42 You're wasting your time just create your own shit. The best commentary on media is to make better media yourself
+01:00:49 Yeah, true very true
+01:00:51 I have in my my brain this this imagery of like
+01:00:55 The video like all of us drawing on the on the bottom of the screen
+01:00:58 Like you can see the backs of our monitors and are like pasty white faces
+01:01:02 Illuminated by the screens and then above of us is like like a recording of what we're drawing
+01:01:08 And it's just like 10 hours of like complete silence of us drawing
+01:01:11 And then above those as there's a there's a gauge for how self-conscious the artist is betraying
+01:01:16 And with the more self-conscious they get the lower a noose from the ceiling
+01:01:19 So
+01:01:23 Yes, wonderful
+01:01:26 And just to just to get just to get really real just to get really really really dark and real
+01:01:32 You know, please tommy holla first going to be living in a car soon
+01:01:36 And his main source of income is the pcp. So if you pay enough to the pcp tom might live
+01:01:45 Yeah
+01:01:48 You might I didn't I didn't want to go there. I don't want to put any pressure on anybody, but uh, yeah
+01:01:54 That seems to be what's in the cards. Yeah
+01:01:57 Get a fucking job if you if you want us
+01:02:00 I do have a job
+01:02:01 If you want us to be able to afford to just put tom up in a house somewhere
+01:02:06 And like have him just like nominally participate in pcp content while he works on like his grand vision of 3d art
+01:02:13 Support the pcp
+01:02:15 That's can't wait. I'm gonna I'm gonna I'm my my my long-term goal
+01:02:18 And I was gonna talk about this my favorite my favorite
+01:02:20 I think about about the pcp being a big thing is not even so much the the collaborative stuff because that's gonna be great
+01:02:26 I love that because I love doing
+01:02:28 Shit with you guys
+01:02:28 I can't wait to do stuff with munchie and hippo and art things and like all that stuff
+01:02:31 But my number one thing is the the the time the ability that like oh, I don't have to
+01:02:38 Squall and squander my day away doing all this bullshit that I don't actually want to do because my number one big
+01:02:45 Goal is because I started sources loss and it got immediately in rewrite hell and I figured out
+01:02:50 Just a few months ago like okay
+01:02:52 I know what the story is going to be and now that I know 3d my long-term goal
+01:02:55 And I'm going to announce it and I'm trying to hold myself to it. I'm going to learn all this year
+01:03:00 Okay, please
+01:03:04 Please tom take it from me. Don't announce your comics before they're done. Please don't yeah, I
+01:03:10 I fucking beg you tom. Don't make this mistake
+01:03:14 Is gonna be good
+01:03:20 All right munch, I'll I'll I'll I'll be a I'll be a safe boy for you
+01:03:25 Yeah, I'm fucking crying. Speaking of which, how's your comic going munch?
+01:03:29 It's going great
+01:03:32 I still I still want to see your sketches, man. I'm still waiting
+01:03:36 I'll show you everything I have. I'll give you everything
+01:03:39 I'll give you everything I have
+01:03:42 I'm going to eat batteries for you tom. I'll eat batteries
+01:03:45 I mean if you want, I wasn't I wasn't
+01:03:48 Anticipating that but hey picture of the investor grader, which is like a great that's against much of space that he's like
+01:03:55 Dining against daily, you know
+01:03:57 It's just investigable Nate sunglasses on it's like that scenario before but instead of a noose
+01:04:02 It's just a cheese grader on
+01:04:05 It's like a grindstone that he's just slowly being pushed forward towards and he's desperately trying to draw
+01:04:11 Yes
+01:04:13 Beautiful god. I mean what else is there to say anyone got any other
+01:04:16 specific ideas that want to share anything?
+01:04:18 This is good. We covered a lot of ground here. I
+01:04:21 PCP olympics. We'll try it. We'll do the long jump. We'll do
+01:04:25 We'll do the the monkey bars. Well guys, you know
+01:04:27 Here's here's a literal thing that I would like to make part of canon to like force me to do it
+01:04:31 It's always been my dream since I played final fantasy eight and zeal like level one zeal
+01:04:39 Did a thing in final fantasy eight where he did 100 pull-ups before the game even started
+01:04:43 It has always been my dream to do 100 pull-ups just like zeal and final fantasy eight and also to run up
+01:04:49 I think it's like 64 flights of stairs just like cloud and sheenra hq at the beginning of final fantasy seven
+01:04:55 Those are my true fitness goals for my life if I can achieve those
+01:04:59 You just need to find a tall building to do that second one. I'll get tired though. It takes a lot of energy though
+01:05:04 No, no, no one on the cold opens of the live action pcp
+01:05:09 We'll just do we'll be you doing 100 pull-ups and then you're just the show like you're just like getting like
+01:05:14 All right, that would be the pcp podcast for a bunch of internet creators here today
+01:05:18 I will do that 100 pull-ups is not even unattainable. Your average person can do it if they just work out and
+01:05:24 That's that's how you know you succeed innate if you can do 100 pull-ups before the show and then immediately start and not be winded
+01:05:29 Or anything that's well, I'll be winded but yeah
+01:05:32 You got it. You got to get better, dude. And so you got to be not be winded
+01:05:35 So I'll just put that out there my record right now in high school was 50. What is this?
+01:05:38 How does the pcp hq help you with this at all?
+01:05:41 Oh, well because I want to set this fitness goal and I kind of have some idea of like a fitness show in some way
+01:05:48 I mean, I don't know exactly. I plan to be a hashtag fit boy by the time of
+01:05:52 Of hq. So so we can do a fitness show together. Okay. There you go. That's what I'm getting to
+01:05:59 I'm so excited to be the only fat pcp member. I can finally be the token fat pcp member
+01:06:06 I can finally achieve my my ultimate goal. I can't wait. I can't wait
+01:06:11 By the way, uh, this is not a new show
+01:06:14 But I want to fully illustrate that stealing your dad's food was easy would be way better if it was in person
+01:06:20 It would be like a show imagine filming it in a car
+01:06:24 Like imagine filming it with a dashboard cam
+01:06:26 Oh, yeah
+01:06:27 By the way, by the way, digi, uh, I plan to do p, uh, stealing your dad live, uh at radcon 3 and I have a costume
+01:06:35 Oh
+01:06:38 Like like, uh, the the the the the the munchie that you see depicted on uh on the the like, you know
+01:06:45 The thumbnail is an outfit that I have in real life. Now. I've attained it. I will be wearing it
+01:06:50 I will wear a costume as well. All right. Yeah. So so yeah, just imagine
+01:06:54 There's no echo and you can see us eating the food
+01:06:58 Instantly triple is good instantly. Mm-hmm. It would be incredibly would be great
+01:07:04 Yeah, like even if we just made the same content, it would just be better
+01:07:09 Like it would just be better done live
+01:07:11 And uh, and uh, and then like
+01:07:13 In addition to that like the fact that it opens up more opportunities for new things
+01:07:18 Uh
+01:07:20 Okay, two things here. First of all, ben, I remember you and not unreasonably here
+01:07:25 But I remember you being very poo poo of the pcphq idea
+01:07:30 Has anything changed for you?
+01:07:32 Um, if I was poo poo about it, it was probably well
+01:07:36 I mean because like me and me and digi and divu all live together
+01:07:40 When we were kind of calling it, uh, pcphq for a while, but we didn't really do anything because like
+01:07:46 I don't know. It wasn't
+01:07:48 Everyone's doing their own shit, you know, you have to really plan something. Yeah, we were doing our own thing and like
+01:07:52 I don't know
+01:07:53 So I just I don't think that was what it was going to be
+01:07:57 Like that that we called it hq sometimes at the time, but in hindsight that was not pcphq like the the idea of what it actually is
+01:08:04 I think is still cool. And um
+01:08:07 If I was poo poo about it, it was probably just because I didn't think it was going to happen
+01:08:11 Um, but if it did, um, hey
+01:08:14 Uh, mom's the word
+01:08:18 Excellent, okay, okay. Let's continue talking about, you know, exactly what shows we're planning to do
+01:08:22 But also as well, I would like to talk about
+01:08:25 Uh, where this thing will be held where we think like like if there is even a time frame like we talked about this digi
+01:08:31 Digi spoiled this conversation topic. But yeah, let's let okay for a while as hardcore pcp fans will know
+01:08:39 We were thinking that atlanta georgia would be pcphq
+01:08:44 But uh, but uh, that may have changed
+01:08:47 After after a meet-up that all the pcb guys did in boston famously documented on twitter where I
+01:08:53 wore a basket on my head
+01:08:55 My jacket is a scarf and and a home stuck t-shirt only in a freezing boston weather gift by the way my god
+01:09:01 Yeah, yeah, yeah, it's the place where we did a basket. I thought it was like an actual hat. No, that was that was a basket
+01:09:08 I thought you had a fez
+01:09:10 Please see twitter to compare the physiques of andrew hussey and munch shit. Please, please
+01:09:17 Uh, yeah
+01:09:20 All right, so so so yeah, uh, I
+01:09:24 I I guess I'll describe it the way I I like like my
+01:09:30 the way I interpreted pcphq and the change from atlanta to boston I
+01:09:37 From the very inception of the idea pcphq was like I'm ready to fling myself wherever this may be
+01:09:45 Whenever it may be 100% like like instantly when pcphq is settled
+01:09:50 I will I will migrate there like fucking moths to a flame and then uh, you know
+01:09:55 It it was shaping up to be atlanta for various reasons
+01:09:58 And so I uh, you know, like, you know, I want to see where I will be living
+01:10:02 I want to see where it's like
+01:10:03 I want to go to atlanta and then I went to atlanta to see ben and which was a great trip
+01:10:08 And from when I saw atlanta, it was awful. It was the worst thing I've ever seen my entire life. It was dirty
+01:10:13 It was mucky. It was fucking disgusting. I mean every level it was repulsive
+01:10:18 I would no wonder bend lids there
+01:10:20 Um, I hated it. It was real
+01:10:23 shit and uh, all right
+01:10:26 And and and then for other reasons I found myself, uh, uh, like like a month or two later in
+01:10:32 Or actually previous to this
+01:10:34 In boston and boston was a fucking like it was
+01:10:38 As close to nirvana as I could get after kurt cobain's death god rest his soul
+01:10:43 It was fucking it was pristine. There were very little homeless people
+01:10:48 You could actually walk places which which to a west coaster is very strange
+01:10:53 We know it actually walked to a location to location. You fucking east coaster ticket for granted. That is pretty sweet
+01:10:59 It it was great. And so I
+01:11:02 In this boston meetup that happened during christmas
+01:11:05 I launched because because I knew that uh, nat and digi were the high profile targets
+01:11:09 I had to assassinate jfk style in order to get my whim of a pcphq in boston
+01:11:16 So I set out I I I divided and conquered and I started to to convert digi to to my hellish religion
+01:11:22 And I went on a three day hard sell to try and get him to move to boston
+01:11:26 I was curious about this story because it just seemed one day digi was all of a sudden really into boston
+01:11:31 And I knew there was some involvement here, but yeah, go on. I want to know the details here
+01:11:36 Digi, how well did this work? I mean it was pretty simple because
+01:11:40 Munchie has like well catalogued what I like about cities and we basically have the same
+01:11:45 We're both like huge architecture nerds
+01:11:47 We're both huge fans of density in cities like of being able to just like go shop to shop
+01:11:52 And it's just like an endless series of things to do, you know
+01:11:55 And so munchie not only like told me that that was what it was like the night before we went out on the town
+01:12:01 But like we then went out and like he took me to the most dense place imaginable, you know
+01:12:06 So as soon as I saw that place, I was like, this is the coolest fucking thing I've ever seen. So I'm curious
+01:12:11 Place we were all the fucking market place. Okay
+01:12:13 Like it's just an it's like literally like 200 stalls of random
+01:12:19 Food and other crap in like the span of one block. It's fucking insanity
+01:12:24 And uh, I was I was real hyped for that and we we just walked around
+01:12:29 The city a lot like we just went to lots of different stores and shit and I was like this place is cool
+01:12:33 It's really easy to get around it feels really safe and people there are beautiful for some reason
+01:12:40 Everyone looks like
+01:12:42 Stock of DNA quality up there, you know, you know
+01:12:45 so, uh, yeah, I was just really excited about the city in general and uh, and then like
+01:12:51 You know munchie fucking like really sold me on it
+01:12:54 And then may was like I've always wanted to live in Boston and I was like, why didn't you never say that before like
+01:13:00 Fucking this place is cool. You know, so we both got real hype about it. And um, yeah, it's just there you go
+01:13:07 It seems like a cool place to live
+01:13:09 Well, that's your convenient for me. That was always my particular
+01:13:12 favorite place since my family lives like an hour away
+01:13:15 So I think I was always resistant to checking out Boston because you guys had suggested it
+01:13:19 but I had always kind of thought that a everyone was just suggesting it for convenience and uh,
+01:13:24 b
+01:13:24 That I didn't realize it was it's as big a city as it was like I didn't realize Boston's like huge
+01:13:30 You didn't realize Boston was amazing. It's like well relatively speaking. It's no
+01:13:35 I didn't realize it's like as big as Atlanta though
+01:13:37 Like it's as it's as big as it's like one of the biggest fucking cities in the
+01:13:42 Second or third city that your city is named after when you settle as America in civilization five. It's amazing
+01:13:49 Well, I think in my head boss, I like my vision of Boston is like a tea party like
+01:13:59 My vision of Boston was like a very flat place where everything's a tea shop
+01:14:05 Everything's a tea shop Jesus fucking Christ
+01:14:08 All this stuff Ben described to me about like living in Boston. He's like, oh, I take the train all the time
+01:14:12 And I go to hipster coffee shops and like that's
+01:14:15 You know the Boston tea party wasn't actually a tea party. We like said, fuck you British people in your tea dumped it all into the water
+01:14:22 We're like we're gonna catch you up on the floor. We could be more anti-tea if we tried
+01:14:29 I'm aware, but
+01:14:35 I just
+01:14:37 My whole picture of Boston. I could just imagine you just you hear Boston tea party
+01:14:41 It's just a bunch of people in triangle hats sipping on tea
+01:14:45 And you're like, that's what it must be now
+01:14:47 dude
+01:14:49 It just so happens I saw a tv show about a guy who goes on trains around the world
+01:14:53 And he was going around in on like the Boston trains and drinking tea and having oysters. There you go. There you go
+01:14:59 It looks cool though. It's apparently tinder dating explained it
+01:15:03 Was he tinder dating too? This is my vision of Ben going around Boston. It's just like
+01:15:10 In his fifties, he's an old man with a weird jacket and he's like, oh, yes. I like
+01:15:16 Incidentally, Boston is the 22nd largest city in the United States with a population of 673,000
+01:15:22 Yeah, at least it's not the thousand smallest dick Nate like you. Well, you got me there
+01:15:29 You just barely made the list
+01:15:33 For the record though, I uh, don't even care, uh, if we end up in Boston or not
+01:15:37 I will go anywhere because I have I have dedicated my entire being to becoming financially independent
+01:15:43 So I can do whatever is necessary to achieve my goals in life. So I will do whatever I have to do
+01:15:48 I catch my cold. I will go anywhere. I I just would prefer it to be Boston because Atlanta was gross
+01:15:53 Sure. I yeah, I haven't been to like Austin, Texas the best I think because I kind of I'm still holding a dream
+01:16:00 A candle for a dream because I want to work with side live with side forever
+01:16:03 But also besides that like the anime like voice acting industry is there and I've always had a little bit of a dream
+01:16:09 You know ever since I was a kid to maybe get into that voice carry bro
+01:16:12 Oh, yes
+01:16:14 In the disney bros anime adaptation
+01:16:17 And you know what people keep telling me that I'm just like my voice is great and everyone keeps complimenting and I'm like, you know what
+01:16:22 People have convinced me. Maybe I am okay at this. Maybe I can do it. You just got to take the root of become famous
+01:16:28 And you can become a voice actor
+01:16:30 Well, and I mean he's a great voice actor
+01:16:31 I mean fucking like Ethan and ila got to do voice acting and fucking some what was it payday too?
+01:16:37 Like if you become famous, you could just fucking flex up just express interest in doing it and people
+01:16:42 Fucking total biscuit has like a like a starcraft 2 voice pack or like some shit like that. Yeah, that's yeah
+01:16:48 All that shit's great. Yeah, that's the dream. All right. Do we want to move on to questions?
+01:16:53 I picked out this time like five or a total dawn
+01:16:55 Anyone how?
+01:16:56 Conclusive statements. I've heard I've heard that boston is quite an english
+01:17:01 Styled city because it was like one of the first ones. Yep. Yep. Yeah, and they made it. It is not very well
+01:17:08 Yeah, which is why I would like it. It would be like, oh, there's I remember this sort of thing
+01:17:12 I remember being lost and confused. This is just like home
+01:17:17 It is the epitome of
+01:17:18 Yeah, east coast cities tend to be like a labyrinth much in the way that london is but like
+01:17:23 Yeah, it's definitely a cluster punk of cities
+01:17:26 What's so impressive about boston is that in spite of it being like sprawling and weirdly laid out and stuff like the trains
+01:17:32 Take you fucking everywhere. Anyways, like yeah, they somehow have snake them all around to make them work. Yeah
+01:17:38 All I'm saying is I would prefer a labyrinth than something like new york, which scares me
+01:17:43 It makes me feel like I'm on like chicago literally freaks like flying out of chicago freaks me out
+01:17:49 Because it looks like a giant grid for as far as the eye can see and it's fucking disgusting
+01:17:53 All I'm saying is there should be from softs next next game should be
+01:17:58 Patriot souls where you play in boston and you go around the town and you kill colonial people
+01:18:03 And you slay the redcoats and yeah, you use tea to restore your hp
+01:18:10 You drop tea to restore it if you drop it
+01:18:13 Find an ocean to hurl a box of tea into that restores
+01:18:17 Okay, all right day one purchase for me
+01:18:22 Just settle out of here. Uh, what is the time frame? Do we think I think did you say you're gonna be moving in may?
+01:18:28 I my lease goes up at the end of may so june 1st. I got to be out of here. So uh,
+01:18:34 Yeah, and boston's real convenient because it's a six hour drive as opposed to the
+01:18:40 18 hour drive that it would take to get to atlanta. It's closer to people
+01:18:45 Closer to families. So, you know, it's it's it's also convenient for me
+01:18:50 That's cool. I will I will say and I don't I don't want to like shut on anybody's prey
+01:18:53 But I will say the only the only negative thing about boston that we'll probably have to like consider is that if we do the bonus
+01:19:00 Yeah, I mean
+01:19:01 Depending on depending on who we can get there at the right time the right place by scheming it could be a good thing
+01:19:05 But um, no if we do like a legitimate business with a pcp
+01:19:09 I know that business taxes in the state are very high
+01:19:12 You know, I I specifically talked to my dad about this and I mean my dad's not like a genius
+01:19:17 He doesn't know business stuff across the world
+01:19:18 But he was saying that the the taxes there are relatively similar to neighboring states at least. I don't know whatever
+01:19:24 I mean, all these things will have to be accounted for the northeast is a relatively expensive area to live in in general
+01:19:30 I think compared to the south, but it's you pay for like you pay for what you get
+01:19:36 It's quality. Yeah, it's a good place to live, you know, so it's like worth it
+01:19:41 Um, all right. Well, anyway, all right, we're burnt out. I think I think I think the closing thing to say is just like like
+01:19:49 This is our dream. This is what we want with all of our fucking heart. This is what we're at least for me
+01:19:55 This is what I'm working towards. This is the goal in my life
+01:19:59 These are what like pcp is what all of my actions and and and and you know inspiration is leading towards
+01:20:05 This is my motivation is getting pcp hq off the ground and meeting up with you guys and being real life friends in real life
+01:20:14 To like so I can improve my artistic and personal, uh, you know life
+01:20:18 That's what I want with all my fucking heart
+01:20:20 I have as you guys know and no one outside knows because I rarely talk about it in public
+01:20:25 I spend so much time devoted to pcp issues and trying to work out problems and organize everything
+01:20:31 For the sake of making this come true and keeping everyone in contact
+01:20:34 Really like the the whole point of making the pcp was so that I could stay in contact with you guys
+01:20:39 So I could coldly and calculately use your artistic merits to you know, make my life better
+01:20:45 I mean that's that's exactly like at the end of the day. There's a great utilitarian reason for us all to hang out that like
+01:20:53 I want to make the best art possible and I want it to be not only the best but like I want it to be profitable and
+01:20:59 I see these as
+01:21:01 These people I'm speaking to as creative voices who like are not only capable of putting out
+01:21:08 Not better things than I can in some ways, you know, like you guys all have skills
+01:21:12 I don't have some of you are funnier than me. Some of you are better editors
+01:21:15 Some of you have more creative ideas, you know, or some of you can just draw and I can't even do that
+01:21:20 So like having you all around like obviously fills in gaps in what I'm capable of and so
+01:21:26 Like let's say I want to make a video that the strength is in the charisma of the host
+01:21:30 Maybe I'm gonna go straight a script for Nate. I don't know, you know
+01:21:34 There's a lot of possibilities in the future
+01:21:36 Maybe half the pcp fades into the background
+01:21:38 The other half becomes the popular people and we just go straight for you guys, you know
+01:21:42 Like whoever's got the prettiest face and becomes famous like I'm down to make this happen
+01:21:46 However, it's gonna happen, you know, imagine the munchie and nate pretty boy show. Yeah
+01:21:52 Oh, oh, yeah, the two most conventionally attractive pcp members there are. Hey, man
+01:21:58 All I'm saying is it's big boy season lazy
+01:22:00 Ladies get you one get you one
+01:22:02 I'm just saying that like when you look at the when you look at the game grumps or red letter media
+01:22:06 Like they've got guys on the payroll who aren't in all the videos, you know, they like red letter media's got josh
+01:22:13 He's always behind the camera and those other videos, you know, he's always there, but like I would give occasionally
+01:22:19 I would give anything to look at red letter media's like financial breakdown. How they operate behind the scenes
+01:22:24 God and the game grumps too. I want to study these things
+01:22:27 I'm honestly considering like taking business courses to like understand this shit more
+01:22:31 Dude, just get like a how to fucking get a business for dummies book and read it. You you read textbooks
+01:22:37 That's what yeah, yeah, I really should just like google and stuff
+01:22:40 But yeah, man, I want to cultivate all this
+01:22:41 So I'm capable of making my dreams real because I accept responsibility for making these things happen in my life
+01:22:46 No one's going to give it to me. I gotta I gotta make it happen
+01:22:49 Listen to go talk to Jeff for like hours. Yeah, he just had a chill properly. It's true. We need to know
+01:22:56 Uh, I'm I'm so glad I've started this journey with all of you
+01:22:58 And I can't wait to see how it ends up when we're all fucking dead in addition Africa
+01:23:03 And that's the bad situation we go from that's that's that's the the good end at the end of all this
+01:23:08 You don't even want to know what the bad end of this is
+01:23:11 All right, all right enough enough faffing around. Let's get to the fucking comment the questions
+01:23:20 Uh, I've got I've collected five that aren't shit. It was not easy. You guys need to ask better questions. Told you please always
+01:23:28 Uh, first one's from banksinator
+01:23:31 He asks do you think there's enough time left in your life to achieve all of your goals slash try everything you want to do
+01:23:37 I'm gonna add on to this. Let's let's let's say without the singularity
+01:23:43 Like without the singularity, let's say none of us gets to put our brains in computers
+01:23:46 Do we have enough time left in our life to achieve all our goals? I I'm 17 years old
+01:23:51 Well, I don't know how big your goals are. I mean, maybe you wanted to be like a Mozart and it might already be too late for that
+01:23:58 I mean, he's still alive. Could he still be alive? Okay. I'm sorry. Go on. He's trapped inside my 64
+01:24:03 I I think definitely like there's no reason I can't continue to be making art at 60
+01:24:09 Yeah, I don't I don't have any I don't have any goals that are like time sensitive
+01:24:13 Like my goals are just like spend my life making my stuff
+01:24:18 And that's it
+01:24:19 Honestly, some of my biggest heroes in life. This is gonna sound weird right now
+01:24:22 Our guys like Aaron Hansen and like jenke yuger in terms of how they just like created something like huge and just like
+01:24:30 You know, they just fucking built an empire and I kind of hope to do something similar to that the pcp is certainly
+01:24:37 First thing I want to do
+01:24:38 Or my first approach to doing so and I definitely think I can do it
+01:24:42 I definitely think I will let me be the first to say no
+01:24:45 I don't think I have enough time left in my life to achieve all of my goals and try everything I want to do
+01:24:50 I do think that as I get older
+01:24:52 I will have fewer like some of those are gonna fall off like some of the shit that I've always wanted to do
+01:24:57 I'm just gonna be like, I don't care anymore, you know, or it's definitely too late
+01:25:01 um
+01:25:03 Too late to become a porn actor
+01:25:05 You know
+01:25:06 I'm engaged now
+01:25:08 And uh, and I'm in my late 20s. So I don't know about that. I can never let you be
+01:25:14 Just gotta sit down and have a very serious conversation
+01:25:18 I can never be any kind of athlete not that I particularly want to but I I don't know
+01:25:23 Yeah, that's that's the thing though. Do you like there's loads of things like I like uh, like, no
+01:25:28 Wouldn't it be cool if I had done that all my life, but I don't actually give this there's definitely a part of me like
+01:25:34 Like I I like tennis as a sport like as one to play and I've always wanted to learn to play it just to do it casually
+01:25:41 Just to have a sport I play and like I've tried to get it off the ground a couple times
+01:25:45 It hasn't really hasn't really worked out. I'm really stuck, you know
+01:25:49 And I'm kind of feeling like if I don't get into tennis in the next couple years
+01:25:52 I'm probably just gonna shelf that, you know, so like that's the kind of the way I look at it
+01:25:57 You could be a tp hq tennis court. That's a stretch if you have if if you have a kid
+01:26:03 You could you could be a tennis dad and just beat them because I uh, I I'd be doing my my hero scooby 1961
+01:26:08 A disservice if I didn't say you can get fit at any age at least up to 60. Oh, no, no
+01:26:13 I'm not saying I can't get fit. I'm just saying I don't do I don't like actually want to go play tennis
+01:26:18 Like yeah, okay. I I enjoy the idea of it, but then I go out and do it and I'm like, well
+01:26:24 That was I guess that was the thing and we're gonna do this tomorrow
+01:26:27 Like how long is appropriate between tennis sessions like how
+01:26:31 How after how many days do you say? Oh, this isn't a thing. I'm really doing actively anymore
+01:26:37 Like do you have to do it once a week in order to say like oh, I play tennis sometimes in my spare time or like is once a month enough
+01:26:44 You know, is it like bowling you do it once a year and then you're like, oh, I don't bowl
+01:26:48 Well, it's a spectrum and and you can say it at any point on the spectrum
+01:26:53 But everyone above it who does it more than you will laugh at you
+01:26:56 Yeah, but you'll be legit to anyone lower than any that's true in any uh
+01:27:00 Did I did you I was gonna ask you, uh, how was the um
+01:27:06 porn manga going dude
+01:27:08 It's it's not not really going we've been busy with youtube instead of drawing and we haven't been listening to the stupid
+01:27:15 Fucking two-hour podcasts at all
+01:27:17 Um, yeah
+01:27:18 Turns out they're kind of mind-numbing
+01:27:20 Because it's like two hours of random topics and they work really well as digi daily videos
+01:27:25 But they do not work as well as like just listening to two hours of me just talk about random fucking shit
+01:27:31 Like did you I have never lost more respect or like like like like I've never like thought
+01:27:37 Like like I've never thought that someone's IQ has dropped as much as I thought when I heard you say
+01:27:43 We're going to listen to podcasts of me
+01:27:46 For two hours every day and and if we aren't good at art
+01:27:50 But after one month, then we are going to quit and we will realize that it's not what we want to do anymore
+01:27:56 I never thought of like a worse or ill-conceived notion than that
+01:28:03 Fantastic
+01:28:07 I'm glad you recognize it better than I did
+01:28:10 I just
+01:28:12 Well ben messaged me like oh, I watched your fucking uh one video your mokoto shinkai video
+01:28:17 It's an hour and a half long like five times while drawing and I was like, oh that sounds like
+01:28:23 I could do that because I listened back to my own shit, you know
+01:28:27 But that's that's you you you've like you've put the cart before the horse. I think
+01:28:32 Yeah, he's kind of right. Yeah, you confused you confuse the the causal order in which those things occur
+01:28:38 Because one listens to digi videos one develops
+01:28:53 You channel the skill
+01:28:59 When you equip weapons you gain skill points and then once you've equipped that weapon for long enough you've unlocked that skill
+01:29:04 That's what digi's podcasts are like just listen to them and you'll be unlocking skills at no time
+01:29:10 That's what you think
+01:29:12 Like a japanese shrine and he like channels spirits whenever it turns on a new digi video and the flavor of the video is how good he is at art
+01:29:21 Okay, oh
+01:29:26 Okay, someone is good at math confirmed for me like okay, wait, wait, wait, wait
+01:29:32 Never mind. Hold on
+01:29:33 It'd be 100 120 hours, right? Like if if it was two hours every day for 30 days
+01:29:39 It's 120 hours of drawing practice
+01:29:41 I think that would be enough to tell if you wanted to keep doing it or not, you know
+01:29:45 Yeah, that's 62 hours a day. Oh, what the fuck ever it's 60 hours
+01:29:49 Uh
+01:29:50 Point being 60 hours is longer than I would ever play of a video game
+01:29:53 It's longer than I would ever do most things, you know, like drawing is a skill that you have to invest thousands of hours in
+01:30:00 No, I know but the problem is just to figure out if you like it enough to do to get good like sure
+01:30:06 Okay, when you are someone like me who you only really draw like once every six months
+01:30:11 You draw one time like you have no real way of gauging your skill or like how fast you could evolve, you know
+01:30:17 Anytime I've ever sat down and like consistently drawn for five or six days
+01:30:22 The pictures get better because you develop like the most basic skills just by like drawing at all you like realize
+01:30:28 Oh, if I want to convey this I just need to put a line here
+01:30:32 Like you didn't know that before you tried to draw that pose, you know
+01:30:35 So I think if you're trying to draw shit, and I mean two hours is enough time
+01:30:38 You're gonna complete multiple drawings
+01:30:40 So you're drawing multiple things a day every day you're trying out different poses and I drew some some pretty
+01:30:46 Daftly decent porn. I can't post anywhere because it's too fucking extreme. It's like a lolly getting like I've got like a gigantic drill
+01:30:53 Just like pulverizing some lolly's cunt and it's
+01:30:59 I've got a bunch of shit
+01:31:01 All right, we're going down
+01:31:03 I don't know where to put it
+01:31:19 Like depending on anatomy
+01:31:21 Like expression like poses all these things have to have mastery over to make even semi like
+01:31:27 Decent porn he's just gonna start with that immediately
+01:31:30 Drill in the cut and then work backwards
+01:31:33 That's my I mean most of the way I draw is just like I just envision something and I try to recreate it in in art
+01:31:39 You know, and I got sure I
+01:31:42 I study a lot like I
+01:31:44 When I look at pictures I like try to study how they did it, you know, like I'm someone who thinks about art
+01:31:50 I just have not practiced it, you know, I haven't tried to do it and like
+01:31:55 Because it's frustrating to be bad at something like it's frustrating to draw and suck and like but if you see progress
+01:32:01 That it alleviates some of that frustration
+01:32:03 You think like oh well the stuff I made at the end of the month the stuff better than the stuff
+01:32:06 I made at the beginning
+01:32:07 Does that make me feel good enough to keep going or do I feel like
+01:32:11 I don't actually enjoy this enough to make it worth making this slow progress because I'm gonna have to do this for years
+01:32:16 If I want to be good
+01:32:17 I think our art boys here would say you got to stick to the fundamentals. Did you stick to the fundamentals?
+01:32:22 I mean, I'm kind of that good at art
+01:32:25 But it just the the the you know drawing a stupid piece of shit drawing of like a stick figure is fun
+01:32:32 Enough for me to continue drawing occasionally. Oh, yeah, and I mean, I think I've been doing like, you know
+01:32:37 I did stick figure comics my whole childhood. I've done I've took every kind of design class like I know all the
+01:32:43 I know the art basics. It's just a yeah discord digiprody. That didn't involve any art at all
+01:32:49 You know
+01:32:51 But yeah, I mean
+01:32:52 I think that the main the place I'm at right now is the place where you need to practice a lot to have anything
+01:32:58 Competent come out, you know, and so to me it made sense
+01:33:01 I don't know why I'm trying to justify this so hard. Let's just move on to the next fucking question
+01:33:04 Okay, so the point is did you suck start? He'll never be good and let me also just throw out
+01:33:08 That I always wanted to be a scientist and one who uncovers the truths of the world to get back to the actual question here
+01:33:13 About things that we'll never end up doing I in my heart of hearts will always hate myself
+01:33:18 for like being a guy who's like
+01:33:20 Kind of like commenting on stuff instead of actually just making the tangible stuff and maybe one day that'll change
+01:33:26 I hope that'll change one day. It's time for a question that only you and maybe I can actually answer
+01:33:32 From horse power asks, how do I become more disciplined?
+01:33:36 Oh
+01:33:37 Okay, that is an interesting whip yourself from the back
+01:33:40 Here okay. Here's literally what I did like like things like me and mafava and uh, like weagua
+01:33:47 Require discipline to get done as well as like fitness stuff. Here's what you do
+01:33:52 Except look at yourself study your behavior patterns. This is what I did recognize your massive personality flaws
+01:33:58 And how you have failed at everything you've ever tried to do just recognize
+01:34:02 What's going wrong and then just structure your life in such a way that you cannot
+01:34:07 Not do the thing like so you completely go around these weaknesses like for me whenever there's like I've got a long deadline
+01:34:13 And I've got like a month to do it. I just won't do it
+01:34:16 I will fail and I always have my whole life
+01:34:19 So instead the fix was that to this was to recognize the times when I did manage to get things done
+01:34:23 And the answer was extremely clear
+01:34:25 Deadlines deadlines would allowed me to make tbap happen. I mean, you know, ben was involved. I just mean like it helped me
+01:34:30 Set yeah, well, it's true. It was true for both of us
+01:34:34 Be creative with your deadlines by the way because like my for instance
+01:34:39 I have a let's say
+01:34:40 The two weeks review a podcast I do for my patrons which comes out every Tuesday on well
+01:34:47 It's two alternating podcasts, but they come out on Tuesday right at the start of the day like midnight Tuesday
+01:34:53 So I haven't written on my schedule like Tuesday do this podcast
+01:34:56 But it's supposed to come out at 12
+01:34:59 You know, so really the deadline should be the week before
+01:35:02 It should be like do next week's podcast by this Tuesday
+01:35:06 PCP is recorded a week in advance for instance, you know, like the deadline for PCP to be recorded is Saturday
+01:35:12 And then the release is is eight days later
+01:35:14 So like I just think that's really important to achieving discipline is to make sure your deadlines are as
+01:35:21 immediate as possible like and if you think you can do with project in three days
+01:35:25 Set your deadline for three days and then try to get it done in those three days. Yeah, I I've had a problem with this
+01:35:31 because I
+01:35:33 Did like a month last year of a video every day and posting the video was the deadline
+01:35:39 Like I had to get it up before the end or like if it was like an hour like 10 minutes later, then that's fine. I'll just put it up
+01:35:45 um
+01:35:46 I've tried to do that again, but like
+01:35:49 Understanding that doing one video per day will kill me at the rate at the the the like
+01:35:55 Quality level I was doing him
+01:35:57 So I say all right two days
+01:35:59 But then then you start to slip even just even just two days
+01:36:03 Like spreads out into a week like sort of like it accelerates the amount of time you think you have
+01:36:09 To fuck around and I don't know how to well. How do I like give a deadline for two days instead of one day?
+01:36:15 It's okay to like make it to like try stuff like that and then fail
+01:36:18 But you got to recalibrate like for example you give you do heavy editing on like all your videos and stuff
+01:36:23 There it's just it's an unsustainable business model to say like okay in one day
+01:36:27 Like I'll get one of these Kirby videos done
+01:36:29 So like you just have to and here's the other really important thing
+01:36:33 Make your deadlines like either publicly available so that if you fail people will give you shit
+01:36:38 And you will feel bad and face financial and social repercussions if you fail you have to put stakes
+01:36:44 You have to do it. I yeah, I mean I could do that. It's just
+01:36:49 The the videos like I want them to come out weekly and I want to make them faster than one per week
+01:36:53 Which is unfortunate if I it doesn't work like that like if nobody sees that I finished it
+01:36:59 It doesn't feel like I have a deadline. I think uh,
+01:37:02 Unfortunately like the the reality of being disciplined is you just have to hold yourself to a high standard because like if you are letting
+01:37:11 It be the social standing and everything like you just said Nate like the problem is you have to care enough about that
+01:37:16 Like I have a lot of daily shows that come out late all the time
+01:37:21 Like you know or like weekly or none of my shows ever come out on time
+01:37:24 It's what I'm getting at everything's fucking late and it's because people just expect it from me at this point
+01:37:29 So like I've just got a low standard of like
+01:37:33 Being me like I don't I don't hold myself to a high enough standard to have discipline is basically what I'm saying
+01:37:37 But you you there is a social clout to doing that like people have more or less respect for you for it or trust in you and like
+01:37:43 You know that's the thing that's the thing you have to have something to lose if you don't do it
+01:37:48 I mean whatever that is for you like right now with we Agua we Agua has been kind of slipping later and later
+01:37:53 And like I just kind of like missed a week recently when it was just like I was just too
+01:37:57 But like I couldn't do it and I didn't even bother to announce it. I was just like whatever
+01:38:00 I'll just like get it out when it comes out
+01:38:02 Um and you know like this is me sinking into a bad pattern that I want to avoid
+01:38:07 And really the way to fix it is what I've been trying to do to like limit
+01:38:11 How much work I actually have to get done and you know like make the video shorter because they're way too long
+01:38:15 They used to be like the most popular we Agua by far has like 150,000 views or something
+01:38:20 And like it was like the easiest one to make
+01:38:22 I only talked for like five minutes about the actual topic and now I'm doing like half an hour
+01:38:26 Just like on the base top before I even do the other shit like what am I even doing?
+01:38:29 You got to recognize these things and calibrate yourself. You've got to take responsibility
+01:38:34 I also think people need to look out for the pitfall of the I missed one and now I don't care anymore
+01:38:40 Such as like if this is a big thing for the gym you miss a gym day and you'll be like, oh well
+01:38:45 I already missed the day so
+01:38:48 The whole schedule my whole schedule shot, you know, and then it's just you never go back to the gym
+01:38:51 And like then every two weeks you're like resetting like okay time to go back and then every time you miss a day
+01:38:57 It's like you just got to make sure you're in there every day
+01:38:59 Like you just got to make sure you got to plan your life around getting in there every day and forcing yourself in there
+01:39:04 That's what discipline is, you know
+01:39:06 It's it's easy to it's easy to lose lose perspective on something
+01:39:09 Like if you're trying to make something into a schedule and like you fuck it up
+01:39:13 Like you haven't really fucked yourself because you missed one like you just missed the one thing
+01:39:18 Right, like it doesn't have to ruin your schedule, but it's easy to let it do that for me right now on things
+01:39:24 I'm really trying to me. I'm working out pretty regularly
+01:39:27 But for me, I'm trying to fix my diet and like I'm doing calorie counting every day and like when I miss a date with that
+01:39:32 It's so easy to just like get out of the swing of it
+01:39:34 But yeah, I mean this whole thing is yeah, I couldn't agree more
+01:39:37 You got to you got to keep the momentum going keep the ball rolling
+01:39:40 And I think it's also about like understanding who you are and like setting realistic expectation
+01:39:45 Because like if you shoot for the moon right out of the gate going from like zero to a hundred
+01:39:49 You're never gonna let yourself down everything begins by understanding who you are and what you need in order to succeed
+01:39:55 You have to start one of the things that I that I just changed recently
+01:39:58 It's like I had a schedule for the last couple months where like I had like
+01:40:02 Monday I do something Tuesday do something else because I have a bunch of things
+01:40:04 I want to get done and I just I can't switch tasks like that
+01:40:07 Like I'm super unit task
+01:40:08 Like I have to just get one thing done
+01:40:10 Because if I don't if I if I because I had like oh, okay
+01:40:13 I'll do a drawing on Monday and that'll do 3d Tuesday and Wednesday and then I'll do a video on Thursday
+01:40:18 I'm like none of those things would get done in those one days
+01:40:21 I'd start something the next day start something else and so the next day I'd still be thinking about the task
+01:40:25 I didn't finish the day before so my attention just got divided and nothing got done
+01:40:29 So like this month I'm just like fuck it like I'm just doing one thing until it's done like yeah, even if
+01:40:35 Ideally like I'd get the exact same amount of stuff done, but just because I'm
+01:40:41 Not worried about something else now and I'm just focusing on the one thing
+01:40:44 Like it has a better chance of being and here's and a very good point
+01:40:47 And here's the thing that a lot of people miss about this whole process
+01:40:51 Be trying to do this be trying to stick to a schedule and then after sometime a month a couple months six months a year
+01:40:56 Look back at what you accomplished doing things the way you've been doing
+01:41:00 And really think about if it's getting you where you want to go you have to reassess
+01:41:05 And decide like that's exactly what I did before me in math
+01:41:07 I recognize this is not getting me where I want to go
+01:41:10 I have to change things and it's been a great success. So I recommend it's hard
+01:41:14 It's hard to change
+01:41:16 It's hard to change even if you want to but you just gotta put your priorities in order and decide like what's the most important thing for you
+01:41:23 You know like doing things the way you've been doing them or or something else that you need to change something in order to get to
+01:41:30 Tom on something similar to what you just said
+01:41:33 Let me explain to you guys the enemy of alligators. Like this is this is the reason gators taking so long
+01:41:40 It's what I like to call morally convenient procrastination. Oh boy
+01:41:46 Go on. Yeah, I rest in peace to boo
+01:41:50 Oh no
+01:41:52 Um, I will be writing investigator and then and then you know, just just so like like just so happens
+01:42:01 I'll get a message from someone like hey, like I want to commission you're like, oh, hey
+01:42:04 Can you design my t-shirts or like? Oh, hey, can you can you make a thing for my Kickstarter? And I'll be like, yes, of course
+01:42:11 I would love to do that
+01:42:14 I would love that with all of my heart and then I can be like, well, okay
+01:42:18 I'm not working on investigator right now, but I'm doing this really cool epic thing for the walls my friends
+01:42:26 And so I can justify it to myself like oh, I'm not getting this work done. I'm getting other work done
+01:42:29 But that's how most of my vlogs come to be actually
+01:42:33 Yeah, all everything that's not investigator is worthless. It's much. Yeah. I'm so sorry
+01:42:38 This you know, this is a great point and it's like god. I don't know
+01:42:44 Oh, fuck wait keep going. I lost track of my thought
+01:42:46 All right. Well, I was gonna give another motivation advice. Um, or what the fuck can we talk about discipline?
+01:42:54 One of the ways I disciplined myself and this is probably the most effective trick I've used on myself
+01:42:59 I'm obsessed with having a clean desktop
+01:43:01 Like I don't want to have more than one row of or one column rather of icons on my desktop
+01:43:07 So I just keep all of my project files on the desktop so that I have to do them to clean the fucking desktop
+01:43:13 Good idea. Like it drives me so insane if there's more than one row that I will literally like
+01:43:18 I'll sit down and I'll just get frustrated and edit like all the stuff I have there just to get rid of it
+01:43:23 You know, all right guys, listen, I remember what I was going to say
+01:43:25 This is where
+01:43:26 Objectivism comes into the picture and where okay when you look back on your life on your deathbed
+01:43:33 Only you will give a shit about how successful your life was how much you accomplished
+01:43:38 Everyone else isn't going to give a fuck about you
+01:43:40 Only you have the power to make your dreams come true and only you will have to live with yourself
+01:43:46 And what you accomplished when you're on your deathbed
+01:43:48 Do you want to look back on your life and say I fucking did it. I was a fucking pimp. I slayed queen
+01:43:55 I was the yas boy
+01:43:57 I did everything I wanted to do and I worked so fucking hard and I achieved great things in my life
+01:44:01 Because people will just placate you and lie to you and tell you that you're doing everything great
+01:44:07 And I don't care if you're a fucking 50 year old man
+01:44:09 You got like four kids if you want to be I don't know a fucking anime voice actor anything like yeah
+01:44:15 You could just say well, I gotta take care of my fucking kids. What am I gonna do man?
+01:44:18 I don't have time to make my dreams come true
+01:44:20 Only you will look back at yourself on your deathbed and say god damn it. I had all these kids
+01:44:25 That's cool and all but I never achieved my fucking dream
+01:44:28 No one else is going to give a shit
+01:44:30 You have to care about yourself put your priorities first people. I don't say to ignore responsibilities
+01:44:35 I'm saying literally sacrifice all sleep until your dream comes true
+01:44:40 If that's what you have to do
+01:44:41 Whatever it fucking takes because only you only have one fucking chance to make it real one shot the love of god
+01:44:48 Make it happen people to seize everything. It's 10 luck 20 skill 50 percent concentrated power
+01:44:56 Oh
+01:44:58 100% reason to remember the name
+01:45:00 Oh, that's beautiful and inspirational. Let's ask you to answer an equally
+01:45:05 Great question. Jayhawk DX asks a favorite flavored milk strawberry
+01:45:20 Oh, hey, it's it's famous sex havers strawberry milk on the show everybody
+01:45:25 Strawberry milk that was hit with a uh an accent twig
+01:45:34 Dude is an accent twig a.k.a. some dank weed
+01:45:41 Oh, yeah, I like I like skim milk. I like skim milk. That's all I let up slavered milk. You fucking asshole
+01:45:48 It's flavored like milk. That's me. It's everyone everyone shits on skim milk. Everyone says. Oh, it tastes like water
+01:45:54 I don't care, you know, like I don't mind that at all
+01:45:57 It's refreshing. I grew up on skim milk and it and then I switched to
+01:46:01 Vitamin D milk because I had a vitamin D deficiency that made me break my foot. So then you'll bend over. I'll give you a
+01:46:08 I literally
+01:46:10 I never thought this would be the case, but I literally can't go back like I can't go back to skim milk
+01:46:15 It's not it's not drinking whole milk as a skim milk boy
+01:46:18 Drinking a glass of whole milk is like drinking a glass of fucking whipped cream. I can't it's too much
+01:46:23 It's too much. I don't want that. I don't want my favorite flavored milk is benzane
+01:46:28 And and and all of you on the inside will know what that means. Yeah. Yeah the the benzane likes the you know
+01:46:35 You all know that's what it is
+01:46:38 Last question that I have from the patron discord if you didn't know that's where they come from
+01:46:42 We get our questions from people give us money and we answer their questions if they're not retarded
+01:46:48 Which is rare cygrus asks
+01:46:51 Realistically for how much money would you have gay sex with the celebrity of your choice on camera?
+01:46:56 Your oh on camera. Wow. There's a lot of factors here. This question. It does. Here's the thing for me
+01:47:01 Uh, how I would answer this is like
+01:47:04 I mean, I would not choose to have gay sex with the celebrity just because it's for money
+01:47:09 Like like I don't think it's like
+01:47:11 Unappealing enough to me if I was desperate for cash, I'd be like I'd do it for like a couple grand
+01:47:16 You know like why not you need the money, but like I don't need the money
+01:47:21 I won't even like fucking run ads from anime companies because I don't need the money enough to fucking do it
+01:47:27 you know like so so
+01:47:29 You gotta give me a lot of money
+01:47:31 It's got to be like six figures for it to be like worth
+01:47:34 Breaking away from what I would normally do with my life just to like for just for money, you know
+01:47:40 Sure. Sure. That's that's fair point. I'll do it for pennies on the dime
+01:47:47 Pick your poison everybody. Um
+01:47:49 Yeah, fuck. I don't know. I mean, oh, is the right way to answer this to pick like the most effeminate guy
+01:47:54 You can think of is that like the right way to go
+01:47:57 He would ask what guy, but if you want to answer you go right ahead
+01:48:00 Oh, he just said how much money would you have gay sex the celebrity of your choice on yeah?
+01:48:04 I mean, that's the thing. I'm already financially solvent. So it's really not much of a motive
+01:48:08 I mean, I'd be sure maybe for like a billion dollars. I'd fucking like why not I guess I'll do it
+01:48:11 But who's who's the guy who played call drogo?
+01:48:14 Oh, dude, that guy will tear you apart, dude. I don't know if you want to go
+01:48:18 That guy, what is it? Are you pitching or catching in this scenario? That's an important question
+01:48:23 You know
+01:48:25 Fucking hippos like five feet tall and like 70 pounds like the bunch of fucking raping cal drogo
+01:48:32 Oh boy, aren't right now. Please
+01:48:38 Oh guys here would make for great tv
+01:48:42 That that question gave me a riddlin injection and now I can't think I straight
+01:48:48 So here I'm gonna ask you guys an even better question a legendary question
+01:48:53 You will pray to this question day and day out at night
+01:48:56 How can our viewers support this show and the dream of achieving pcphq?
+01:49:04 How can they do that? Well, let me tell you what the number one way to do is right now head over on to kickstarter people
+01:49:10 Radcon three arena link in the description click on that shit the radcons are our demos
+01:49:16 They are the future a proto exactly the right way to prototype demos and you know how well that turned out
+01:49:22 Damn, right. Damn, right. Uh, it was incredible. Uh, I I we will literally make undertale two
+01:49:32 Sign up right now. That's a fact now. We have to make a video called undertale two
+01:49:37 A whole show of like downplaying it be like I don't want to make any promises like
+01:49:43 I promise we will make the most financially successful video game that has ever been made
+01:49:49 $9,002 toby fox comes to radcon three
+01:49:54 Guys, we should make some sort of undertale skit where I play torio. That's a fantastic idea
+01:49:59 And then you fuck everyone because that's what that's what she does in my in my head
+01:50:04 Okay, but seriously the link in the description people the Kickstarter, please fund it as of recording
+01:50:08 We are 50% like 51 or 52 funded
+01:50:11 We need money if you want to see the pcp grow and go to the future stuff
+01:50:15 Of course go to patreon.com slash the procrastinators
+01:50:17 But for the meantime at this moment the best thing you can do to support the show in our future endeavors together
+01:50:22 Is go to our Kickstarter and fund radcon three. You will
+01:50:26 If you got inspired by any of the stuff we talked about today
+01:50:28 Is your duty to support this because this is because support radcon is the only way this will get done
+01:50:34 Because radcons are what this is all built right? It's all a prototype to see what it's like to be in person
+01:50:39 This this is the light blood. This is what it's good. This is the spark that will ignite the fucking uh fire that is uh
+01:50:45 pcphq, this is the only way to fucking do it
+01:50:48 Or it's all hype and you'll be disappointed in us for the rest of your life
+01:50:53 Oh, no, but hey, you know what you know what there was actually a question on the patreon discord that said at noise bandit
+01:50:59 Who whose question was if radcon three fails?
+01:51:02 What will you guys do which I think is a great question. It's the kickstarter fails
+01:51:06 Well, there's a bunch of ways if the kickstarter fails, we will be very embarrassed
+01:51:10 But we will soldier on as always we'll keep doing what we're doing if we fund it
+01:51:13 We're just gonna blame we're just we'll just blame the fans because it's the fans who didn't give us money
+01:51:17 So it's their fault
+01:51:19 Blame arm retrieval uh con the go fummy for siphoning all the hardcore fans away. Very true. Very true. Um
+01:51:27 The the point is it could fail and if so you guys have the ability to hold us accountable by immediately
+01:51:33 Unplugging, you know, I I want you to hold us accountable to what if it fails. Nobody pays anything
+01:51:38 Well, I mean if it's funded and then we just like make a bunch of bullshit like everyone's mad or whatever like we
+01:51:43 We totally don't I mean that won't happen
+01:51:45 But if it did you guys still have power over us, which I think is a great thing
+01:51:49 I want you guys to be in control. I mean, that's that's that's the case all the time
+01:51:52 Like I would expect if we started putting out like consistently shitty episodes. We'd lose all of our
+01:51:58 Patrons like that's how it works. Very true. Very true. That's the dream
+01:52:02 The axe is constantly over our heads ready to drop and we have to dance for you guys
+01:52:08 Effectively every week
+01:52:10 The pressure is on this is the rare chance for you the viewers
+01:52:14 For you serfs to become the sultan
+01:52:20 If we do not create quality content, we will be sent to jail kickstart or jail
+01:52:24 We'll be sent to the the high security prison
+01:52:27 Also, we'll be fucking sniped literally
+01:52:30 Bedtrap and we'll be shot every time we respond in our bed
+01:52:33 Let's just say obama didn't shut down guantanamo bay and it was a big conspiracy
+01:52:37 But he knew there were a couple of boys that just had a spot to serve for them, you know
+01:52:41 He had to prepare for all contingencies
+01:52:43 And uh, let me let me read one last question here from xylevich. This is a personal one
+01:52:48 I'm I'm I'm just hijacking the pcp. Is this from the twitter or from uh, this is from the twitter. This is from the
+01:52:53 Oh, Hannah's xylevich. How do they twitter? How do they twitter question us? Oh, uh, you hashtag ask pcp everybody
+01:52:59 Uh, and here here we go. Uh, and of course we record on saturday pity question. Here we go. It's nat
+01:53:05 I'm a philadelphia sports boy. You're a patriot scum
+01:53:08 What do you think of the chances that the eagles win their first super bowl over new england?
+01:53:12 This is assuming you watch sports. I am up to date. Uh, this is the worst question
+01:53:16 Okay, that's why I said this my buddy john will not be listening to this
+01:53:20 But if you ever hear this john, who is okay, this has been a big thing. He's an eagles fan always has been
+01:53:25 I'm a patron's boy. I've been lording over him for decades
+01:53:28 Oh god, we were just talking about losing patrons now. We're talking about sports. We've just alienated our entire fan base
+01:53:33 We're accessing a whole new demographic right now. We're pulling them in. Yeah, okay.
+01:53:36 Listen, john at the very end of our piece, the patriots have a zero percent chance of losing this fucking game
+01:53:43 It's not going to happen. We will destroy the eagles for all time. There will be no recovery
+01:53:47 There will be no more eagles after this fucking super bowl, but then who's gonna play hotel california?
+01:53:55 I want to hear my hotel california
+01:53:58 Oh god, thank you
+01:54:12 I'm so sorry
+01:54:28 You're so kind

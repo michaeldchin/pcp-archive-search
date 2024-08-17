@@ -1,0 +1,1515 @@
+00:00:00 Hello everyone and welcome to another episode of The Pro Crastinators Podcast, the favorite
+00:00:13 show that's on the internet.
+00:00:15 I'm the best guy ever, and I'm joined by Hippocrit, Mumkey Jones, and the Munchman
+00:00:28 himself, Mr. Munchyshatsky.
+00:00:31 Go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:00:46 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:00:50 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:00:53 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:00:54 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:01:00 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:01:01 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:01:02 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:01:03 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:01:04 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:01:05 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:01:06 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:01:07 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:01:08 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:01:09 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:01:39 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:02:09 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:02:39 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:03:09 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:03:39 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:04:09 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:04:39 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:05:09 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:05:39 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:06:09 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:06:39 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:07:09 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:07:39 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:08:09 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:08:39 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:09:09 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:09:39 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:10:09 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:10:39 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:11:09 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:11:16 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:11:23 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:11:30 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:11:37 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:11:44 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:11:51 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:11:58 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:12:06 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:12:13 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:12:22 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:12:29 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:12:34 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:12:41 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:12:48 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:12:55 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:13:02 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:13:09 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:13:16 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:13:26 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:13:37 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:13:44 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:13:51 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:13:58 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:14:05 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:14:12 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:14:19 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:14:26 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:14:33 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:14:40 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:14:47 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:14:54 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:15:02 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:15:10 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:15:19 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:15:26 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:15:36 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:15:46 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:15:53 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:16:00 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:16:07 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:16:14 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:16:22 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:16:31 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:16:38 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:16:46 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:16:56 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:17:02 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:17:09 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:17:16 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:17:26 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:17:33 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:17:44 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:17:51 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:17:58 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:18:07 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:18:17 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:18:24 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:18:31 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:18:38 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:18:45 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:18:52 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:18:59 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:19:06 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:19:13 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:19:20 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:19:27 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:19:34 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:19:41 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:19:48 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:19:55 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:20:03 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:20:13 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go, go,
+00:20:24 go, go, go, go, go, go, go, go, go, go, go, go, go, go, go.
+00:20:54 I have a story about all the sex toys I received during my monkey mail bag thing where I made
+00:21:12 the great decision to open up a peel box and let my loving, adoring fans send me, you know,
+00:21:17 fan mail, books, games, but no, they sent me like fucking tanga eggs and dildos and shit,
+00:21:24 naturally, but I made a rule with myself that whatever I get in this funky mail bag I will
+00:21:29 keep and use as props in future videos just so like people can see them and be like, oh
+00:21:33 yeah, I remember when I got that, that's funny, so I'm at a point where my bedroom closet,
+00:21:38 I'm still living with my parents, is full of sex eggs and dildos and adult diapers and
+00:21:43 all this weird kinky shit and like, of course my parents don't watch the videos or know
+00:21:51 anything about it, so they just like, one day I just suddenly have all this weird shit in
+00:21:55 my closet and like, you know, mom, it's for the monkey shit, you don't need to understand,
+00:22:00 don't even question it, but then I was doing the Vietnamese crystal nuzlocke and I reached
+00:22:06 a point, I think at the seventh gym where the game froze and I couldn't continue so I had
+00:22:10 to quit the series, but then I had a fan on Snapchat named Julian who said, hey, I'll
+00:22:16 play a new file and I'll catch you back up to where you were and I'll redo everything
+00:22:19 and I said, oh yeah, that'd be great, thank you so much and he says, all I want for payment
+00:22:24 is for you to send me one of those tanga eggs in the mail.
+00:22:28 So I was like, okay, there we go.
+00:22:32 So you did it.
+00:22:33 And Julian saved the let's play.
+00:22:35 What a hero, what a hero.
+00:22:37 I don't know why he wanted it.
+00:22:39 Oh, I can't imagine why.
+00:22:42 What a weird request.
+00:22:44 Just fucking order your own, why did you want one of mine?
+00:22:47 He wants it with your taint on it, you know, with your corruption, that's what he wants.
+00:22:53 So that's my story.
+00:22:54 There you go, Julian, nobody knew that, but now that's out there.
+00:22:57 Congrats.
+00:22:58 Well, I only have need for one toy and that is Lego.
+00:23:04 And when I'm in the mood, when I'm in the mood, I make for myself a little penis prism out of Lego.
+00:23:13 Right.
+00:23:14 I just, I just just build it and keep adding bricks until it's completely crushed.
+00:23:20 And then, you know, I attack people with it.
+00:23:23 It's not a joke.
+00:23:25 I'm not, I don't actually do that.
+00:23:27 Oh, I have this fetish where I get off on accidentally stepping on a Lego and hurting
+00:23:33 my foot really bad.
+00:23:35 I like that.
+00:23:36 It's very specific.
+00:23:37 It makes me cum every time.
+00:23:39 Yeah.
+00:23:40 Hey, speaking of that, I don't get that.
+00:23:43 I do not get that.
+00:23:44 I've stood in Lego boxes.
+00:23:46 Oh, come on.
+00:23:47 They're hurting like a motherfucker, dude.
+00:23:49 They don't hurt more than nails.
+00:23:51 People make them out like, oh my God, it's the worst.
+00:23:54 If you get about a nail, if you step on it, it usually isn't sticking out.
+00:23:57 They don't hurt more than nails.
+00:23:59 Guys, look at all the ways I can hurt myself more than a Lego.
+00:24:02 What's the big deal?
+00:24:03 Just watch me.
+00:24:04 I mean, it's not like lighting your face on fire.
+00:24:07 All right.
+00:24:08 I get that it's funny to over exaggerate something to be like, oh, it's funny how
+00:24:14 much I'm scared of spiders or I hate Lego or, you know, how much I'm willing to
+00:24:20 kill myself, you know, stuff like that.
+00:24:22 You wouldn't actually do it.
+00:24:23 You wouldn't actually go that far.
+00:24:24 You say you do and it's funny.
+00:24:26 But I've never, ever hurt myself standing on a Lego except when I was like three.
+00:24:32 Like I can stand on Legos right now.
+00:24:34 And it's fine.
+00:24:36 It happens to people when they're like eight.
+00:24:39 Yeah.
+00:24:40 It traumatizes them from a young age and that's why it has that stigma.
+00:24:43 I just don't like the idea that it's cool to be an adult and saying, oh man, I still
+00:24:48 step on Legos and I'm still getting hurt and I'm still a pansy about it.
+00:24:52 It hurts, dude.
+00:24:53 It doesn't hurt.
+00:24:54 It really does hurt that bad.
+00:24:55 Yeah, it does.
+00:24:56 It does not.
+00:24:57 Okay.
+00:24:58 Your thing is you're a weirdo British hobbit man with hobbit feet.
+00:25:00 So you can take this kind of punishments.
+00:25:01 It only weighs like 90 pounds.
+00:25:03 Yeah.
+00:25:04 Yeah.
+00:25:05 I used to eat Legos all the time so they don't scare me anymore.
+00:25:10 That's fair.
+00:25:11 I don't like this podcast at all.
+00:25:13 I want to run away.
+00:25:14 I want to run away and I want to delete my audio.
+00:25:16 I don't like it.
+00:25:17 I don't like what's been going on.
+00:25:19 Incidentally, here's a question about that.
+00:25:22 When is the, okay, it's by at Levy Jevy says, when is the PCB going to cross over with
+00:25:27 the Inseparable Social Media podcast?
+00:25:29 Never.
+00:25:30 Never have, we hate those guys.
+00:25:31 Don't ever fucking ever say that again.
+00:25:33 Yeah.
+00:25:34 That's off the table.
+00:25:35 Don't even, all right, new question.
+00:25:38 I'm trying to think of anything I can say that'd be funny, but nothing is coming to
+00:25:43 mind.
+00:25:44 Terry Dactyl says, what species has more value?
+00:25:47 Mimes or clowns?
+00:25:48 You fucking know, baby.
+00:25:51 It's fucking clowns.
+00:25:55 Mimes have actual superpowers though.
+00:25:57 Yeah.
+00:25:58 And mimes have never made shitty rap songs.
+00:26:00 My favorite mime is, my favorite mime is Pee Pee the Frog.
+00:26:05 Pee Pee is very nice.
+00:26:07 He's a funny Mimee, yes.
+00:26:09 Le Epic Mime, XD.
+00:26:11 Here's what we have to know.
+00:26:13 Mr. Mime, Marxist influenced moon enemy.
+00:26:17 Mime.
+00:26:18 Yeah.
+00:26:19 He's fucking communist from space.
+00:26:22 Can't trust him.
+00:26:24 Clowns, homegrown, homegrown, American, Land of the Free, American First, Nationalist Party,
+00:26:31 German Workers' Party, taking back the state, giving the tower back to the people, taking
+00:26:36 over the government, annexing the places where they did that.
+00:26:40 Poland, yeah.
+00:26:41 You know what?
+00:26:42 Munchie, Munchie, listen up.
+00:26:44 I need you to answer this seriously.
+00:26:46 Who wins in a fight?
+00:26:47 Well, 45, Mr. Mime are three ICP juggalos.
+00:26:52 Who wins?
+00:26:55 Who can use thunderbolt?
+00:26:57 Who can use thunderbolt in those two groups?
+00:26:59 Juggalos are poison type, probably.
+00:27:02 They're both poison and dark type.
+00:27:05 So they normally would be, but they'll have a dark voice, so they'll lean.
+00:27:11 Because they go to the dark carnival, because they live in the darkest world.
+00:27:16 They live in it.
+00:27:17 They live with the dark carnival.
+00:27:18 They're going to know about all the miracles and the magic of the fucking world through
+00:27:23 the dark carnival.
+00:27:24 The dark carnival is your inspiration to witness that without explanation.
+00:27:28 Just take a look at this fine creation and enjoy a band with appreciation.
+00:27:33 Ghosts, ghosts, the midnight ghosts, mysteries of the world, magic at the most.
+00:27:38 I'm fucking gay.
+00:27:39 I'm a juggal.
+00:27:40 Mr. Mime is a fucking communist.
+00:27:42 He's a Soviet black state puppet regime set up by Stalin to be a tank of egg salesman
+00:27:50 for his personal use.
+00:27:52 It's not real, okay?
+00:27:54 Snap out of it.
+00:27:56 We're breaking the social conditioning.
+00:27:58 Breaking the globalist.
+00:28:01 Mr. Mime is a globalist.
+00:28:03 Get him out.
+00:28:05 Oh, yeah?
+00:28:06 Well, guess what, Munchy?
+00:28:07 Mr. Mime can use reflex.
+00:28:08 All that shit just went right back to you.
+00:28:10 Shit, fuck.
+00:28:11 Yeah, you're right.
+00:28:12 Shit.
+00:28:13 You didn't see that coming.
+00:28:14 You can't beat Mr. Mime.
+00:28:15 He's too good in the OU, dude.
+00:28:17 What about the insane Mime posse?
+00:28:20 That would be our sign language.
+00:28:23 Yeah.
+00:28:24 Completely silent raps.
+00:28:25 It's a rap group for deaf people.
+00:28:27 Just, just, yeah.
+00:28:28 They're lesser known.
+00:28:30 They're lesser known, yeah.
+00:28:32 Wait, how are they for deaf people?
+00:28:34 Because they only do sign language because they're Mimes.
+00:28:37 Well, you know what you can do?
+00:28:38 Oh, right, deaf people.
+00:28:39 I confuse that with blind.
+00:28:40 Like, I just imagine like blind people would listen to Mime rap.
+00:28:43 Because they don't know.
+00:28:45 Okay, what do you think about this?
+00:28:47 Okay, this is my idea for music for deaf people.
+00:28:50 We sort of encase them in a full, like, rubber suit, right?
+00:28:53 Okay, so their whole body is, like, surrounded by this.
+00:28:56 And then, like, that surface is the speaker.
+00:29:00 And you know, like, because people, you know, music is like sound waves in the air.
+00:29:04 And then you blast the beats into that surrounding film on their whole body.
+00:29:09 And you crack their bones.
+00:29:10 And they can experience the music.
+00:29:11 Break the music.
+00:29:12 And then you buy, like, a pack of mechanical pencil from CVS.
+00:29:16 Right.
+00:29:17 You pick up the eraser.
+00:29:18 Then you pour out the little, like, individual, like, mechanical pencil, like, parts.
+00:29:23 Then you put the leg in down your lemon pipe.
+00:29:27 And then you push in there so small.
+00:29:29 Then it can fit right in.
+00:29:30 And then it gets to the point where it has a little bit of resistance to what breaks.
+00:29:34 And now there's a ton of layers, like, five or so pieces of mechanical pencil lead
+00:29:38 inside your lemon pipe.
+00:29:40 And you squeeze it around.
+00:29:41 And that's what you have to live with for the rest of your life.
+00:29:44 Is that it?
+00:29:45 Is that it, Nate?
+00:29:46 Yeah, God, I guess that's it.
+00:29:48 That's one way to think about it.
+00:29:50 The BotFlyz will use the lead in their Minecraft expeditions.
+00:29:53 Yes.
+00:29:55 Have any of you guys ever been to, like, a real musical production, like, an off-Broadway
+00:30:00 show or something?
+00:30:01 Yeah.
+00:30:02 Yeah.
+00:30:03 I've been to a real Broadway show.
+00:30:04 What's they're dealing with?
+00:30:05 They always have somebody off to the side of the stage doing sign language.
+00:30:08 Like, who is that for?
+00:30:10 Stage directions.
+00:30:11 No.
+00:30:12 No, no, it's for the audience.
+00:30:13 It's for the audience.
+00:30:14 Yeah, but, like, why would you go to a musical if you're deaf?
+00:30:16 Because you can't watch the show if you're reading the sign language and you can't hear
+00:30:20 the music.
+00:30:21 So what's the point?
+00:30:22 It's the same with, like, I guess, subtitles and anime, I guess.
+00:30:25 Yeah, like, you know, you kind of have to look away briefly.
+00:30:27 But in this case, you literally can only watch the sign language person.
+00:30:30 You can't watch the people on the stage dancing.
+00:30:32 You can't hear the music.
+00:30:34 I don't know why you would go to that show if it's $300 a ticket.
+00:30:38 Sometimes you just want to go out on the town, you know?
+00:30:40 You want to, even if you're deaf, you want to look pretty.
+00:30:42 You want to go out with all your fam.
+00:30:43 Some people are, like, partially deaf.
+00:30:45 Like, they can't understand things, but it's sort of muffled.
+00:30:47 So they can still hear, like, beats and shit.
+00:30:50 There's a lot to enjoy about the experience in addition to hearing it, I guess, so...
+00:30:55 May I just want to be the presence of other wizards, you know?
+00:30:58 That's right. That's right.
+00:31:00 Okay, well, I guess that's their choice, but it sounds retarded to me.
+00:31:05 Off the record, off the record.
+00:31:08 This is terrible.
+00:31:09 Can we have this be the bonus episode instead?
+00:31:11 I don't want this to actually come out.
+00:31:12 What's wrong with it?
+00:31:13 This is perfectly fine.
+00:31:14 I'm very embarrassed that this has happened.
+00:31:16 I'm really sorry, everybody.
+00:31:17 Dude, we'll edit it out.
+00:31:19 We'll cut this part out, too.
+00:31:20 No.
+00:31:21 No, cut this part in. Double it.
+00:31:23 Double it right now.
+00:31:25 Like, overlay it.
+00:31:26 Like, echo and reverb it.
+00:31:27 Yeah, crunchy.
+00:31:28 Crunchy, you should edit the episode.
+00:31:30 I do.
+00:31:31 Okay, here's a question that I've been thinking about, sort of, for a while.
+00:31:35 So, at Ice Killer 159, what a badass, with that sick escavalier icon that I love so dearly,
+00:31:42 says, what are each of you guys' Myers Briggs type?
+00:31:46 And the reason I bring that up is because I think this is retarded, and I hate those,
+00:31:49 and I don't know why people like them.
+00:31:51 My Myers Briggs type is.
+00:31:52 Oh, God.
+00:31:53 Isis.
+00:31:54 Yeah!
+00:31:55 I was going to say, I was going to say ICPC.
+00:31:59 That's my, uh...
+00:32:00 Introverted Socialist, uh...
+00:32:03 E-Bills.
+00:32:04 Islamist.
+00:32:05 Sexham.
+00:32:06 Islamist.
+00:32:07 Sexham.
+00:32:08 Inferior.
+00:32:09 Stupid.
+00:32:10 Oh, that's what they're called.
+00:32:12 Those losers.
+00:32:13 I would classify myself as a supreme nihilist, deep-cover Republican.
+00:32:20 Deep-cover as in, like, you're deep in the blue pill trenches?
+00:32:27 Possible deep-cover Republican.
+00:32:29 I don't know yet.
+00:32:30 Okay.
+00:32:31 We're going to pull back some layers.
+00:32:33 Does anyone here have any sort of defense of why I should give a shit about these Myers Briggs
+00:32:38 types?
+00:32:39 Tell me why they aren't just masturbatory things.
+00:32:41 We can be like, I'm a this.
+00:32:42 Oh, my God, you're a that.
+00:32:43 I don't think anyone here cares about them.
+00:32:44 It's literally the same shit as fucking...
+00:32:46 It's the same shit as fucking astrological science.
+00:32:48 They mean nothing.
+00:32:49 They're fucking retarded.
+00:32:50 I don't give a shit about them.
+00:32:51 Oh, like Star Science?
+00:32:52 They're fun.
+00:32:53 They're kind of fun.
+00:32:54 Star Science.
+00:32:55 Yeah, so that's the reason.
+00:32:56 So the question is, do I like fun?
+00:32:58 No, I hate fun.
+00:32:59 But it's not fun.
+00:33:00 It's so like they can feel superior.
+00:33:01 Like, oh, you think you're cool.
+00:33:02 I have the same personality type as BBC Sherlock.
+00:33:05 Look how fucking cool and smart I am.
+00:33:07 Oh, yeah.
+00:33:08 You're like, yeah, you're so cool.
+00:33:09 I have fucking Hitler's DNA and Gandhi's DNA.
+00:33:13 Fuck that bitch.
+00:33:15 Yeah, I think it's bullshit and those tumblr fucks who like that shit need to fuck up.
+00:33:19 But that's a weird thing.
+00:33:20 I am an ENFP bitch.
+00:33:24 Is that a real?
+00:33:25 Is that real?
+00:33:26 Yeah, I tested it when I was in like kindergarten.
+00:33:28 Well, you're extroverted?
+00:33:30 Somebody in the PCPS and extroverted personality.
+00:33:33 Yeah.
+00:33:34 Imagine that.
+00:33:35 Much should be the one.
+00:33:36 Okay, but here the thing about this that creeps me out is that it's like some like it seems
+00:33:40 like a lot of smart people get into this.
+00:33:42 And like they, I don't know, like people really care about this.
+00:33:46 So like, is there something I'm missing?
+00:33:47 No, they're actually not smart people.
+00:33:50 They think they're proving that they're smart by doing this.
+00:33:52 Yeah, I think I think what it is like, like with the star sign stuff, the star sign stuff,
+00:33:56 there's not enough different variables that go into that.
+00:33:59 It's just when you were born and people are like initially like, oh, well, that doesn't
+00:34:03 mean anything.
+00:34:04 But when it's like, oh, I took a test and now, now I have a thing that I can attribute
+00:34:09 to a celebrity that like, like now I'm like that guy, you know, it's, it's more legitimate
+00:34:14 in their eyes.
+00:34:15 And I guess they like it.
+00:34:16 I mean, I didn't know it.
+00:34:17 Yeah, I didn't know IQ score aren't the people who are probably that smart.
+00:34:22 Yeah, I didn't know that it was even like not real.
+00:34:25 I just did it once and I was like, well, and then I forgot it like a week later.
+00:34:28 So yeah.
+00:34:29 Well, it's interesting you bring up IQ because a lot of people think that IQ is like a totally
+00:34:34 bullshit thing that doesn't actually have any impact on life.
+00:34:38 But it is pretty well proven that IQ does have a direct correlation to like life success.
+00:34:43 Like it's not all the time, but it does, it doesn't matter.
+00:34:45 I'm saying the type of people who actually care about it and talk about it.
+00:34:49 Yeah.
+00:34:50 Yeah.
+00:34:51 I think about IQ so little because I'm the smartest you see that makes sense to me.
+00:34:57 That makes sense to me.
+00:34:58 I don't even know what a high IQ is.
+00:35:00 Is it 50?
+00:35:01 Is it two?
+00:35:03 Here's why Malcolm on Malcolm in the middle is a great character because he is so cool
+00:35:07 because he's fucking black and you want to be like him because you just love black people
+00:35:11 so much.
+00:35:12 Yes.
+00:35:13 As having an IQ of 160.
+00:35:14 But instead of going around telling people his IQ, he proves that he's smart by being
+00:35:18 a fucking smart person.
+00:35:20 Yeah.
+00:35:21 Malcolm's great.
+00:35:22 Uh, monkey.
+00:35:23 Cut this little bin.
+00:35:24 Cut this part out of the gas.
+00:35:25 We should both, you should talk about Malcolm from the Malcolm in the middle and I should
+00:35:27 talk about Malcolm.
+00:35:28 Malcolm's at the same time.
+00:35:29 Go.
+00:35:30 Malcolm's at the same time.
+00:35:31 Malcolm's at the same time.
+00:35:32 Malcolm's at the same time.
+00:35:33 Malcolm's at the same time.
+00:35:34 Malcolm's at the same time.
+00:35:35 Malcolm's at the same time.
+00:35:36 Malcolm's at the same time.
+00:35:37 Malcolm's at the same time.
+00:35:38 Malcolm's at the same time.
+00:35:39 Malcolm's at the same time.
+00:35:40 Malcolm's at the same time.
+00:35:41 Malcolm's at the same time.
+00:35:42 Malcolm's at the same time.
+00:35:43 Malcolm's at the same time.
+00:35:44 Malcolm's at the same time.
+00:35:45 Malcolm's at the same time.
+00:35:46 Malcolm's at the same time.
+00:35:47 Malcolm's at the same time.
+00:35:48 Malcolm's at the same time.
+00:35:49 Malcolm's at the same time.
+00:35:50 Malcolm's at the same time.
+00:35:51 Malcolm's at the same time.
+00:35:52 Malcolm's at the same time.
+00:35:53 Malcolm's at the same time.
+00:35:54 Malcolm's at the same time.
+00:35:55 Malcolm's at the same time.
+00:35:56 Malcolm's at the same time.
+00:35:57 Malcolm's at the same time.
+00:35:58 Malcolm's at the same time.
+00:35:59 Malcolm's at the same time.
+00:36:00 Malcolm's at the same time.
+00:36:01 Malcolm's at the same time.
+00:36:02 Malcolm's at the same time.
+00:36:03 Malcolm's at the same time.
+00:36:04 Malcolm's at the same time.
+00:36:05 Malcolm's at the same time.
+00:36:06 Malcolm's at the same time.
+00:36:07 Malcolm's at the same time.
+00:36:08 Malcolm's at the same time.
+00:36:09 Malcolm's at the same time.
+00:36:10 Malcolm's at the same time.
+00:36:11 Malcolm's at the same time.
+00:36:12 Malcolm's at the same time.
+00:36:13 Malcolm's at the same time.
+00:36:14 Malcolm's at the same time.
+00:36:15 Malcolm's at the same time.
+00:36:16 Malcolm's at the same time.
+00:36:17 Malcolm's at the same time.
+00:36:18 Malcolm's at the same time.
+00:36:19 Malcolm's at the same time.
+00:36:20 Malcolm's at the same time.
+00:36:21 Malcolm's at the same time.
+00:36:22 Malcolm's at the same time.
+00:36:23 Malcolm's at the same time.
+00:36:24 Malcolm's at the same time.
+00:36:25 Malcolm's at the same time.
+00:36:26 Malcolm's at the same time.
+00:36:27 Malcolm's at the same time.
+00:36:28 Malcolm's at the same time.
+00:36:29 Malcolm's at the same time.
+00:36:30 Malcolm's at the same time.
+00:36:31 Malcolm's at the same time.
+00:36:32 Malcolm's at the same time.
+00:36:33 Malcolm's at the same time.
+00:36:34 Malcolm's at the same time.
+00:36:35 Malcolm's at the same time.
+00:36:36 Malcolm's at the same time.
+00:36:37 Malcolm's at the same time.
+00:36:38 Malcolm's at the same time.
+00:36:39 Malcolm's at the same time.
+00:36:40 Malcolm's at the same time.
+00:36:41 Malcolm's at the same time.
+00:36:42 Timmy Turner went into each other's worlds.
+00:36:44 Timmy Turner went into each other's worlds.
+00:36:45 Timmy Turner went into each other's worlds.
+00:36:46 Timmy Turner went into each other's worlds.
+00:36:47 Timmy Turner went into each other's worlds.
+00:36:48 Timmy Turner went into each other's worlds.
+00:36:49 Timmy Turner went into each other's worlds.
+00:36:50 Timmy Turner went into each other's worlds.
+00:36:51 Timmy Turner went into each other's worlds.
+00:36:52 Timmy Turner went into each other's worlds.
+00:36:53 Timmy Turner went into each other's worlds.
+00:36:54 Timmy Turner went into each other's worlds.
+00:36:55 Timmy Turner went into each other's worlds.
+00:36:56 Timmy Turner went into each other's worlds.
+00:36:57 Timmy Turner went into each other's worlds.
+00:36:58 Timmy Turner went into each other's worlds.
+00:36:59 Timmy Turner went into each other's worlds.
+00:37:00 Timmy Turner went into each other's worlds.
+00:37:02 That was very attractive.
+00:37:03 I don't remember that ever.
+00:37:05 Maybe it's just never had a childhood.
+00:37:07 Oh boo boo boo.
+00:37:08 Oh yeah well have you played Jimmy Neutron
+00:37:10 Attack of the Tonkeys on PS2.
+00:37:11 He becomes the nihilist trying to make the millennials feel bad.
+00:37:13 The best video game ever.
+00:37:14 Is that true?
+00:37:15 I'm serious.
+00:37:16 Fucking Jimmy Neutron Attack of the Tonkeys on PS2
+00:37:18 is actually my favorite PS2 game.
+00:37:20 I've never talked about it because I'm saving
+00:37:22 like a 20 hour like analysis.
+00:37:24 Would that constantly be better than Shadow the Hedgehog?
+00:37:26 I just don't know.
+00:37:27 I just don't know.
+00:37:28 It's marginally worse.
+00:37:30 What about Will Ville off the rails?
+00:37:32 That's pretty good.
+00:37:34 You ever play that one?
+00:37:35 We carnival dude?
+00:37:36 We carnival?
+00:37:37 That's the height of an artistic American spirit.
+00:37:39 That was for PS3 you idiot.
+00:37:41 What are we doing?
+00:37:42 What is this?
+00:37:43 Nate's going to find another question.
+00:37:44 I sure am.
+00:37:45 I sure am.
+00:37:46 You're not the bossamino.
+00:37:48 I've been scrolling for some.
+00:37:49 You're not the bossamino.
+00:37:50 And I'm a baby.
+00:37:51 This is what I was saying.
+00:37:52 This is what I was saying.
+00:37:53 This is what I was saying.
+00:37:54 When I was said I'm truly embarrassed
+00:37:55 and I'm really sorry.
+00:37:57 I was the one who made the piece of it.
+00:38:00 This is the best.
+00:38:01 This is the best.
+00:38:02 Okay.
+00:38:03 All right.
+00:38:04 Here's another one.
+00:38:05 My extreme distaste is part of why it's the best.
+00:38:06 That's probably true.
+00:38:07 Okay.
+00:38:08 Here's a question.
+00:38:09 Okay.
+00:38:10 Here we go.
+00:38:11 IkloneIKLone asks, what's the best console of all time?
+00:38:15 And why is it the GameCube?
+00:38:16 And why is it the GameCube?
+00:38:17 The PS2.
+00:38:18 I said PS2 before you said GameCube.
+00:38:19 Bitch.
+00:38:20 I win.
+00:38:21 That's true.
+00:38:22 I think I would go with the original Nintendo DS.
+00:38:25 Actually.
+00:38:26 I would go with the Nintendo DS.
+00:38:27 Why?
+00:38:28 Yeah, you're right.
+00:38:29 Yeah, that's right.
+00:38:30 Why is the original?
+00:38:31 The original original broke instantly.
+00:38:32 Okay.
+00:38:33 Well, to be fair, I guess my favorite was the, you know, like the slightly smaller one
+00:38:35 that came out with.
+00:38:36 The DS Lite.
+00:38:37 Yeah, the DS Lite.
+00:38:38 Exactly.
+00:38:39 The DS Lite.
+00:38:40 It's that one because it had.
+00:38:41 You could play Pokemon Platinum.
+00:38:42 Oh, man.
+00:38:43 I can't.
+00:38:44 Diamond, dude.
+00:38:45 Diamond.
+00:38:46 No.
+00:38:47 Okay.
+00:38:48 I've gotten like the most joy out of my DS than I did.
+00:38:50 Yeah, there it is.
+00:38:51 There's the one.
+00:38:52 You liar.
+00:38:53 You're a fake gamer because it's a Game Boy.
+00:38:54 A Game Boy.
+00:38:55 I tricked you.
+00:38:56 I just seemed to like to make sure that you knew that they was a girl.
+00:39:00 Oh, shit.
+00:39:01 I know that's a Game Boy.
+00:39:02 I've heard that jingle more times than I've heard my own voice.
+00:39:05 Yeah, I got goofed.
+00:39:06 Well, I felt tricked out of the way.
+00:39:09 Oh, wait, because the DS starts up with that.
+00:39:12 Yeah, that's the one.
+00:39:14 Okay.
+00:39:15 See, I'm a real gamer girl.
+00:39:16 Anyway, the DS I played in my bed.
+00:39:18 My favorite way to play video games is sitting up with a bunch of pillows behind me reclining
+00:39:22 in my bed all tucked in and cozy with my fucking console in my head.
+00:39:26 And I figured out how to hack my DS so I had literally every game for free on the entire
+00:39:30 console.
+00:39:31 I'm a genius.
+00:39:32 Oh, yeah.
+00:39:33 I mean, nobody didn't do that.
+00:39:34 I had.
+00:39:35 Well, you did too?
+00:39:36 Okay.
+00:39:37 Well, anyway.
+00:39:38 My brother was a hacker genius and he got the R4 thing and he gave me like every single
+00:39:40 video game.
+00:39:41 I played all Professor Layton's, all the Phoenix Wright games, all the Mario Kart DS, fucking
+00:39:46 everything.
+00:39:47 The DS, the DS for real, has like the greatest game library of all time.
+00:39:50 I would say, yes.
+00:39:51 You know, there's like a couple of okay games.
+00:39:52 I hear this is Final Fantasy games okay, but it's shit compared to...
+00:39:57 There's Club Penguin on that one, that console.
+00:40:00 There's Club Penguin.
+00:40:01 There's Club Penguin games.
+00:40:02 There you go.
+00:40:03 Club Penguin Jump Ultimate Stars, all the Layton games.
+00:40:05 I think something really good about the DS was when like your parents would drag you
+00:40:09 to the high school football game and you don't want to watch it.
+00:40:11 So you go into the...
+00:40:12 You could chat with people on the fucking pic-toe chat.
+00:40:14 Oh my fucking god.
+00:40:15 Yes.
+00:40:16 And you just harass people because they can't prove who you are and you just talk shit
+00:40:19 and make everybody mad.
+00:40:20 Who else had the DS long before?
+00:40:22 They actually had a game for it or I had like, I think I had Mario 64 and I would spend
+00:40:26 way more time pic-toe chatting with people on that thing.
+00:40:29 And you play that game when you draw like the top half of a picture and then the next person
+00:40:32 could draw the bottom half and it would look like they're all one picture.
+00:40:35 You know, I've never really experienced DS with strangers or people because bringing
+00:40:42 like a DS to school wasn't something people did enough to be a cool thing.
+00:40:47 So, you know, I'd never experienced that sort of element of it.
+00:40:52 We have to go back.
+00:40:53 We have to go back.
+00:40:55 We have to bring all our DSs and just go to a room and then just...
+00:40:58 Yes.
+00:40:59 Radcon 3, bro.
+00:41:00 Radcon 3, the pic-toe chat experience.
+00:41:01 Let's do it.
+00:41:02 Radcon 3DS.
+00:41:03 Let's do it.
+00:41:04 Radcon 3DS.
+00:41:05 Yes.
+00:41:06 By the way, my most tragic experience while playing any video game ever in my entire
+00:41:11 life was thus.
+00:41:13 I went into GameStop.
+00:41:14 I bought a copy.
+00:41:16 I already had.
+00:41:17 I already fucking had a copy of Kirby Superstar Ultra.
+00:41:20 I just bought another one because who gives a fuck?
+00:41:23 Oh my God.
+00:41:24 So, I bought another one, pre-owned, and then I 100%ed all three files two times over the
+00:41:34 course of one day and then brought it back at the end of the night to return and get my
+00:41:40 money back.
+00:41:41 Holy shit.
+00:41:42 Yeah.
+00:41:43 Is that even possible in that kind of timeline?
+00:41:46 Oh, it's possible, mate.
+00:41:48 It's possible.
+00:41:49 It's more than possible.
+00:41:51 Holy shit.
+00:41:53 Fucking juggalo.
+00:41:55 Guys, press one in the comments if we should do a Kirby race in the PCP.
+00:42:00 Press one.
+00:42:01 Press one.
+00:42:02 It might be cheap in the comments if you want to see us cheap over the game race.
+00:42:05 Hippo is not invited.
+00:42:06 I would rather do that because we can do that quickly.
+00:42:09 I'm goat.
+00:42:10 I'm a new character.
+00:42:12 I'm goat.
+00:42:13 Hey.
+00:42:14 Hey.
+00:42:15 Oh, this is a good question.
+00:42:16 I'm nervous.
+00:42:17 This is good because it's at Jenny's Makudomaru, our old friend, asked, guys, just got a PS4
+00:42:22 and I have Dark Souls 3.
+00:42:24 What should I name a character?
+00:42:25 So, I'm going to respond to this one.
+00:42:27 What should we name their character?
+00:42:28 Undertale of 589.
+00:42:29 I mean, 587.
+00:42:30 How about...
+00:42:31 Naming characters is not difficult for other people.
+00:42:38 It's difficult for other people.
+00:42:44 I don't know.
+00:42:45 Give.
+00:42:46 Give me something.
+00:42:47 You're a pun man.
+00:42:48 I don't know what to base the pun on.
+00:42:50 I don't know who this person is.
+00:42:51 I don't know how they play.
+00:42:52 I don't know what they like.
+00:42:53 Dark Souls.
+00:42:54 How about Black Guy?
+00:42:55 Okay.
+00:42:56 Black Guy.
+00:42:57 I'm responding with Black Guy.
+00:42:58 Classic character name.
+00:42:59 Capital A, U, M, A, K, U, A.
+00:43:05 Amua Kua.
+00:43:06 That's you, bitch.
+00:43:07 Amua Kua.
+00:43:08 That's a Ua.
+00:43:09 Okay.
+00:43:10 I'm going to put Black Guy or Amua Kua.
+00:43:12 There we go.
+00:43:13 There.
+00:43:14 Responded.
+00:43:15 You type that to them?
+00:43:16 Of course.
+00:43:17 I just responded to them.
+00:43:18 Now you all listen to the podcast.
+00:43:20 You follow.
+00:43:21 That's true.
+00:43:22 We lost that whole view because of you, Nate.
+00:43:24 God damn it.
+00:43:25 Nah, I got to watch.
+00:43:26 They know.
+00:43:27 How about...
+00:43:28 Okay.
+00:43:29 Here we go.
+00:43:30 Is there anything...
+00:43:31 I want to get someone.
+00:43:32 I want to do someone.
+00:43:33 Okay.
+00:43:34 Hey, dude.
+00:43:35 Go for it.
+00:43:36 Okay.
+00:43:37 Okay.
+00:43:38 From an untitled abridged...
+00:43:42 What would you do?
+00:43:44 Lock up the Jews.
+00:43:47 Just kidding.
+00:43:48 I would never do that to my brother.
+00:43:49 Wait.
+00:43:50 I'm actually really tolerant and I love all Jewish people.
+00:43:52 The one thing that I would do...
+00:43:53 Yeah, don't lock up men.
+00:43:54 ...was lock up all the neo-nazis.
+00:43:56 Yeah.
+00:43:57 Actually, I would never do that because I'm actually an extreme racist and...
+00:44:01 I'm really not happy about it.
+00:44:04 So the thing that I actually would do is I would just take some antidepressants.
+00:44:09 Please.
+00:44:10 Please let me...
+00:44:12 Please.
+00:44:13 Was the question, what would you do?
+00:44:15 Yeah, I think it was what would you do.
+00:44:17 That's a good question.
+00:44:20 Good question.
+00:44:21 Wait, who asked that?
+00:44:22 I think you said that.
+00:44:23 I would continue to be on the podcast right now, I guess.
+00:44:27 That's good.
+00:44:28 That's good.
+00:44:29 You bring the whole...
+00:44:33 Just filling them out on the disc.
+00:44:34 He's got a real sound board situation going on.
+00:44:37 He's probably surrounded by various different materials and substances that he crank a lot of moments notice.
+00:44:40 Yeah, he's the Folly Effect's king.
+00:44:42 In my blue pills.
+00:44:44 There you go.
+00:44:45 I don't even know how he achieves these sounds, but I...
+00:44:48 Amuakua...
+00:44:49 He broke!
+00:44:50 He literally broke!
+00:44:52 Did you break Amuakua?
+00:44:54 Yeah!
+00:44:55 Oh, no.
+00:44:56 His Dark Souls 3 player is ruined.
+00:44:59 God, this question is shit.
+00:45:01 Bobby, I'm going to call it at BobKevin101.
+00:45:04 Your question fucking sucks.
+00:45:06 Best waifus and or favorite video games?
+00:45:09 Dude, what the fuck kind of question is that?
+00:45:11 I'm bored as shit.
+00:45:12 Never come to my house.
+00:45:13 Riska and Homestuck.
+00:45:15 Is the joke both that we've done those episodes and that you've made videos on those subjects this month, Nate?
+00:45:21 Yeah, something along those lines.
+00:45:23 Bobby, you're a basic bitch.
+00:45:24 Sometimes people just don't know anything in the ACO tweet.
+00:45:27 I'm just kidding around, dude.
+00:45:28 I'm just kidding.
+00:45:29 What was the question?
+00:45:30 It was best waifus and or favorite video games.
+00:45:33 Why and or?
+00:45:34 Why is that an and or sort of situation?
+00:45:36 I don't know.
+00:45:37 You can only like one.
+00:45:38 You can only...
+00:45:39 You like video games or anime waifu people?
+00:45:43 I think you guys might have done this one last week, but...
+00:45:46 Did you guys do what is your least favorite creation that you've made?
+00:45:50 The universe.
+00:45:53 I don't fucking remember.
+00:45:55 I'm going to answer it now anyway, though.
+00:45:57 My least favorite creation I've made, honestly...
+00:45:59 And that's from Geifi McGee.
+00:46:01 Oh, cool.
+00:46:02 I would have to go with and I...
+00:46:04 It's kind of silly, but I honestly cannot even really look at my Undertale video anymore.
+00:46:09 Oh, shit.
+00:46:10 Yeah, I agree.
+00:46:11 I completely agree.
+00:46:12 It's because like...
+00:46:14 I don't know, like there's a lot of reasons why, but it's...
+00:46:16 At the time, I was like...
+00:46:17 It feels too much like a game theory.
+00:46:19 Well, I don't actually think it's that much like...
+00:46:21 I think it's much better than the game theory.
+00:46:23 But like...
+00:46:25 Okay, so it's obvious that I put way too much effort into it.
+00:46:28 So when I look at it now, all I see is like wasted time that I achieved...
+00:46:32 And like, what did I get out of it?
+00:46:33 You know, like 30,000 views on a video that...
+00:46:35 Yeah.
+00:46:36 In my opinion, is without a doubt like the most...
+00:46:39 It has the most to say about Undertale of any video I've seen, but like...
+00:46:44 At what cost, you know?
+00:46:45 Yeah, it's unfortunate because like Undertale was like so...
+00:46:50 Overdone by everyone, but nobody did it like properly.
+00:46:53 And so when you come along and say all these things...
+00:46:57 By the time you got it out, like the basic idea of what you were saying had already been said in various other places.
+00:47:03 Just not in a cool enough way.
+00:47:05 But it felt like really old and very flashy for no reason.
+00:47:10 It's unfortunate.
+00:47:12 It's honestly kind of why I don't really have as many warm feelings about Undertale anymore,
+00:47:17 even though it is a objectively fantastic game.
+00:47:20 I'm just sour about the whole thing and it comes me out.
+00:47:23 It's my own fault.
+00:47:24 Except for Sam's.
+00:47:25 A few weeks ago, me and Ben were watching I Love Impossible a lot as we do all the time.
+00:47:30 And I remarked how it's literally best game ever Undertale.
+00:47:35 All of our videos are literally best game ever Undertale.
+00:47:38 How do you figure, sports fan?
+00:47:40 You are I Love Impossible a lot.
+00:47:43 There's just shit constantly.
+00:47:46 Okay, I see what you're saying.
+00:47:48 I worked way too hard to try to make like everything that happened really cool and flashy and poppy.
+00:47:54 Don't do it kids, don't put it on the road.
+00:47:56 I Love Impossible a lot.
+00:47:59 You.
+00:48:00 Same person.
+00:48:02 Thank you KP.
+00:48:03 A while ago, probably almost, it's probably over a year ago,
+00:48:06 there was a lot of subreddit drama going on at the great A under A subreddit.
+00:48:12 Oh really?
+00:48:13 And I didn't like his videos in the first place so I thought,
+00:48:16 okay, I'm gonna take advantage of this drama before anybody else.
+00:48:19 And I'll make an anime review of great A under A baby.
+00:48:21 Oh, I'm gonna put him in his place and make him look like an idiot.
+00:48:25 And the video's dumb and gay and whatever, nobody cares.
+00:48:29 I don't know if I saw that one.
+00:48:31 That's okay, don't watch it.
+00:48:32 I was trying to catch up to speed on the monkey anime reviews because this is what I first found out about you.
+00:48:37 And I get to that and it's sort of like weird and not like anything else.
+00:48:42 And I also talked very, very slow.
+00:48:45 In my old videos, I do talk pretty slow and people always complain about it.
+00:48:49 But in that one, it was like I was trying to talk to a group of retarded people,
+00:48:52 which I guess would be the great A under A fan base.
+00:48:55 So it kind of fits.
+00:48:57 I don't actually remember what was in that video that was so bad about it.
+00:49:00 It was just like, he doesn't like these band people.
+00:49:03 He was on a stream talking about how a 14 year old girl in his moderation of his subreddit was like a whore
+00:49:09 and was like saying mean stuff about her and stuff.
+00:49:11 Yeah, but what was your video about it?
+00:49:13 What did you do?
+00:49:14 I was just pointing it out and that's it.
+00:49:17 But that's just a theory.
+00:49:20 A great A under A theory.
+00:49:23 This is good, I like this.
+00:49:25 Gabe, what do you hate about yourself?
+00:49:29 Wow, what a question.
+00:49:34 I guess sometimes I say things without actually understanding whether or not I actually agree with myself.
+00:49:39 I just feel like I need to say something.
+00:49:41 So sometimes in podcasts, this is like a specific moment.
+00:49:45 But I think earlier in the podcast when I was talking about something, I forget.
+00:49:51 I think I know what you mean.
+00:49:52 Yeah, it was fame.
+00:49:54 I just had a visceral reaction about fame probably being bad
+00:49:59 and I don't really want to be recognized on the street.
+00:50:01 And sometimes I regret certain things I say and I don't like that I can't take it back.
+00:50:08 I can't take it back, but it's now recorded and it's part of a thing.
+00:50:13 And there's various moments in podcasts and stuff I just don't like what I say and I'm like,
+00:50:18 oh wait, you're trying too hard or you're silly, then you're not supposed to.
+00:50:23 It's a bad time.
+00:50:24 I fucking...
+00:50:27 I know what you mean.
+00:50:28 You can always state a retraction.
+00:50:30 I think that's something not enough people do.
+00:50:32 People never like to admit when they were wrong or when they changed their opinion
+00:50:35 and they'll just hold on to stupid ideas for no reason.
+00:50:38 No, no, no.
+00:50:39 I mean, I would retract it, but I need to think about it before.
+00:50:43 I know whether I actually disagree with it now.
+00:50:45 I just know that you're all against me and I'm like, oh, maybe I'm stupid.
+00:50:49 Maybe I'm being an idiot.
+00:50:50 It's okay to have an unpopular opinion.
+00:50:52 Well, no, I mean, I think I know what Gibbs is getting at.
+00:50:54 Because once you say something, even if you set it off the cuff and you didn't really mean it,
+00:50:58 once you put it out there in any form, people just latch onto that
+00:51:02 and even if you make a correction, people are resistant to change the impression that they've already formed.
+00:51:08 So yeah, that should happen since it's annoying.
+00:51:10 I think about that too.
+00:51:11 Yeah, I mean, I've always been scared of podcasts.
+00:51:14 I do them because they're a challenge to...
+00:51:18 I mean, they're not really a challenge anymore.
+00:51:20 I can just hop on and say, oh, fucking, I'm here.
+00:51:23 But they used to be like, oh, no, oh, no the whole time in my head
+00:51:29 and everything was like, I was tensing up and I was sweating and I was shaking.
+00:51:32 Like, no, I can't, I'm not saying anything.
+00:51:34 I gotta be saying something.
+00:51:36 Any podcast I've been in, I feel like I haven't been like...
+00:51:40 I mean, no, that's not true.
+00:51:42 See, I'm doing a thing where I say something that's not even real.
+00:51:45 Not even actually what I think.
+00:51:47 I'll just shut up.
+00:51:48 That's the thing where it happens, the thing that you're talking about.
+00:51:51 Isn't there a word for that?
+00:51:52 Gay?
+00:51:53 Yeah, I think that's the one.
+00:51:54 Yeah, yeah.
+00:51:55 God damn it.
+00:51:56 Ash Rock Relab asks...
+00:52:00 Is there any type of you guys that you're super into and it's so weird
+00:52:05 you don't even bother recommending it to other people?
+00:52:09 Oh, yeah.
+00:52:10 What the fuck was that question?
+00:52:12 I didn't even understand that.
+00:52:13 Is there anything...
+00:52:14 It's so weird that you like it, but you don't want to recommend it.
+00:52:17 Well, it depends who I'm recommending it to.
+00:52:20 Weird things are inherently good to me.
+00:52:22 If you show me something that's weird, I will like it.
+00:52:24 No questions asked.
+00:52:26 I want to feel slime.
+00:52:27 I want to feel sludge.
+00:52:28 And I want to feel most of all ooze.
+00:52:30 Well, what if I just watched the new Taylor Swift music video and I'm like,
+00:52:33 you know who'd be into this shit?
+00:52:34 I'm Munchy.
+00:52:35 My buddy Munchy would love it.
+00:52:36 I love Taylor Swift.
+00:52:38 She used to go on beat and I love my beat bros.
+00:52:42 I love Debbie the Frog.
+00:52:44 Dude.
+00:52:45 Dude.
+00:52:46 Dude.
+00:52:47 The Taylor Swift Taylor.
+00:52:48 That's a good one.
+00:52:50 The Taylor Swift Taylor.
+00:52:51 I love you, Hillary.
+00:52:52 You're my favorite.
+00:52:55 But yeah.
+00:52:56 I know with her.
+00:52:57 I mean, I like a lot of vaguely weird things.
+00:53:00 Sometimes I post them in here where I feel like in the PCP chat that is,
+00:53:05 when I feel like people in the chat would understand it.
+00:53:10 It's usually just YouTube poop things that sometimes there's one that's like,
+00:53:14 can be appreciated despite not really being into YouTube poop.
+00:53:17 Because I don't think any of us, aside from me, are really into that sort of
+00:53:21 YouTube stuff.
+00:53:23 So, I don't know.
+00:53:25 That's generally what I don't recommend, even though I love it.
+00:53:28 It's just, it's one of those things that's like, you know, if you like it,
+00:53:33 then we can have a conversation.
+00:53:35 You tell your suggestions.
+00:53:37 Yeah.
+00:53:38 You tell your recommendations to like the audience you're talking to.
+00:53:40 So like, I don't know, I wouldn't come on here and recommend the same things
+00:53:43 to watch that I recommend to you guys.
+00:53:45 It just depends.
+00:53:46 Yeah.
+00:53:47 I've found a lot of people, especially in these online communities,
+00:53:50 have a predisposition about all reality TV and assume that it's all shit.
+00:53:55 So, even though Survivor and Big Brother are two of my favorite shows,
+00:53:58 I never want to recommend them because people would just write that off
+00:54:01 as being something that they think it is.
+00:54:03 So, I just gave up a long time ago.
+00:54:05 You know what I'm just realizing is that people, you know,
+00:54:08 normal people generally just recommend things because they like them
+00:54:11 and not really thinking about who they're recommending it to.
+00:54:14 They just want people to like things.
+00:54:16 Whereas us, like we do like reviews or we talk about media a lot.
+00:54:21 So, the idea of like recommending something on like a platform is different
+00:54:25 from just saying something to a friend.
+00:54:27 Yeah.
+00:54:28 Like you're talking to an audience that, you know, like it's not worth your time
+00:54:32 to talk about something that they may not already be into
+00:54:35 if you know what they're like.
+00:54:37 I'm with you, dude.
+00:54:39 George, where are we?
+00:54:41 We're in Undertale, Homer.
+00:54:44 Undertale, what's that?
+00:54:47 Skeletons and monsters?
+00:54:50 Love and shit, you know?
+00:54:53 Like sands and papyrus.
+00:54:56 Oh, shit.
+00:54:59 We got to get the fuck out of here, bro.
+00:55:03 Okay, here's a question.
+00:55:05 This is just a fun one.
+00:55:07 Hey, we've got our red pills and we've got our blue pills, but what's your pill?
+00:55:10 So, let's decide a PCP official pill that we can, you know, distribute.
+00:55:15 Oh, a pill for the mascot.
+00:55:18 What pill is he?
+00:55:19 For that guy?
+00:55:20 I mean, he's kind of gray.
+00:55:21 Gray pill?
+00:55:22 That's already taken, isn't it?
+00:55:24 Plus that sounds shitty as fuck.
+00:55:25 What about mage-pilled?
+00:55:26 We could all get mage-pilled.
+00:55:28 I'd like to get mage-pilled, but that's a specific, you know.
+00:55:31 What is involved in being mage-pilled?
+00:55:34 You know, just like a nice, you know, nice soft-spoken guy who likes to talk about anime in video games, you know.
+00:55:42 Unless you play MMOs with your friends on the internet.
+00:55:45 Yeah.
+00:55:46 Yeah, okay.
+00:55:47 And you're a really tall girl.
+00:55:48 It's a pretty wholesome pill.
+00:55:49 Germ pill.
+00:55:50 I'm just going to round some off here.
+00:55:51 Germ pill, antidepressant pill.
+00:55:54 Empire pill, saturation pill.
+00:55:58 Crushed blacks and whites pill.
+00:56:00 High saturation pill.
+00:56:02 Wait, wait, wait.
+00:56:03 Sweet Bro and Hella Jeff pill.
+00:56:05 Sabrage pill and that.
+00:56:06 Sabrage.
+00:56:07 What about pill-pilled?
+00:56:08 Sabrage.
+00:56:09 Pill-pilled.
+00:56:10 I think, I mean, our conversation right now is pretty pill-pilled.
+00:56:12 Yeah, I think so.
+00:56:15 I don't know the pill thing.
+00:56:17 The red and the blue makes enough sense, but what the fuck is all those other ones?
+00:56:20 We agree.
+00:56:21 The green one is if you're fucking blissed so hard, you're going to fucking turn over and die.
+00:56:25 There's a whole big image, like, of a hundred different types of pills, a billion different types of pills, and I'm like,
+00:56:31 I don't have time to read all this pill knowledge.
+00:56:33 I don't want to get it wrong, though.
+00:56:34 Guys, I've got a good question.
+00:56:35 Wait, you don't.
+00:56:36 It's not good.
+00:56:37 No, I'm super into the expanded pill lore, and you guys are always just on the mainstream bullshit.
+00:56:41 No, me too.
+00:56:42 Me too, dude.
+00:56:43 You guys are just so pill-pilled.
+00:56:44 I just kind of hate it.
+00:56:45 I know, I know.
+00:56:47 All right, boys.
+00:56:48 He's got to get that expanded.
+00:56:49 Yeah, go, go, go, go.
+00:56:50 Since we've got, you know, an even number, ten people in the PCP right now, sort of.
+00:56:55 We don't need to go into it.
+00:56:57 Right.
+00:56:58 We may not have left the chat today, only to come back probably tomorrow.
+00:57:02 If you had to ship all the PCP members with each other with no repeats and no one left out, who would be with who?
+00:57:08 Who is that from?
+00:57:09 That's from KZSNIP.
+00:57:13 She's getting a lot of questions today.
+00:57:15 I can already tell, there's going to be a lot of demand for Gibb in this situation.
+00:57:19 No.
+00:57:20 Fighting is going to be a lot.
+00:57:21 We don't get to pick who you want.
+00:57:22 I think the canon ship is me and Jesse, because people have drawn us together before.
+00:57:27 Yeah.
+00:57:28 See, people are going to write that.
+00:57:29 On a ship.
+00:57:30 On a ship in the pony cast.
+00:57:31 Yeah.
+00:57:32 God damn it.
+00:57:33 Me and Gibb were on a ship before anybody.
+00:57:36 God damn it.
+00:57:37 We've been on the poddy cast for over a fucking year.
+00:57:39 Everyone hates the poddy cast.
+00:57:40 It's just arbitrary.
+00:57:41 No.
+00:57:42 Shut up.
+00:57:43 Fuck you.
+00:57:44 Now, would I be with Ben or with Digi?
+00:57:47 I would say, I would automatically put Jesse and Digi.
+00:57:50 Jesse and Digi, I would put together.
+00:57:53 That just seems like, that just seems like.
+00:57:55 Guys, they were the original.
+00:57:56 They were your little sister.
+00:57:57 They were the original, I mean, I know Tom and Digi were actually the original.
+00:58:00 But Digi is so invested in like his Digi friendship that-
+00:58:05 Wait.
+00:58:06 I feel like Digi and Monkey would be a good ship.
+00:58:09 I'm going to say Digi is invested in his Jesse friendship.
+00:58:11 That's what he is all about.
+00:58:13 Wait, guys, we can't just focus on love.
+00:58:15 We need all the quadrants.
+00:58:17 Oh no.
+00:58:18 So so so.
+00:58:19 So Monk would definitely be in Kismis.
+00:58:21 Kismis with Ben.
+00:58:22 No doubt.
+00:58:23 No doubt.
+00:58:24 Yes.
+00:58:25 What a colleague yeah, I'd probably go with that. It's cuz it's like a love-hate thing. Yeah, exactly. Yeah, that's fits. It's cute
+00:58:32 How about Ben?
+00:58:35 Yeah
+00:58:36 Gibbon would be like more rails with fucking Jesse. I would think probably
+00:58:41 Yeah, they're not that bad as a medicine. They're on their super pirate ship or whatever. Yeah. Yeah. Yeah
+00:58:47 The first ones to ever be on the ship. Yeah, and then Tom and Digi would go together cuz they're like the old boys
+00:58:53 Um, yeah, they haven't fucked in a long time though. Yeah, I don't know whether
+00:59:00 He's like he's so ethereal he needs to become like corporeal again, you know
+00:59:06 We have like Nate
+00:59:15 I should probably be with mage, but then again mage is like asexual so oh, you know what you know
+00:59:19 The perfect pairing mage and Tom because mage is asexual and Tom is bisexual. So he's gay that works
+00:59:24 I could be gay so that'd be like perfect that works out. Wait, so who is Nate with the munchie? Who's left?
+00:59:32 If you're not actually bisexual, I'm sorry, I didn't mean that nice. Yes. Yeah, he's okay. Good cut that out
+00:59:39 Just because he's vegetarian
+00:59:42 I'm just like, you know, I'm a man and I have needs and you will satisfy those needs
+00:59:52 You much we both the only women can be fat we know we know this yeah
+00:59:56 I think Nate should wear a pearl costume and then fuck Steven universe. That's a good idea
+01:00:01 Yeah
+01:00:16 Oh Peter, okay, so that's everybody
+01:00:19 There you go. That's official. Yeah, that's pretty good. Oh
+01:00:23 Dear, here's another one the KZ again KZ snap
+01:00:26 KZ is the fucking VIP with decent questions about it's because these are like specific and they're fun to answer
+01:00:33 So here we go at KZ snap says, uh, would you ever get a tattoo? And if so, what would it be?
+01:00:38 I bet you guys have all thought about that. Yeah chakras and all of my chakras
+01:00:44 64 points
+01:00:47 And he do you of course use the you know the ancient Hindu was the manji, you know the the swastika would be on all chakra points
+01:00:55 I've always been a very anti tattoo
+01:00:57 But I think I would get one as a joke if I lost some crazy bed and I had to get like digibro's face on my ass or something
+01:01:04 But otherwise I'm not just planning on it. Yeah. Yeah, that's just a fun story
+01:01:08 I would I would get an emoji movie ad on the tip of my penis
+01:01:14 So that yes, yes, that's great so that every vagina will go by the oh, you know for the movie dudes for the movie
+01:01:22 The the the water splash one probably
+01:01:29 That's a good one
+01:01:32 You know, I'm pretty spiritual so I would get a star of David on one nipple and a swastika on the other
+01:01:42 Yeah, I have actually thought about this and for many years now everyone's gonna think I'm a fucking sellout piece of shit
+01:01:48 But I've wanted to get the the joe star star on like my my upper left back
+01:01:53 But I've wanted that for like 15 years. Okay, so it's like I first read Jojo
+01:01:58 I'm not one of these fucking anime new joys. I hate people who like the things I like only I'm allowed to like it
+01:02:03 You guys are Joe Joe reference. Oh
+01:02:05 God, I'll probably never do it though
+01:02:07 It's literally it's become so normie that I probably just won't ever do it because they don't like you know
+01:02:13 What I've never really thought about having like an actual tattoo like I'm thinking well
+01:02:17 It's kind of painful and it's permanent like I'm probably gonna regret it
+01:02:21 But as a joke as a as a hilarious joke and as long as it's on my back
+01:02:26 So I don't have to look at it all the time
+01:02:27 I would put like a like a like a like a as if I was married to brisker like a like a weird love thing
+01:02:33 Yeah, or maybe just a symbol something like really retired in her now and hilarious
+01:02:37 But by the way brisker shit will never die. She's real forever. She's real forever
+01:02:41 But by the way that that just just to increase my indie credentials
+01:02:45 It I wanted that tattoo after I read part six of Jojo
+01:02:49 And it was after Joleen did her epic fight with guard Westwood during the survivor battle
+01:02:54 That was the most maybe want to do it and find the entire fucking. Yes. Thank you
+01:02:59 It is the best fight in the entire series. God somebody gets it
+01:03:06 And and it's
+01:03:11 Every single panel
+01:03:17 Yeah, sorry what I've got a topic for discussion
+01:03:21 Okay, go on go on this one comes to us from mum key underscore Jones who wants to know
+01:03:26 Was Nate the best guy ever justified in stealing a picture of some bitch dressed up and she's like fat and ugly
+01:03:33 Oh this one, huh? I think we should talk about it, and we haven't talked about it. You know, that's totally fine with that
+01:03:38 Okay, well, let me give you the backstory real quick. So in my
+01:03:41 video about how
+01:03:43 Communist glasses are not fucking orange for me a mouthful. I I used a cosplayers photo and full disclosure
+01:03:50 What I did was I just googled like female coming to cosplayer like I had actually used this image before in my
+01:03:55 Gurren login review. So, you know the criticism would be equally valid that I used it there as well and to my
+01:04:02 Discredit I did not credit anybody who was in it, which I I agree was and worse like not not like
+01:04:09 Was rude I guess like I don't think I actually need to have any responsibility to do that if I had to give credit
+01:04:15 To every single Google image I put in my videos the whole description would be nothing, but that shit, okay?
+01:04:20 Well, here's the thing
+01:04:20 I think that it is possible like we say that like but the argument you're kind of making and I think about this myself
+01:04:25 Because I do this a lot too is like that's really just us being lazy whether or not we're actually allowed to do it
+01:04:30 That's just a saying like it would be too much work. So obviously I'm allowed to do it
+01:04:34 I don't know if that's actually true, you know
+01:04:36 Well, I don't think Google you don't own it anymore. I don't think that's accurate
+01:04:41 I think I think I think I think I think what it is is it's it's not illegal, but it's just it's it's a nice
+01:04:48 It's a nice gesture to link to something. Well, okay using it
+01:04:51 Let's separate is though that if you're using a lot of images
+01:04:54 You're not gonna go through nobody's gonna go through the the the rigmarole of
+01:04:59 Getting links to all the specific different sources, but that that's completely insane
+01:05:03 But that's like saying that like if you do like many crimes like they all become less important cuz like you've
+01:05:16 Let me separate this into two things, okay
+01:05:18 We can I think we can deal with one immediately then we can just talk about the second
+01:05:21 I don't want to confuse the two so there's the legal issue and then like the moral issue
+01:05:24 So legally what I did was 100% fair use. Yeah, absolutely
+01:05:28 Nothing wrong with just using someone's image because all I was doing was commenting on it
+01:05:32 I wasn't like saying it was mine. This is just me describing a picture 100% totally fine
+01:05:36 Yeah, there is the like the more moral issue like is it good to do that?
+01:05:39 Especially considering I didn't give by the way by the way give I have amended
+01:05:43 So I have added links to those things in the description because I agree, okay
+01:05:46 You know, I did think like okay
+01:05:48 It was this person specifically commented like hey not cool
+01:05:50 You should you know at least let people know who I am and I agree if someone goes out of their way to say like
+01:05:54 Hey, let me do this it would it would be merely spiked to be like no
+01:05:58 I'm not gonna fucking do that and I am not a spiteful person. I don't want to do that
+01:06:01 So now has she acknowledged this because she she like suck her goons onto your video to like attack it and down
+01:06:07 You know post comments like she was being a huge cunt about it. What she wants. I actually disagree
+01:06:12 I actually people were saying that she was being quite rude
+01:06:15 I don't really think that that's the case like she in her comments. She complained like
+01:06:20 You know, hey, you didn't give me credit not cool
+01:06:23 Way to just use my picture, you know without my permission and and also like it said like especially in like in this kind of light
+01:06:28 Like because I was insulting her for not having like the perfect glasses color
+01:06:32 So let me say first of all, I don't it's fine. Your customs customs fine. Don't worry about it. I thought it was ugly
+01:06:38 Well
+01:06:41 I think she could have done a lot better
+01:06:43 We all could do we could all do a lot better
+01:06:46 Well, okay, I have I have okay some some
+01:06:51 Viewpoint on this cuz sometimes I'm too lazy
+01:06:54 And I don't want to play a whole game to get a specific clip right in in a video game review or anything like that
+01:07:00 you know and
+01:07:02 When I do that I download the video and then since the video has the name of like the YouTube link
+01:07:09 You know that the YouTube title later
+01:07:11 I can just copy paste and find the link and then put that in the description and I generally do that sometimes
+01:07:16 I forget sometimes I'm just like it's like nobody's gonna notice like I'm but if it's like
+01:07:23 Like for the Kingdom Hearts grpj. I didn't play that game. I didn't record that game for all the grpgs
+01:07:29 I don't record the footage because that's too much. That's too big
+01:07:31 So I go around and I you know
+01:07:33 I find people who have played through the whole game and I get certain things from the videos and I linked to them and
+01:07:40 I make sure to say I stole this content from these people just so that nobody's accusing me of being like
+01:07:48 It's subtle about it like I'm saying I took you say that in the video or in the description in the description
+01:07:52 I said content a game footage stolen from and a bunch of links
+01:07:57 So okay, I feel that I don't feel the need to do that all the time
+01:08:02 But when it's like a lot, you know when it's something that could potentially be noticed
+01:08:06 I mean what I feel I feel like it's it's just customary to just if you have an easy way to put the link in there
+01:08:13 You may as well. There's nothing really wrong
+01:08:17 What if somebody went to gibbo Gibbon gaming and they write use some of your footage for review?
+01:08:22 Would you care personally? I wouldn't give a shit. I couldn't care less of a shit about that at all
+01:08:28 It means if somebody went to
+01:08:30 Took something out of one of my streams
+01:08:33 If I was notified of it if somebody somehow noticed that it was my play through and they put it on their video
+01:08:39 And I went to look at it. I I guess it would depend on how much well, let's use like I like on a baseline
+01:08:46 Let's just say it's just a clip from one of my streams
+01:08:49 They're not using the audio. They just need footage of the game that they're yeah, yeah
+01:08:52 Then I wouldn't give a shit, but I feel like gives it yeah
+01:08:56 But I I mean what I feel like doesn't necessarily but guys
+01:08:59 I'd rather have no altercations happen if somebody's gonna get mad
+01:09:03 I'd rather than never get mad or not have a reason to get mad if there's a link to the thing in the description
+01:09:08 So what what you guys are talking about is just people's feelings, right? Like that's what's in consideration
+01:09:12 Yeah, that thing that I never care about right
+01:09:16 Well, you know, I I mean I have thought about this
+01:09:19 You know, I did some reflecting on this issue and I thought about like what if someone
+01:09:23 Use one of my videos like you know put a fucking weaponized thickness clip or something into their videos
+01:09:28 Like what if they did that and they didn't credit me and you know like it's just the joke like it's not like they're saying
+01:09:34 It's theirs, but in the exact same sort of situation they put a clip of mine
+01:09:38 You know, it's totally fair use legally. There's no problem with it, but like I think I would really like a link there
+01:09:44 I think I would sort of be be miffed if there wasn't a link to to me. I yeah, I think well
+01:09:51 I think with that
+01:09:52 I would agree that I would be miffed as well
+01:09:55 But it's also kind of already become a meme and it's like you ever hear
+01:10:00 Okay, okay, you try to copyright memes that just means be something being a meme does not
+01:10:05 Invalidate like ownership of of like the image it simply does not it doesn't do that immediately
+01:10:10 And I'm not saying I like own the intellectual rights to this phrase or anything. I'm talking about you know, like yeah
+01:10:16 Yeah, I know I know but I wouldn't I wouldn't blame somebody for having heard a meme that I originated and not
+01:10:24 Going to figure out where it comes from like if somebody did that I wouldn't be mad
+01:10:28 I wouldn't care because I understand that if it's out there and it's all over the place
+01:10:32 Right can't really do anything. Okay. I'm with you on that if someone like stumbles upon it and uses it on that basis
+01:10:37 Absolutely because like I do I mean I do that all the time
+01:10:39 I tons of the images I get in fact most the ones I use my videos are stuff that I've collected from 4chan over the
+01:10:44 Years that I don't give any source for and I couldn't even if I wanted to I've just found them and I've saved them
+01:10:49 And I just throw them up there. So I mean maybe that is morally not
+01:10:54 Flawless, you know, I would like to give credit to every single person who has made these things over the years
+01:10:59 But you know, you just got it. You just got to think a bit of like like what's what's realistic?
+01:11:05 Realistically, you know, nobody's really gonna give too much of a shit if
+01:11:11 somebody's like if
+01:11:12 Somebody I took a video game clip from finds it and they notice it they might say hey, could you link to my thing?
+01:11:18 Like that's the least that's the most that could happen
+01:11:20 It's not really gonna be a big deal, but I put the link there anyway
+01:11:24 Just just because like it's unnecessary, but I feel like you know, why not it doesn't take it
+01:11:30 It takes like a minute to do that
+01:11:31 So like realistically what what sort of effort do you would you expect people to go to to link to something?
+01:11:38 If it's if it's just something in a Google search, you would have you know, you click on it
+01:11:42 You can get the image right there. You don't need to go to the source of the image on DeviantArt, right?
+01:11:46 It's it's a it's a bit more effort. It's I don't expect people to do that. I don't do that
+01:11:51 Okay, but you know, I'm totally with you on that
+01:11:53 But I would say if that person were to come to you and say like hey, dude
+01:11:56 I notice you use my video or my my image or whatever, you know, that's cool. Not the biggest deal
+01:12:01 Maybe I wouldn't I don't know whatever it doesn't matter how I feel
+01:12:04 But would you give me credit? I'd really like credit if you don't like do that
+01:12:08 Well, that's like, okay
+01:12:11 I'm just saying like it's easy to like not worry about it like whatever
+01:12:13 I'll just use the image who gives a fuck but to then ignore someone who comes to you and like request it
+01:12:17 I'm not saying that makes you like a monster. I'm just saying like that's not cool. It's not a cool thing to do
+01:12:22 Oh, yeah, obviously like if somebody went out of their way to tell me I would yeah, of course
+01:12:27 Because then they've given their link to to me
+01:12:30 You know their name like I can easily find it
+01:12:33 Like if I have to go if they expect me to go searching for it
+01:12:37 Because if I if I don't remember where I got it from then I might not do it
+01:12:41 I don't think but I mean if there were any legal issues. I don't remember or it's too much work
+01:12:48 Those are not actual legal defenses. So I'm just saying if this were a little thing
+01:12:53 We've decided that the legal stuff is like it's mostly fair use basically all the time
+01:12:58 So what's the moral standpoint Nate? We all know that it's legal
+01:13:01 But why do you kind of have a shaky moral standing on it? Well, you say it's shaky, but I think I've been pretty clear
+01:13:06 It's that no, I mean, why do you think it's not morals when I'm asking? Oh, well really
+01:13:10 It's because I've consulted how I think I would feel about it
+01:13:13 And I think if someone used my work without crediting it. I would not like it and I would want the credit
+01:13:18 So somebody took a snapshot of one of your videos because this was you didn't steal her cosplay
+01:13:23 You used a photo of the cosplay so if somebody steals your well
+01:13:26 That's different than if somebody takes a screen cap of your clip and uses it
+01:13:30 I don't think that's that bad
+01:13:31 Well, I mean you got to put the full context in because the the whole picture was like you could tell this had been photoshopped
+01:13:37 So like someone had worked on this image after a picture had been taken and so there's the cosplayer involved as well as the photographer
+01:13:43 And I'm assuming that's the person who also like did the photo editing because you could see like the background had
+01:13:47 been darkened to make this person like pop out more
+01:13:50 You know like that's work and in a perfect world. Yeah, I think everyone who does any work on something like that should should get credit
+01:13:57 And get so if the person who designed the character came to her and said hey, can you delete that?
+01:14:02 That's my character. Please don't cosplay is that you think she would delete it? She's a well
+01:14:06 Well, but again, I'm not saying anyone should ever have to delete it because I think this is totally
+01:14:10 It's just an issue of you know, is it a cool thing to do or not?
+01:14:12 And I think if the character designer for Kamina came out and was like hey, dude
+01:14:17 You're using my shit without crediting me. You got to credit me
+01:14:19 I I would say that yeah, like she should credit just be like by the way this character was designed by whoever on wherever
+01:14:27 They're not
+01:14:30 It just to ignore like the imagine if fucking I don't know
+01:14:34 Imagine if Elliot came up to you and was just like monkey, you know by the way, dude
+01:14:38 I'd appreciate if you would just put links to my videos for all the clips you use and just like imagine imagine looking at
+01:14:44 I'm saying no like no, I'm not gonna do that like you can do it
+01:14:47 I mean in person you would say it online and I can just ignore the email and move on
+01:14:52 Well, yes, you can if you came in person you'd probably have a gun and then of course I would do what I think I think I think what this is
+01:14:58 Is that it's it's the fact that somebody got upset about it and right?
+01:15:02 It's a deviant art thing because like I get my images from Google. I don't usually pick fan art
+01:15:08 I usually go for like official art because it's less hassle as it's more recognized see I use a ton of fan art personally and get it
+01:15:15 all from 4chan
+01:15:16 Yeah, so if you use an artwork, let's say I drew an image of something
+01:15:23 Or I took a picture on Instagram or something and I find it in a video by someone else
+01:15:28 I would be like, oh, okay. This person knows me. That's my first thought. Mm-hmm, or they they found my image somehow
+01:15:35 I wouldn't immediately be annoyed that they hadn't linked to what I had made because
+01:15:42 Well, actually, I don't know cuz yeah, you might right by trade. Yeah
+01:15:47 Okay, but you know I generally generally generally I I wouldn't care so much
+01:15:52 Unless it was like a they were just stealing a huge amount of something I've made I I have a position on this and it's it's
+01:15:59 It's exactly where I was before just I don't know with all that other shit
+01:16:02 It's that I'm going to continue doing exactly what I've been doing up to this point of using the images
+01:16:06 I've collected and not really worrying too much about giving proper credit to people
+01:16:10 But if anyone requests it, I will certainly add it if they are like, hey dude use my thing
+01:16:14 Appreciate credit. I'll be happy to put it and I won't go like out of my way to not put credit if I can easily do it
+01:16:19 But it's just it's kind of excessive. I mean, I was in this position when I made my quarry in the house review
+01:16:26 I I needed a thumbnail
+01:16:27 So I just googled quarry in the house HD picture and that took the first thing I found
+01:16:31 But it turns out that was the thumbnail for somebody else who made a similar quarry in the house review
+01:16:37 And he sent me a message on YouTube said hey, monkey. I love the video, but I made that thumbnail
+01:16:41 Can you switch it? And I was like, yeah, yeah, okay sure thing buddy. So I switch the thumbnail
+01:16:45 So yeah, I guess I see where you're coming from. Mm-hmm, but I didn't have to and that's the point
+01:16:50 Yeah, you didn't have to legally have to great great review by mother's base. I love that card now. Yeah
+01:16:56 Actually mine. I think mine came out before his did so fucking great mother's basement video
+01:17:07 Speaking of mother's basement mother's basement asks, why do you kill me?
+01:17:11 Yeah
+01:17:19 Here's a real question
+01:17:20 Jeron I guess I've been thinking about this at Gergerad asks
+01:17:25 a PCP guys, why
+01:17:27 Why don't you tell us the topic of the episode when you asked for questions? I don't know
+01:17:32 I don't know dude. Is that something we should do?
+01:17:34 I think no, no, no, no, it's it's something we shouldn't do because if
+01:17:38 Say if it wasn't like a stupid episode like this
+01:17:41 Yeah, we would have been talking about that topic the whole time and then questions would be something else if they ask questions about it
+01:17:47 And it's just like well, we already talked about that. We're already talked about that
+01:17:50 We're already brought up different. I agree. That's okay. That's a good answer. There you go, Jergerad
+01:17:56 Yeah, okay. Let's say here's a here's a shitty last question
+01:18:00 At dr. Sand shrew I like a good name asks pancakes or waffles
+01:18:05 Okay, when I was a little boy, I used to be super into waffles
+01:18:09 I was like a super like like like well like
+01:18:12 Champions like like yeah, I was like a waffle nationalist
+01:18:15 I wouldn't like have any pancakes bullshit. I used to always eat them
+01:18:19 I would I used to always eat chicken and waffles. That was that was that was what I ate
+01:18:22 That was the only wall dude. Are you like African-american or something Lamau come on now
+01:18:28 Oh
+01:18:30 Okay, um, but yeah, but then later fucking delicious
+01:18:33 Munchie laughing a Nate's joke was funnier than Nate's joke. Of course. It was my jokes are shit
+01:18:40 Then I discovered something amazing
+01:18:43 Pancakes with
+01:18:46 Wow grand reveal even though it's the only other option. Yeah, yeah, yeah pancakes
+01:18:51 And I was like what I ate next will make your dick blow off
+01:18:55 If I eat the pancakes and sit the waffles then I will have a different taste than the waffles
+01:19:07 But see munchie I especially like I especially like how you specifically said
+01:19:12 Pancakes with just butter because a lot of people will drown their pancakes and syrup all the time
+01:19:17 But I I'm in agreement that I think that just pancakes and butter is kind of better
+01:19:23 It's kind of like the most delicious thing in the world
+01:19:27 Here's the best thing you'll ever eat in your life
+01:19:29 Yeah, you get two frozen egg waffles that were probably in there like eight months ago
+01:19:34 Right you fry those fuckers up in the toaster
+01:19:36 Then you put peanut butter on them you make a little sandwich then you douse it in syrup and then you eat that
+01:19:41 That's way better than any pancake
+01:19:44 Sounds like a glory hole, but like better
+01:19:48 Then let's know in the chat what topic are we doing? He's listening better. We're not doing any topic. What do you mean?
+01:19:54 This is laziness. We covered laziness thoroughly. They're only guys guys. Okay, fucking
+01:20:01 This episode clickbait
+01:20:04 Yes, I think it might be clickbait. No
+01:20:09 Pancakes the only time I've eaten pancakes was only time
+01:20:13 Well, yeah, they don't have it's not it's not a thing
+01:20:19 Pancakes pancakes for breakfast is not at all a thing
+01:20:25 We don't eat pancakes. It's just not a thing. Do you waffles literally fucking treason? What about what what are waffles?
+01:20:35 They're building waffles for a reason cuz they're from Europe and all Europe is the exact same
+01:20:39 Uh
+01:20:40 Waffle all right. I think is it just like a grid pancake? Yeah, it's like we're crispy. It's crispy. Yes thicker and crispier
+01:20:49 Yeah, I've never really had a waffle either. What I have had like put I have had like potato waffles
+01:20:54 Which are waffle shaped potatoes and they I love those okay?
+01:20:57 I
+01:20:58 Know it's that's what I associated waffles was because that with because that's the only thing I'd ever had that was called a
+01:21:04 Waffle is of a little potato thing and I was always confused when when people in America would talk about having waffles
+01:21:10 I'm like, wait a minute. That's not a waffle. That's not that's not it. That's not what it is
+01:21:15 Anyway, the only time I had pancakes was at rad con 2
+01:21:18 During one one of the times we went to breakfast and we had them. I was like, huh? Yeah, I get I get I get it
+01:21:24 Was the time. Oh man, that's nuts. I had no idea. That was your first time having pancakes
+01:21:27 I think it might have not been the exact first time
+01:21:30 But it's the first time I had like an American pancake with syrup on it. I've never had never had syrup on
+01:21:35 I don't know guys. We've we've we've we've we've we're running kind of long here. You know, we've been going for a while
+01:21:41 Shall we get to the topic?
+01:21:43 Yeah, no, I was gonna do that, but I'm glad you did because laziness is like
+01:21:50 You know, it's
+01:21:53 You know, I get it. Whatever like laziness is like I do it
+01:21:58 But you know, like I know I shouldn't but you know, like whatever, you know, like sometimes sometimes they're just sort of I
+01:22:06 Can't think of the word. I mean you should do a series. Yeah, okay, okay, man. Do it
+01:22:11 No, it was a joke. Oh, hey
+01:22:14 It's a joke. I was too lazy to find the word
+01:22:16 If we in the episode maybe Nate can record the fucking audio for my Pokemon tournament that hippos in that's true
+01:22:22 Dude, I was up till fucking 6 a.m. making my fucking me a man for a piece of shit. All right. Easy. I said I get it to you this weekend
+01:22:29 Oh, yeah, I'm lazy. Oh my god. Oh my god. Oh my god. Fucking day for my god. I'm the lazy one
+01:22:34 I've been working eight hours a day. God damn it. I'm gonna fucking job
+01:22:41 Everybody hates fucking Nate. Fuck you people
+01:22:46 I like that mug. Anyway, did you get it yet to come in the mail?
+01:22:50 It's not here yet, but I'm gonna drink out of it when I get it
+01:22:54 But a fucking the lazy, right? Here's a here's the thing about lazy
+01:23:01 No, no, here's the thing about lazy. Okay, it's the name of a song by deep purple. It's fucking great
+01:23:05 Go listen to that. Oh, yeah, it's like
+01:23:09 No, no, that's the that's the kinks I think
+01:23:12 That's the kinks. Oh, is that the song that goes are you a real villain?
+01:23:24 Yeah
+01:23:30 In laziness this is going down when she takes a piss
+01:23:36 Deep purple is the name of a bird. Fuck you Nate
+01:23:40 Me a mouth of us really great. Oh, yeah
+01:24:03 All right, okay. Well, we got our mandatory piss in let's uh, let's let's
+01:24:09 I
+01:24:14 Praise it praise Keck praise
+01:24:18 Judas fuck my dick and fuck my ass. Bye everybody. Bye
+01:24:25 Wait, I was about to say something
+01:24:30 We're done. No, no, no, no that I want that the podcast to end exactly when I said that
+01:24:35 Unless munchies doing something like having sex with his cat
+01:24:39 Oh
+01:24:41 Okay, that's done fade in the intro fuck Ben. I'm stopping recording
+01:25:09 I
+01:25:22 Don't want to do

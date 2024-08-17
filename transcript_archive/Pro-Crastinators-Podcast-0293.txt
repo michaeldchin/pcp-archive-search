@@ -1,0 +1,2759 @@
+00:00:00 Anyway, here is the new theme song I thought of for the PCP. It goes a little something like this.
+00:00:07 Ah! I wouldn't fucking shit so bad! Thank you.
+00:00:12 The PCP makes me come, come, come right now!
+00:00:22 Hello, and welcome to another episode of The Pro Crastinators Podcast. It's me, Ben Saint, and Gibbontake.
+00:00:32 It's Christmas Eve, Ben.
+00:00:35 Oh, will this episode be out on the 24th of December?
+00:00:41 Oh, and a magical, well, you know, that's actually perfect, because I have a present.
+00:00:50 I have a Christmas miracle, a bundle of Christmas joy to deliver on this Christmas Eve, and do you know what that is?
+00:00:59 Is it the Phantom's Revenge?
+00:01:01 It's Phantom's Revenge, and you're fucking stalking for fucking Christmas, for fucking Yule! Bitch!
+00:01:10 I would be playing.
+00:01:12 You'll be taking revenge as Phantom Horn and killing people.
+00:01:20 It is, um, yeah, it is, it is, it is like, it is like basically done.
+00:01:27 If I did, if I did not have to record this podcast and then do some holiday bullshit today, I would say I am definitely releasing it today.
+00:01:38 When I'm recording this, but I will certainly be releasing it tomorrow at the very latest.
+00:01:44 Incredible.
+00:01:46 Yeah, so, you know, ho ho ho, Merry Christmas!
+00:01:52 For patrons only, of course, because it is still the beta release.
+00:01:57 Patreon.com slash Ben Saint.
+00:01:59 When's the Chad Alpha release coming out?
+00:02:03 I was thinking about this, the Chad Alpha release will be out when the beta version stays up for patrons for a little while, so they can play it and report any bugs to me.
+00:02:15 The beta release is the finished version, the alpha version will just be bug-fixed and bug-tested a bit, and might have some minor changes, but the game will be basically the same.
+00:02:28 So, and then I have to, I have to draw some pages of slime and punishment to basically set up why the events of Phantom's Revenge are happening.
+00:02:39 So the alpha version I will put out after I do a little bit more slime and punishment to like, you know, basically I have to finish slime and punishment, which will not take very long, because it's not that much left to it.
+00:02:52 So then once that's done, then the alpha release, and then maybe in the future when I decide, haha, it would be funny to go back and add in keg mode.
+00:03:01 Then after I, if I ever decide to add in keg mode, then that will be the Ligma release after that.
+00:03:09 But that's a hypothetical.
+00:03:15 So that's the plan.
+00:03:16 Merry Christmas, everybody.
+00:03:18 I'm very happy.
+00:03:20 I've been tweeting a lot of it.
+00:03:22 Oh, man.
+00:03:24 I don't know.
+00:03:25 I don't want to gush.
+00:03:26 I don't want to gush too much about it, but I think, I think people will be blown away.
+00:03:33 I think people will be blown away by certain parts of it.
+00:03:36 I think there will be parts in it where people like, look at it and they like, slap their hand on their forehead and they go, I can't believe.
+00:03:42 Are they fence palm?
+00:03:44 I say, I can't believe that Saint would do that.
+00:03:46 Oh, I can't.
+00:03:47 Yes, but in like a good way.
+00:03:49 In a good way.
+00:03:51 I promise.
+00:03:53 Yeah.
+00:03:56 Okay.
+00:03:58 Okay.
+00:03:59 Other than the fact that I noticed one sprite is like off and I need to fix it.
+00:04:04 That was like, I was, I was, I was playtesting it last night and there was one sprite.
+00:04:08 I was like, shit, I got to fix that one sprite.
+00:04:10 Okay.
+00:04:11 Other than that, it's at the point where literally the only thing that I need to do is just play it through a bunch of times and, and just decide how many podrans to give in your inventory to make it like balanced and fair.
+00:04:25 And like all I have to do is decide like six podrans, seven podrans, eight.
+00:04:30 And that's it.
+00:04:31 And that's like the last thing.
+00:04:37 Very exciting.
+00:04:39 Very tired.
+00:04:40 I stayed up all night, almost all night last night doing that.
+00:04:45 Yeah.
+00:04:46 I wanted to get it done before today because I got to do shit today, but oh well, it's fine.
+00:04:50 How long since the beginning of the project then?
+00:04:54 Will it have been it?
+00:04:56 Yeah, I, I thought that I wanted to get it out today as in the day of recording because it was the 19th because I remembered that on December 19th last year.
+00:05:07 I made a cryptic tweet that was that said, I have begun a mysterious construction.
+00:05:12 Oh yeah, I remember that.
+00:05:13 Referring.
+00:05:14 Right.
+00:05:15 But I turned out I was wrong, actually, and I made that tweet on December 15th.
+00:05:19 So it's actually already past the exact one year anniversary, which like whatever.
+00:05:25 And actually, it's not even really true because that was when I started programming the game, but I had already started drawing sprites for it like a while before that.
+00:05:36 Like I had drawn, yeah, some sprites and just just as sort of like a ha ha.
+00:05:41 What if I did this and then I drew a bunch of sprites and I was like, yeah, I should actually start working on that.
+00:05:46 And then I did.
+00:05:47 So it's been about a year.
+00:05:49 I was working.
+00:05:50 I worked in it a little bit like a month or two beforehand before I actually so in like the most general sense, I guess maybe like a year and like two a month or two, something like that.
+00:06:02 So it's been about a year basically.
+00:06:05 And then, you know, now it's a video game.
+00:06:10 Now it's a video game.
+00:06:13 Yeah.
+00:06:14 Yeah.
+00:06:17 Patreon.com slash Ben St.
+00:06:20 Gonna be a beta tester and also get your name in the credits.
+00:06:23 Oh, give turned her microphone off.
+00:06:25 How, how strange.
+00:06:26 Sorry, somebody came to the door.
+00:06:28 Oh, it's okay.
+00:06:29 It gave me time to plug my shit once, once more.
+00:06:33 So that's fine.
+00:06:34 Yeah.
+00:06:35 So that's, that's all epic.
+00:06:38 I'm glad it's finally getting to a finished state.
+00:06:42 Yeah, me too.
+00:06:43 You and me both.
+00:06:46 And it's been.
+00:06:48 Yeah.
+00:06:49 Yeah.
+00:06:50 It's been a journey, I tell you.
+00:06:52 I've been, I've literally, I've spent like all of December working on it like all day every day.
+00:06:58 Almost.
+00:06:59 I mean, you know, not like 24 hours a day, but like, you know, probably, probably about
+00:07:03 like eight to 10 hours a day, Monday, Sunday through Saturday, except when I go to like
+00:07:10 work out with my secret project is similar in that it has taken a while and it is very
+00:07:17 close to being finished and show showable.
+00:07:23 But right now I don't know whether it'll be ready by the time this episode comes out.
+00:07:27 So I still don't want to like, I don't want to, I don't want to say anything.
+00:07:31 I don't want to say a single dang word.
+00:07:34 My.
+00:07:35 And I don't take, don't take this the wrong way, but I know that I was saying that like
+00:07:42 Phantom's Revenge was almost done since fucking like April.
+00:07:47 So I don't know.
+00:07:49 Well, I mean, do you really think it's like a week out?
+00:07:51 Like it's that close?
+00:07:54 The bulk of the project, yes.
+00:07:56 I think the last thing left is like management, like media marketing menagerie.
+00:08:06 Like it's making it look nice so that when I, because I don't want to just come on to
+00:08:11 the procrastinated podcast and say, hey, download the thing.
+00:08:14 Link in description.
+00:08:15 Yeah.
+00:08:16 I don't want to just, I want it to be like a bit bigger than just this podcast reach.
+00:08:23 And for that, it needs marketing and it needs like a big push.
+00:08:29 I don't really know how to market.
+00:08:30 I'm just, I'm just, I'm just thinking.
+00:08:33 How they marketed.
+00:08:35 How did you know that how they marketed is a series with a narrative?
+00:08:39 I didn't.
+00:08:40 What was the narrative?
+00:08:42 Do you remember that was like the tagline?
+00:08:44 I remember the tagline, but I have no idea what it was in reference to.
+00:08:48 I guess.
+00:08:49 Well, it was going to be about the series that Trixie gave up on and didn't finish
+00:08:54 just like everything else.
+00:08:56 Okay.
+00:08:57 Enough about that.
+00:08:59 When you say you want to do a marketing push and you want it to be bigger and expand to
+00:09:04 reach.
+00:09:05 Yeah.
+00:09:06 At least like, it's hard like not to spoil it for people who still don't know.
+00:09:10 I've talked about it on my Patreon.
+00:09:12 So if you want to, which I'm caught up with, by the way, I'm caught up on the Money Spenders
+00:09:16 podcast.
+00:09:17 Yes.
+00:09:18 The Money Spenders podcast over on give and take, patreon.com slash give and take.
+00:09:23 So I explained what it is, but nobody has seen any of it yet.
+00:09:27 I think you have seen like a small bit.
+00:09:30 I've showed you.
+00:09:31 You mean the project.
+00:09:32 Tom.
+00:09:33 But that wasn't.
+00:09:34 You mean, you mean the secret project?
+00:09:37 Yeah.
+00:09:38 Okay.
+00:09:39 You've seen a little bit of it.
+00:09:40 But nobody.
+00:09:41 Wait, I didn't say, I'm like, I didn't, have I said anything thus far in the podcast
+00:09:46 that like alludes to what it is?
+00:09:48 No.
+00:09:49 Hopefully.
+00:09:50 I mean, I don't really know what the benefit is of keeping it super secret.
+00:09:55 Whatever.
+00:09:56 Psychological benefit.
+00:10:00 Yeah.
+00:10:01 But I'm very, very psyched about it.
+00:10:04 Yeah.
+00:10:05 I don't think I said anything.
+00:10:06 I was just double checking.
+00:10:07 Lamau.
+00:10:08 I'm very psyched about it.
+00:10:11 I wish I could talk about it.
+00:10:13 I think I've got like family stuff because next week is like the Christmas week.
+00:10:19 I'm seeing relatives and I wanted to be cleaning up for like a Christmas party or doing a Christmas
+00:10:25 party and then there's Christmas.
+00:10:27 Yeah.
+00:10:28 So it's hard to like fit in hours to do stuff.
+00:10:32 But I think still quite possible before the end of the year.
+00:10:37 It'll be out.
+00:10:39 Pog.
+00:10:41 That's rad.
+00:10:42 I mean, for me, I also, you know, I would like for the game to get seen outside of, you
+00:10:49 know, the PCP circles.
+00:10:51 So I guess my plan for that is my plan for that is like, well, I guess I'll make an itch
+00:10:59 page.
+00:11:00 I guess I'll.
+00:11:03 Geez.
+00:11:04 I wonder if I asked Jim Storm dancer for a plug.
+00:11:11 If he would plug, if he would like give me a retweet or something on it.
+00:11:15 That would be cool.
+00:11:16 That'd be pretty epic.
+00:11:21 I guess I don't, I guess I'll put it on my website, whatever that's worth.
+00:11:25 You know, I'll be tweet.
+00:11:26 I'll probably be tweeting about it for a while.
+00:11:29 I've changed my whole, I've changed my avatar and my tagline and stuff on Twitter.
+00:11:36 The other than like making an itch page, I don't really know how to like, you know, push
+00:11:44 it in the media, in the media landscape.
+00:11:48 I think it's weird because like yours is a very specific thing.
+00:11:56 It is a part of a larger piece, which is a niche of a niche.
+00:12:00 Yes.
+00:12:01 And so like it's true need to just trick people into downloading and playing it.
+00:12:07 Literally, that's the goal.
+00:12:09 The phantom's revenge is a year long effort post of a Trojan horse to like trick people
+00:12:15 into playing a game that is narrative heavy to make them wonder like what's the story
+00:12:19 about and then go read my comic.
+00:12:23 This is the kind, Cheesy Manfredo could learn a thing or two about how to get people to
+00:12:30 read Villainverse.
+00:12:31 I was going to say the, I think there's a somewhat of a culture on itch for people to
+00:12:40 just take a random game, buy it or get it and do like a review or a let's play of it
+00:12:46 and then you can see the let's play.
+00:12:47 They would post the let's plays underneath.
+00:12:49 So like when my brother and I made run away from snakes for Balejap, that was on his itch
+00:12:56 and people let's play it.
+00:12:58 People didn't know what the thing was, but it was just like it's a pumpkin girl.
+00:13:02 She's running away from snakes, makes sense and they did a little let's play.
+00:13:06 It's like a very small channel, not like a big deal, but it was nice to see like just
+00:13:12 random strangers who had no idea what any of this was giving it a go and talking about it.
+00:13:17 That is nice.
+00:13:18 I added, you know, there's a feature in Phantom's range.
+00:13:25 It does count your playtime.
+00:13:27 It counts your total playtime before you win and it counts like the time of your run basically.
+00:13:34 So at the end it displays a little like a little like in-game timer.
+00:13:39 So, you know, it's built for speedrunning.
+00:13:43 I was yesterday, just yesterday I was agonizing over like,
+00:13:47 should I make, should I make pausing the game stop the timer or should I make pausing the game?
+00:13:53 In the end I decided to, in the end I decided to make pausing the game not stop the timer
+00:13:59 because it just seems like cheating.
+00:14:02 It's on the one hand it seems like cheating and like if you pause the game,
+00:14:06 I don't see why it should be like, oh well this time doesn't count because it's like a short game.
+00:14:11 On the other hand there was sort of a strat.
+00:14:15 This is all stupid.
+00:14:16 This is all like assuming that anyone cares to speedrun the game which would be nice but like,
+00:14:20 why would I assume that they would?
+00:14:22 But if they did, there was an advanced strat where you could pause the game right at the end of an attack
+00:14:29 and then the attack would complete and then you would, you know, with the game pause.
+00:14:38 So you could actually like, you could turn the timer off while the attack was completing
+00:14:43 in between like when one character's attack begins and the next attack, or one starts and the next one.
+00:14:49 Oh like the animation would continue?
+00:14:51 Yes, basically you could use pause exploits to stop the in-game timer during like attack animations is what I'm trying to say.
+00:15:00 So does it not really pause?
+00:15:02 I decided to take that out because it does pause, it does not, pausing the game does not pause animations.
+00:15:11 It only pauses like menu inputs basically.
+00:15:16 Okay.
+00:15:18 So it doesn't really do anything actually.
+00:15:21 I mean since it's a turn-based game, like, you know, you might as well just let the, well it opens the menu.
+00:15:29 It opens the menu and it lets you toggle, it gives you the, okay, one of the complaints that I had about the game the first time,
+00:15:36 the alpha, was that it was possible to get to a state where you had no more resources at all and you couldn't do anything.
+00:15:46 You could not attack, you could not pass the turn, you just had to sit and like look at it.
+00:15:51 It was a soft lock basically.
+00:15:53 So in the menu I added an option to like if you get stuck you can just restart the run.
+00:15:59 And also in the menu there is an option that you can toggle on and off called repeat cutscenes which is basically if you've been passed a section before,
+00:16:09 you can turn repeat cutscenes off and then it will skip the dialogue and it will just play the animations and just skip right,
+00:16:19 right on speed mode, not the first time you see it, like the first time you see it you have to see the dialogue,
+00:16:24 but like the second and further on times if you just want to like, because I imagine that probably there would be some people who were playing it
+00:16:31 over and over again trying to beat it and they would get really sick of the dialogue.
+00:16:35 So I was like okay I'll give them an option to just turn it off so they can just kind of like blast through it as fast as is reasonable.
+00:16:42 So that's really what the pause menu is for.
+00:16:45 You don't actually need to pause the game for any like practical reason.
+00:16:49 Uh yeah.
+00:16:51 Yeah.
+00:16:52 Video games.
+00:16:57 Man, I don't know.
+00:16:59 I wonder, you know I was thinking the probably the biggest effort post I ever made before, well I guess the two biggest effort posts,
+00:17:10 the first one would probably be Vapors Chapter 1.
+00:17:12 I worked on that for like six months.
+00:17:14 And then the Champion Chapter 1 was even bigger than that.
+00:17:19 And I worked on that for almost a year maybe?
+00:17:22 Dang.
+00:17:23 I don't even remember.
+00:17:25 And I hope, I feel like after I've released the first Vapors I feel like that was like a big turning point for me where suddenly I had something,
+00:17:40 I had done something that I could point out and say like this is what I did.
+00:17:43 I did this thing.
+00:17:45 This is like something I can sort of hang my hat on and build an identity around that I made this thing.
+00:17:53 And I guess I hope that having spent all this time and built Phantom's Revenge it will do something similar for me.
+00:18:03 It will be another feather in my cap so to speak and it will advance my career online in some meaningful way.
+00:18:09 I don't know what way exactly but that's the hope I guess.
+00:18:14 I hope it's not all for the sake of like haha I made a silly game and it's funny that I did that.
+00:18:22 Oh well, never mind.
+00:18:25 You know what I'm saying?
+00:18:27 Yeah, I don't know commercially how well something like that could do because of how niche it is.
+00:18:35 But I don't think any of the time spent making like an art piece is necessarily wasted if people in your audience can like appreciate it.
+00:18:48 I guess it would be nice if like maybe just people who are into indie games like the indie gaming scene maybe noticed it
+00:19:02 because it is one such thing of those types.
+00:19:11 I guess that's what I hope for is indie game people see it and they're like hey that's a game that a guy made and it's pretty cool.
+00:19:21 It would be pretty cool to be like you know you made your game and then oh what was this new Mathematosis video?
+00:19:28 Oh my god.
+00:19:31 That'd be neat, that'd be neat.
+00:19:42 I think my instinct, I'm gonna make the beta version a little bit easier.
+00:19:48 The alpha version was really hard.
+00:19:51 I made some concessions to player ease to like in the alpha.
+00:19:58 I think I need to make a few more.
+00:20:00 I think I need to make it even more lenient to make it like playable by human beings.
+00:20:06 Someone on Twitter asked me like will this version be playable by humans?
+00:20:10 Yeah, I don't need to demand perfection.
+00:20:15 I need to demand perfection from the player.
+00:20:17 I just want them to, I said this before, I just want the game to be, you can't beat it unless you know what you're doing.
+00:20:26 As long as you need to, as long as to some extent you need to know what your strategy is for beating it
+00:20:33 and that's required to beat it, then like it's okay.
+00:20:37 That's the threshold of difficulty that I'm looking for.
+00:20:41 There's like a couple types of games where like a game where you can be like really bad and still have fun
+00:20:51 but if you want to be incredible and do like speedrun stuff, the world's your oyster
+00:20:58 and you can really super min-max your movement and stuff like that.
+00:21:02 Those work good in like 3D games where the amount of places you can be and it's like very wide
+00:21:11 but like moving around a character and just jumping a little bit, that's just generally fun.
+00:21:16 And then there's like games that you're making where like the skill floor is a little higher but not too high.
+00:21:27 I hope it won't be too high.
+00:21:30 I don't want it to be insanely high.
+00:21:33 I don't know games of this genre too well.
+00:21:36 It's kind of like turn-based Final Fantasy-esque stuff, RPG thing.
+00:21:44 But Final Fantasy is extremely basic and you can just go grind out levels and be overpowered if you really need that.
+00:21:51 This is more like a puzzle game it seems, or at least that's what I got from the previous version
+00:21:58 where you need to figure out all of the different mechanics in order to figure out the puzzle of what to do.
+00:22:04 It is a bit of a puzzle presented as a JRPG menu-based battle.
+00:22:11 There's sort of a, I would say there are a couple different tricks you have to figure out.
+00:22:17 There's more than I think you would expect.
+00:22:22 I think the Alpha version, very few people were able to beat it.
+00:22:27 And those that did, all of them, I think all of them had a moment where they thought they figured it out.
+00:22:34 And then they were like, oh I got it, I get what I need to do.
+00:22:36 And then they did it, they were like, so here's what I'm going to do, here's the plan.
+00:22:40 And then they did it and they executed on it perfectly.
+00:22:43 And then they still lost and they were like, oh my god, I can't believe it.
+00:22:47 But then they figured out there was just another step to it that they had missed.
+00:22:52 So your sort of game is a higher skill floor.
+00:22:56 So the difference between people who can beat it and people who can beat it really well and quickly is not very big.
+00:23:03 So as long as the floor isn't too high, I think it'd be enjoyable.
+00:23:07 I kind of think of like a Phoenix Wright game as like a similar sort of puzzle where if you pay attention to the dialogue that's said in the game,
+00:23:19 you configure almost everything out without guesswork and reloading saves.
+00:23:26 But if you are like, you don't put the pieces together, sometimes it's a little bullshit.
+00:23:33 But I've played through recently having not, like I kind of forgot the, it's been a year since I played them.
+00:23:41 And I kind of forgot the solutions to puzzles.
+00:23:46 And I found that if I paid attention to what was being presented to me, I could figure out what the game like was hinting at.
+00:23:53 And I did figure out things and it felt really, really good to like combine that observation with the correct answer and do it every time.
+00:24:03 It was great.
+00:24:06 The difficulty, Phantom's Revenge, I wanted it to be not insanely difficult, but I wanted it to be somewhat difficult because like it's sort of like a narrative thing.
+00:24:20 Like the story of the game is that Phantom has gone somewhere to do something and what he's doing is dangerous and if he fucks up, he's going to die.
+00:24:32 And I want like you to feel that way as the player. You're like, I need to be careful and not fuck up or I will die and it will upset me.
+00:24:42 So it's like, it's like narrative coherence or whatever.
+00:24:47 I want, it's a Gazampt Kunstwerk is what I'm saying.
+00:24:50 It's all the, all the, I want, yes, I want Ludo narrative harmony is what I'm saying. I'm a genius.
+00:24:59 Ludo narrative euphoria.
+00:25:01 Yes, yes.
+00:25:05 So that's why that's it's it's not it's not difficult just because I think games that are hard are fun are cool, even though I do think that it is.
+00:25:18 Yeah, it is satisfying to successfully complete a puzzle that that, you know, where you I mean,
+00:25:29 I don't like things that are on like on on what's the word on figure out a ball you couldn't see it coming and you get yet to trial and error trial and error.
+00:25:39 That's the worst thing I think in a video game is trial and error.
+00:25:42 Oh, well, that's the worst thing Ben saying is the worst thing.
+00:25:48 Okay, sorry.
+00:25:51 I'm sorry.
+00:25:52 You will definitely have to lose a few times.
+00:25:55 Well, I mean, in Phantom's Revenge and figure out why you died to be like, hmm, what can I do differently?
+00:26:02 There was a bit of that necessary, I think.
+00:26:05 That's that's okay.
+00:26:07 It's okay.
+00:26:08 If it's to folks for different folks, I guess it's it's it's a pet peeve of mine because it's it's not really that big a deal.
+00:26:15 It's like, you know, uncharted.
+00:26:17 A lot of a lot of where the enemies come from is like, they just pop into frame and they just you don't know exactly where is the safest place to be at any given time.
+00:26:27 And if you're found out of position on the wrong wave, it's kind of impossible to get to a safe place and win on that very hard difficulty.
+00:26:36 So it is a trial and error game.
+00:26:39 But but the part the things they do are like the same every time.
+00:26:43 So you can figure it out down.
+00:26:45 But I just I just don't like the trial.
+00:26:47 Yeah.
+00:26:48 I don't like making errors.
+00:26:49 It's cringe to.
+00:26:51 Okay.
+00:26:52 Okay.
+00:26:53 The alpha version was very much trial and error because you you had to like you had to get to you basically had to get to a room to find out what was in the room.
+00:27:04 And then by the time you got there, it would be too late to like figure out like, OK, how what am I going to do?
+00:27:11 How am I going to respond to what's in the room?
+00:27:13 Like, what's my strategy here?
+00:27:16 You basically had to memorize the level layout and then like plan accordingly to be to be ready for the room when you got there.
+00:27:26 So to make it a little more forgiving, I changed it so that you no longer like now when you beat one room, you don't immediately go to the next one.
+00:27:35 You get to like you get to like prepare yourself to move on to the next room.
+00:27:40 And I also added a scout command that tells you what's in.
+00:27:45 Phantom does a little like peering animation.
+00:27:48 He's going like, huh, what?
+00:27:50 And it tells you like it tells you what's in the next room before you go there.
+00:27:54 So so the game is more like Dark Souls now and that in theory, you could beat it on your first try because you you can know what's ahead.
+00:28:02 If you are scrupulous about it.
+00:28:05 So I did.
+00:28:06 You're right.
+00:28:07 Your trial and error is OK in moderation, but there's such a thing as too much.
+00:28:12 So you cut down on it.
+00:28:13 I did make some accommodations.
+00:28:15 I think an acceptable amount of trial and error is like baby steps at the beginning where you're like, oh, I don't know what I'm doing and you're expected to make mistakes.
+00:28:23 But the consequences for those are not like start the whole game over.
+00:28:27 It's it's just like you get hurt a bit and you could still recover and win from there.
+00:28:32 The the line for me is that in the in the alpha without those features, the trial and error was around like you would know a player would know what they wanted to do.
+00:28:44 But like they would they would know what they had to do, but they would get somewhere and then be like, well, it's already too late.
+00:28:51 I've already I've already not set up to do the thing that I want to do and like I have to just redo it.
+00:28:56 I wanted to make it so that like if you're being careful and like you you have to play it and you have to do trial and error until you understand like, OK, this is how I need to respond to this situation.
+00:29:08 And once you learn that, then you can as long as you know, OK, this situation is coming up so I know in advance what I need to do to respond to it.
+00:29:19 And in the game doesn't push you into it without time to prepare and then fuck you.
+00:29:24 You don't have to like have it fucking memorize.
+00:29:27 You don't need to have the whole game.
+00:29:29 I don't want you to need to have the whole game memorized.
+00:29:32 I just want you to understand how the game works and know how to respond to it when it does things.
+00:29:38 I don't want you to memorize what things it's going to do to you completely.
+00:29:43 OK, I think that probably explains everything.
+00:29:46 It's the sequelitis episode about Mega Man that Egoraptor did years ago.
+00:29:54 Which part?
+00:29:56 The part where they show you the things happening so you can understand.
+00:30:05 Oh, when you get these enemies do this pattern and in a safe environment so you can observe that and when they're in a more dangerous environment, you know what to do.
+00:30:15 That's the sort of building up.
+00:30:18 If you're paying attention, you can anticipate what to do when a thing happens.
+00:30:24 And so you would have an enemy that's like, oh, it's a Gribbly grab and you have to step on those guys.
+00:30:31 You have to stomp on them and that's how you get them.
+00:30:33 And then there's a big Gribbly grab and it's like, oh shit, well it looks the same.
+00:30:36 Maybe if I step on it with this big hammer thing.
+00:30:40 You got to use the giant foot power up to step on that guy.
+00:30:44 So it's like you can deduce what to do even though you've never seen it before.
+00:30:50 Yeah, basically.
+00:30:55 When I envisioned Phantom's Revenge, I describe it as I had a vision.
+00:31:04 And when I mean a vision, I literally in my mind, I saw the picture.
+00:31:08 Like this is what the game looks like.
+00:31:10 And then I made it look exactly like that and I'm like, yes, this is my vision.
+00:31:14 I hope that it is also fun as a game, as a designed game in addition to looking the way that I wanted it to look.
+00:31:28 I mean it was conceptualized as an image first and a game second.
+00:31:35 But I think I made it work, I hope.
+00:31:39 LeMau.
+00:31:41 Based.
+00:31:42 Based.
+00:31:43 Based.
+00:31:44 Based to have like a moment because I think lots of artists have moments where they're like, oh, that would be perfect.
+00:31:50 Oh, I got to make it?
+00:31:51 Oh, fuck that.
+00:31:52 And it's too hard.
+00:31:53 Yeah.
+00:31:54 And you made it.
+00:31:55 Yeah, I sort of had to figure out like what the game was, like what the challenge of it was.
+00:32:03 There were a bunch of different ideas I had for what it could be and what the story could be and what the enemy types could be.
+00:32:15 And I eventually settled on a fairly simple version of it that was like, okay, this is enough for me to execute on the idea.
+00:32:33 I mean, there's, I think I decided to just simplify it and make it like, okay, kind of the minimum amount of like different enemy types and whatever for like a quick narrative experience.
+00:32:48 Like a condensed, a densely packed, relatively short game.
+00:32:55 I didn't want to like overcomplicate it or anything.
+00:32:58 I was, there's only like, there's only like a few enemy types.
+00:33:01 There's like five or six different enemy types and some of them are like unique.
+00:33:07 You only encounter them once.
+00:33:10 So there's only three regular enemy types.
+00:33:13 But it's like the way you deal with like different configurations of them is the strategy part.
+00:33:25 I'm very excited.
+00:33:26 Game's going to be, game's basically done.
+00:33:29 Game's going to be done like tomorrow.
+00:33:32 But it will be done.
+00:33:34 It will, it will, it will most assuredly be out when you're listening to this.
+00:33:41 I will definitely stream myself playing it when I have access to the author.
+00:33:46 Oh my God.
+00:33:47 That would be super epic.
+00:33:50 Spoilers, spoilers though.
+00:33:52 Oh, spoilers for anyone.
+00:33:55 Yeah, that will, you know what I mean?
+00:33:57 All the cutscenes that I was planning on putting in the game are in it.
+00:34:01 All like the boss encounters are in it.
+00:34:04 All the sprite work is more or less final.
+00:34:07 So yeah, it is a, it's basically, the beta version is basically the full game.
+00:34:13 So complete spoilers.
+00:34:16 Oh yeah.
+00:34:17 I'll wait, I think, until the alpha.
+00:34:19 When do you think the alpha will be out?
+00:34:22 Oh, that's hard to say.
+00:34:24 I would like to get it out in the next like month or so.
+00:34:27 Okay, so it's a longer process.
+00:34:29 But it will depend on how, it will depend on how many bugs people find and how bad they are.
+00:34:37 Like I don't know exactly what's going to be, what it's going to take to fix it.
+00:34:42 I'm sure people will find bugs.
+00:34:45 I just don't know how catastrophic they'll be.
+00:34:50 So I don't know.
+00:34:52 But hopefully not very long.
+00:34:56 I think, I would say, I would say you probably don't have to wait for the final version.
+00:35:05 Well, you could.
+00:35:11 I'm debating whether I think it would be, it would make more sense for you if you wanted to stream it to wait for the alpha or just stream the beta.
+00:35:20 It is the complete game, so you could do it.
+00:35:26 But do I want you to push the game before it's available for everyone?
+00:35:33 Or do I want you to push it while it's still a Patreon exclusive?
+00:35:36 Hmm, what's the financial move here?
+00:35:40 What would Ben, the card share, let me put on my churning hat.
+00:35:44 What would churner Ben say?
+00:35:46 Like a milk churner hat?
+00:35:49 I don't know.
+00:35:53 I would take the game and I would churn it.
+00:35:57 Yes, I'm going to churn it.
+00:36:01 That's what I'm going to do on social media.
+00:36:03 I'm just going to be Phantom's Revenge posting for a while until the full release and until that's all done.
+00:36:16 I'm going to be pushing it as hard as I can.
+00:36:19 It's like I spent a year on it and I want, this is going to be my thing for a while, that I made a video game.
+00:36:26 I think it's fair. I think I've earned it.
+00:36:28 Yes.
+00:36:30 I'm not a comics guy anymore.
+00:36:32 Nah, fuck that.
+00:36:34 That shit doesn't even move.
+00:36:38 You see in these video games, they move.
+00:36:42 They're better.
+00:36:45 Yeah.
+00:36:48 Alright, enough about that.
+00:36:53 I guess people would want me to talk about the podcast situation.
+00:37:02 Oh, sure.
+00:37:05 That was like we recorded the last episode before Nate had announced Talking Pirates.
+00:37:11 The same day he announced Talking Pirates and we were all a bit like, what, huh?
+00:37:19 Yes, it was a bit, it was a little weird.
+00:37:23 It felt a little bad.
+00:37:24 It was weird.
+00:37:26 So basically Nate approached me earlier saying, we're clearly not interested in the podcast anymore.
+00:37:33 Shall we close the Patreon and all that?
+00:37:36 And I was like, it's true.
+00:37:40 We're not pushing to get the thing recorded.
+00:37:43 We're both tired of doing the podcast, I guess.
+00:37:47 We're not gagging to do it as we once were.
+00:37:53 And so it made sense to close the Patreon and all that.
+00:37:57 And I didn't expect, it was his wording.
+00:38:01 I just didn't expect a one-piece review show to immediately come up with just Nate.
+00:38:08 No.
+00:38:09 And I was a little sad and I went to DMs and I explained to him I was a little sad because it basically felt like
+00:38:17 I don't want to do a show with you specifically anymore.
+00:38:21 You got disappeared like that guy in that Stalin picture?
+00:38:25 Yeah.
+00:38:26 And I want to make it clear that I don't really have a problem with Nate doing a show about one-piece review.
+00:38:31 People have told me to do my own and then compete.
+00:38:35 I have no real interest in doing that anymore.
+00:38:38 So whatever.
+00:38:40 It was really just like, I was sad for personal friendship reasons because we'd been growing apart.
+00:38:47 And that's sort of indicative of us growing apart was Nate taking the podcast and just doing it by himself.
+00:38:55 And no hate towards him.
+00:38:59 I'm just a little somber about the whole thing.
+00:39:06 Yeah.
+00:39:07 Yeah.
+00:39:08 Well, I mean, he's not really around at all anymore.
+00:39:14 I mean, as far as I can see.
+00:39:18 So I get you.
+00:39:20 I think it's it's part of it's it's definitely part of a larger trend where he is gone.
+00:39:29 Yes.
+00:39:31 So I guess that was all I really needed to say about it.
+00:39:34 Just in case people were curious about my thoughts.
+00:39:37 That's it.
+00:39:38 I don't mind if you watch it.
+00:39:43 It sounded like it's some of the people in my discord were talking about it and it sounded like.
+00:39:49 I mean, it seems like it's more it's not he calls it a show.
+00:39:54 He calls it talking pirates like it's a show, but it's just him on stream on like his regular streams just talking about one piece.
+00:40:02 Right.
+00:40:03 That's what it sounded like.
+00:40:05 I haven't seen it.
+00:40:07 I don't know.
+00:40:08 Well, I haven't seen it either.
+00:40:09 So I don't know.
+00:40:18 I'll never I'll never get to be I'll never guess on the podcast.
+00:40:21 Like I said, I would.
+00:40:22 Yes.
+00:40:23 Time has made a liar of me.
+00:40:25 It'll it'll if if if the podcast I don't think the name I think it's it's gone unsaid.
+00:40:31 But I think the idea is that the podcast was the show that me and Nate did.
+00:40:35 If I were to do my own pirate talking one piece review show, I'd have to call it.
+00:40:41 Pirates talking.
+00:40:42 It would be the opposite of talking pirates.
+00:40:45 Pirates speaking spoken word on on all hands on deck for the new episode of one piece manga review.
+00:40:55 I am having a brain blast.
+00:40:57 OK.
+00:40:59 A a like government pirate is a corsair.
+00:41:03 So what if it was like Corsair's Discoursing or like Discourser?
+00:41:08 Discourser's got an opinion.
+00:41:12 Yeah.
+00:41:13 I don't know.
+00:41:14 I it's a little bit erudite.
+00:41:16 I think not everybody knows what a corsair is.
+00:41:19 But maybe it's OK.
+00:41:23 It's a high brow.
+00:41:25 Oh, I haven't.
+00:41:27 I learned that from school.
+00:41:30 What's that?
+00:41:31 OK.
+00:41:32 Well, that's an idea.
+00:41:33 You can have that for free if you want it.
+00:41:36 Yeah.
+00:41:38 Wasn't there a Starcraft unit called the Corsair?
+00:41:41 I don't know.
+00:41:43 I think there might have been a Protoss unit called the Corsair.
+00:41:45 And I think that might be where I actually learned the word.
+00:41:48 Protoss?
+00:41:49 Wait, I got I got I got.
+00:41:51 Oh, I thought you said Star Trek.
+00:41:53 No.
+00:41:55 No.
+00:41:57 My god.
+00:41:58 I can't believe all things that have star in the name are the same.
+00:42:02 Yes.
+00:42:03 It's the it's the it's that one.
+00:42:05 It's that one ship.
+00:42:06 I'm not even going to show it because it doesn't matter.
+00:42:08 But yes, there is a core a Protoss ship called the Corsair.
+00:42:12 So there you go.
+00:42:13 I was right.
+00:42:16 Yeah.
+00:42:18 Like a rebrand.
+00:42:19 All right.
+00:42:20 Like like a like a CP9 agent.
+00:42:22 A world government now.
+00:42:25 The government discusses those damn dirty pirates.
+00:42:29 The government discusses.
+00:42:32 It'll be like a boardroom meeting with all the the the admirals and vice admirals
+00:42:36 and be like, what are we going to do about this damn dirty monkey D Luffy?
+00:42:39 What has he been up to this week?
+00:42:41 Let's read the latest chapter one piece to find out.
+00:42:44 How about you call it like dispatches from Marine HQ or something?
+00:42:51 Really, the possibilities are endless.
+00:42:56 Something must come.
+00:42:58 Something must be very compelling to me about like an in universe review show, like a like
+00:43:04 a like a review that takes place inside the world of the work that it's reviewing, because
+00:43:10 that's what TBAP was.
+00:43:11 And now I'm I'm envisioning like, what if you reviewed one piece, but you did it?
+00:43:16 Yeah, but you did it as like a you pretend you're a Marine general being like, ah, these
+00:43:20 fucking ah, this this worse generation is making such a ruckus for me on the fucking on
+00:43:27 in my island in the grand line is making my job so hard.
+00:43:31 I don't know.
+00:43:32 That would be pretty funny.
+00:43:33 I guess that sort of thing is my jam.
+00:43:36 Initially, we were talking about the thing of the show and like what visually to put on
+00:43:42 there.
+00:43:43 And I just thought it's like, what if we had like a little intro where the seagull drops
+00:43:48 the latest chapter as like the newspaper and we're on the ship and we're reading it.
+00:43:52 That's that's like the the intro for the anime.
+00:43:55 Right.
+00:43:56 It's like the little seagull drops the newspaper.
+00:43:58 Am I crazy?
+00:43:59 I don't think not the same.
+00:44:02 Not every time.
+00:44:03 I think it's just a thing that happens on some episodes.
+00:44:05 We're like, oh, our bounties have increased and the seagull is always delivering the mail.
+00:44:11 Yeah, OK.
+00:44:12 So we would have that as like our.
+00:44:14 Oh, like let's see what's happened.
+00:44:16 But we didn't like in any way think like talk about it in character.
+00:44:20 It's funny.
+00:44:21 It's a good idea.
+00:44:22 It's a good idea.
+00:44:23 It's like it's dropping the new chapter.
+00:44:27 Yeah, basically.
+00:44:28 Yeah.
+00:44:29 That's very cute.
+00:44:30 I like that sort of thing.
+00:44:33 Well, that's that.
+00:44:36 No, dad, that's that's what happened.
+00:44:42 Man.
+00:44:43 Yeah, cool.
+00:44:46 That's it.
+00:44:47 That's all I got.
+00:44:49 Because I haven't done anything except work on my fucking game this month.
+00:44:55 I have no.
+00:44:56 I've been mostly working on my secret project as well.
+00:45:00 They paid my taxes with my new credit card and I'm going to get I'm going to get the
+00:45:06 sign up bonus.
+00:45:07 I'm a third of the way towards getting a sign up bonus.
+00:45:10 Haha, churning American Express Blue Business Cash is the new one.
+00:45:16 Pretty epic.
+00:45:19 I don't care.
+00:45:21 OK.
+00:45:22 Nice.
+00:45:23 Yeah.
+00:45:24 Yeah.
+00:45:25 Yeah.
+00:45:26 Yeah.
+00:45:27 Yeah.
+00:45:28 Yeah.
+00:45:30 Well, let's let's talk about Christmas because it's almost going to be that time.
+00:45:37 Oh, right.
+00:45:38 It's Thanksgiving.
+00:45:39 Wait.
+00:45:40 It's Christmas Eve.
+00:45:43 Okay.
+00:45:44 Yeah.
+00:45:45 I mean, you're supposed to be thankful.
+00:45:46 It's like, oh, thanks for the gift, everybody.
+00:45:49 My my brain.
+00:45:51 I thought like, oh, it's the day before Thanksgiving before Christmas.
+00:45:56 And then and my brain transformed that into the holiday before Christmas.
+00:46:01 And I was like, oh, yeah, Thanksgiving.
+00:46:03 It's Thanksgiving.
+00:46:05 Yeah.
+00:46:06 So I'm doing a little over it over at the Munchie and Kazi's house.
+00:46:12 They're doing a little gift gift swap secret Santa thing with some people and I bought
+00:46:19 a gift for that.
+00:46:20 I'm going to that's what I have to do today.
+00:46:22 That's the reason why the game will probably not be out Sunday.
+00:46:25 It'll probably be out Monday instead.
+00:46:27 You can blame them.
+00:46:29 And then and then my parents are going to pick me up on the Christmas Eve.
+00:46:33 I think we're going to do a family thing.
+00:46:35 I think they're bringing a COVID test.
+00:46:38 I'm going to take like a COVID quick test before we go to that, which frankly makes
+00:46:46 me very happy because I noticed I didn't realize this.
+00:46:50 But like this past week or two, COVID numbers are going crazy in Massachusetts anyway.
+00:46:56 I mean, I think everywhere, but like in Massachusetts, they're like getting like as bad as like they
+00:47:01 ever were, which is bad.
+00:47:04 So I'm happy that everyone will be COVID testing before we do our stupid little family get
+00:47:10 together, which I'm not even looking forward to.
+00:47:12 And frankly, if the COVID test was positive and I didn't have to go, I would say, well,
+00:47:17 there's never been a better time to get the coronavirus.
+00:47:22 At least I don't have to do this shit.
+00:47:26 But I guess we'll see.
+00:47:28 Yeah, I got to take a COVID test today because we're going to see Grandma tomorrow.
+00:47:33 We're going to drive all the way over to where she is.
+00:47:36 We're going to bring the dog in the car as well.
+00:47:39 Did I mention that like two weeks ago or so, I got my first COVID test?
+00:47:44 You did.
+00:47:45 Yeah, they stuck the thing up my nose and it was very...
+00:47:48 Yeah, we've got like self-test things.
+00:47:52 We have to do that yourself with a funny little thing on a stick.
+00:47:55 Oh, really?
+00:47:56 And then you put it in a little...
+00:47:57 Yeah, I've done that a couple of times.
+00:47:59 I think it feels better when it's like in your own power.
+00:48:04 You can decide how hard or fast to do it because I do it very slowly and it's like...
+00:48:10 So I'm going to have to do it again for the...
+00:48:13 Okay, that's fine.
+00:48:14 It wasn't that bad.
+00:48:16 No, I thought it might be really bad but it wasn't that bad.
+00:48:20 It's just because it's a place in your body that you've never scratched before because it's impossible to do that.
+00:48:26 Like deep in your nose, you can't scratch that.
+00:48:29 You can't swab that normally.
+00:48:35 It's like nerves that have never ever felt the touch of another thing.
+00:48:40 What the hell is this?
+00:48:43 This is a funny story.
+00:48:46 This is a funny story.
+00:48:48 And I guess I'll tell it because like, fuck it, who cares?
+00:48:52 I dated a girl who was into sneezing as like a kink and she taught me how to make myself sneeze
+00:49:06 and it involves sticking something up your nose.
+00:49:10 So I kind of have experience sticking stuff up my nose.
+00:49:17 So like I think I'm probably more equipped to do a COVID self-test than most actually.
+00:49:23 What about the sneezing?
+00:49:26 Was it like the volume of it?
+00:49:29 What do you mean?
+00:49:30 Like what did she like about the sneezing?
+00:49:33 I think it was like the kind of like the build up and then like the release.
+00:49:42 Like it was like the build up and release.
+00:49:46 It wasn't like a snot thing.
+00:49:49 It wasn't like about that.
+00:49:50 It was about the sneeze itself and I think it was about the build up and release of the sneeze.
+00:49:54 Like I can see the parallels there.
+00:49:57 Yeah, yeah, yeah, yeah.
+00:49:58 It is kind of funny.
+00:50:00 It's not the weirdest.
+00:50:02 I've never known anyone else who was into that specifically.
+00:50:07 It's very unusual, but it's not the weirdest kink I've ever heard of.
+00:50:11 Like I don't get it.
+00:50:13 If I got it, I would have it and I don't.
+00:50:16 But like I kind of see it.
+00:50:20 I understand the logic there.
+00:50:22 I think of like a loud big sneeze as like a shotgun blast, which is not sexy, but it is cool.
+00:50:31 There's the least scary way to do it is you take a paper towel and you twist it until it sort of becomes like a soft spike.
+00:50:47 And then you kind of stick that up your nose and it takes some practice, but there's like one or two spots.
+00:50:53 There are a couple of spots inside your nose where if you...
+00:50:57 Endspots?
+00:50:59 Like a G-spot, but an N-spot.
+00:51:02 Ew, gross.
+00:51:05 There are a couple of places where if you touch it, it'll make you sneeze very quickly.
+00:51:12 If you're really a pro like me, I guess, you can use a bobby pin or something like RIDGID.
+00:51:21 And you can stick it up there and like, you know...
+00:51:25 It doesn't have to really go that far up, but like it feels like it's going really far up.
+00:51:30 Don't try this at home.
+00:51:32 I'm not encouraging anyone to stick bobby pins up their nose or anything.
+00:51:36 No, that sounds terrible.
+00:51:37 I'm just saying I have done it and kind of know how to do it in a way that is like not particularly uncomfortable.
+00:51:46 You're adept at like luck picking your nose.
+00:51:51 I learned.
+00:51:53 Yeah, I learned.
+00:51:56 Lamal.
+00:51:59 I don't know.
+00:52:00 Man, that's just a thing.
+00:52:02 That's just life, I guess.
+00:52:05 Crazy shit.
+00:52:06 I sure hope the Omicron variant doesn't stop me from flying on January.
+00:52:12 Oh, I hope so too.
+00:52:15 Is the news...
+00:52:17 I was looking at the charts.
+00:52:19 Is the new spike because of Omicron?
+00:52:21 It's probably just because of the holidays, right?
+00:52:23 It's people seeing each other for the holidays.
+00:52:25 People going out shopping and seeing each other again.
+00:52:27 We had the same spike last year at like the same time.
+00:52:31 It's also colder, so like people be sneezing more.
+00:52:34 Yeah.
+00:52:36 I am ashamed to admit that I have not yet signed up for a booster.
+00:52:43 I haven't either.
+00:52:44 I guess I should do that.
+00:52:46 I should have done it like a few weeks ago.
+00:52:50 I haven't done it yet.
+00:52:53 The other reason I got the vaccines earlier was because the NHS texted me and said,
+00:52:59 Alright, get your thing, here's a link.
+00:53:01 I'm like, okay, I don't want to do any work for this.
+00:53:06 Just tell me where to go and I'll do it.
+00:53:09 But now I got to sign up for the booster or else wait for them to tell me, which might take a while.
+00:53:15 Yeah, they have not sent me any encouragement.
+00:53:19 I haven't gotten any message.
+00:53:21 No, I got an email that was telling me boosters are available.
+00:53:24 I haven't gotten texts or anything.
+00:53:27 Yeah, I should have done it a few weeks ago and now I feel very silly
+00:53:33 because now it's too late for me to get one before Christmas and see the family and stuff.
+00:53:40 So that's why I was relieved to hear that I guess we're all doing like at home COVID tests
+00:53:44 before we do the get together, like, you know, good for them.
+00:53:48 Glad my family is okay about that stuff.
+00:53:52 Most of my family are not complete shit.
+00:53:56 It's just good.
+00:53:58 Yeah, I think there's only been so far one family member like a relative
+00:54:07 that has expressed doubt over the existence of COVID.
+00:54:12 Come on.
+00:54:14 This was a while ago, but it was still like, come on.
+00:54:17 It was the argument was like, I just don't know anybody
+00:54:21 and they were living in a part of the country that was very low emission, low transmission.
+00:54:26 There wasn't a lot of people getting it over there.
+00:54:28 So she just didn't physically know anyone who had got it.
+00:54:32 And then we were there and we explained, oh, no, we had a friend whose whole family got it.
+00:54:39 And she was like, what?
+00:54:41 Oh, it wasn't even really that bad.
+00:54:44 It was just sort of like, yeah, okay, you're an idiot, though.
+00:54:50 Yeah, yeah.
+00:54:53 It doesn't sound like the worst.
+00:54:56 I also, I mean, I don't know anyone in real life.
+00:54:58 I know people online who have had it or got it.
+00:55:05 I guess my dad, he tested positive for it, but then he had like no symptoms.
+00:55:10 So it may have been a false positive.
+00:55:13 We're not really sure.
+00:55:15 So I'm not sure if that counts.
+00:55:19 Oh, man.
+00:55:21 Coronavirus, it's tricky.
+00:55:23 I heard some people saying that the Omicron variant, and I hope this is true.
+00:55:31 I kind of hope this is true, that the Omicron variant is more transmissible, but less severe, which would be kind of good.
+00:55:40 If a less severe variant became the dominant strain.
+00:55:44 I think that would be good.
+00:55:46 That's the thing people were talking about ages ago in like early 2020 where like virologists were like saying a virus survives best when its host does not die.
+00:55:59 So it will tend to become something more akin to a common cold or a flu, which is something that nobody really, people die from it still every year.
+00:56:10 But like, it's not like the massive killer, the plague that we were dealing with earlier.
+00:56:15 So it might be doing that right now, like getting into a stage where it just is the sort of thing you would catch if you go outside and sneeze.
+00:56:25 You'll be a bit poorly for a bit, and then you'll be getting better, but I don't know yet how far along that is.
+00:56:34 It still seems like as deadly enough as like the Delta.
+00:56:38 I haven't heard enough information.
+00:56:41 You know, the initial spike in cases carried with it like a big spike in deaths because like, you know, hospitals were overcrowded.
+00:56:51 You know, since then like cases spike and deaths, deaths increase with the spikes, but not like to the extent like big, big spike in Massachusetts lately, one of the biggest spikes ever over the last few weeks in cases.
+00:57:09 Deaths are up, but only like a little up.
+00:57:14 They're up to like maybe like 25 a day, 30 a day from like, you know, whereas like back in the in the original, it was like, I think like, was it 1000s a day?
+00:57:26 No, there's no way.
+00:57:27 In a bussen?
+00:57:28 No, no, he can't have been 1000s a day.
+00:57:32 COVID cases.
+00:57:34 No, I'm talking about Massachusetts specifically.
+00:57:37 Okay.
+00:57:38 Oh my God.
+00:57:39 I guess I'll just show it because it's a, so this, this, oh God, no, this is cases in Massachusetts over, over like the full pandemic.
+00:57:51 So as you see, cases are up.
+00:57:55 Cases, cases are looking good.
+00:57:57 We're getting there.
+00:57:59 Is there, do you have a death thing?
+00:58:01 Yes, yes, I do.
+00:58:03 Because deaths looks like this.
+00:58:09 There you go.
+00:58:11 So, you know, you see very clearly the earlier strains of the virus were more deadly.
+00:58:17 Okay.
+00:58:18 So at the very, very height, we were doing like 100 plus a day in deaths.
+00:58:23 And now, you know, when they're, when they're, God, look around like July, man, around July, there were like no cases.
+00:58:30 We have to go back.
+00:58:31 We have to go back.
+00:58:34 Yeah.
+00:58:35 But then, so, you know, deaths are up, but they're up to like 20 a day, not like, not like 100 a day.
+00:58:42 So, you know, I mean, it could be better, but it could be a lot worse too.
+00:58:48 And I guess it's, I guess it's the case of like treatments are getting more effective.
+00:58:53 I guess it's, I guess it's a combination of treatments getting more effective, but also probably the most vulnerable have already died off.
+00:59:00 Right.
+00:59:01 So that was the first wave.
+00:59:03 Then it was, and then hospitals are no longer as overcrowded.
+00:59:07 Hospitals are more prepared for it.
+00:59:09 Treatments are more effective.
+00:59:10 Maybe it's also the case that the virus is mutating and becoming less deadly in order to better propagate itself.
+00:59:18 Could be part of it.
+00:59:20 Yeah, I think it's, it's likely, but I'm just spitball and just guessing.
+00:59:25 Yeah.
+00:59:26 It makes sense in theory.
+00:59:29 Who really knows?
+00:59:32 Yeah.
+00:59:33 The only thing I'm really worried about is the hysteria and whether a lockdown will happen before I can fly over.
+00:59:41 I mean, you know, whatever, it's, it's like, maybe I get a COVID, maybe it's a little bad.
+00:59:49 I hope you don't get a COVID.
+00:59:51 I hope you don't give me a COVID.
+00:59:53 Yes, but like on the only assumption that it's, I've got two doses of the vaccine already.
+00:59:59 I probably will be able to get a booster before I go.
+01:00:02 Likely not going to be a big deal if I get it.
+01:00:06 I just want to be able to fly.
+01:00:08 Just want to be able to fly.
+01:00:09 I just want to pump some CO2 into that atmosphere.
+01:00:12 That's all I'm really doing.
+01:00:13 That's all I really want.
+01:00:14 Yes.
+01:00:15 Yes.
+01:00:16 Yes.
+01:00:17 Don't we all?
+01:00:18 Yeah.
+01:00:19 I don't know.
+01:00:22 I hope I think we're on the same page about all this.
+01:00:28 I love the Corona virus.
+01:00:31 I love lockdowns.
+01:00:33 I love communism.
+01:00:35 I love Democrats.
+01:00:37 I love Kamala Harris.
+01:00:40 Man, I got there was a clip.
+01:00:43 There was a clip on Twitter the other day that was so incredible.
+01:00:47 It was Charlemagne the God was interviewing Kamala Harris and Kamala and he asked her.
+01:00:55 He asked her who's who's the president?
+01:00:58 Joe Biden or Joe Manchin?
+01:01:01 Do you know who Joe Manchin is?
+01:01:03 He's a guy who's integral to something, I guess.
+01:01:09 He is a Democrat.
+01:01:11 He and Kirsten Sinema are the two Democrats that are basically ruining everything and voting against all of the progressive bills that we need every Democrat to vote for in order to pass.
+01:01:24 And these two people are like build back better bill, infrastructure bills, child tax credits.
+01:01:32 No, I don't like it because the coal industry or something.
+01:01:37 Joe Manchin is the main guy.
+01:01:41 He's the one Democrat who's just like, I'm just not going to vote for anything that the Democrats want.
+01:01:48 I'm just going to ruin everything because people are paying me to do that.
+01:01:53 So he's blocking all these bills.
+01:01:57 And Charlemagne the God asked Kamala Harris who's the president here?
+01:02:01 Joe Biden or Joe Manchin?
+01:02:04 And first there's like a weird thing where like an aide starts talking on the other end of the call.
+01:02:10 They start pretending like Kamala can't hear him.
+01:02:12 They're like, we're having difficulty hearing you.
+01:02:14 We're having difficulty, we're having technical difficulties.
+01:02:19 And then they finally get past that and he asked the question again and Kamala gets so mad.
+01:02:26 She gets like flustered and like she starts pointing and she starts being like,
+01:02:30 don't be talking like you're a Republican asking who the real president is.
+01:02:36 Which is just very funny and like just like pretended he asked a different question.
+01:02:42 Just like faked outrage and like, you know, because Republicans are like, election was faked, right?
+01:02:47 From still the real president.
+01:02:49 So it's like, and like obviously that's not what he's saying.
+01:02:52 But she like worked herself into a fucking fury and was like questioning,
+01:02:57 questioning whether Joe Biden is the president is what a Republican would say.
+01:03:01 You can't ask you what the fuck and I am in charge.
+01:03:04 He is in charge and I am in charge.
+01:03:06 She got like so, it was so embarrassing.
+01:03:08 Like I couldn't believe it.
+01:03:10 I love her though.
+01:03:11 I stan a girl boss.
+01:03:16 First woman ever to wield presidential power while Joe Biden was anesthetized for a routine colonoscopy.
+01:03:24 Da, progress.
+01:03:26 The wheels of progress are turning.
+01:03:28 The only thing I know about Kamala is that she's a cop and she has done bad cop things before.
+01:03:36 She has a DA prosecutor.
+01:03:37 Put lots of people in jail for nonviolent marijuana offenses.
+01:03:41 And she laughs about it.
+01:03:42 Hee hee.
+01:03:43 Yes, and she cackles about it.
+01:03:45 She makes jokes about it.
+01:03:47 Lovely woman.
+01:03:49 We do a little incarceration.
+01:03:51 We do.
+01:03:52 Yeah, yeah.
+01:03:53 For real.
+01:03:55 So, you know, that's politics, I guess.
+01:04:03 It's looking good.
+01:04:05 It's looking good.
+01:04:06 The future is looking bright.
+01:04:11 No.
+01:04:12 Okay.
+01:04:13 Yeah, I'm sorry.
+01:04:14 I'm sorry.
+01:04:15 How dare you?
+01:04:16 That was a lie.
+01:04:17 How dare you, Ben Sainte, have positivity?
+01:04:20 That was a bold-faced lie that I, like the mainstream media, decided to propagate.
+01:04:29 I do love communism though.
+01:04:31 I do love Joe Biden's communism.
+01:04:33 I do love Kamala Harris' radical communist agenda.
+01:04:38 That much we can all agree on.
+01:04:42 I got some money.
+01:04:51 I got some money because I applied for something called an economic injury disaster loan.
+01:04:59 Last year, I applied for it because I file my taxes as like a, because I'm an independent
+01:05:06 contractor, so I file as like basically a one-man business that I am the only employee
+01:05:12 of.
+01:05:13 That's how I file my taxes.
+01:05:15 So, and there was a thing called the economic injury disaster loan where if you are a business
+01:05:20 and you have less than 10 employees, which I have one, so I do, and you live in a low-income
+01:05:27 area, which technically, I looked at the map and technically, yes, I did last year, and
+01:05:32 I still technically do this year since I moved.
+01:05:35 But you could file for this thing called an economic injury disaster loan.
+01:05:39 And if you got approved for it, two things happened.
+01:05:43 One, you immediately got something called an economic injury disaster loan, an EIDL,
+01:05:49 targeted advance, and two, you were approved for the loan.
+01:05:53 And the targeted advance is just an extra loan that you don't have to pay back.
+01:06:00 So, I applied for this loan and I got approved for the loan and they were like, you're approved
+01:06:04 for the loan.
+01:06:05 Here's some free money.
+01:06:06 You don't have to pay it back.
+01:06:08 Now, how much would you like to borrow on top of that?
+01:06:12 And I was like, none.
+01:06:14 Bye.
+01:06:15 Free shit.
+01:06:18 That was last year.
+01:06:19 And then this year, they sent me a reminder that like, hey, so you actually can, like,
+01:06:27 you only applied for like the first part of it.
+01:06:31 There's more.
+01:06:32 You can apply for like the rest of it.
+01:06:34 And I was like, oh, well, I guess I will.
+01:06:37 They were like, just tell us, just give us like all your tax information, all the money
+01:06:41 you made, give us a report month by month because there's a criteria for it.
+01:06:44 This is funny.
+01:06:45 There's a criteria for qualifying for this.
+01:06:48 During a certain period, it could be any like three month period in 2020 versus 2021,
+01:06:54 you had to have made a certain amount less this year than you did last year.
+01:06:59 Or no, it was 2019 versus 2020.
+01:07:02 And this is, this is great.
+01:07:04 The way it worked out is because I did, I reported my income exactly as, as it happened.
+01:07:09 Right.
+01:07:10 I didn't like, I didn't have to like, do any like creative accounting or anything.
+01:07:14 I just reported the facts exactly as they were.
+01:07:16 But because in 2019, I ran the Vapors to Kickstarter, which made, you know, $12,000.
+01:07:24 That one month, I made way more than I made like the next year, that same period.
+01:07:31 So because yes, there was a period during, during 2019 where I made significantly more
+01:07:39 money than I made during the same period in 2020, I then qualified for the second round
+01:07:43 of EIDL.
+01:07:44 And they were like, yeah, you're qualified.
+01:07:46 You live in a low income area and your income went down according to our metrics.
+01:07:50 Here's some more free money.
+01:07:51 Here's another targeted advance.
+01:07:53 Would you like to borrow money this time?
+01:07:55 No.
+01:07:56 Okay.
+01:07:57 Well, go, go with God.
+01:07:58 So I guess I should say thanks to everyone who donated to that Kickstarter because it
+01:08:04 made me money again from the government.
+01:08:09 So pretty, pretty cool, pretty cool.
+01:08:13 I thought it was funny.
+01:08:15 I thought it was funny that that worked out very well for me and I'm very happy.
+01:08:19 I feel, I feel blessed.
+01:08:20 I feel privileged.
+01:08:21 I got really lucky.
+01:08:22 Yeah.
+01:08:23 It's pretty cool.
+01:08:24 Pretty cool and shit like that happens.
+01:08:26 Yeah.
+01:08:27 Unfortunately, my Lord of Ghost Kickstarter was in 2020.
+01:08:30 So I, if there was a similar thing I could do, it would not work.
+01:08:34 Yeah.
+01:08:35 I made a lot more money in 2020 than I did in 2019 because of that Kickstarter.
+01:08:41 I, because of things like that, I made, I made more, I overall made.
+01:08:49 Wait a minute.
+01:08:50 Am I, am I stupid?
+01:08:53 Did this, did Lord of Ghost happen this year?
+01:08:55 What do you mean?
+01:08:56 2021.
+01:08:57 I think it did.
+01:09:00 Yes.
+01:09:01 Okay.
+01:09:02 Law.
+01:09:03 Law.
+01:09:04 2020 and 2021 are the same year.
+01:09:09 There's no difference.
+01:09:11 Yeah.
+01:09:12 Yeah.
+01:09:13 They blend into each other.
+01:09:15 Wait.
+01:09:16 Fuck.
+01:09:18 Fuck.
+01:09:19 What was it?
+01:09:20 What was I saying?
+01:09:21 Money.
+01:09:22 Money.
+01:09:23 Yes.
+01:09:24 No, no.
+01:09:25 I have, I have like an actual point to make.
+01:09:27 Oh, no.
+01:09:28 Kickstarter.
+01:09:29 Kickstarter.
+01:09:30 Oh, okay.
+01:09:32 Oh, I overall, I overall made more money in 2021 than I did in 2020, despite that weird
+01:09:43 work where like one month I made a lot more money in 2020 or 2019 because of the, whatever.
+01:09:49 I made, I made more in 2021 and I, and I made more in 2021 than I expect to make in 2022.
+01:09:57 So I mentioned, I mentioned the other day.
+01:10:02 I mentioned on the last episode that I had a secret secret project and again, I'm still
+01:10:06 not going to say what my secret secret project is, but I tease it on Twitter the other day.
+01:10:12 I added, I added Trixie and I said, I am going to humiliate Trixie and I'm going to make a
+01:10:19 bunch of money doing it.
+01:10:21 And there's nothing she can do to stop me.
+01:10:23 That, that is, that is, is a, is a tease.
+01:10:26 That's a tease for the secret project, which I will announce in the new year.
+01:10:30 And the reason I'm waiting to announce it in the new year is because I don't want to
+01:10:34 make that money this year because I want to wait until 2022 because I think it will be
+01:10:39 taxed less on it because I don't think I'm going to make as much money in 2022 as I made in 2021.
+01:10:45 So that's why I'm waiting to announce it.
+01:10:47 Otherwise I would announce it right away, but it's going to be funny.
+01:10:54 It's going to be funny.
+01:10:56 Ben's got a rap career.
+01:10:58 Ben's going to rap.
+01:11:00 Oh, it's, it's, it's the diss track, the diss track theory.
+01:11:08 By the time this comes out, it will be what five days away from New Year's.
+01:11:12 So it will be like, I don't know.
+01:11:15 I'll let, I'll let people speculate.
+01:11:17 I don't care.
+01:11:18 I don't care.
+01:11:19 It's fine.
+01:11:21 Got the time between Christmas and New Year's is kind of magical.
+01:11:28 I don't know what it is.
+01:11:29 There's nothing like special going on.
+01:11:31 It's just sort of like the, the, the big like stress is getting things ready for Christmas.
+01:11:37 Everything's ready for New Year's is really just, I don't know, buy some more alcohol,
+01:11:41 like get ready to drink some more.
+01:11:45 And you just sort of hang out for a few days.
+01:11:48 It feels, feels good.
+01:11:49 I can't wait.
+01:11:50 I can't wait for after Christmas and before New Year's and then New Year's.
+01:11:54 I love New Year's.
+01:11:55 It's the best holiday of the year.
+01:11:57 I have to wait the longest amount of time before it can happen.
+01:12:02 I guess it will be a, I guess it will be like five days where I just don't have to do anything.
+01:12:09 I guess I hope that I will be using it to crank out some, some slime and punishment phantoms revenge work on the route to the alpha release.
+01:12:23 There's too many projects.
+01:12:24 There's too many things.
+01:12:25 I'm, I have, I have worked so hard this month.
+01:12:29 I have done, I have been more productive this month than I have in forever.
+01:12:32 And it's because I was shooting for that December, December 19th launch date.
+01:12:38 And I think I want to just keep on a roll with it.
+01:12:43 Like I want to, I don't, I like, I don't want to take a break.
+01:12:46 I don't want to wait any longer.
+01:12:48 I just want to keep cranking it out when, when, when the alpha, after the beta release comes out,
+01:12:55 start drawing the rest of the comic, get it done like fast.
+01:12:59 Don't want to fucking drag this shit out any longer than I have to.
+01:13:04 Uh, I'm like, I'm like accustomed to having my nose to the grindstone now.
+01:13:10 So like, might as well just, might as well just stick with it.
+01:13:15 You know?
+01:13:16 Yeah.
+01:13:17 I, the, I've also been working hard on the secret project, but I've tried to like,
+01:13:24 occasionally jump into like getting some more of the Lord of Ghost Kickstarter stuff done as well.
+01:13:30 That's so close now.
+01:13:32 I mentioned on Twitter a little while ago that I was, I was stressing out.
+01:13:37 I was freaking out out over typography and fonts and how I need the right font.
+01:13:45 Cause all I'm doing right now is just making the thank you backers Kickstarter backers page.
+01:13:50 Then I can set it to print.
+01:13:53 It's hard.
+01:13:54 Can I ask like specifically what is, is it just the typography for the backers page?
+01:14:00 It's, um, yeah, I've done like, there's like three pages.
+01:14:06 There's the intro page where it's like, Hey, my name is Gibb and take this is my comic.
+01:14:11 And here's a little backstory.
+01:14:13 Um, there's that.
+01:14:14 That's done.
+01:14:15 I think I've written that in a way that's like not stupid and it feels sort of professional,
+01:14:22 but isn't like too professional.
+01:14:24 So I feel like it's just, it's just informational.
+01:14:28 You know, I gave just a quick note.
+01:14:31 I made a similar thing.
+01:14:32 I added a, uh, an option in the main menu of Phantom's revenge that just says, what is this?
+01:14:39 And when you click it, it just gives you a little like, like, like backstory lore readout of like this.
+01:14:44 What, like, what is this game's deal?
+01:14:46 What is, what is this relevant to?
+01:14:47 Well, it's a comic and then the comic is about a game and there's a rough character from a YouTube show and blah, blah, blah, blah.
+01:14:53 Just like someone who's never seen it before.
+01:14:55 If they picked it up, they could read that and be like, Oh, okay.
+01:14:58 That's what this is.
+01:14:59 I think you should hide that inside like an about thing that seems like just sort of generic information.
+01:15:07 Cause if, if, if a player, if a player who doesn't know what it is, it's like, I wonder what this is.
+01:15:13 And there's like, what is this?
+01:15:15 They click that and then they learn all this stuff.
+01:15:17 All at once.
+01:15:18 They're like, Oh God, maybe I shouldn't play this.
+01:15:21 You don't want them, you don't want them to ever think that they should, they should be, be able to easily ignore that menu option and think it's nothing special.
+01:15:31 I feel like once they're looking at it, they're, they're gonna, they're gonna click play.
+01:15:38 Yeah.
+01:15:39 I think so.
+01:15:40 Hopefully.
+01:15:41 Yeah.
+01:15:42 Once, once they're there, I've got them.
+01:15:45 I've hooked them.
+01:15:46 I think, I think, I hope.
+01:15:48 Anyway, was I saying something tight?
+01:15:50 You were saying about the typography and which, which things you needed for.
+01:15:54 Oh yeah.
+01:15:55 And then there was the, there's just a page saying this is the ghost story section.
+01:16:00 I've done that.
+01:16:01 That looks pretty nice.
+01:16:02 So it's all of the people, all of their links.
+01:16:06 And then there's just the, the backers page.
+01:16:10 I think I fucked myself with this because in the Lord of Ghost Kickstarter thing, the page says, with all the tears, your, the font of your name in the back of the book will be larger than the previous tier.
+01:16:24 And I thought that was funny.
+01:16:26 But, but actually going to do it, I'm like, oh God, this is a nightmare.
+01:16:30 It's a mess.
+01:16:31 Of, of formatting.
+01:16:32 I have to, I have to decide whether to like, how big they get.
+01:16:37 What is the smallest font that is like, and I don't want people to feel like being in the back of the book is like, oh, those are the little losers with a tiny name.
+01:16:49 No, they should feel like that.
+01:16:51 They didn't pledge more.
+01:16:53 I mean, yeah, but I also, it's a balancing act.
+01:16:57 It's also like, I'm not sure whether to separate them by tier and then do them alphabetically within the tier, or to just have all the names alphabetically.
+01:17:05 And then sometimes the name is really big or like medium size or small, depending on their pledge tier.
+01:17:11 I would, and that would be really weird to read.
+01:17:14 I, yeah, I think probably separating them by size is a lot simpler.
+01:17:21 Yeah.
+01:17:22 Cause then you just have blocks.
+01:17:24 I, yeah.
+01:17:25 But then it's like, there's not an equal number.
+01:17:28 Like the blocks aren't even size.
+01:17:30 There'll be like three tier levels.
+01:17:34 And then the fourth one covers the entire rest of the page.
+01:17:37 Then I have to go to another page and it's like, oh God.
+01:17:40 And then I, I want the fonts to be good.
+01:17:43 I don't want to have to use different fonts for different groups of people.
+01:17:47 I hate it.
+01:17:48 I hate formatting this.
+01:17:50 The biggest mistake in the world.
+01:17:52 Cause now this is the bottleneck and I, it hurts, it hurts my brain to look at it.
+01:17:58 I see, I see.
+01:18:01 I don't know.
+01:18:06 Sucks, I guess.
+01:18:08 I think I found an okay font.
+01:18:11 But I haven't known to spend a long, long time going over fonts, trying to find the perfect fonts.
+01:18:17 Cause when you find that perfect font, it's like, ooh, that's the one.
+01:18:20 Ah, that's just what I wanted.
+01:18:22 That's the exact tone I was going for.
+01:18:24 I don't know what tone I'm going for.
+01:18:26 It's just sort of like, I want it to be visible so that people can read their name and not be like, what the fuck is this?
+01:18:32 And I also don't want them to be too thick so that I could fit more of them on one page to minimize the amount of pages I need to print.
+01:18:41 Cause it's well over a hundred now, a hundred pages.
+01:18:45 I gotta like, keep it as, keep it, I don't know, keep it not bad, keep it good.
+01:18:53 I just want it to be good.
+01:18:54 You gotta keep it 100, you gotta keep it 100 pages.
+01:18:58 But then so many things will be deleted, all of the ghost stories will fall out.
+01:19:04 Is it, is it more than a hundred pages?
+01:19:06 Yeah, with the ghost stories and the beginning and like the, the lot of ghosts itself is like 98, 95 pages.
+01:19:14 Oh shit.
+01:19:17 Sorry.
+01:19:18 Fuck, sorry.
+01:19:19 I barely slept last night.
+01:19:20 Oh shit, it's longer than I, it's longer than I thought.
+01:19:23 Yeah, it's big.
+01:19:25 You know, it's just so entertaining that it just flies by when you read it so.
+01:19:29 That's good.
+01:19:31 Yeah.
+01:19:32 I'm proud, I'm proud of my ghost story.
+01:19:34 I really like it.
+01:19:35 Yeah, it's a really good one.
+01:19:36 They're all really good.
+01:19:38 But yours is like.
+01:19:39 I have not seen.
+01:19:40 Refined Ben St. style.
+01:19:43 Yeah, it was, it was a bit of an effort post.
+01:19:46 I have not seen, I've seen some of Kaz's and I think that's it.
+01:19:51 I don't think I've seen anybody else's.
+01:19:53 But I'm looking forward to it.
+01:19:55 Wait, give me one second.
+01:19:56 I need to grab a drink.
+01:20:01 Back with my pure Aqua key lime flavored sparkling water beverage with other natural flavors.
+01:20:08 Wow, so interesting.
+01:20:11 Thanks.
+01:20:12 One of them from Aldi.
+01:20:14 One of the best tasting sparkling water beverages I've had, but probably one of the least pure.
+01:20:21 Contains fucking bullshit like potassium benzoate, SSL fame, potassium and aspartame, which is a big cringe.
+01:20:33 Because at least sweeten it with sucralose.
+01:20:35 You fucking hacks.
+01:20:38 So I probably won't, I probably will not get these ones again, even though they're very tasty.
+01:20:43 The strawberry one is very good.
+01:20:45 It's okay.
+01:20:46 They're, they're, they're equally good alternatives.
+01:20:52 Yeah, so hopefully I can do my secret project and get the Lord of Ghost comics printed soon.
+01:21:04 It may roll over into January.
+01:21:06 I'm not too worried about that.
+01:21:08 It's kind of like everything's going to be stressful until February.
+01:21:14 Because if I can go to America in January and see everyone, that means I won't have, I won't be able to do.
+01:21:24 It's kind of like a deadline to get certain things done, like the Lord of Ghost's printed and maybe shipped.
+01:21:32 And depending on how long that takes, I might have to wait until I'm back from going to America before I can do all that.
+01:21:41 Which would be like suboptimal.
+01:21:45 It would be not the best.
+01:21:48 It'd be, it'd be kind of cool.
+01:21:50 If I could bring like a bunch of the comics with me and the plushes.
+01:21:55 And then like give them to people who like I can, who pledged and I can just give them to them in person if they're there.
+01:22:02 Or I can give you a bunch to send off to people for cheaper mailing costs.
+01:22:07 Yes, yes.
+01:22:09 And that all depends on things being done before like the, like, I don't know, the second week of January.
+01:22:18 So I don't have a lot of time to do all that and that's, it's, it feels like I can't relax even after Christmas, even after New Year's.
+01:22:29 But I guess it's not the biggest deal.
+01:22:33 There's always some shit to be doing.
+01:22:35 Yeah, it's not the biggest deal.
+01:22:37 Like if I come back at the end of January and I'm like, then I can do it.
+01:22:41 I'll just do it.
+01:22:42 It'll be fine.
+01:22:44 It would just be great to have like nothing hanging over my head or much less hanging over my head while I'm over there.
+01:22:53 And for the New Year to be new projects, like pick up old projects, finish those or do new projects.
+01:23:02 No more Kickstarter.
+01:23:04 I hate it.
+01:23:05 Sucks.
+01:23:06 It's a terrible idea.
+01:23:08 Except it's fine.
+01:23:10 It's not even, I don't know.
+01:23:14 I might do one again for like the Bail Jade book.
+01:23:18 You know, I don't know.
+01:23:20 I have the, I felt the same way after I did like Vapors 1 and Vapors 2.
+01:23:27 They both took a really long time to actually get fulfilled.
+01:23:30 It was a lot of work.
+01:23:32 And for a long time I was still like, you know, doing envelopes, going to the post office.
+01:23:36 I think I kind of just got used to it after a while and like stopped minding it.
+01:23:40 And then like when I was doing, you know, people were buying Road to Radcon and shit.
+01:23:46 And I kind of was like, hey, I kind of like this.
+01:23:50 Like someone will just send me some money.
+01:23:53 And then I just fill out an envelope, take it up, get a little stack of them, take them to the post office, just do a little errand.
+01:24:01 And then I didn't really mind it so much.
+01:24:04 And I think, I don't know, maybe it just, maybe it's become a part of me.
+01:24:10 Maybe I did so many envelopes and trips to the post office that I've just, I've learned to love my chains.
+01:24:18 I don't know.
+01:24:20 The bird has come to love its cage.
+01:24:22 It's a cool thing to be able to do.
+01:24:25 And like, I'll be glad when it's over, I'm sure.
+01:24:29 But like, I don't think it's like something I hate.
+01:24:35 It's just a bit stressful.
+01:24:37 The stressful part of it, you know what it is, you know what, it's actually not that.
+01:24:41 The difference is when it was the Kickstarter, I was like, oh my God, it's been months since I did the Kickstarter.
+01:24:48 It's been so long.
+01:24:49 I've kept everyone waiting and it's still not done.
+01:24:52 And it's still not done.
+01:24:54 But with the Road to Radcon, it was just like, I have a thing.
+01:24:59 People can buy them whenever they want.
+01:25:01 And then when they do, you know, maybe like a week later or two weeks later, I put it in the mail.
+01:25:07 And it's not like an obligation, you know, after the initial round of people that did, you know, pay Kickstarter stuff and were entitled to.
+01:25:19 After that, like extra people buying them, it was not like a past obligation that I had to think about, like, oh, I promised this months and months and months ago.
+01:25:26 It was like an extra thing where someone, it was like, you know, yeah, it was like that.
+01:25:31 I didn't feel like a, I felt like I was already done and I didn't hang it over my head.
+01:25:35 It was just like a new thing that was just sort of ongoing.
+01:25:38 So it felt different in that way.
+01:25:41 I don't know if there's any lesson to be learned from that.
+01:25:45 I'm still going to do, I'm still going to do Kickstarter in the future.
+01:25:48 Like I'm going to, when, when Slime and Punishment is done, next Kickstarter, maybe even soon, maybe even like early next year, depending on how fast I can get it sorted out.
+01:26:01 Kickstarter for Slime and Punishment, book form.
+01:26:04 That's going to be, I'm pretty excited for that, actually.
+01:26:09 That's going to be sweet.
+01:26:11 That's going to be fucking epic.
+01:26:13 Yeah.
+01:26:14 That's right. I said epic.
+01:26:16 I feel like I need to, to finish more projects before I can kickstart other things.
+01:26:21 I still want to finish Clarissa.
+01:26:23 I still want to finish the Lord of Ghosts because it needs an act three.
+01:26:27 Yeah.
+01:26:28 Well, I mean, you haven't even finished fulfilling for your last Kickstarter.
+01:26:32 So yeah, I wouldn't be thinking about a new one just yet.
+01:26:34 Oh no, no, but like, yeah, yeah.
+01:26:36 For whatever project I pick up next, it will be to finish something I already have going rather than to kickstart.
+01:26:42 Oh, yeah.
+01:26:43 Like Bailjap.
+01:26:44 Oh, that will be much later.
+01:26:45 Oh, sure.
+01:26:46 Yeah, sure, sure, sure.
+01:26:48 It's been a while, it's been, yeah, it's been two years.
+01:26:51 It's been over two years for me since my last Kickstarter.
+01:26:54 So I think I'm, I think I'm ripe.
+01:26:56 I think I'm ripe for another one.
+01:27:00 Has it been two years since Vapors 2?
+01:27:03 Yeah, it was in like October of 2019.
+01:27:06 The fuck?
+01:27:08 I know, I know, it's so fucked.
+01:27:11 I'm old now.
+01:27:13 I was young then and I'm old now.
+01:27:16 It's fucked up.
+01:27:18 How do people do things?
+01:27:20 I don't get it.
+01:27:21 A lot of people do things?
+01:27:23 No, how do people do things?
+01:27:25 Um, very carefully.
+01:27:30 You're about like, oh, I'm 20 and I'm doing things and I just did another thing and here I go doing more.
+01:27:39 And you're like, oh, it's been like three years and I didn't notice.
+01:27:43 Great.
+01:27:45 What kind of things?
+01:27:47 I don't know.
+01:27:49 I guess it's just sort of like a work ethic thing, maybe.
+01:27:54 I like the focus a little bit to work so hard that I can get an entire comic done, actually done.
+01:28:07 And, you know, I feel like I can work really fast, but only in very short bursts and then I completely lose track of time and it's been a year.
+01:28:18 And then I can like work really hard and in three months I can have like another comic.
+01:28:28 I feel like, I don't know, it's so hard.
+01:28:34 I always feel like, damn, I've done so little, right?
+01:28:41 Every time I finish a project, I look back and like, wow, that took me like six months.
+01:28:47 Wow, that took me a year.
+01:28:49 Like, wow, I wasted all that time.
+01:28:51 I could have done it so much faster.
+01:28:53 And it's always true, but it's always like, yeah, well, but you know, at least I did something.
+01:29:00 It's not like I didn't do anything.
+01:29:02 It's really hard for me to gauge like, am I doing a lot with my time?
+01:29:07 Am I doing not much with my time?
+01:29:09 Am I wasting my time?
+01:29:10 Am I using it well?
+01:29:12 And it's like, I don't know.
+01:29:17 I don't know.
+01:29:18 I don't know how to...
+01:29:19 It's so hard to gauge that.
+01:29:20 Because like who am I, what's the, am I comparing it against like the average other person?
+01:29:27 I guess, I would be comparing it against myself.
+01:29:32 Like the speed at which I did something and then the lack of doing anything is noticeable.
+01:29:42 If I could work at that speed for an entire year, I would have so much more done.
+01:29:48 I generally not try not to think about it too much, but...
+01:29:52 If I had worked...
+01:29:54 It does get to me.
+01:29:55 Yeah, if I had worked at the rate that I am working on it now.
+01:29:59 Phantom's Revenge would probably have been...
+01:30:03 I would say it would have taken about half the time, maybe even.
+01:30:08 I mean, it's hard to say.
+01:30:11 Maybe definitely six months or less.
+01:30:16 I probably could have done it in half the time.
+01:30:17 But you know, I was doing other stuff too.
+01:30:21 I was not solely focused on it for the whole year.
+01:30:24 So in hindsight, like should I have focused on it?
+01:30:28 Was the other stuff I was also doing worth the extra time?
+01:30:33 I don't know.
+01:30:34 Maybe.
+01:30:35 Who knows?
+01:30:38 It's just, it's impossible.
+01:30:40 It's an impossible question.
+01:30:46 Damn, I feel like I was gonna maybe say something else about that, but maybe not.
+01:30:51 Maybe I was just gonna repeat myself again.
+01:30:55 Yeah, I don't know if there's much to say.
+01:30:57 It's just sort of like art, creativity, careers.
+01:31:02 I'm doing stuff.
+01:31:04 I'm very excited for Slime and Punishment Kickstarter.
+01:31:09 Super excited for that.
+01:31:10 Cannot wait to be able to do that.
+01:31:14 I cannot wait for having a completed Kickstarter that didn't fail.
+01:31:19 Oh, sure.
+01:31:20 Yeah, true.
+01:31:23 Hey, remember Plebe and the Weeb?
+01:31:26 Nope.
+01:31:29 Who's that?
+01:31:30 Hey, what ever happened to those Blu-rays?
+01:31:34 They were bad.
+01:31:36 What ever happened to all that money people paid for those Blu-rays?
+01:31:41 Like the discs and then didn't do anything with them.
+01:31:45 Oh, that's crazy.
+01:31:47 That's crazy.
+01:31:48 That's funny.
+01:31:49 That's great.
+01:31:50 That's just, I get weird.
+01:31:52 I guess sometimes things like that just happen and nobody is responsible for it.
+01:32:00 Sometimes just God just does things like that and makes it happen.
+01:32:03 Oh, people are responsible.
+01:32:05 The people who pledged for it are responsible for not making it happen.
+01:32:09 Right.
+01:32:10 If they really wanted those Blu-rays that they paid money for, they would have additionally secured a Blu-ray burner
+01:32:18 and made the ISO file for the Blu-ray and got done all the work to package it
+01:32:28 and done all the work for fulfilling those orders.
+01:32:33 Just for instance.
+01:32:35 If the backers had really wanted it, they would have done that.
+01:32:38 But unfortunately, they didn't.
+01:32:40 So the person they gave money to is just, their hands are tied.
+01:32:46 They just, what are they supposed to do?
+01:32:49 What are they supposed to do?
+01:32:51 Just pull themselves up by their bootstraps and buy a Blu-ray burner?
+01:32:56 Gib, don't be ridiculous.
+01:33:00 Do you remember, did you see that?
+01:33:02 Did you see that she actually said that?
+01:33:04 She literally said, this is a direct quote.
+01:33:06 The bootstraps?
+01:33:07 Yes, direct quote.
+01:33:09 What am I supposed to do?
+01:33:10 Just pick myself up by my bootstraps and buy a Blu-ray burner?
+01:33:15 With what money?
+01:33:16 The money they gave me to do that?
+01:33:19 Are you joking?
+01:33:23 Unreal.
+01:33:24 No, it was that.
+01:33:26 I mean, it's already bad.
+01:33:28 That's what she said.
+01:33:29 But to say it like that.
+01:33:30 Totally insane.
+01:33:31 Totally.
+01:33:32 What did they expect me to do?
+01:33:34 Have money when they gave me it?
+01:33:36 Separated from reality.
+01:33:38 Excuses so deep in cope that they just like circle around
+01:33:44 and become a black hole singularity, sucking everything else inside of them.
+01:33:50 Cope so deep that information cannot even escape from its gravitational pull.
+01:33:56 All information is destroyed when passing through.
+01:34:00 And the only thing that emanates out is black body radiation.
+01:34:04 Pure noise.
+01:34:05 No signal.
+01:34:09 All right.
+01:34:11 That's fun.
+01:34:12 As always, the Blu-ray, the plea for the wee Blu-rays.
+01:34:17 Very funny.
+01:34:19 Very funny.
+01:34:21 Duh.
+01:34:23 Anyway, what was I talking about before I got on that?
+01:34:28 Kickstarter.
+01:34:29 Oh, Slime and Punishment Kickstarter.
+01:34:31 Yeah, it's going to be good.
+01:34:34 That's it.
+01:34:35 Yeah.
+01:34:36 Oh, I'm going to have to shop around for like book.
+01:34:38 I'm going to have to find like a book binding service, like a book.
+01:34:42 You know, maybe I could even now be like sending off orders for like sample books.
+01:34:46 Just like, hey, guy, send me like a sample book just so I can see like what the binding will look like and stuff.
+01:34:54 I should be, I actually did, I did a while ago do like page.
+01:35:01 Like I took all the panels and I organized them into pages.
+01:35:07 Like for eventual print.
+01:35:09 You know, I've made more, I made more pages after that, but I do have like a large section of the book arranged into pages to be eventually printed.
+01:35:17 So some of the work is done already.
+01:35:21 Because I knew I knew I would do it eventually.
+01:35:23 And the time is, the time is nearing.
+01:35:25 The time is close at hand.
+01:35:29 Oh, yeah.
+01:35:31 Well, hey, we've been going for about what, like two hours now?
+01:35:37 Oh, yeah, hour and a half.
+01:35:39 I kind of want to get going fairly soon.
+01:35:42 So what do you think about starting voicemails?
+01:35:45 That's fine.
+01:35:46 Yep.
+01:35:47 Okay, cool.
+01:35:49 Yeah, let's fucking get on with it.
+01:35:52 Let's get on with it then.
+01:35:54 How many pages do we have?
+01:35:56 What's the other area?
+01:35:58 Yeah, they're kind of a, not a huge amount, but like a kind of medium high amount.
+01:36:04 So let's try to bang them out.
+01:36:06 So I see the first one is from Janess.
+01:36:09 All right, three, two, one, go.
+01:36:12 Happy six year anniversary, PCP.
+01:36:15 I've been enjoying listening to your show weekly since early 2018.
+01:36:19 Thank you guys so much for spending a few hours each week entertaining your audience.
+01:36:25 You guys are a symbol for me that I need to live up to.
+01:36:29 Aw, shucks.
+01:36:31 Has it really been six years?
+01:36:33 This show?
+01:36:35 We've, this is, we're almost at episode 200 or 300.
+01:36:40 It's wacky because like the pony that MLP has been like, it's over a decade since that began.
+01:36:47 No.
+01:36:48 It started in 2010.
+01:36:51 No, you're kidding.
+01:36:53 Yeah.
+01:36:54 No fucking way.
+01:36:55 And I think I got into it in 2012.
+01:36:57 So it's like nine years since that.
+01:37:00 Ancient, ancient fucking history.
+01:37:02 So I say, I guess six years.
+01:37:04 And here, and here I am still making my fucking brony game.
+01:37:10 Hell yeah.
+01:37:12 Some things never change.
+01:37:15 Well, thank you.
+01:37:17 Okay.
+01:37:18 Next one is called Sports Manga.
+01:37:20 Three, two, one, go.
+01:37:22 Hello Ben, Gibb, and possibly others.
+01:37:26 How you doing?
+01:37:28 Great.
+01:37:29 All right.
+01:37:30 Y'all should read them on this, One Outs and Blue Lock.
+01:37:34 One Outs and Blue Lock?
+01:37:37 Never heard of them.
+01:37:39 My favorite sports manga is Ice Shield 21.
+01:37:42 You heard of that?
+01:37:44 I have read a lot of it.
+01:37:47 Yeah.
+01:37:48 I said last episode, and I will reiterate that I do think American gridiron football is the coolest professional team sport.
+01:37:59 I think it's cooler than Euro football.
+01:38:02 I think it's cool.
+01:38:03 It's way cooler than baseball.
+01:38:04 Fuck baseball.
+01:38:05 It's cooler than basketball.
+01:38:08 It's pretty neat.
+01:38:10 And it made for a good manga.
+01:38:11 Ice Shield 21 is a cool manga.
+01:38:13 I like it.
+01:38:14 Yes.
+01:38:15 It's very good.
+01:38:16 Yeah.
+01:38:17 Next one is called One Outs, and the one after it is called Blue Lock.
+01:38:23 So it's probably the same guy.
+01:38:25 Okay.
+01:38:26 One Outs.
+01:38:27 Three, two, one, go.
+01:38:29 Ben is a psychological baseball battle manga akin to Death Note, with a tagline, Nobody Wins But I.
+01:38:36 It features matches with pulsating plays and stellar schemes, playing both of the game and the player's psyche,
+01:38:42 home by Toshikitoa, our gambling-addicted ace pitcher.
+01:38:46 Whoa.
+01:38:47 Who, in every chapter, strikes out every team he pitches, stacking millions of yen during his off-season debut games.
+01:38:55 And that's only after using the Japanese's propensity for excitation to scam a rookie batter out of a couple hundred bucks American, by the way,
+01:39:06 during a 1v1 pitcher versus batter game.
+01:39:09 It only gets better from there.
+01:39:11 Check it out.
+01:39:13 Okay.
+01:39:14 I could see how that would be cool.
+01:39:15 That sounds pretty good, actually.
+01:39:19 Art.
+01:39:20 All right.
+01:39:21 Next one is Blue Lock.
+01:39:22 Three, two, one, go.
+01:39:24 Blue Lock, Gibb, is a psychological soccer survival game manga.
+01:39:29 It is about the Japanese Football Association funding an eccentric football scientist to create the ultimate player.
+01:39:37 So he makes a facility that is a coloring game to weed down 150 applicants to a single striker for the Japanese under-19 team.
+01:39:46 I think just read the mini-battery royale basically in the first three or four chapters with the lost person to touch a ball after two minutes, gets kicked out,
+01:39:55 and he can never join the Japanese national team ever.
+01:39:58 The same penalty anyone who gets eliminated will face.
+01:40:02 The cast is great, and the art is gorgeous.
+01:40:05 Boichi Murata, gorgeous.
+01:40:07 Sunken Rock, Dr. Stone, Ice Shield 21, One Punch Man, gorgeous.
+01:40:13 It's great.
+01:40:14 Check it out.
+01:40:15 Same artist.
+01:40:16 I think one-out sounds cool, Air.
+01:40:19 Yeah, I don't know.
+01:40:22 It's hard for me to think of a sports manga and be like, oh, that sounds fun, because I don't like sports, but usually they are pretty good.
+01:40:32 It's just a shonen thing, but with points that are normal instead of killing people.
+01:40:41 I think Ice Shield 21 is probably the sports manga I've read the most.
+01:40:46 It might be the only one that I've read a significant amount of.
+01:40:53 I should go back and finish it.
+01:40:56 I never finished it.
+01:41:00 Okay, next one is called One Lock.
+01:41:02 Three, two, one, go.
+01:41:04 Also, both manga have anime.
+01:41:07 The one-out anime only covers about 8 volumes of the 20 volumes of the manga, and it only came out in 2008.
+01:41:14 The Blue Lock anime, on the other hand, is only coming out in 2022.
+01:41:20 The manga is still running.
+01:41:22 One-out is completed, and the off-roar and the one-on-concorted Myers game, which is also great.
+01:41:27 Blue Lock is at 154 chapters, so it'll at best cover 24 chapters.
+01:41:33 If it's only 12 episodes.
+01:41:35 Sorry I sent you a little once, by the way.
+01:41:37 It was Sunday night when I started playing the latest podcast episode.
+01:41:41 Senso Sensei saying Sayonara.
+01:41:45 Nice.
+01:41:47 I think...
+01:41:49 One-out sounds kind of interesting, actually.
+01:41:53 Your description sold me on it.
+01:41:56 I might hold those names in my memory for a week, and then forget to look into them.
+01:42:03 For a moment.
+01:42:04 For a transient moment.
+01:42:06 It disappears like tears in the rain.
+01:42:08 Yes.
+01:42:09 Alright, next voicemail is an image.
+01:42:11 Let's look at it, shall we?
+01:42:13 Okay, so we've got BGE introducing Talking Pirates, my new one-piece discussion show.
+01:42:20 And then this is a Twitter reply.
+01:42:23 Twitter reply is a blue-haired SJW, I guess.
+01:42:29 A PCP fan.
+01:42:32 Adding, is your image clean enough now, or is there someone else that needs to be purged?
+01:42:36 Was it worth it?
+01:42:37 Did the cool kids start inventing you to play now that you got rid of the undesirables?
+01:42:43 Best guy ever says yes.
+01:42:46 Well...
+01:42:49 Did they, though?
+01:42:51 Did they?
+01:42:52 Did they what?
+01:42:54 Did who what?
+01:42:56 Did the cool kids start inviting him now to play now that he's gotten rid of all the undesirables?
+01:43:02 I don't know if they did.
+01:43:05 This is the typical PCP fan, though. This is true.
+01:43:09 Yes.
+01:43:10 Can't deny it.
+01:43:12 Alright, next one is rfckolive321go.
+01:43:18 Approximately six years ago, I started working on a D&D setting and it got out of hand and eventually became its own system.
+01:43:27 And I had started work on a free RPG Maker game based in it.
+01:43:33 It's gonna be fucking huge.
+01:43:36 And I've been working on it for about three months.
+01:43:41 And just a few days ago, my husband's Microsoft Surface that this was being, you know, made on, bricked.
+01:43:53 And so this is a reminder to everyone out there to back up your shit right now.
+01:44:01 Do it right now because I didn't and now I have to start all the way over.
+01:44:05 That sucks.
+01:44:06 That's awful.
+01:44:08 That sucks.
+01:44:11 On an unrelated note, though, I'm just gonna guess.
+01:44:16 I'm gonna go out on a limb and guess, Olive, that you've probably never made a game before.
+01:44:22 And I think it's probably a bad idea for you to jump into it with the idea that you're going to make a huge, epic, sprawling game.
+01:44:35 It's, I don't think, I don't, I think is, it sounds, sounds rough, sounds, sounds rough of many, many such cases.
+01:44:46 And they don't tend to work out very well.
+01:44:49 Think of it as a learning experience, I guess.
+01:44:52 I bet, I bet.
+01:44:54 Now I could be totally off base with this, but if I'm right, I bet that if you went back and you tried to make that game again,
+01:45:01 that first three months you spent figuring it out, if you tried to go back and replicate everything, you could do it so much faster, the second time.
+01:45:09 Yeah.
+01:45:10 Because you would know so much more and you would have, you would remember, I bet you could do it in half the time or less.
+01:45:17 And the skills you learned doing that would transfer to everything.
+01:45:22 Everything.
+01:45:23 I genuinely feel like I just barely figured out how to make like scenes, like cutscenes in like game maker.
+01:45:31 I feel like just this month I finally figured it out after working on the game for a year.
+01:45:35 And I was like, oh, I get it.
+01:45:36 Oh, okay.
+01:45:37 I kind of have figured out sort of like a system that kind of works and is like makes it, sort of makes it flow.
+01:45:44 And there's so many things in Phantom's Revenge that like I'm looking at now and I'm like, why didn't I
+01:45:50 standardize this?
+01:45:52 Why did I just like, didn't I, didn't I make this like a fixed thing?
+01:45:57 Why didn't I base these things on like a set of global variables that I could have referenced here, there and everywhere?
+01:46:04 Like why did I, why did I do all kinds of things?
+01:46:07 My shit, my shit is a mess and there's all kinds of things in the game that like just look, they look weird.
+01:46:13 When I see them like they look weird to me and I'm like, I know why that's weird and it's because I did it in a stupid way
+01:46:20 because I have no idea what I was doing.
+01:46:24 I cobbled it together well enough.
+01:46:28 And my game is tiny.
+01:46:30 My game is 12 rooms long.
+01:46:37 So, yeah, I don't know.
+01:46:39 Shit's hard.
+01:46:40 Shit's really, really hard.
+01:46:44 Okay, next one is called X7.
+01:46:46 Three, two, one.
+01:46:48 Actually, wait, give, did you have anything else, do you have anything to say about that one?
+01:46:51 About making a game for, you know, you were saying basically what I would be saying.
+01:46:57 Okay.
+01:46:58 All right.
+01:46:59 Sweet.
+01:47:00 All right, X7.
+01:47:01 Three, two, one, go.
+01:47:04 He's coming.
+01:47:08 Why is he coming?
+01:47:09 Yeah.
+01:47:11 He must be.
+01:47:12 What did he see?
+01:47:13 He likes whatever he likes it, or is he just happy to see me?
+01:47:18 Hey, hey, is that cum in your pocket?
+01:47:21 Are you just happy to see me?
+01:47:24 Okay.
+01:47:27 Like the implication being that the cum could be from some other means.
+01:47:32 I was just, I was just carrying this around.
+01:47:34 No, this.
+01:47:35 Oh, this cum.
+01:47:36 Oh, this cum.
+01:47:37 No, no, no.
+01:47:38 This is business.
+01:47:39 Those from a prior engagement.
+01:47:41 Okay.
+01:47:43 Next one is a pasted bin.
+01:47:45 Oh, it didn't.
+01:47:47 Hold on.
+01:47:48 It's a pasted bin link.
+01:47:51 It says, how would you react if Nate invited you to be guests on the gamer zone?
+01:47:59 It would be pretty weird.
+01:48:06 I don't know.
+01:48:08 Okay.
+01:48:09 Part of me wants to say that I would take it as like an insult because like, like because
+01:48:18 we already have a podcast and like, why are you inviting me to be on your podcast when
+01:48:25 like we already had a podcast.
+01:48:27 And, you know, the more I think about it, the more I think, yeah, that is how I should
+01:48:32 feel because, you know, like at, like at Radcon, like Nate and Trixie were talking about, like
+01:48:39 they were, they were talking about the canton.
+01:48:41 They were talking about like making canton into its own thing separate from the PCP,
+01:48:45 basically like subsuming the PCP and like, you know, make basically turning us all into
+01:48:50 canton employees.
+01:48:52 It was more, okay.
+01:48:53 It was more Trixie.
+01:48:54 It was more Trixie that was talking about that.
+01:48:57 But Nate was kind of, Nate seemed to more or less be in agreement with it.
+01:49:00 So I would kind of be like, bro, we already have a podcast.
+01:49:05 Come on, come on our, why not come back on our podcast and talk about it.
+01:49:09 Yeah.
+01:49:10 I think I would be a little insulted.
+01:49:11 I don't know.
+01:49:12 I would need like a really good, a really compelling reason to go onto the gamer zone and not feel
+01:49:18 like I've been co-opted.
+01:49:21 So, yeah.
+01:49:23 That's my answer.
+01:49:28 The next one is called Saber Spark is VV.
+01:49:32 Saber Spark is too hard to listen to.
+01:49:34 Three, two, one, go.
+01:49:37 Hey, Ben, could you do me a favor and like Saber Spark 64 just released an hour long video
+01:49:53 and I want to listen to it.
+01:49:56 I don't want to listen to Saber Spark talk for an hour.
+01:50:00 I can't listen.
+01:50:01 I can't listen to Saber Spark talk.
+01:50:02 Could you dub over Saber Spark's memes?
+01:50:07 Easily done, my friend.
+01:50:08 Easily done.
+01:50:09 And like pre-release it on your channel or something.
+01:50:12 Completely steal what Tom's top five influential games are.
+01:50:18 But I don't want to hear him talk about it with Saber Spark.
+01:50:24 I would do that except then I would have to listen to Saber Spark in order to know what I have to say.
+01:50:31 You turn on like auto-generated English captions and then you get the transcript.
+01:50:38 And I would have a mostly accurate script.
+01:50:40 Mostly accurate but slightly garbled.
+01:50:44 Slightly garbled, strange version of it.
+01:50:47 Slightly auto-corrected.
+01:50:49 Yeah, okay.
+01:50:50 Could be fun.
+01:50:53 Alright, next one is
+01:50:55 VVV on Instagram at VinnyVidiVichi4.
+01:51:00 Alright, three, two, one, go.
+01:51:04 Hey, Gab.
+01:51:06 Would you mind checking your Instagram?
+01:51:11 I added you a million years ago and I sent you a funny here and there.
+01:51:15 Oh.
+01:51:16 And then I forgot about it until I got into this Jack and Daxter group
+01:51:21 and I made some cool art.
+01:51:23 I just thought you'd appreciate it.
+01:51:25 I think it was cool.
+01:51:28 I'm looking.
+01:51:32 I have two accounts so maybe it's on one of them.
+01:51:34 I don't check too much.
+01:51:37 Oh, applications.
+01:51:40 They sure do suck.
+01:51:43 True.
+01:51:46 Alright, I'm just going to do the next one.
+01:51:50 The next one is called Thread Derailed.
+01:51:53 Three as in PoeDcast.
+01:51:55 Three, two, one, go.
+01:51:59 Yo, Nate killed the PoeDcast to make his stupid talking pirates thing.
+01:52:05 Talk about top-ten anime portrayals.
+01:52:08 Am I right, guys?
+01:52:10 Hmm.
+01:52:11 A little bit.
+01:52:12 Yeah.
+01:52:13 A little bit.
+01:52:14 A little bit.
+01:52:16 Next one.
+01:52:17 Okay, next one is a Vokeru link.
+01:52:21 And it seems to be from Doidgazers.
+01:52:24 So that's exciting.
+01:52:26 Let's give that a listen.
+01:52:29 Oh god, it's two minutes long.
+01:52:32 Three, three, two, one, go.
+01:52:35 Merry Christmas, fuckers.
+01:52:36 It's me, Doidgazers.
+01:52:38 And today we are releasing our brand new hot single featuring me,
+01:52:45 me, the Golden Bitch, and Riley.
+01:52:48 They done let the Jiggers in the door.
+01:52:51 They done let the Jiggers in the door.
+01:52:54 They done let the Jiggers in the door.
+01:52:57 They done let the No Good Jiggers in the door.
+01:53:00 Why GG, why GG.
+01:53:07 They done let the Jiggers in the door.
+01:53:10 They done let the No Good Jiggers in the door.
+01:53:13 I'm gonna shoot a horror-cury.
+01:53:14 The book is wrong with you.
+01:53:15 The fuck?
+01:53:16 Oh, you like the PCP?
+01:53:17 The book is wrong with you.
+01:53:18 The fuck?
+01:53:19 Oh, my user's got that VPD and content coming soon.
+01:53:21 Soon.
+01:53:22 No cancer without late consent.
+01:53:23 He's dead to me and you.
+01:53:25 I'm hanging out with Riley.
+01:53:26 Call us Yggers on the moon.
+01:53:28 On the moon?
+01:53:28 Give us all your money, Radcon 2022.
+01:53:31 And then you're a motherfucker.
+01:53:33 Call you Sonichu.
+01:53:34 Yeah.
+01:53:35 As for all your slanderer, it might be like Maddox.
+01:53:37 And soon.
+01:53:37 Oh, soon.
+01:53:38 So over the PCP, all they do is tell those lies.
+01:53:40 Why?
+01:53:41 So Ygg, you can see it in my soul aside.
+01:53:44 I think you're just jealous because I'm
+01:53:45 hanging out with older guys.
+01:53:47 And you are just mad because you never go outside.
+01:53:50 Never.
+01:53:50 All these PCP fans are originally on my side.
+01:53:53 They were only knowing because of me,
+01:53:54 your successes might not hide.
+01:53:56 If I compare our patriots almost every single night
+01:53:59 and keep rewatching all these videos from when we were tight,
+01:54:02 we were tight.
+01:54:03 They don't let the Yggers in the door.
+01:54:06 They don't let the Yggers in the door.
+01:54:09 They don't let the Yggers in the door.
+01:54:12 They don't let them know good Yggers in the door.
+01:54:15 Ygg.
+01:54:17 Ygg.
+01:54:19 Ygg.
+01:54:20 Ygg.
+01:54:22 They don't let the Yggers in the door.
+01:54:25 They don't let them know good Yggers in the door.
+01:54:28 Merry Christmas, fuckers.
+01:54:29 Here's a verse from the busier.
+01:54:31 21's a wrap and all you did was get sissy-er.
+01:54:34 Your secret projects kept you busy,
+01:54:36 but I was keeping busier.
+01:54:37 I've been smoking so much weed that my head's feeling dizzy-er.
+01:54:41 My verses are my curses, man.
+01:54:42 Shut the fuck up.
+01:54:43 Yeah.
+01:54:43 All you do is run your mouth, so shut the fuck up.
+01:54:46 Shoot it.
+01:54:47 You're obsessed with me and Trixie, and it's kind of fucked up.
+01:54:50 It is.
+01:54:50 Like I get it, you're a hater, and you like making stuff up.
+01:54:53 It's all made up.
+01:54:53 Ygg.
+01:54:54 W-A-T-P, the PCP.
+01:54:56 Again.
+01:54:56 You know why I think I might have smoked too much PCP?
+01:54:59 Maybe.
+01:55:00 Then your butthole must be feeling pretty sore.
+01:55:02 And it must hurt to see these Yggers open up the door.
+01:55:07 S-A-D-S, what?
+01:55:22 B-W-A-T.
+01:55:23 Wow.
+01:55:25 Well, that was a real song.
+01:55:29 From Trixie?
+01:55:30 From Trixie, yeah from Trixie and Riley.
+01:55:34 It's too real.
+01:55:36 I suppressed my reaction to all of that because I thought it deserved to just play uninterrupted.
+01:55:49 Okay, here's what I think. I think people should go and follow...
+01:55:54 I think people should go and follow Drixie the Golden Bitch at Doidgazer on Twitter.
+01:56:01 I like this stuff. I feel privileged. I feel blessed.
+01:56:07 I feel blessed to live in a world where this content exists.
+01:56:13 Go men. Go men for the track. I like that a lot.
+01:56:20 Yeah, give a... Go check out Doidgazer on Twitter. Give them a follow.
+01:56:26 I think they... I think they more than deserve it.
+01:56:30 Yeah. Fuckin' yeah.
+01:56:34 Alright, next voicemail is...
+01:56:39 Fried Vocalist. 3, 2, 1, go.
+01:56:51 Yeah, man. Hell yeah.
+01:56:55 Alright, next one is called... Oh god, it's a minute 30.
+01:57:00 It's called At Transphobes. 3, 2, 1, go.
+01:57:05 Hey, Ben and Gibb. So, spurred on by the latest episode of the PCP,
+01:57:10 I got inspired to articulate in a short form a basic argument against people who think that you can disrespect
+01:57:17 trans people's gender right entity just because they are bad people.
+01:57:21 I already know. We already explained it.
+01:57:23 From the perspective of Emmanuel Kant, he explains that every human being has what he calls a dignity.
+01:57:29 Their ability to make recent choices and direct their lives as they see fit is something inherently demanding of respect.
+01:57:35 And he then distinguishes this sense of respect from what people nowadays may conflate with respect, namely admiration.
+01:57:42 People must earn our admiration, but all human beings basically demand our respect.
+01:57:49 And respect entails at least a respect of their autonomy, their self-direction.
+01:57:53 And as I see it, this is exactly why you cannot disregard any trans person's gender identity,
+01:57:58 because respecting that is not respecting the sense of admiration.
+01:58:02 It's respecting the more basic sense of not unnecessarily interfering with another's autonomy.
+01:58:08 And I would argue that if you disregard what someone reasonably assigns themselves in terms of gender,
+01:58:17 that constitutes a disrespect of their autonomy.
+01:58:22 And it constitutes sort of a basic, inhumane disrespect of people.
+01:58:27 And I don't think that people generally ought to be able to justify that, even if that person is a bad person.
+01:58:35 Like, okay, a Kantian analysis. That's kind of interesting.
+01:58:40 Yeah, I mean, obviously I agree with the point.
+01:58:43 Sure. Yeah, okay.
+01:58:46 Alright, thanks for the smell.
+01:58:48 But have they considered that stupid people would not understand that, and therefore it's not true, actually?
+01:58:59 Yeah, they're just asking for too much.
+01:59:04 Like, obviously I'm down with the struggle. Obviously I support rights.
+01:59:10 But have they considered that maybe they're asking for too many, and the world's just not ready?
+01:59:14 Yes.
+01:59:15 This was, um, oh god, what was that?
+01:59:19 Was it like, ah fuck, I'm gonna get the details wrong.
+01:59:22 But it was some fucking state, some shitty state like Mississippi or something,
+01:59:27 that like banned Sesame Street when it was new, because it portrayed like, you know, black people.
+01:59:36 And it was like, because there were like black people and white people on the show.
+01:59:40 Oh my, okay.
+01:59:41 Yeah, yeah, they like, I don't know if it was Mississippi, but it was some southern state.
+01:59:45 They banned, they briefly banned Sesame Street when it was new, and like, it's so pathetic.
+01:59:51 It's so pathetic, like the reason they banned it, they didn't say, it's like we don't want to show like,
+01:59:57 integration and like black people and stuff.
+02:00:01 They said that the reason they banned it was because like, we're not ready.
+02:00:05 Like, society's not ready for that.
+02:00:07 Like, obviously I support, obviously I'm not a racist, but like, you know, people,
+02:00:13 but people just aren't ready to see things that aren't racist.
+02:00:16 People just aren't ready to see, so I don't support showing this non-racist stuff.
+02:00:21 Only racism please for now, you know, until people are ready for it.
+02:00:26 Yeah, you just gotta use them into it by just not doing anything.
+02:00:29 Exactly, exactly.
+02:00:30 Gib, you're a genius.
+02:00:32 Gib, I could, thank you.
+02:00:33 You're, you know, I would, I would go so far, you know, with rhetoric like that,
+02:00:37 I would go so far as to say that you're one of the good ones.
+02:00:42 Thanks for being, not one of these cringe ones that wants like, positive change or rights or anything.
+02:00:48 Thank you.
+02:00:49 You're making me very, thanks for looking out for my comfort.
+02:00:52 Okay, enough.
+02:00:55 Another, next one is Prince Annihilation, The Miracle Before Christmas.
+02:01:02 Another minute 30.
+02:01:04 Let's see if it justifies itself.
+02:01:06 Three, two, one, go.
+02:01:09 Based on a true story, it all happened about a week ago.
+02:01:14 Finally, there it was on my doorstep, road to Radcon,
+02:01:19 sent straight from the car trunk of internet pseudo celebrity Ben St.
+02:01:24 I opened it up and saw the beautiful cover art, smelled the not so freshly printed paper.
+02:01:32 Still good.
+02:01:34 The next day I went out to my internship and dreamed of reading the great literary work on my free time.
+02:01:39 But upon returning home, I was hit with intense fatigue, body aches and headaches,
+02:01:45 and I collapsed on the bed for several hours and I was unable to get up.
+02:01:49 The entire night I struggled to move, walk or even eat and mostly just slept.
+02:01:55 Could it be, I thought, could my internet hero Ben St.
+02:01:59 have sent me USA grade COVID from inside the pages of his Magnum Opus?
+02:02:04 At first thought shocked me, but then I realized that this reality would afford me new opportunities.
+02:02:09 I could e-bag Ben St. for a free I have COVID t-shirt.
+02:02:13 False.
+02:02:14 Or I could just violently myself and wrap that PCP merch for epic meme points.
+02:02:18 There you go.
+02:02:19 The next day I tested myself.
+02:02:21 Negative.
+02:02:22 I was relieved but also kind of sad.
+02:02:25 In the next two days I recovered.
+02:02:27 But then catching up on work made me so busy that I haven't actually read Road to Radcon to this day.
+02:02:33 So if you take anything from this story, I would hope it is this.
+02:02:36 Remember love.
+02:02:38 Also it's totally Tricky's fault I got m-
+02:02:41 Agree. Agree.
+02:02:46 If you-
+02:02:47 Yes.
+02:02:48 If you had read, if you had read Road to Radcon,
+02:02:54 you would know that Road to Radcon contains the true account of the origin of the coronavirus.
+02:03:02 Actually.
+02:03:03 Yes.
+02:03:04 As you remember we did Radcon at the beginning of the pandemic.
+02:03:07 Well guess what?
+02:03:08 We were there at ground zero.
+02:03:10 Chinese wet markets,
+02:03:12 eaten bat meat.
+02:03:14 All lies.
+02:03:15 All a-
+02:03:16 All a-
+02:03:17 All an op.
+02:03:18 All an op, a misdirected red herring.
+02:03:21 We have the real story and it is contained within the pages of Road to Radcon.
+02:03:26 DM me on Twitter.
+02:03:28 Please buy more copies.
+02:03:30 After all, we are the reason people are dying.
+02:03:33 We are.
+02:03:34 We always were.
+02:03:36 But now more than ever, we are the reason people are dying.
+02:03:40 Sorry.
+02:03:41 Sorry about the pandemic everybody.
+02:03:45 I hope our Patreon doesn't suffer for this.
+02:03:48 I sure hope our Patreon doesn't suffer because we did COVID.
+02:03:55 But I guess we'll see.
+02:04:00 Next one is called Thank You Technology.
+02:04:05 Wait, I just want to say,
+02:04:09 I actually am pretty proud and amused.
+02:04:14 Because it's all in the last chapter, it was all me.
+02:04:17 I guess we workshopped it.
+02:04:18 So it's not all me.
+02:04:19 You and me kind of came up with the idea together.
+02:04:22 We came up with the ideas and then you did the actual prose.
+02:04:25 Yeah.
+02:04:26 But the, yeah, that part of it is really funny.
+02:04:33 And I think it's very serendipitous.
+02:04:37 And it just worked out in a way that makes sense and is satisfying and also is really funny.
+02:04:43 Yeah.
+02:04:44 And I just love that part.
+02:04:46 That's one of my favorite things about it.
+02:04:50 There's other good shit.
+02:04:52 There's actually a lot.
+02:04:53 There's actually quite a bit of lore in, especially in the final chapter because I did it on purpose.
+02:04:59 There's quite a bit of funny lore in the final chapter of Road to Radcon.
+02:05:07 We did that stream where we workshopped what should go in there and it all went in, baby.
+02:05:17 It's a good read by a copy.
+02:05:20 Okay.
+02:05:21 Next one is called Thank You Technology.
+02:05:25 Three, two, one, go.
+02:05:28 So I graduated high school this year.
+02:05:31 Congratulations.
+02:05:32 To make it more clear, this was back again in June.
+02:05:36 And they made us login into this app to receive our diploma.
+02:05:42 So, okay, it was weird.
+02:05:44 It was really weird.
+02:05:46 And then something passed.
+02:05:49 And then, well, this thing about NFTs started showing up.
+02:05:55 And you know, NFTs, all the drama, all the stuff.
+02:06:00 And then something came back into my mind.
+02:06:04 Something scary.
+02:06:06 And I went back to check my high school diploma.
+02:06:11 And I remember this specific thing they told us.
+02:06:16 It's not a blockchain.
+02:06:17 Something about our diplomas using the blockchain.
+02:06:20 No, what the fuck?
+02:06:23 Oh my God.
+02:06:24 And then, then I wanted my phone.
+02:06:28 And then I went to the app.
+02:06:30 And then I saw my diploma.
+02:06:33 And then I clicked Validate.
+02:06:35 And there it was.
+02:06:37 This credential is a valid Ethereum credential.
+02:06:42 My fucking high school diploma is an NFT.
+02:06:46 And now I have to depend on it.
+02:06:49 I have to depend on NFTs to keep my high school diploma safe.
+02:06:53 That's horrible.
+02:06:55 How could they just do that?
+02:06:58 Okay, wait a minute.
+02:07:00 Surely, when it comes to what diplomas do you have,
+02:07:05 you'd be able to say, even if you don't have the password to the NFT,
+02:07:10 surely that would say.
+02:07:13 Okay, diplomas have existed and functioned without the blockchain.
+02:07:21 What does putting it on the blockchain, what's the fucking point?
+02:07:27 What's the fucking point?
+02:07:29 It's a stupid idiot in charge of it convinced the teachers to be like,
+02:07:34 oh, what if we did this?
+02:07:36 I would hope.
+02:07:37 This is the future.
+02:07:38 And they're like, okay.
+02:07:39 And then they just did it.
+02:07:40 I would hope that you could just fucking print like,
+02:07:44 okay, I guess thanks for the JPEG.
+02:07:47 I would hope that you can just print the JPEG.
+02:07:50 And that would function as a diploma.
+02:07:53 I would hope that, I guess I would hope.
+02:07:57 And I would expect and hope that you don't actually need to like interact
+02:08:01 with the fucking Ethereum blockchain just to like confirm your
+02:08:06 graduated status with like a potential college or something.
+02:08:10 I think that if that happens, like if it's like you need the NFT code
+02:08:18 to prove to like other schools and stuff you have the credentials you have,
+02:08:24 then a site is ruined.
+02:08:27 I feel like there must be that there would have to be a like a way around
+02:08:35 like, oh, if you if you lose the password or whatever,
+02:08:38 you could just if you have a picture of it and it's got your name on it,
+02:08:42 then that's enough.
+02:08:44 So I'm sure it's not going to be exclusively that.
+02:08:47 Yeah, but it sucks that it's happening at all.
+02:08:51 That's terrible.
+02:08:52 It's so stupid.
+02:08:53 I've been I've been seeing.
+02:08:55 Yeah, some.
+02:08:56 Yeah, some idiots in charge, I guess.
+02:08:58 I've been seeing Dan Olson's tweets about NFTs lately,
+02:09:01 and he's been doing a lot of research into them.
+02:09:04 And it's very good.
+02:09:05 I like what he has to say about them.
+02:09:07 And the other day he posted one that's like, I had not even considered this,
+02:09:11 but like there's a thing where you can take a thing or whatever,
+02:09:18 and you can mint it on the blockchain, you know, whatever that means.
+02:09:22 And that's like fine.
+02:09:23 That's cool.
+02:09:24 But like consider that there are many blockchains and there are many networks
+02:09:29 and you can and people do just take something that someone take a JPEG
+02:09:35 that someone minted on the blockchain, take the same JPEG
+02:09:39 and just go to another blockchain or every other blockchain
+02:09:43 and just mint it on those ones too.
+02:09:45 You can just steal from one blockchain, put it on another blockchain,
+02:09:49 same shit, different blockchain.
+02:09:51 You can just do that.
+02:09:53 And it's like, oh, well now it's official on my blockchain too, I guess.
+02:09:58 It's like, oh, okay.
+02:10:00 Which blockchain is the real one though?
+02:10:04 Which one do I shoot?
+02:10:07 Do they have like a date for when it was minted?
+02:10:11 I guess that would be the only thing you like have the earliest dated thing.
+02:10:17 Yeah, I guess.
+02:10:18 Yeah, I guess you could just look at the date.
+02:10:21 But then it's like, okay, but then what, right?
+02:10:25 Then what?
+02:10:26 You look at the date and you're like, oh, okay.
+02:10:28 I see that it's minted on this blockchain, on this date.
+02:10:32 So, okay, that other blockchain, like yeah, even though it says it was minted there
+02:10:38 and the blockchain is, you know, an inarguable registry of truth.
+02:10:43 You know, everything on the blockchain is permanent and immutable and it's true.
+02:10:47 But just ignore that it says it over there.
+02:10:49 Just pretend it doesn't say that.
+02:10:51 That one doesn't count.
+02:10:53 That part of that block on the chain is, it's just not real.
+02:10:57 All the other ones are real though.
+02:10:59 The original blockchain is totally real.
+02:11:01 That one's immutable.
+02:11:02 Unless there's another even older blockchain, in which case that one's the real one.
+02:11:07 But who knows?
+02:11:09 Blockchain's just like so smart.
+02:11:12 It's so fucking smart.
+02:11:14 Babies playing with blocks and their chain together.
+02:11:18 It's about the same.
+02:11:20 The babies have grown to love their chains.
+02:11:23 The greater babies.
+02:11:25 The block chains, that is.
+02:11:28 Next voicemail is called, Ben is not allowed to listen to this one.
+02:11:33 From takeoffyourredphoneshatnoseriously.fuck.
+02:11:37 What are you going to do, Ben?
+02:11:40 I guess I'll abide by its rules.
+02:11:47 Let's start the voicemail.
+02:11:49 I'll listen to it.
+02:11:51 3, 2, 1, I can go.
+02:11:53 I'll count it in.
+02:11:55 Hey, Ben!
+02:11:57 Just don't listen to this one.
+02:11:58 Don't worry about it.
+02:11:59 It doesn't concern you.
+02:12:00 It doesn't matter.
+02:12:01 It's alright. It doesn't matter.
+02:12:02 Just take your headphones off.
+02:12:03 Take the batteries out.
+02:12:04 Uncharge them.
+02:12:05 Unplug it.
+02:12:06 Make sure you can't hear me.
+02:12:07 Now he's gone.
+02:12:08 You guys want to hear a big secret?
+02:12:09 You can't tell him, though.
+02:12:10 I promise you won't tell him.
+02:12:11 Yeah.
+02:12:12 So you know how he gives you $2 for every dollar that you want patron from Trixie?
+02:12:16 Well, here's what you do.
+02:12:18 Give Trixie a dollar and on patron, Ben gives you $2.
+02:12:22 Give Trixie $2 on patron, Ben gives you $4.
+02:12:27 It's infinite money.
+02:12:28 It's exponential growth.
+02:12:32 You can't tell him, though.
+02:12:33 Promise you won't tell him.
+02:12:34 Because if you tell him, he'll patch it.
+02:12:35 It's going to be our little secret.
+02:12:36 I won't.
+02:12:37 Okay.
+02:12:38 You can ask what we were talking about.
+02:12:39 Just say we're talking about how gay he is.
+02:12:42 Ben, you can come back in now.
+02:12:44 I promise we were only talking about how gay you are.
+02:12:50 I lied.
+02:12:51 I fucking lied.
+02:12:52 Oh, no.
+02:12:53 I lied.
+02:12:54 I listened to the voicemail.
+02:12:57 I'm patching it.
+02:12:58 I'm patching it.
+02:12:59 A patchy.
+02:13:00 The...
+02:13:01 No, I look.
+02:13:02 I look.
+02:13:03 Not that anyone has...
+02:13:05 Sadly, no one has taken me up on the offer for a while, but when they did, I look at
+02:13:10 the record and I see, like, did someone just pledge...
+02:13:14 I would probably be able to tell if someone were trying to scam me like that.
+02:13:20 Scam me out of a whole dollar.
+02:13:22 Because I can see the number.
+02:13:24 I can see number go up.
+02:13:27 I can see patron number go up.
+02:13:30 I can see patron number go up.
+02:13:33 The record is there on GraphTreeOn.
+02:13:35 I can just refer to it.
+02:13:37 If the number were to go up by five dollars and you were like, I'm a five dollar patron,
+02:13:42 I would be like, well, I think you're scamming me, buddy.
+02:13:47 Yeah, I got pretty early in the morning to pull one over on this guy.
+02:13:53 Next one is not a voicemail.
+02:13:55 It's just a question.
+02:13:56 I can see the Tara Strong NFT film project.
+02:13:59 I saw the Tara Strong was doing NFT stuff.
+02:14:03 I didn't really look into it any further.
+02:14:06 I also saw that she's like an anti-vaxxer, which is very funny.
+02:14:11 Twilight wouldn't be an anti-vaxxer.
+02:14:13 I don't think so.
+02:14:15 I think Twilight would be a Democrat.
+02:14:19 I think Twilight would love Kamala Harris.
+02:14:22 Kamala Harris.
+02:14:24 I forget which is the right way to say it.
+02:14:26 I think it's Kamala.
+02:14:28 Twilight Sparkle would stan Kamala Harris and Ruth Bader Ginsburg.
+02:14:37 That's it.
+02:14:38 That's all I have to say.
+02:14:39 Obviously she'd be vaccinated, but she would love NFTs.
+02:14:43 She loves the blockchain.
+02:14:45 She's like, oh my God, it opens up.
+02:14:47 Oh my God, we can open up so many opportunities.
+02:14:49 Oh my God, smart contracts.
+02:14:52 Bro, it's revolutionary.
+02:14:54 I don't even want to know what a smart contract is.
+02:14:57 Tom seemed to think that a smart contract was like one of the good things that a blockchain can do.
+02:15:02 I didn't understand his explanation of it.
+02:15:05 I don't believe it.
+02:15:06 I still don't believe that it's real or that it matters.
+02:15:09 Is a smart contract like a contract that you can't edit afterwards?
+02:15:15 Is it like a tweet?
+02:15:17 I don't know.
+02:15:21 I mean, whatever it is, whatever it is, it would still have to be drafted by humans.
+02:15:28 The terms of it would still have to be agreed upon by a human.
+02:15:32 Maybe it makes it...
+02:15:38 Maybe the confirmation of receipt is on the blockchain, I guess.
+02:15:44 Maybe it happens automatically, but it would still have to happen in response.
+02:15:48 Maybe fulfillment happens automatically, but it would still have to happen in response to a human telling it like contract fulfilled.
+02:15:56 There has to be some...
+02:16:00 Whatever it is, I'm sure it's still gameable.
+02:16:03 I have yet to see any problem that the blockchain solves.
+02:16:09 Okay, so next one is,
+02:16:13 Worst holiday gift you ever got or weirdest gift you ever got?
+02:16:20 Man, I don't know.
+02:16:23 No bad gifts spring to mind.
+02:16:29 Or weird gifts, I guess.
+02:16:33 Gifts are nice, usually.
+02:16:38 I'm sorry, a disappointing answer, I can't think of any...
+02:16:43 This one time I got a really fucked up gift, I don't think I have any...
+02:16:48 Like that, sorry, I wish I did.
+02:16:50 This one time Santa took a dump down the chimney, he didn't even leave any presents.
+02:16:56 That's weird.
+02:16:58 One time I did give a fucked up gift, and that one time to prank my family.
+02:17:04 When I was a kid, I replaced everything in the stockings with coal.
+02:17:10 I bought a bunch of coal from Building 19, and then I put coal in everyone's stocking before everyone woke up as a prank.
+02:17:19 I thought it was really funny, but it didn't go over well.
+02:17:24 Nobody laughed or liked it, or was like, wow, what the heck?
+02:17:28 We were little kids, and Nate was even littler than me.
+02:17:31 I remember Nate just seemed confused and upset, and I was like, ah, jeez.
+02:17:37 Ah, fuck. I thought it was funny.
+02:17:40 Oh, well.
+02:17:42 It's the punchline without a setup.
+02:17:44 They're just like, what is this?
+02:17:46 Yeah, I don't know, whatever.
+02:17:50 Oops, not in the mood, I guess.
+02:17:55 Next one is Nate's real nobody name.
+02:18:00 3, 2, 1, go.
+02:18:03 You scrimble McBrimblows.
+02:18:05 Nate's nobody name would obviously be Zontay.
+02:18:09 That's X-A-N-T-E.
+02:18:12 That's pretty good.
+02:18:14 Zontay.
+02:18:16 That's a good name.
+02:18:21 Some stay dry, but there's nobody who had enough.
+02:18:26 Chocolate Rain wrote a song about black history.
+02:18:31 Chocolate Rain.
+02:18:33 Now I'm paid a hefty, hefty fee.
+02:18:37 That was for some commercial.
+02:18:43 He sang that version of the song.
+02:18:45 It's not really about black history.
+02:18:47 But it's about black...
+02:18:50 It's as much about the present as it is about history.
+02:18:53 They made him say black history.
+02:18:55 No, no, it's about a thing that used to happen.
+02:18:58 Don't say it's about systemic racism in the modern era.
+02:19:01 You can't say that.
+02:19:02 That should have been the line.
+02:19:04 That would have rhymed really well if he had said,
+02:19:06 wrote a song about systemic racism in the modern era.
+02:19:09 That would have been really good.
+02:19:13 Next voicemail is called,
+02:19:16 Sorry Uwu, 3, 2, 1, go.
+02:19:20 Ben, I hope you've missed me.
+02:19:22 I'm sorry I haven't left a voicemail in a couple weeks.
+02:19:25 I've been too busy having sex.
+02:19:27 It's been really sad without you, man.
+02:19:29 But I get it.
+02:19:30 I get it.
+02:19:31 You gotta fuck.
+02:19:33 You gotta fuck when you gotta fuck.
+02:19:35 Sometimes you gotta fuck.
+02:19:37 Who am I to stand in the way of progress?
+02:19:42 Next one is hashtag drew dump December.
+02:19:46 I think it's probably supposed to be hashtag dry dump December.
+02:19:50 If you remember reference to our two weeks ago,
+02:19:53 our discussion with to snaker about our new,
+02:19:58 our cool new thing.
+02:20:00 Next one is three.
+02:20:02 Okay, drew it drew dump December 3, 2, 1, go.
+02:20:05 Hey PCP, you deserve another W.
+02:20:08 Because I am now three weeks into dry dump December.
+02:20:13 And I feel fucking ascended.
+02:20:15 It's not even three weeks.
+02:20:17 This is the state of mind humans were always supposed to be in.
+02:20:21 All the moisture that was supposed to go into my shit
+02:20:25 is now hydrating my entire body,
+02:20:27 making me basically an ubermensch in this fucking society of low people.
+02:20:33 Low people who like don't fap.
+02:20:35 What the fuck is that all about?
+02:20:37 No fact November, dry dump December all the way.
+02:20:40 I'm so fucking hydrated.
+02:20:42 I'm running marathons and I don't even feel it.
+02:20:46 Even if I sweat profusely, I still got that moisture.
+02:20:50 That's how hydrated I am from not even taking a fucking dump.
+02:20:54 So, well, I mean, I guess my ass does hurt quite a bit.
+02:21:01 And I do feel like I'm gonna burst any second now.
+02:21:04 That's okay.
+02:21:05 I might spray out my mouth.
+02:21:06 You just gotta work through that.
+02:21:08 But this is literally the best I've felt my entire life.
+02:21:13 So, I highly recommend dry dump December.
+02:21:17 You know.
+02:21:18 Okay.
+02:21:19 I don't think, did I leave before you started talking about this on that episode?
+02:21:24 Did you?
+02:21:25 Maybe.
+02:21:26 Because I don't recall.
+02:21:27 Maybe you did.
+02:21:28 Dry dump December.
+02:21:29 Dry dump December is, yeah, because I was talking about how when you hold in a shit,
+02:21:34 like the longer a shit has been in your body before you excrete it,
+02:21:39 the drier it is because moisture from it absorbs from your bowel, your intestine.
+02:21:48 So, it's like, well, you don't want to lose that moisture.
+02:21:52 So, after no fact November, a better thing is dry dump December where you don't shit.
+02:21:57 You hold the shit, you hold it in and you get all the moisture.
+02:22:00 You keep all your moisture.
+02:22:01 And the thing is that nobody understands is that dump moisture is actually the best
+02:22:05 moisture there is.
+02:22:06 You're losing precious moisture if you release the dump too early.
+02:22:10 So, hold it in all month.
+02:22:12 Don't let it go.
+02:22:14 Don't release.
+02:22:16 What if you hold it in for so long that it becomes like a fine mist, like a dust?
+02:22:23 Well, that's how you know you did it.
+02:22:25 What do you think the whole point of dry dump December is?
+02:22:29 On January 1st, you go out and you release the sand, basically.
+02:22:38 You just let it tumble out like sand from an hourglass.
+02:22:44 And that's how you know you did it right.
+02:22:47 Think of all the moisture you saved.
+02:22:50 Gallons.
+02:22:51 You just drink gallons.
+02:22:52 Gallons, Gib.
+02:22:53 Gallons.
+02:22:55 That is too much.
+02:23:00 That's too much for me.
+02:23:02 No, it's enough.
+02:23:04 I'd say it's finally enough.
+02:23:06 Next voicemail is called New PCP Theme Song.
+02:23:10 Three, two, one, go.
+02:23:12 Anyway, here is the new theme song I thought of for the PCP.
+02:23:17 It goes a little something like this.
+02:23:21 I wouldn't fucking shit so bad.
+02:23:24 Thank you.
+02:23:26 Put it at the beginning of the episode.
+02:23:28 Put it at the beginning of the episode, Eleazar.
+02:23:31 Please, new theme song.
+02:23:34 I want to shit so bad.
+02:23:39 All through December, baby.
+02:23:40 All through dry dump December.
+02:23:44 Next voicemail is called Fuck Trixie.
+02:23:49 Three, two, one, go.
+02:23:52 Hey, Ben.
+02:23:55 So I watched Nate's new video.
+02:23:59 And I realized why I don't like Nate's recent content.
+02:24:05 He's never on screen anymore, it feels like.
+02:24:09 I like the videos of Nate just like excitedly bouncing around
+02:24:13 the room.
+02:24:14 He's good at that.
+02:24:15 Did Nate get fat in COVID?
+02:24:17 What happened?
+02:24:18 He got fat, didn't he?
+02:24:19 Oh, I want to rub that fat little fucking belly.
+02:24:22 Last time I saw him, he was not fat.
+02:24:26 So I don't know, take with that what you will.
+02:24:32 I agree though.
+02:24:33 Nate's on screen appearances are fun.
+02:24:37 Well, he never really, well, he would be on screen.
+02:24:40 They're more fun than just the voiceover.
+02:24:44 Okay.
+02:24:45 What was his last video, the Delta Rune one?
+02:24:48 No, his last video was the Cowboy Bebop.
+02:24:51 Oh, yeah.
+02:24:53 Yeah.
+02:24:54 Right.
+02:24:55 Okay.
+02:24:56 I mean, that's makes sense.
+02:24:59 Understandable.
+02:25:00 Okay.
+02:25:01 Next one is called Gotem.
+02:25:02 Three, two, one, go.
+02:25:05 Pee pee poo poo.
+02:25:07 You did.
+02:25:08 You got him.
+02:25:09 Cool.
+02:25:10 Cool.
+02:25:11 Who are M by the way?
+02:25:13 Can't be us.
+02:25:14 There's no way you got us.
+02:25:16 No.
+02:25:17 So whoever they were though, I pity the fool.
+02:25:20 I pity the fool, you might say.
+02:25:22 Okay.
+02:25:23 Next one is a vocaboo link.
+02:25:27 Three, two, one, go.
+02:25:31 The PCP makes me go.
+02:25:36 Gonna come right now.
+02:25:40 Wow.
+02:25:41 Damn.
+02:25:42 That's also a good contender for a theme song.
+02:25:45 That's actually a better, it's actually way better.
+02:25:48 Put the back to back.
+02:25:49 At least our back to back.
+02:25:51 One after the other.
+02:25:53 They both deserve, they both deserve it.
+02:25:56 Yeah.
+02:25:57 Obviously.
+02:25:58 Obviously.
+02:25:59 Okay.
+02:26:01 Next one is another paste bin question.
+02:26:05 So let's see about that, I guess.
+02:26:11 What's the appeal of Twitter?
+02:26:13 You talk about it all the time, but I can't get into it at all.
+02:26:18 Well, you're lucky.
+02:26:19 I mean, what's not to understand?
+02:26:21 It's just a place where people write stuff and you read what they write.
+02:26:27 You write stuff in your slot.
+02:26:29 And they get, you get notifications when new people you follow write or post stuff.
+02:26:35 I mean, I like using it.
+02:26:38 I don't even know how to explain the appeal of Twitter.
+02:26:41 There's lots of cool artists who post art that I follow.
+02:26:45 My radiator is fucking exploding behind me, by the way, if you can hear that.
+02:26:50 I cannot.
+02:26:52 I hope it does not explode.
+02:26:54 Okay.
+02:26:55 It's going clang, clang.
+02:26:56 I think it's dying down a little bit.
+02:26:59 And I guess the appeal of posting is that sometimes you post a banger tweet and people love it.
+02:27:06 And you feel something for once.
+02:27:09 That's really the extent of it.
+02:27:12 Yeah, there are people on there that have, that say funny things that make me laugh.
+02:27:16 And there are people on there that say good opinions that I agree with.
+02:27:20 And there's people on there who say bad opinions that I don't agree with and I yell at them.
+02:27:25 And that's it, man.
+02:27:26 Like, what more is there to say?
+02:27:29 That's how, that's what it, that's what it do.
+02:27:33 Next voicemail is a NicoVideo.jp.
+02:27:38 So many links.
+02:27:40 Link?
+02:27:41 I don't, yeah.
+02:27:46 NicoVideo.
+02:27:48 Is this the Japanese YouTube or something?
+02:27:52 Yeah, I think so.
+02:27:54 Okay.
+02:27:55 Let's try it.
+02:27:56 Try it as long.
+02:27:57 All right, I'm starting it.
+02:28:06 Okay.
+02:28:09 So you two poop.
+02:28:10 All right.
+02:28:12 I think I get it.
+02:28:14 Skipping ahead a little bit and yep, it's more of the same.
+02:28:18 Okay.
+02:28:19 Okay.
+02:28:20 That's fun.
+02:28:21 That's pretty fun.
+02:28:22 That's pretty fun.
+02:28:23 I agree with that.
+02:28:24 I agree with that.
+02:28:25 Absolutely.
+02:28:26 I endorse it.
+02:28:27 Yeah.
+02:28:28 Next one is called Dacotes.
+02:28:30 Three, two, one, go.
+02:28:33 Hey, PCP.
+02:28:34 Is it cringe that I like the dick show but also like the procrastinators?
+02:28:39 I don't, I don't like Trixie, so that's a plus rate.
+02:28:44 I don't like Dick Masterson.
+02:28:46 I don't listen to the show, so I don't really have anything to say about whether it's like
+02:28:50 a good show or not.
+02:28:53 I used to listen to it and I guess Dick has like a certain charisma.
+02:28:58 It's fun to hear him yell about.
+02:29:00 Sure.
+02:29:01 Like rant.
+02:29:02 I've heard clips of him yelling.
+02:29:04 I've heard clips of him yelling that are like pretty funny.
+02:29:07 Yeah.
+02:29:09 It's fine.
+02:29:10 A lot of what he believes is a cringe.
+02:29:11 I hate him on Twitter.
+02:29:12 A lot of the guests he has are terrible.
+02:29:14 I hate him.
+02:29:15 I hate him on Twitter.
+02:29:16 Do you ever see his Twitter?
+02:29:17 He sucks so bad on Twitter.
+02:29:18 Yeah.
+02:29:19 Yeah.
+02:29:20 I hate that.
+02:29:21 I hate that when someone's funny and then they suck shit and they're a terrible person
+02:29:25 and you find out through Twitter.
+02:29:26 That's how it was with Cecil McFly.
+02:29:28 Fuck Cecil McFly.
+02:29:31 Yeah.
+02:29:33 So, but maybe, I don't know, whatever.
+02:29:36 Yeah, I don't, I don't know.
+02:29:37 I have no opinion about the show.
+02:29:39 Hey man, just do, do what you gotta do.
+02:29:42 Just do what you gotta do.
+02:29:43 Just like the song in Leprechaun in the Hood.
+02:29:47 Do what you gotta do.
+02:29:49 Does that have a goes?
+02:29:51 Just like that?
+02:29:52 That's shit.
+02:29:53 Yeah, memory bubble.
+02:29:54 Yeah, that's, I think that's their song.
+02:29:57 I don't know if it plays at the beginning or the, do, you got, it's just do what you gotta do.
+02:30:01 You gotta do what you gotta do.
+02:30:03 Like that's the chorus.
+02:30:04 The Leprechaun in the Hood.
+02:30:07 I think it plays at the beginning because I think it's sort of about, because then they
+02:30:11 do what they gotta do because they rob, I think it's iced tea.
+02:30:16 I think it's iced tea who plays the rich guy that they rob.
+02:30:20 And then they get the Leprechauns gold from, yeah.
+02:30:26 Great movie, great movie, Leprechaun in the Hood.
+02:30:29 Do what you gotta do.
+02:30:30 It's true.
+02:30:31 You gotta do what you gotta do.
+02:30:32 You know, they were robbing the rich to give to the poor, and the poor was themselves.
+02:30:38 But that's fine.
+02:30:40 That's, yeah, everybody, you gotta start somewhere, right?
+02:30:44 Next voicemail is Applejack.
+02:30:47 Three, two, one, go.
+02:31:14 She's really opening up.
+02:31:21 Is it? No.
+02:31:24 No!
+02:31:43 Perhaps you have some friends that have lost you and need to be reminded that you were
+02:31:46 there.
+02:31:47 The holiday season is a great time to make amends.
+02:31:50 Grab a drink and resolve your differences, as long as you don't go overboard.
+02:31:55 Thanks for speaking, Doctor.
+02:31:57 I'll make sure to bootleg you a copy of Phantom's Revenge.
+02:32:00 It's good to be helping.
+02:32:03 It's no way.
+02:32:04 How?
+02:32:06 They got a Dr. Wolf voice modulator?
+02:32:09 Yeah, how, how can such a thing exist?
+02:32:13 I mean, I guess all you need is, like, input and, like, a computer AI to, like, understand
+02:32:19 what is, like, he's got a bunch of videos.
+02:32:21 You put them in.
+02:32:22 I don't know how a person does that.
+02:32:24 I don't know what you need, like, to buy a software.
+02:32:26 I didn't know that was, like, a thing you could do.
+02:32:29 Just, like, feed a voice into an algorithm.
+02:32:34 Huh.
+02:32:35 Yeah, I guess.
+02:32:36 They've done it with Donald Trump and Obama.
+02:32:37 They've done it with...
+02:32:38 But Dr. Wolf is not...
+02:32:39 I'm just...
+02:32:40 Who would have done that?
+02:32:41 I guess someone, someone just was like, I guess I'll just fucking make an algorithmically
+02:32:46 generated voice modulator program for Dr. Wolf.
+02:32:52 Uh, Applejack, you gotta see other, you gotta see other doctors.
+02:32:57 You gotta, you gotta, you gotta get a better therapist.
+02:32:59 Uh, funny, funny story, you know?
+02:33:02 That's a really funny image that Applejack is calling in saying I'm depressed and I speak to my therapist.
+02:33:06 I was, I didn't, I didn't see it coming until the very last second when she's like,
+02:33:11 I'm gonna put him on the line.
+02:33:12 I was like, who's it gonna be?
+02:33:14 Oh my god, it's Dr. Wolf.
+02:33:15 When she was just talking about, like, see your therapist,
+02:33:18 like, it didn't, it didn't put it together for me at all.
+02:33:21 Uh, Wolf.
+02:33:22 Okay.
+02:33:23 Uh, I gotta say, this is a bit, this is a little bit of a spoiler,
+02:33:26 but I guess I'll just say, cause it's funny,
+02:33:28 Dr. Wolf is in Phantom's Revenge.
+02:33:31 Oh no.
+02:33:33 He's in there.
+02:33:34 He's in there.
+02:33:35 So.
+02:33:36 No.
+02:33:37 Watch out, Doc.
+02:33:38 Uh, your days are fucking numbered.
+02:33:41 Oh, now, now with this, this technology, you could have the voice acted lines.
+02:33:45 Oh, but just for Dr. Wolf.
+02:33:48 Just Dr. Wolf, just him.
+02:33:51 Uh, very good.
+02:33:53 Thanks, Applejack.
+02:33:54 Uh, thanks for opening up.
+02:33:56 Uh, doesn't, doesn't, doesn't just because you need a little help from time to time.
+02:34:01 So I'm glad you learned the lesson from that one episode.
+02:34:05 What's that one episode where she won't ask for help?
+02:34:08 Is it AppleBuck season?
+02:34:10 Motherfucking season.
+02:34:12 Motherfucking season.
+02:34:14 I think it's AppleBuck season.
+02:34:16 The one where she's like, she's got to harvest all the apples herself.
+02:34:19 Yeah, that would, that would be the one where she's like,
+02:34:22 I just got to do all these things and I just got to do all of them.
+02:34:27 Applejack is okay to ask for help.
+02:34:30 Oh.
+02:34:31 No, shut up.
+02:34:33 Get the fuck out of here, you filthy, you're not, you don't know our,
+02:34:37 you don't know our earth pony ways.
+02:34:39 Go back to where you came from.
+02:34:41 We harvest our own apples.
+02:34:43 Askin' others to harvest your apples for you is communism twilight.
+02:34:47 What do they teach you?
+02:34:48 What do they teach you with that damn unicorn school in Canterlot?
+02:34:53 That's what it's like.
+02:34:55 Die, Applejack, and then she kills her.
+02:34:58 That's how my version, that's how my version would go.
+02:35:03 Teaching, teaching, teaching the, the egg, the egg heads in Canterlot.
+02:35:08 Marxist theory, critical race theory.
+02:35:11 Fuck you, fuck unicorns.
+02:35:14 Okay.
+02:35:16 Next voicemail is called Ben Saint of the Third.
+02:35:22 Three, two, one, go.
+02:35:25 I had a funny dream last night, you want to hear it?
+02:35:28 Absolutely.
+02:35:29 So I had a dream for you, Gib, Trixie, and Nate for all together,
+02:35:35 for how to party or something.
+02:35:38 And I was there interviewing.
+02:35:39 It would never happen.
+02:35:40 And Trixie was like, yeah, me and Nate, me and Nate and Gib were all
+02:35:43 partying last night when it was the bomb.
+02:35:46 And Ben was invited, fuck him.
+02:35:49 And I'm like, how do you feel about Nate and Gib?
+02:35:53 And she's like, I think I'm going to make them a member of Gib Studio.
+02:35:57 I'm like, that's a good idea.
+02:35:59 That's a good idea.
+02:36:01 Fuck.
+02:36:03 And then the party ended and you were just like, well, fuck this.
+02:36:08 I'm going to go hang out with Lupin the third.
+02:36:11 So you got a giant truck and for whatever reason, the police were chasing you
+02:36:16 and you're on, we're on the ocean by the way.
+02:36:18 Because I was hanging out with Lupin.
+02:36:21 Shooting bullets and everything.
+02:36:23 And I was like, yo, pick me up when you just drove by me.
+02:36:26 And then it ended.
+02:36:28 Yeah.
+02:36:29 Left you in a war zone.
+02:36:31 That's great.
+02:36:33 That's great.
+02:36:35 Oh, I can't.
+02:36:37 I can't.
+02:36:38 We mean I can't join Yig Studios.
+02:36:40 Oh, geez.
+02:36:42 Fine.
+02:36:43 I'm going to hang it with my friend Lupin.
+02:36:46 That was your plan B.
+02:36:49 Your plan A was always to be in Yig Studios.
+02:36:52 Plan A was Yig Studios.
+02:36:54 Plan B is to join Lupin's Band of Thieves.
+02:36:58 Sure.
+02:37:01 I enjoyed that a lot.
+02:37:04 All right.
+02:37:05 Next one.
+02:37:06 Is this the last one?
+02:37:08 Let me refresh the page.
+02:37:09 Yeah.
+02:37:10 Last one is called I Love Trixie.
+02:37:13 Three, two, one, go.
+02:37:19 Oh, my God.
+02:37:21 Lol.
+02:37:23 That's farts.
+02:37:25 That's good.
+02:37:26 That's good.
+02:37:27 That's good.
+02:37:28 Well, that sounds, that's an appropriate note to end on.
+02:37:33 I think.
+02:37:35 Yes.
+02:38:06 Have a merry Christmas and a happy holiday.
+02:38:13 Merry Christmas.
+02:38:15 Happy holidays.
+02:38:17 Merry Christmas Eve.
+02:38:19 Hope you have a fucking good time.
+02:38:21 If you don't celebrate Christmas, fuck you.
+02:38:24 This is America.
+02:38:26 Wherever you live, this is America.
+02:38:28 We do.
+02:38:29 We worship God in this house.
+02:38:31 It's like Donald Lover's Childish Gambino song.
+02:38:35 This is America, but with like sleigh bells in the background.
+02:38:39 Yeah, yeah, yeah, yeah, yeah.
+02:38:42 And this is America, bitch.
+02:38:45 Get under the fucking tree.
+02:38:47 Get in my fucking stocking.
+02:38:48 Get up my fucking chimney.
+02:38:51 And, oh, if you're a patron of mine, a patron.com slash Ben St.
+02:38:57 Check out the Phantom's Revenge beta release out now for patrons.
+02:39:02 Play test that shit.
+02:39:04 Let me know if it's too hard or whatever.
+02:39:08 Or if it's bugs out.
+02:39:10 Fucking.
+02:39:12 Yeah.
+02:39:13 Keep an eye on that.
+02:39:15 That's my big announcement this week.
+02:39:19 Okay.
+02:39:20 And my big announcement this week is go to my Twitter and see if I've already announced
+02:39:24 things because I don't know whether it'll be out.
+02:39:27 I don't know whether it'll be announced yet.
+02:39:29 Just go to my Twitter at the Hippocrite or Gibbentake in search.
+02:39:37 You can find it.
+02:39:39 You can find it.
+02:39:40 You can find it.
+02:39:42 It's also ugly on Twitter.
+02:39:44 Check my Twitter.
+02:39:45 Follow my Twitter.
+02:39:46 I made it.
+02:39:47 I made my avatar is Phantom.
+02:39:48 It's Phantom's face.
+02:39:49 He's going like, huh.
+02:39:51 It's a nice face.
+02:39:52 It's a nice little face.
+02:39:53 I'm I like I did other ones too.
+02:39:56 I did a bunch of talk sprites portraits for him and a couple of it.
+02:40:04 There's a couple other mostly it's Phantom that talks in the game, but there's a few
+02:40:07 other characters that talk.
+02:40:09 It's pretty.
+02:40:10 It's pretty fun.
+02:40:12 Yeah.
+02:40:13 That's it.
+02:40:14 All right.
+02:40:15 I got to get out of here.
+02:40:16 I got to go give a fucking stupid gift to a guy I barely know.
+02:40:22 Uh, well, uh, let's fucking get out of here.
+02:40:27 All right.
+02:40:28 Bye.
+02:40:29 Bye.
+02:40:30 Merry Christmas.
+02:40:31 Merry Christmas.
+02:40:32 Ho, ho, ho.
+02:40:33 Ching, ching, ching, ching.
+02:40:35 Ellies are put in sleigh bells.
+02:40:37 Sleigh bells.
+02:40:38 Snow sounds.
+02:40:39 Just loads, loads of sleigh bells.
+02:40:41 Too many.
+02:40:42 Yeah.
+02:40:43 Fuck it up.
+02:40:44 Fuck that shit up.
+02:40:45 Okay.
+02:40:46 Bye.
+02:40:47 Bye.

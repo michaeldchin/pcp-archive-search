@@ -1,0 +1,2827 @@
+00:00:00 And without further ado, welcome to another episode of The Pro Crastinators Podcast.
+00:00:12 It's Ben Saint, and we got Gibbontake, and we got Tom Oliver is back from the grave.
+00:00:24 Rise from your grave.
+00:00:26 Rise from your grave.
+00:00:28 Classic altered beast for the Sega Genesis, the best console of the 90s.
+00:00:34 Shut the fuck up. It's the SNES, you motherfuckers. It's the Super Famicom.
+00:00:42 Sorry, there are like 32 bits, colors, 16 billion dollars.
+00:00:45 There are these magazine advertisements that told me that Sega does one in 10 down,
+00:00:49 and I believe my my superiors when they market to me.
+00:00:52 That's not that's not true.
+00:00:54 No, gaming, the best game ever made was A Secret of Mana for the Super Nintendo,
+00:01:02 and it was all downhill from there.
+00:01:04 They'll never change my mind.
+00:01:07 Why don't you review it then, huh?
+00:01:09 Fuck you.
+00:01:09 Why don't you show me?
+00:01:12 You are too, your old 3D graphics are too fucking modern for me.
+00:01:18 They are they are Zoomer shit. The shit you like is dumb, and it's too high tech.
+00:01:27 Got reject modernity 3D graphics, embrace tradition, Secret of Mana.
+00:01:32 It's like no, reject modernity, and it's like PlayStation Banjo-Kazooie or Crash Bandicoot.
+00:01:39 It's like reject modernity, embrace tradition, yeah.
+00:01:42 Like only five years apart from each other.
+00:01:45 It's all takes.
+00:01:46 Where you been, Tom? What you been up to?
+00:01:49 I've just been dying entirely and playing too many video games.
+00:01:56 I beat all of Ghost of Tsushima. Man, that was a fun game. That was pretty cool.
+00:02:00 Oh, yeah. Talk about that because that I saw that in the game awards when they because,
+00:02:06 you know, because I'm stupid and I watched that.
+00:02:09 And I saw some of the cutscenes. I was like, hey, that looks not bad.
+00:02:14 I wonder what that is.
+00:02:15 It's the newest game by Sucker Punch, which I'm sure you're aware of.
+00:02:18 They did the Sly Cooper series, and then they did Infamous for the PS3 and PS4.
+00:02:23 And this is the game they've been working on for the last like five or six years or whatever.
+00:02:26 It's like it's like an open world samurai game, and it's really fun.
+00:02:30 And I enjoyed it a lot.
+00:02:33 It got passed. It like sinks into a lot of like the open world kind of bullshit,
+00:02:38 where it's just like go to this camp and kill people and like do that a bunch of times.
+00:02:41 But like the side quests are pretty good because like instead of having a bunch of
+00:02:44 random side quests, you meet like four supporting characters and they have like a long quest
+00:02:50 that's like 10 parts each as you go through the campaign.
+00:02:53 There's like these mini campaigns with these characters going along on side of it.
+00:02:56 So they feel a little bit more substantive than just like go here, do a quick thing and like
+00:03:02 tick the box off your map. And it was cool. The combat was fun.
+00:03:06 You have like different stances to fight different kind of weapons and the skill tree is cool.
+00:03:10 And you're a samurai, so you can like challenge people to showdowns and kill them in one hit
+00:03:15 if you find everything right.
+00:03:17 Yeah, yeah. I was thinking, I was thinking about him the entire time.
+00:03:22 We now know the samurai's name is Jin Sakai. That's who's been calling us this whole time.
+00:03:27 I figured it out.
+00:03:28 Is it like like Japanese the Witcher?
+00:03:31 Pretty much. If the Witcher was like had way better combat, it was more fun to play moment
+00:03:35 to moment because like you can choose to be a samurai guy or you can be like a dishonorable
+00:03:38 ninja guy and reject your samurai code and murderously backstab people and poison people
+00:03:44 and just do whatever dirty tactics you have to to like kill the Mongol invaders and it's
+00:03:48 really fucking cool.
+00:03:49 That's what happens when you embrace modernity.
+00:03:52 How true to life is it? Because samurai were like
+00:03:55 it's true to my life.
+00:03:57 It's true to my lived experience, 100%.
+00:04:01 Like they samurai like if I, as far as I understand, they like had bows and they would
+00:04:07 ride on horses and they would shoot from afar and only bring the sword out when it was like close.
+00:04:13 You can ride a horse and shoot bows.
+00:04:17 In fact, I mainly used bows because it was so much more fun to just snipe people from afar
+00:04:22 and then clean up what was left after you've exhausted your arrows and stuff. That was pretty cool.
+00:04:28 And there's like armor sets that give you bonuses to like using bows and stuff because
+00:04:31 there's like you go around, you find these like storytellers.
+00:04:34 These like musician guys who are like telling like fables of like ancient artifacts of like
+00:04:38 legendary warriors from Tsushima's past.
+00:04:41 You can like track down those locations and get like mythic level armor of like these like
+00:04:45 legendary heroes from hundreds of years ago.
+00:04:47 And that's pretty fucking cool.
+00:04:49 Sounds just like my favorite.
+00:04:55 No, the best video.
+00:04:57 The best thing is like this game is like super colorful, but like because it's a love letter
+00:05:01 to Kurosawa movies, there's that a Kurosawa mode that turns it like grainy black and white
+00:05:05 like a movie.
+00:05:06 And that's Kurosawa.
+00:05:07 Yes, that's pretty cool.
+00:05:08 Yeah, it's pretty pretty dope.
+00:05:10 It's pretty based.
+00:05:11 I liked it a lot.
+00:05:12 If it's inspired by that, then it's got a better or worse.
+00:05:15 Is it better or worse than Cyberpunk 2077?
+00:05:18 Well, I haven't played Cyberpunk, but I'm going to assume probably better than it is in its current state.
+00:05:24 Even though I secured a 3060 Ti, so I do have a good enough graphics card to play it.
+00:05:29 I just haven't yet.
+00:05:30 The only thing I know about Cyberpunk, aside from glitches, is that one like funny video
+00:05:37 where somebody like made it so there's the guy on the train and he's like,
+00:05:41 oh, something, something, Cyberpunk.
+00:05:43 And then it reveals and like the title comes up as like shitty PS1, like low resolution background
+00:05:50 and it stutters and then it crashes.
+00:05:52 You know that?
+00:05:53 The no man.
+00:05:54 You talk about the no man skype redo thing that they did where like because like they
+00:05:59 initially did this with no man sky, but then they like redid it on Twitter for like Cyberpunk
+00:06:03 because like the reveal from like the E3 trailer to the actual game is like totally different.
+00:06:08 It's pretty.
+00:06:09 Yeah.
+00:06:09 It's pretty.
+00:06:10 It's pretty good.
+00:06:12 The music seems cool.
+00:06:13 That's like the best part of the game so far from what little I understand is that the soundtrack is
+00:06:17 pretty, pretty dope.
+00:06:20 Best part of the game is not the video game part.
+00:06:23 Yeah.
+00:06:24 It's weird.
+00:06:24 Like what bothers me the most?
+00:06:26 Wait, are you talking about Tsushima or Cyberpunk?
+00:06:27 Cyberpunk.
+00:06:30 The soundtrack in Tsushima was serviceable, but not like outstanding.
+00:06:33 I didn't.
+00:06:34 There's no like particular track.
+00:06:35 I remember.
+00:06:38 It's funny because like the advertising campaign for like Cyberpunk has been like counter
+00:06:43 use like what defines a criminal in Night City getting caught.
+00:06:48 I'm like that's that's just the real world.
+00:06:50 Like you can do whatever crimes you want as long as you don't get caught.
+00:06:53 That's true.
+00:06:54 You're not charged with the crime unless you're caught.
+00:06:55 Like this is a dumb campaign.
+00:06:57 Great commentary.
+00:06:58 Yeah.
+00:06:58 Great commentary there.
+00:07:00 I'm just like Ben Strupp lifted multiple times.
+00:07:03 He's not a criminal yet.
+00:07:05 Have I have I admitted that?
+00:07:06 Have I admitted that on the podcast?
+00:07:08 Yes, you have.
+00:07:09 Did you just out me?
+00:07:10 Okay.
+00:07:10 No, you had.
+00:07:11 Remember you talked about it like last year and had like a mini crisis like,
+00:07:15 should we cut this?
+00:07:15 Should we cut this?
+00:07:16 And then you're like, fuck it.
+00:07:17 No, no, no.
+00:07:18 I think you're conflating two times.
+00:07:20 I think there was one time when I did talk about it and then afterwards I was like,
+00:07:24 no, no, cut that.
+00:07:25 We got to cut that.
+00:07:25 We got to cut that.
+00:07:26 And then I think later on we talked about it again and I said like,
+00:07:30 last time I said cut it, but this time I don't care anymore.
+00:07:33 Maybe.
+00:07:33 I thought the first time was like really early on in the PCP.
+00:07:36 It was pretty early.
+00:07:37 It was a long time ago.
+00:07:39 Things have changed.
+00:07:40 Things have changed.
+00:07:42 Ben's been radicalized.
+00:07:43 Radicalized hardcore.
+00:07:44 Now shoplifting is a badge of honor.
+00:07:46 Nothing to be ashamed of.
+00:07:48 I was shoplifting before it was cool.
+00:07:50 Speaking of music and video games, why is Pokemon Black and White 2 just the best game ever made?
+00:08:05 I was listening to, I was looking for some good video game OSTs and I was looking on Reddit
+00:08:15 because I like googled question like underrated video game soundtracks.
+00:08:21 And I got a bunch of like Reddit threads that were the results and I like was just going through
+00:08:25 a bunch of the results and Black and White 2 has just has the best music in any video game ever made.
+00:08:31 And also the best graphics and just is the best game period.
+00:08:34 Hands down.
+00:08:35 Not Pokemon Peak there and so did gaming in general.
+00:08:37 I know I said it was Secret of Mana, but that was Red Hair.
+00:08:41 That was a secret.
+00:08:42 That was a trick.
+00:08:43 That was a trick.
+00:08:46 God, it's so fucking good.
+00:08:49 Man, the way this is gonna gush for a second.
+00:08:52 Just the way the way that when you get to that the music changes when you're fighting a gym
+00:08:57 leader and they get down to their last Pokemon, it's just from like a tense battle theme to
+00:09:01 like a like triumphant theme.
+00:09:03 It's so fucking good, man.
+00:09:06 Black and White 2, the ones where they replace the like annoying beep when you're
+00:09:11 Pokemon's low on HP to like the stressful music, but like it might work.
+00:09:17 That sounds like probably I don't know.
+00:09:20 That was fucking sick and I like that sounds like something they would do.
+00:09:24 Yeah.
+00:09:26 Oh, and I had the best.
+00:09:27 It had the best sprites.
+00:09:28 It had the best animations.
+00:09:30 It was right before they decided, you know what?
+00:09:32 Fuck everything.
+00:09:33 Let's just go 3D now.
+00:09:36 And that was the downfall.
+00:09:37 That was the downfall, the switch to 3D, the switch that everyone says.
+00:09:40 Oh, you Mario, this is a switch to 3D.
+00:09:45 Oh, it was a big challenge for the video game industry.
+00:09:47 Well, guess what?
+00:09:48 They didn't survive it.
+00:09:49 Video games didn't even survive the transition to 3D.
+00:09:52 Video games are a dead medium now.
+00:09:53 That's true.
+00:09:53 There are no real video games anymore.
+00:09:56 They're dead.
+00:09:57 They died.
+00:09:58 They died in 1996 or whatever when the Nintendo 64 came out.
+00:10:01 3D did make games mainstream, which did ruin them.
+00:10:05 So that's right.
+00:10:06 Thank you.
+00:10:07 Yes.
+00:10:08 We have to go back.
+00:10:10 We have to reject modernity.
+00:10:13 Many people are saying this.
+00:10:18 Man, I can't wait to get a PS5, guys.
+00:10:20 It's going to be so good.
+00:10:21 No.
+00:10:22 What even video games are on the PS5?
+00:10:24 Literally, it's just another...
+00:10:26 It's Demon's Souls machine again.
+00:10:29 Why?
+00:10:29 Just like the PS4 was just a blood-borne rig.
+00:10:31 This is a Demon's Souls rig.
+00:10:33 It's the only game.
+00:10:33 Why?
+00:10:34 The best thing about PS5 is that you can play all your PS4 games at 60 frames.
+00:10:38 I already played those video games.
+00:10:41 I want to play Ghost of Tsushima again at 60 frames per second and no loading.
+00:10:45 I want to fucking kill myself.
+00:10:47 I can't wait to have something that I can plug in and is a big piece of plastic and metal.
+00:10:53 Yeah.
+00:10:54 I can't wait to consume this content.
+00:10:57 And consume...
+00:10:57 I've resisted buying a Nintendo Switch for this long.
+00:11:00 How could I possibly purchase something so shit as something as a PS5?
+00:11:06 I'm not going to get a PS5 until the slim version comes out,
+00:11:09 because this current one is some ugly monstrosity that I detest.
+00:11:13 It looks like...
+00:11:14 I think it's kind of cool looking, even if it is the best thing.
+00:11:16 It is a bit strange.
+00:11:17 It reminds me of when you get two Pringles and you put them together so they curve outwards.
+00:11:24 The best thing people have done with a PS5 is someone 3D printed a head of Setokaiba
+00:11:29 and put it on there because it looks like Setokaiba's coat from the second arc.
+00:11:33 That was the best thing.
+00:11:35 Seen something like that.
+00:11:37 That almost justifies how ugly it is, but not really.
+00:11:40 Looks like a weird clam thing.
+00:11:44 No, really, though.
+00:11:45 What fucking video games can you play on the PS5?
+00:11:49 Are there any?
+00:11:50 Literally the only games that anyone should care about right now is the Demon's Souls remake
+00:11:55 and Spider-Man, Miles Morales, which is also on PS4 because I bought and beat it on PS4.
+00:12:00 What the fuck is the point of the five?
+00:12:03 You get no loading times.
+00:12:05 It's got that SSD.
+00:12:07 It's just stupid.
+00:12:09 It's tradition.
+00:12:11 This is the embraced tradition mindset.
+00:12:13 If you embrace the tradition of creating new consoles, then you get this.
+00:12:18 No, this is the modernity.
+00:12:19 I thought tradition was what we want to go back to.
+00:12:22 That's the thing.
+00:12:23 Sometimes tradition is bad.
+00:12:26 Oh, god.
+00:12:26 Are you saying that there's new wants to things in the world?
+00:12:29 Yes, there's no.
+00:12:31 Wait, are you saying that the PS5 is modernity or tradition?
+00:12:34 It's tradition because there's always been a new console cycle to iterate.
+00:12:38 Tradition, the tradition is to just endlessly iterate and follow the cycle.
+00:12:43 Everyone says that the coolest thing about the PS5 is the new controller because the trigger buttons
+00:12:49 have sensitivity, so you can program different guns and stuff to feel different.
+00:12:54 You can have really effective haptics.
+00:12:58 There's a game that ships with it called Astros Playground or whatever, whatever the fuck it's
+00:13:02 called.
+00:13:02 And depending on whether you're walking on sand or metal, the vibration is different,
+00:13:06 so it has a really expanded sense of tactility to everything you're doing.
+00:13:11 And everyone's like, this is the coolest thing.
+00:13:12 This is the best.
+00:13:13 Fuck graphics.
+00:13:14 This is the coolest shit ever.
+00:13:15 Oh, Astro's Playroom?
+00:13:18 Yeah, that one.
+00:13:20 I think I saw an article somewhere or a tweet or something that said that
+00:13:24 the best thing on the PS5 is this free demo.
+00:13:27 Yeah, that's the one they're talking about.
+00:13:29 Yeah, but it's the only launch game that actually makes use of all the weird functionality.
+00:13:36 No one else is going to do it except for Sony themselves to convince you you didn't just
+00:13:40 waste $500 because you could only play Demon's Souls.
+00:13:43 This little guy Astro reminds me of, did you guys try out the Oculus Rift at the Radcon 4?
+00:13:51 Yeah, we all brought it.
+00:13:52 Play Beat Saber.
+00:13:53 Yeah, did you remember the demo when you booted up with the little robot?
+00:13:59 I didn't play the demo part.
+00:14:01 Did you see one of us playing it?
+00:14:04 There's a little intro sequence where you put on the helmet and then you're in this room,
+00:14:09 this kind of junky room, and this little robot wakes up and comes over and says hello to you
+00:14:16 and gives you a bunch of items to fuck around with and disks to load into slots to load data.
+00:14:23 Interesting.
+00:14:24 I don't know.
+00:14:25 It's very cute, and this guy looks like that.
+00:14:29 If you want to spend multiple hundreds of dollars on a new video game thing, buy a VR set.
+00:14:35 There's so many games out there that are good for that.
+00:14:39 Haptic feedback, I think, is pretty good.
+00:14:41 That's a pretty nice feature to build into a game that's also very unintrusive,
+00:14:48 unlike motion controls.
+00:14:50 The more I start playing video games and thinking about them more critically
+00:14:54 because I'm making games now, I'm just like, haptic feedback is so important to making combat
+00:14:58 feel good.
+00:14:59 Every time I play on mouse and keyboard and there's no haptics, I'm like, this sucks.
+00:15:04 I don't, I mean, what kind of games are you talking about?
+00:15:08 What?
+00:15:09 Do you just mean any game?
+00:15:10 Like first person shooters?
+00:15:11 Like any game on PC, because you're playing with mouse and keyboard on a PC,
+00:15:14 there's no rumble built into your mouse and keyboard.
+00:15:17 So like you can shoot something and there's no like forced feedback and it sucks.
+00:15:21 It's a weird thing to say to me because like video games, video games thrived
+00:15:27 before haptic feedback was invented.
+00:15:30 Sure.
+00:15:30 But it's just so much better when you have it.
+00:15:32 That's my only point.
+00:15:33 Really?
+00:15:34 Yeah.
+00:15:34 I mean, I feel like when you're playing like a visceral action game or a shooter or something
+00:15:38 and you get like a kickback from like, I don't necessarily think that it is kind of game,
+00:15:43 I guess.
+00:15:44 It sells sensation way more.
+00:15:45 Are you saying that like now that you have it, you can't go back to not having it,
+00:15:49 it doesn't feel the same?
+00:15:50 No, it's just categorically better to have it than to not.
+00:15:53 It doesn't ruin the experience, but it doesn't detract anything from the experience by having it.
+00:15:58 I guess it doesn't detract anything.
+00:16:00 I just think you could get basically exactly the same level of like interest through visual cues
+00:16:07 and like animation and stuff.
+00:16:10 Like I'm thinking of like Paper Mario, how it feels or like Super Mario RPG,
+00:16:15 how it feels like really good to time the button presses to whack an enemy.
+00:16:19 And it's like the sound effects and the animation and stuff.
+00:16:22 Like you could have all of that and then controller rumble.
+00:16:24 And it would be like you could have you could have everything that makes that satisfying plus.
+00:16:31 I don't know that it would be necessarily even.
+00:16:33 I don't know.
+00:16:34 I don't really care.
+00:16:35 It doesn't bother me that playing TF2 feels just as satisfying with a mouse and keyboard
+00:16:40 as playing a different game that has the the rumble stuff.
+00:16:46 I like rumble putting it in all my games going forward.
+00:16:50 I've decided.
+00:16:51 I gave it some thought and it's good.
+00:16:53 Can you do that?
+00:16:54 Yeah.
+00:16:55 You can just like use code like stuff in for rumble and shit like that.
+00:16:59 You just got to like make it work.
+00:17:01 That's so that's so weird.
+00:17:03 How do you think?
+00:17:04 How do you think equals?
+00:17:04 How do you think Sony does it?
+00:17:07 I I don't I don't fucking know.
+00:17:10 They have magic controller proprietary device.
+00:17:15 The bushlaw controller rumble.
+00:17:17 I don't know.
+00:17:17 They own the means.
+00:17:18 They own the means of haptic Xbox controllers to it.
+00:17:23 It's just controllers.
+00:17:24 They all do well.
+00:17:25 Okay.
+00:17:26 Yeah.
+00:17:26 I guess I'm just saying it's it's I guess I can understand that there's no reason why an indie dev can't.
+00:17:34 Well, it's it's it's just like a make use of a of a first party controllers haptic functionality.
+00:17:40 They have in like things like Unity.
+00:17:41 Like you can you can say set up a control scheme for an Xbox controller or or you know
+00:17:49 so and that like would automatically map to a PlayStation controller.
+00:17:55 I hope they'll maybe they'll maybe for mouse and keyboard nerds like me.
+00:17:58 They'll make they'll they'll make a mouse a mouse with haptic.
+00:18:01 There has someone has to have done it.
+00:18:03 There has to be like a haptic mouse that exists.
+00:18:06 Probably now that I know that I say it doesn't actually sound that weird.
+00:18:11 I could imagine it being like if you did it badly.
+00:18:13 Like if you're you need precision clicking and then like the rumble makes you move over like
+00:18:18 you would probably need to use them like a special mouse pad or something.
+00:18:22 Because if you just use it on your fucking table, it's like I'll rattle your table and it vibrates.
+00:18:27 It's a feature not a bug in war when you're shooting.
+00:18:30 You'd be really nervous and you wouldn't be able to keep your your aim steady.
+00:18:32 So we're just replicating that with force feedback.
+00:18:36 Yeah, they should they should like like tape guns to your computer
+00:18:41 so that when you get shot in the game, it shoots you for real.
+00:18:45 That's the ultimate haptic feedback.
+00:18:47 Well, isn't there a story of someone who like put an IV in them and like it like drained their blood
+00:18:51 when they took damage in like the game.
+00:18:54 What the fuck?
+00:18:54 That's not I remember reading that story years ago.
+00:18:57 What do they think would happen?
+00:18:59 Bad things.
+00:19:00 They died.
+00:19:02 Did they die?
+00:19:03 Or like what's the I don't remember.
+00:19:05 The end of the story.
+00:19:06 I could very well have made this up, but I'm almost certain I read this at one point.
+00:19:09 It does sound kind of like a nightmare fever dream.
+00:19:12 That sounds like a sort of like cryptid thing.
+00:19:14 I don't want to I want to think about it.
+00:19:16 Yeah, it sounds like a pretty gamer moment, you know.
+00:19:20 Oh, yeah.
+00:19:21 Oh, very, very gamer moment.
+00:19:24 I was playing Sonic the Hedgehog and something seemed off.
+00:19:27 There was an IV feed stabbed into my arm.
+00:19:30 I didn't think much of it at the time, but I just kept playing.
+00:19:33 Every time I lose rings, I just like pull the needle out.
+00:19:35 My blood spray is everywhere to simulate the sensation.
+00:19:39 I got to run around and collect all of them.
+00:19:40 But if I have at least one blood, it's OK.
+00:19:43 No blood, please.
+00:19:45 Keep keep the blood out of video games,
+00:19:48 by which I mean drain it entirely out of my body when I play them.
+00:19:52 Thank you and good night.
+00:19:54 You know, video games is a good interesting, not interesting.
+00:19:57 It's not an interesting topic, but it's definitely not interesting.
+00:20:00 It's a good topic because I have recently just been
+00:20:03 I think I've talked before about the list of video games
+00:20:07 that I've made of all the video games on all the platforms that I own
+00:20:12 and the ones I've played, the ones I've like beaten to completion.
+00:20:16 And I've been going through it because I've got like the release dates.
+00:20:20 And I'm like saying like which of the games I've played
+00:20:23 from like 2003 is the best game of that year.
+00:20:26 And I was thinking of doing like a big funny stupid list.
+00:20:30 Do it.
+00:20:31 I've got like 2003.
+00:20:34 Here's a list of the games I played.
+00:20:36 Aladdin's Maths Quest, The Sims,
+00:20:38 Ape Escape 2, Rayman 3, Metroid Prime,
+00:20:41 Donkey Kong, Country, Game Boy Advance, Pokemon Sapphire.
+00:20:44 You know, there's all these Wallace and Gromit in Project Zoo.
+00:20:49 Whoa.
+00:20:49 Simpsons Hit and Run, Broken Sword, Lord of the Rings Return of the King, Puzzle Pirates.
+00:20:55 I just thought like I love lists, guys.
+00:20:58 I like putting lists and games and putting them in order.
+00:21:03 It's very...
+00:21:03 I'm playing with blocks here.
+00:21:05 There's like a weird like human desire to like bring order to chaos, you know.
+00:21:09 Like when you when you do something that's structured, it feels good.
+00:21:12 You're just like, yes, I've taken this malformed chaotic mess and presented it
+00:21:18 in some sort of like structured way.
+00:21:20 I've applied human intellect to the chaos that is natural life and it feels good.
+00:21:25 It's just an illusion.
+00:21:26 It's totally an illusion.
+00:21:27 You're just fooling yourself.
+00:21:29 Sure, but all the pixels on screen are also illusions, Ben.
+00:21:34 No, no, those are the only thing that's real.
+00:21:36 The entire state of society is an illusion, Ben.
+00:21:39 We're all just masking the state of nature.
+00:21:41 We're all playing an elaborate game to prevent us from just like killing each other with clubs.
+00:21:50 It's like I'm collecting data and arranging it in a way.
+00:21:53 And it's kind of a video game in itself.
+00:21:55 And it's really like it like on the face of it.
+00:21:57 It seems like why would you ever care about such a thing?
+00:22:02 And it's true.
+00:22:03 Why would I?
+00:22:03 I don't know.
+00:22:08 Well, you know, if it makes you happy, it makes me more happy than playing any of them.
+00:22:15 Metroid Prime is so good, though, bro.
+00:22:18 Like I like I've got all these games and I'm like, yep, that's the list.
+00:22:24 Look at that list.
+00:22:25 Well, good time to go to bed.
+00:22:28 Time to just sleep my days away.
+00:22:31 Why would I boot anything up and be entertained?
+00:22:34 It just doesn't make any sense.
+00:22:35 I agree.
+00:22:38 I unironically agree.
+00:22:41 I hate the idea of being entertained.
+00:22:42 When I look at when I look at Cyberpunk 2077, what I see is like,
+00:22:50 I don't I don't understand.
+00:22:51 I don't understand the appeal of something like that at all,
+00:22:54 because it looks it just looks like I see this is a this is a contraption that has been
+00:22:58 that has been constructed to distract me for like, you know, 60 or 100 hours.
+00:23:04 Yeah, it's that.
+00:23:05 Hey, guys, the new day care just dropped.
+00:23:08 Yeah, yeah, yeah, yeah.
+00:23:09 That's kind of how I feel about it.
+00:23:11 I don't want to be distracted.
+00:23:12 I need my fucking wits about me.
+00:23:14 That's like fucking danger.
+00:23:16 I know.
+00:23:18 Yes, I agree.
+00:23:19 I know that that's a stupid thing to say.
+00:23:21 And yet I say it on ironic.
+00:23:24 Ben, Ben, you're an artist.
+00:23:25 Your whole life is dedicated to.
+00:23:27 I hate art, Tom.
+00:23:28 I fucking hate art.
+00:23:29 I hate art.
+00:23:30 I don't believe in it.
+00:23:31 It's a fucking ruse.
+00:23:32 It's a scam.
+00:23:33 I kind of agree.
+00:23:34 I've been thinking a lot about like the fact that like I think back.
+00:23:37 I've been grappling a lot thinking about just video games in general,
+00:23:40 because I've been spending so much time with them for the last like two months
+00:23:43 and how much time they take away from me.
+00:23:45 And I'm like, yeah, do I want to make video games and subject other people to this time sink?
+00:23:50 Like am I participating in like a negative thing?
+00:23:52 But then it's like it's all it's not none of it's compulsory.
+00:23:55 People choose to spend their lives this way.
+00:23:57 And not everybody has the desire or the capacity to make things.
+00:24:01 Some people just want to be entertained.
+00:24:03 And I say, I say, I say all this like I'm above it all or whatever.
+00:24:08 But of course, no, this is just things that I don't like.
+00:24:11 And then you're in the trenches with everybody else.
+00:24:13 And that's why you relate to it so strongly.
+00:24:15 Because like you're personally affected by it.
+00:24:17 It's just there's some other some other thing that is the thing that I choose to
+00:24:21 be distracted by like Dwarf Fortress or whatever.
+00:24:27 It's just some some different thing.
+00:24:28 We all have our voices.
+00:24:29 No better.
+00:24:30 Right now my my thoughts are all about like completing art.
+00:24:34 Like I've got all these games in my steam library that I've never even fucking opened.
+00:24:38 And to me playing them is not like interesting because I I mean maybe something would be good.
+00:24:46 But like the idea of completing the list is a more interesting and fun game
+00:24:50 than like playing the games.
+00:24:53 So I feel compelled to play them just so I can tick them off, which is really like
+00:24:58 it's like Skinner Box like that I built for myself.
+00:25:00 But I kind of like it.
+00:25:01 You're gamifying your collection of games essentially.
+00:25:03 Yeah.
+00:25:05 It's like a metagame.
+00:25:05 Like it's like at a like first glance it seems like I'm adding to like distraction in my life.
+00:25:15 But really I'm just sort of this is the distraction.
+00:25:19 Otherwise I would be playing one game or another game.
+00:25:22 And this is the game I decided to make is a game about games and gaming.
+00:25:27 And God I hate that word so much.
+00:25:29 I heard it in my head.
+00:25:30 Gaming.
+00:25:31 Gaming.
+00:25:33 Such a stupid word because it's been made into a joke.
+00:25:37 Yeah.
+00:25:38 It's made into a joke.
+00:25:39 Just the saying it is funny apparently.
+00:25:43 See.
+00:25:47 Oh man.
+00:25:50 Did I talk about did I talk about my dwarf fort?
+00:25:53 Oh I not recently I guess.
+00:25:56 Did I talk about the that I started the the succession game with my with my roommates.
+00:26:02 And I don't have a little accident.
+00:26:04 No everything was going everything was going so good.
+00:26:07 Everything we did a succession game is when like one person plays an in-game year
+00:26:11 and then they pass it off to the next person and you and you take turns playing a year.
+00:26:15 Our fort is so much gold.
+00:26:19 There's gold everywhere.
+00:26:20 Like all all the walls have gold in them.
+00:26:23 There's like gold nuggets like littering the floor because everywhere we did.
+00:26:26 We just keep finding gold gold gold gold.
+00:26:29 But we don't have any like talented metalsmiths.
+00:26:31 So like my whole thing has been like trying to get a bunch of metalsmiths.
+00:26:36 Practicing making copper stuff so they can become extremely good metalsmiths.
+00:26:40 And then they can make like really expensive gold crafts and sell them right.
+00:26:44 Because if we just if you make crappy gold stuff and so that'd be waste of money.
+00:26:47 You want to make good stuff out of it to maximize your return.
+00:26:50 All right.
+00:26:50 So that's that's what I wanted to do.
+00:26:52 All right.
+00:26:53 So by the time it gets to my year you know I fuck around.
+00:26:56 Like we get attacked by a monster a giant tick or whatever shows up.
+00:27:01 Had a very funny very funny battle.
+00:27:05 This this forgotten beast that's a giant tick shows up.
+00:27:09 And he is coming through the caverns and there just happens to be one dwarf stucos out in the caves
+00:27:15 hunting like a kangaroo or something.
+00:27:18 And this tick this giant tick beast just runs up to him and stucos leaps on the tick and
+00:27:25 starts biting its legs and latches on with his teeth.
+00:27:29 And then the tick breathes a cloud of freezing dust to I don't know to do to harm stucos in
+00:27:37 some way but in the cloud of dust it like trips and falls and hits its head on the cave wall
+00:27:43 and just splatters its own head open into pulp on the wall and just bursts its own head
+00:27:50 with its own weight I guess.
+00:27:52 And it just dies and stucos fucking did it.
+00:27:56 And that was fine.
+00:27:57 No problems.
+00:27:58 No casualties at all.
+00:27:59 But then one were horse I think shows up.
+00:28:03 And our can our fortress is on a canyon.
+00:28:08 There's a river and it's a canyon.
+00:28:11 And there was a bridge that goes over the canyon.
+00:28:13 And that's like a main supply line for our fortress.
+00:28:16 And this happened to become the full moon.
+00:28:18 I guess it's just the wrong time.
+00:28:20 And one were horse went crazy at the full moon on the bridge and our whole military rushed it
+00:28:28 and they fought him on the bridge and he just like laid waste to one dwarf after another.
+00:28:34 And everyone like rushed the bridge and they all fell off into the river and died.
+00:28:38 Like 60 dwarves just like died in the river because one were horse like got angry.
+00:28:45 Just pummeled them all with skull crushing hooves.
+00:28:48 What is a were horse?
+00:28:49 Is it a horse that turns into a dog?
+00:28:51 That would be smaller.
+00:28:51 No, no, it's a dwarf that turns into a horse at the full moon or a horse beast.
+00:28:59 So it like it halved our population.
+00:29:02 It went from like 120 dwarves to like 60.
+00:29:05 You needed to get a cowboy dwarf to bucking bronco it like right at like a tain it.
+00:29:11 We need something.
+00:29:12 We need something.
+00:29:13 All right, you know, things aren't things aren't looking good in in in fern relics.
+00:29:20 That's our that's our our fort.
+00:29:24 Okay, just wanted to update you on my dwarf situation.
+00:29:28 Now you know, I was playing or trying out this cool game that had dwarves in it called deep rock
+00:29:33 galactic.
+00:29:36 I've been marathoning a lot of skill up on YouTube.
+00:29:39 His videos on games are really fucking good.
+00:29:42 And one of the games you recommended was this game called deep rock galactic.
+00:29:45 It's like an indie multiplayer like four player game.
+00:29:48 I've seen this it's it's some dwarves in space mining space rocks.
+00:29:53 Yeah, it's like actually like pretty cool.
+00:29:55 It's it's like all the stuff's procedurally generated and like you can destroy any part
+00:29:59 of the map and create like your own custom tunnels and you're looking for like gold and other kind
+00:30:03 of like precious resources while fighting off like swarms of aliens that come and attack you.
+00:30:07 And there's like four different classes.
+00:30:09 And it's pretty cool.
+00:30:11 I only played a very little bit of it because there's no demo and I don't buy games without
+00:30:15 trying them.
+00:30:15 So I pirated it.
+00:30:16 Sorry, indie devs.
+00:30:17 I will buy it if I like it.
+00:30:20 But I play a little bit of it and it runs pretty well.
+00:30:22 It's pretty fun.
+00:30:23 And there's a bunch of goofy drunk dwarves.
+00:30:26 And yeah, if you if you like those multiplayer games, class based multiplayer stuff like PvE,
+00:30:33 it seems like a great recommendation.
+00:30:35 It's apparently like in the top 100 highest rated games on Steam of all time,
+00:30:40 despite being like a very new game by a small team of guys.
+00:30:44 So apparently it's pretty sick.
+00:30:47 And it's kind of cool.
+00:30:49 Looks kind of neat.
+00:30:49 It's pretty fun.
+00:30:51 I'm looking at images.
+00:30:52 All right, I'm amenable.
+00:30:54 I'm amenable to what I'm seeing.
+00:30:56 I'm just saying if you had those dwarves in your fort, you probably could have killed this fucking
+00:31:01 warhorse with ease.
+00:31:02 Don't stucos the if stucos, the bug hunter had been there.
+00:31:06 If he had been the first on the scene, I'm sure everything would have been different.
+00:31:10 But instead, just our stupid ass military who doesn't know what they're doing got their first.
+00:31:15 And of course, the slaughter that ensued was legendary.
+00:31:21 This is why we have to redirect 90 percent of our nation's budget to defense.
+00:31:26 Otherwise, the war horses will come and kill us all.
+00:31:29 That's right.
+00:31:30 That's right.
+00:31:31 If only I if I'd invest more.
+00:31:33 Oh, the other thing about our fort is that we have no good medals.
+00:31:36 We have no iron for making steel.
+00:31:38 We don't even have any tin for making bronze.
+00:31:42 All your weapons are gold.
+00:31:45 They're fucking copper and whatever and whatever we've been able to trade for.
+00:31:49 I've traded for some steel, but like it's there's not that much.
+00:31:52 So, you know, it's it's our military is like they're where they're all got like
+00:31:58 silver hammers are the best thing we can have.
+00:32:00 Silver hammers and maces are pretty decent.
+00:32:03 But other than that, it's like it's just not it's just not a lot of good shit.
+00:32:06 It's very sad.
+00:32:07 Tragic, even.
+00:32:10 OK, I was going to talk about something else, but then I got distracted by my dwarves.
+00:32:18 Too many dwarves.
+00:32:19 And I and I yeah, so OK.
+00:32:21 2016, the only games I bought in 2016 with Dark Souls 3, Pokémon Go and Pokémon Moon.
+00:32:27 I guess I didn't buy Pokémon Go and buy Pokémon Go.
+00:32:30 Yeah, I was.
+00:32:33 Did you tell me if you get the new if you get the Pokémon Sword Shield?
+00:32:38 I got Sword.
+00:32:39 I was gifted it.
+00:32:40 I would not have bought it of my own volition.
+00:32:42 I had fun.
+00:32:43 Yeah.
+00:32:44 Yeah, I didn't get it.
+00:32:45 It's more Pokémon.
+00:32:46 It's like definitely not worth being the first console game.
+00:32:50 Yeah, I feel like when it comes to like I need more Pokémon, there's plenty of
+00:32:54 ones that from the past that I haven't played yet, such as Black and White.
+00:32:58 I kind of want to play.
+00:33:03 Not not.
+00:33:04 Yeah, Platinum.
+00:33:05 Is that the one with Giratina?
+00:33:08 I don't know if it's not the first 150 Pokémon.
+00:33:11 Is that Gen 4?
+00:33:13 Yeah, it's Jen.
+00:33:13 I think Diamond and Diamond Pearl and Platinum Platinum is the third one of that.
+00:33:19 I like I didn't I played Pearl and Pearl was like, OK, I didn't love it.
+00:33:23 And then and then like I didn't I sort of skipped Gen 5.
+00:33:28 But at the time anyway.
+00:33:31 But like people say that Platinum is like much better than Pearl and Diamond.
+00:33:35 So I think I don't know, maybe it would be worth going back to revisit.
+00:33:39 I think so.
+00:33:40 I think I've heard that it's just like all of the the little
+00:33:43 annoying frustrating things or at least some of them were like addressed in the third.
+00:33:48 Yeah.
+00:33:50 Yeah, I played Platinum.
+00:33:50 I played Pearl in college and I was like, this is fine.
+00:33:54 Yeah, I was playing Pearl at the end of high school.
+00:33:56 And I think that's the game that disillusioned me from Pokémon.
+00:33:59 I'm just like, yeah, it's fine, whatever.
+00:34:02 I'm too old for this apparently, but I wasn't too old.
+00:34:04 The game was just not good.
+00:34:07 I skipped Gen 3 and then I got Gen 4 as like a retro like a throwback thing.
+00:34:13 It was like a nostalgia thing because like all my friends were getting it.
+00:34:16 And then I think I did get Black when it was new.
+00:34:21 But I didn't like finish it.
+00:34:23 And then of course, much, much later.
+00:34:25 Getting sword and it was based.
+00:34:27 Was the first game I got when it came out since Pearl.
+00:34:30 So there was a huge gap and just me not playing any Pokémon games.
+00:34:33 So it felt kind of fresh because I'm like, oh, you can just like hit a button to throw
+00:34:39 Pokéball without having to go into the menu.
+00:34:41 How black?
+00:34:42 How a revolutionary.
+00:34:43 Black and White 2 really is the pinnacle of the series.
+00:34:45 That seems to be the general consensus from what I understand.
+00:34:49 Yeah, X and Y.
+00:34:52 Everything I hear about them makes them sound bad.
+00:34:55 Yeah, I think I got one of those and I tried to play it.
+00:34:59 And it was just sort of like, I don't know, it's kind of cute that you can roll a blade around.
+00:35:04 And I don't like Pokémon, so I stopped playing.
+00:35:08 Le Mans.
+00:35:09 It was normal to like see everything in 3D for the first time since I've seen it.
+00:35:11 Pokémon Moon was like quite good, I felt.
+00:35:16 Yeah, that was alright.
+00:35:17 Like just, I don't know, like Gen 3 was like my first one.
+00:35:24 And Gen 4 immediately, it was like, I don't care.
+00:35:27 It's 3D, I like the sprites, whereas the sprites gone.
+00:35:30 Yeah, you didn't think that X and Y had like the charm of like the PS2?
+00:35:40 I felt a lot of like the PS2 charm.
+00:35:41 I didn't play X and Y.
+00:35:43 X and Y had like on the surface is like, oh, cute low poly 3D stuff.
+00:35:49 And it looked nice, but the locations were just so boring.
+00:35:54 Yeah.
+00:35:55 I just didn't care about anything that was going on.
+00:35:57 It was weird playing X and Y, where like the game felt for the most part,
+00:36:01 like the locations were still designed with like a tile set of like a sprite based game.
+00:36:05 Like they didn't take any advantage of the dynamism 3D offered,
+00:36:08 where Sun and Moon, like the worlds felt a lot more organic and like took advantage
+00:36:12 of like polygon graphics, which I think made it feel a lot more immersive.
+00:36:17 With X and Y, the fucking roller blades, you use, because it's the 3DS,
+00:36:22 they have the joystick, the, you know, analog stick.
+00:36:29 And so you could move in an analog way around the place,
+00:36:33 but as soon as you took them off, your character just sort of
+00:36:36 zoomed into the nearest square and then it was grid based again.
+00:36:40 Yeah, I just didn't like that.
+00:36:41 That was really dumb.
+00:36:43 Now, I didn't play X and Y and they don't look that appealing to me,
+00:36:46 but I will say one thing I do know that is good about them is that the X and Y,
+00:36:53 the Kalos Champion, Diantha, has an absolute banger theme, like battle theme.
+00:37:02 It's super good.
+00:37:03 It's super fucking good.
+00:37:04 I never got there, so I wouldn't know.
+00:37:08 Excellent.
+00:37:09 I'll take your word for it though.
+00:37:13 I think I, well, I'm not, I won't bother trying to describe how the song sounds.
+00:37:18 It goes.
+00:37:22 It's got, no, it's, it's got a real nice mix of sort of like ethereal like bells
+00:37:28 and like soft parts and chimes and piano.
+00:37:31 And then it kind of like switches between that and like a kind of like electric guitar thing.
+00:37:36 It's so cool.
+00:37:37 It's very.
+00:37:40 Do you like kind of miss Game Boys?
+00:37:42 I kind of do.
+00:37:43 No.
+00:37:44 I kind of do.
+00:37:44 Um, why?
+00:37:46 Um, because like the Switch isn't a Game Boy.
+00:37:48 It's like really expensive and like the games are designed to be like big games.
+00:37:54 The Game Boy was pretty expensive when it first came out.
+00:37:56 Compared to consoles though, it wasn't like the games were half the price.
+00:38:00 The console was like a half to a third of the price.
+00:38:02 The games were shorter and simpler.
+00:38:04 It felt like there was like a platform for like these simple games.
+00:38:06 You could just kind of like take with you anywhere.
+00:38:09 Nowadays that that stuff is like indie games on Steam rather than handheld.
+00:38:14 I'm not going to like fucking bring my desktop around with me to just like
+00:38:17 dig around and play a simple game when I have like a couple minutes.
+00:38:20 Or mobile games, I guess.
+00:38:21 And mobile is like way too monetized and like the free to play model.
+00:38:26 Like, I don't know, there was like a weird niche that the Game Boy had
+00:38:29 that I didn't realize I liked until it was gone because I took it for granted and it kind of stinks.
+00:38:35 Yeah, I will say if you can get like GBA emulation on your mobile phone, it is very fun.
+00:38:43 I played all of Fire Emblem 7, the first English translated one,
+00:38:49 a few months ago on my phone.
+00:38:50 It was just like, it's about the same size as the Game Boy Advance SP.
+00:38:57 It's just felt like I was playing it all over again.
+00:39:00 It was great.
+00:39:01 Yeah, Fire Emblem, the first Fire Emblem on GBA.
+00:39:04 Like you're tucked up in bed, everybody has their phone in bed because they look at
+00:39:10 fucking YouTube videos and tweets like idiots like me.
+00:39:13 Not me.
+00:39:14 And so it was such a natural like, oh, instead of looking at Twitter or looking at YouTube videos
+00:39:20 that I've seen already, I'll play a video game that I played already and that's much better.
+00:39:31 I don't know, is Fire Emblem good?
+00:39:33 Yeah, it's fun.
+00:39:34 Yeah, Fire Emblem 7 is like classic, classic, classic good game.
+00:39:40 The sequel, The Sacred Stones was very good as well.
+00:39:45 And then in three, and they sort of, with the advent of three-dimensional polygonal
+00:39:52 graphical shit, it sucked and it looked bad because the sprites were so...
+00:39:58 Agreed, reject modernity.
+00:39:59 The sprites were just so beautiful and so well animated and then they came onto the GameCube
+00:40:04 with one and they had no flair at all.
+00:40:07 They were just like stick figures going up and swinging a sword in a very normal way.
+00:40:12 It sucked.
+00:40:13 It's true, the catharsis of those animations in Fire Emblem were like really good.
+00:40:18 I will never ever forgive Sakurai for putting all of the Fire Emblem characters in Smash,
+00:40:24 except the only good games were Snubbed, the only ones.
+00:40:28 Why is Linda?
+00:40:29 7 and 8.
+00:40:31 I guess it's tired and I probably don't need to say that there's too many Fire Emblems in
+00:40:38 Smash and they all look the fucking same and I hate them.
+00:40:40 Yeah, I hate them as well.
+00:40:41 They're just bad picks.
+00:40:43 They're just picks based on whatever is currently there.
+00:40:45 I was thinking the other day, you know what would be better?
+00:40:49 Is if there were just one or two Fire Emblem characters and you could pick a different,
+00:40:54 just like each new Smash game could have just a new Fire Emblem that would be the same as the
+00:41:01 last one, but it would look different and it would be just some other girl with a sword
+00:41:07 who plays identical to the last one, but just has a different name.
+00:41:09 That's just the annoying thing is that Fire Emblem has such a variety of types of fighters
+00:41:15 and they always choose whoever is the protagonist or the main character,
+00:41:21 which is a similar sword-wielding lord usually and there's all of these like
+00:41:25 incredible diverse characters they could take from any of the games,
+00:41:30 but they always take the main character.
+00:41:32 There should be one character named Fire Emblem and you can choose to be like an Axe
+00:41:38 Man or a Sword Man or a Magic Man and their moves that would change.
+00:41:42 Like Pokemon Trainer?
+00:41:42 Yeah, that's what it should be.
+00:41:44 There should be one character named Fire Emblem.
+00:41:46 That would be cool.
+00:41:48 I would like, if I had the power, I would model like three-dimensional versions of
+00:41:53 all the Fire Emblem classes as they appear in sprite form and then I could make like Smash,
+00:41:58 just Fire Emblem Smash though.
+00:42:02 And it would be actually good and people would be like, ah, yes.
+00:42:05 We already have a Fire Emblem Smash, it's called Smash.
+00:42:09 It's true.
+00:42:10 LaMalle.
+00:42:12 It's been colonized.
+00:42:14 But now they have Sephiroth, so like all is forgiven.
+00:42:18 Sephiroth, he's pretty good.
+00:42:21 Sephiroth looks pretty cool.
+00:42:23 It's pretty, you know, as these things go.
+00:42:26 Did you see?
+00:42:26 He's no Steve.
+00:42:28 Did you see Sephiroth's little Let's Play video where he plays as Sephiroth and shows us how he plays?
+00:42:34 Yep, yep.
+00:42:35 That was fun.
+00:42:35 He does one for every new character, right?
+00:42:38 Yeah, it just sort of, it's sort of cute.
+00:42:40 I don't know, something about the way he was doing that.
+00:42:44 So I just felt like he was Let's Playing.
+00:42:47 He's a good man.
+00:42:49 There's the part in it where he's like, he's talking about like frames.
+00:42:54 And then he's like, wait a minute, I don't care about this.
+00:42:57 I'll leave that to the tournament players.
+00:43:00 Let me just say, it feels fun to do this.
+00:43:02 Yeah, it's like he clearly like does care a little bit.
+00:43:05 And he's like, wait, Smash is not a competitive game, haha.
+00:43:10 Yeah.
+00:43:10 I mean, it's funny because if you watch his play through when he talks about Terry,
+00:43:15 it's obvious that he's like a hardcore fighting game guy.
+00:43:18 He knows all this shit about King of Fighters and Fatal Fury and Street Fighter and all this
+00:43:22 shit.
+00:43:22 And he's talking about all the different really obscure movesets and stuff that he integrated
+00:43:28 in all the references to all these obscure SNK games.
+00:43:31 He grew up in the arcades.
+00:43:32 He's clearly like a hardcore fighting game community guy.
+00:43:36 But he was tasked to make a fighting game, or a party game.
+00:43:39 And that was the initial idea.
+00:43:41 And it's just like that DNA is like in him, but like he has to play it like closer to
+00:43:46 the chest.
+00:43:47 And it's just like pretty funny how like this party game was taken and became like treated
+00:43:52 communally as the genre that he clearly has a lot of love for, but wasn't setting out to make.
+00:43:57 Yeah, it's nice to see that he seems to have more control over this current game than he
+00:44:03 did previously.
+00:44:05 And he's happy about it.
+00:44:06 Yeah.
+00:44:07 There's Minecraft in it now.
+00:44:10 There's Steve in it.
+00:44:11 That's all you need.
+00:44:12 That's so cool.
+00:44:12 There's Minecraft in Super Smash Bros.
+00:44:16 It's pretty good.
+00:44:19 But you know what?
+00:44:20 I'm not going to play it because I actually don't like playing Smash Bros.
+00:44:24 No, neither do I.
+00:44:25 I just like looking at it.
+00:44:27 I kind of like that it exists, but I'm not going to play it.
+00:44:29 And I actually don't care at all.
+00:44:31 I'm like, I get much more enjoyment watching like Maximilian Dude react to like New
+00:44:36 Fighters added to Smash than I do playing the game.
+00:44:39 You know, like if you watch his reaction when like Cloud was announced, it's like the most
+00:44:43 entertaining good feel thing of all time.
+00:44:46 Watching this grown man flip his shit for a character in a video game.
+00:44:50 What did he do about Sephiroth?
+00:44:53 He also flipped shit, but he was like three other people.
+00:44:56 So they were all just like geeking out.
+00:44:57 I'm like, I don't know who any of these guys are.
+00:44:59 Man, I thought Sephiroth was so cool when I was in like eighth grade.
+00:45:08 And you still do.
+00:45:10 And I still do.
+00:45:11 No, I wanted to, I, when I, I grew my hair out really long and I think part of my motivation
+00:45:17 for doing that was that I thought Sephiroth looked really cool with long hair and I wanted
+00:45:21 to look like that.
+00:45:22 Same with Zero from Mega Man X.
+00:45:24 Those were my two like long hair goals at the time.
+00:45:28 Were you going to dye it gray or silver?
+00:45:31 I thought about it.
+00:45:32 I never like really, occasionally I wondered like, what if I dyed it gray?
+00:45:36 Little did he know Ben's life would be so stressful.
+00:45:38 He'd start growing gray naturally.
+00:45:41 Yeah, yeah, like all I had to do was wait.
+00:45:44 I can, I can see Ben like young Ben with long dyed gray hair and a leather trench coat.
+00:45:50 It's really funny.
+00:45:52 Ben dressed up like Sephiroth with like the long hair and then Nate with his vampire
+00:45:57 Hunter D hat.
+00:45:58 Just like the ultimate, the ultimate, pure weaponized cream.
+00:46:04 Embrace tradition, guys.
+00:46:06 You know what, you know what, I was, I was, I was cleaning my room the other day.
+00:46:13 I was cleaning my room.
+00:46:14 This is, this is going to sound really stupid.
+00:46:16 But I guess I might as well say it because where else am I going to say stupid shit other
+00:46:20 than on the procrastinators podcast?
+00:46:22 I've seen your Twitter.
+00:46:22 I was cleaning.
+00:46:24 Oh, no, I only, no, fuck you.
+00:46:26 I see smart things on Twitter.
+00:46:28 I'm the only smart one there.
+00:46:31 God, I don't want to talk about that.
+00:46:34 I don't want to talk about Twitter.
+00:46:35 Fuck you.
+00:46:37 The, the, I was cleaning my room and I found behind some shit on my dresser.
+00:46:45 I found the like makeup stuff from, from Radcon.
+00:46:50 I found like, you know, the eyeliner and the, and the lipstick and stuff.
+00:46:53 And I was just thinking like, and I, and I just remind him is like, yeah, uh, uh,
+00:46:59 uh, fucking the, the goth thing, the whole like, the goth, like eyeliner, E-boy thing,
+00:47:05 you know, it's kind of cringe, but I, you know, deep down, deep down, I think it's kind of cool.
+00:47:10 And, uh, maybe I should pull a Hussie.
+00:47:13 Maybe I should pull, like, I think Hussie, Hussie just became a clown.
+00:47:17 Like, you know, like he always wanted to.
+00:47:18 You became a chocolate.
+00:47:19 Yeah.
+00:47:20 Maybe I should just become a goth E-boy again.
+00:47:22 Embrace, embrace tradition, reject modernity.
+00:47:25 I was thinking about similar things because I have some makeup now and I haven't tried it yet.
+00:47:30 I've been thinking, ah, God, dang it.
+00:47:34 I want to, I kind of want to be like an emo scene goth punk girl.
+00:47:39 What better time than now to experiment?
+00:47:41 You're not going anywhere.
+00:47:42 You know, you don't really risk anything other than the people immediately around you
+00:47:45 seeing your, your awkward, like figuring it out phase.
+00:47:49 And then you can emerge from the pandemic, like a fucking God of aesthetic.
+00:47:53 It's true.
+00:47:54 It's true.
+00:47:55 Yeah.
+00:47:56 Well, I mean, shit, we're most of the way through it now.
+00:47:58 Exactly.
+00:47:59 Now's the time before the window of opportunity passes you by.
+00:48:03 Yeah, yeah, yeah, yeah.
+00:48:05 Um, I don't know.
+00:48:08 But, uh, but then I think about like, uh, man, look at myself in the mirror and I'm like,
+00:48:13 oh, but I look like that.
+00:48:14 Oh, but, but this is my face.
+00:48:17 Like if, if a person that looked like this tried to do, tried to try to like look cool
+00:48:22 in any way, that would just be like such a mismatch and it would be so cringe.
+00:48:27 You got to just commit to it so hardcore.
+00:48:29 It turns around and becomes based again.
+00:48:32 I think so.
+00:48:33 Yeah, I think, I think there's, that's true.
+00:48:35 If possibly you can do it, anybody can.
+00:48:38 I don't know.
+00:48:39 Um, I mean, I don't want to be try hard, right?
+00:48:41 No, you have to try hard.
+00:48:43 It's, it's, it's now, it's now, it, I feel like it's, it's cringe to be what, I mean,
+00:48:48 kind of always has been cringe to worry about what other people think too much,
+00:48:52 but it's also cringe to not go hard enough.
+00:48:54 Well, that's the whole thing is like, you can,
+00:48:55 there are people who can pull things off naturally and like good for them.
+00:48:58 And then there's like the people who are tryharding,
+00:49:00 trying to like fit into something they're not supposed to be.
+00:49:03 But then like, if you try hard so much, you become like so fucking hardcore,
+00:49:08 like committed to the cause, it becomes cool.
+00:49:10 Yeah, even if you don't like really get there,
+00:49:13 the fact that you're trying is like, it's kind of cool.
+00:49:16 And I wouldn't sell yourself short.
+00:49:17 I don't, I wouldn't like throw the entire idea under the bus,
+00:49:20 just cause you're uncomfortable with how your face looks.
+00:49:22 I'm sure it's not nearly as bad as you're making it out to be in your own mind.
+00:49:26 I mean, I think there are ways to try hard that are more embarrassing
+00:49:31 and there are ways to try hard that are less embarrassing.
+00:49:33 Sure.
+00:49:35 The most embarrassing thing is caring about people thinking you're try hard
+00:49:39 and reducing your own happiness because of that.
+00:49:42 So go go ham, my dude.
+00:49:46 Okay, well, I guess I will, whatever that means.
+00:49:52 I mean, at the end of the day, Ben,
+00:49:54 you're already immortalized on YouTube forever and videos that are out and more to come.
+00:50:00 So what's the worst that could happen?
+00:50:03 I guess next next next lecture, I should just do it in like full like goth.
+00:50:07 I agree.
+00:50:09 Wait.
+00:50:11 I found, I found a bunch of like rings that I used to wear for like a little period there
+00:50:17 when I was maybe like 23 or something.
+00:50:19 I was like accessorizing, I was wearing like a bunch of like rings
+00:50:23 and I had a bunch of like fake like piercings that I would wear on my ears.
+00:50:28 And I found the box in my closet that I had all that stuff in.
+00:50:32 And I was like, that was so lame, but also that was so cool.
+00:50:36 Maybe it was kind of a little bit cool.
+00:50:39 I don't understand why I never like
+00:50:42 try to experiment with my aesthetic in real life more
+00:50:46 because like I'm always interested in like character creators and video games and stuff
+00:50:49 and like aesthetic, something that interests me.
+00:50:51 But for some reason, like I never considered myself being a worthwhile canvas.
+00:50:55 And that seems like such a missed opportunity.
+00:50:58 I know what you mean.
+00:50:59 I know the feeling.
+00:51:00 It's it's the what is it, the expectation of like men to be like normal and not maybe
+00:51:09 not really that flashy and to be flashy is to be homosexual.
+00:51:15 Well, I am pretty gay.
+00:51:17 So I feel like that barrier has been crossed at this point.
+00:51:21 Well, shit.
+00:51:22 Well, like I don't want to be gay.
+00:51:24 Oh, well, that's where I don't have to be fucked up.
+00:51:29 That like deeply ingrained toxic masculinity.
+00:51:32 There it is.
+00:51:38 It's like you got to you got to dress like everyone else.
+00:51:40 Otherwise you're not.
+00:51:42 I mean, I mean, like in in high school, I was like, I was very I did like,
+00:51:48 I was I was pretty try hard.
+00:51:49 Like I did.
+00:51:50 I had I had like coats and stuff.
+00:51:53 Right.
+00:51:53 I have like I have like not like a trench coat, but I had like like leather coats
+00:51:57 that I thought were like cool and weird and that were like sort of like my like signature
+00:52:03 pieces and stuff.
+00:52:04 And I was like, oh, man.
+00:52:05 Yeah, I have this coat like nobody else has coats like this.
+00:52:07 Nobody else has like a I don't know, you know, has like hair as long as mine or whatever,
+00:52:14 a fucking hat like this or whatever, you know, whatever the fuck.
+00:52:17 I did a lot of that.
+00:52:20 And then but it was cringe.
+00:52:22 It was definitely cringe.
+00:52:23 No, I like I didn't have a space like that.
+00:52:26 And I wish I did.
+00:52:27 Yeah, same.
+00:52:30 No, it's it's a I don't know.
+00:52:34 It's such an action is cooler than inaction.
+00:52:36 Almost it constantly.
+00:52:37 I think I think it's true.
+00:52:40 It's not a good it's not a good thing to be like really like trying to have like quirky
+00:52:49 affectations.
+00:52:50 Well, I don't I feel like even if that in and of itself is like cringe and awkward.
+00:52:56 That's like a necessary stumbling block on the path to finding your own aesthetic and
+00:53:01 being comfortable with like your self presentation.
+00:53:03 Yeah, you know, what I really mean is just like it's it's based in as like compared to
+00:53:11 being afraid of people looking at me weird and and not doing anything with myself at all.
+00:53:17 Right.
+00:53:18 The the the stages may be cringe, but the process and the results that come from it is based.
+00:53:24 I mean, I'm I'm not I'm not afraid to like look weird at all.
+00:53:30 I'm just I don't know.
+00:53:34 I feel like I'd be so much more willing to experiment if it was like like in a video game
+00:53:40 where like you could just like pick a piece of gear change and then change back.
+00:53:44 Like if you want to like experiment with like I'm going to change my hairstyle,
+00:53:48 you got to like commit for like two months to that until it like grows back out,
+00:53:51 even if it looks bad. Where's like, you know, in a video game, it's like score back to option
+00:53:56 four, option three did not work, you know. Well, it's because that's low effort.
+00:54:01 It is. Right. It is because in real life, if you have like a very particular look,
+00:54:05 it means that you went about achieving it and it probably took some doing.
+00:54:11 This is why we all need to be VTubers and like abandon our physical bodies.
+00:54:15 Then then our changes are that easy.
+00:54:17 It means it means that you were committed to it and you really you pursued it and you
+00:54:21 thought it was a good idea. So if you like look a certain way in real life and it's like,
+00:54:26 oh really, that's what he decided to go with. Like, oh boy.
+00:54:30 But it's just part of the learning process, like in real life, too. It's just like you just
+00:54:33 well, I know. Just tried. Sure.
+00:54:35 So I think we all should give our fellow man a bit more benefit of the note.
+00:54:41 Sure. But that's not fun. I'd rather make fun of everyone on the internet because I'm a
+00:54:45 jackass. I mean, I'll fucking judge someone if they look stupid.
+00:54:51 Well, of course. With the thing about like it being cringed to pretend to be quirky,
+00:55:00 do you feel like it's like it would be cooler if you just naturally felt like doing this thing
+00:55:07 instead of trying to do it? Is there a difference?
+00:55:10 I don't think so.
+00:55:13 There's kind of a difference. Like, I remember on the Ricky Gervais show, there was one
+00:55:20 Stephen Merchant made like a joke or he was talking about, they got like a male.
+00:55:26 They got like a piece of male from someone who they thought was like a big fucking dweeb.
+00:55:31 And they decided that this guy was like a big nerd who thinks he's cool. And he described him as
+00:55:37 like, oh, he's the kid. He's the kid in school who he only wears bowling shoes, right? Because
+00:55:42 it's like quirky. And like doing that for no reason, like just to do it because nobody else
+00:55:49 does it is like stupid. Doing it, if he if he just like liked bowling shoes, that would be
+00:55:58 something else. Sure. I think that's a different thing than what we've been talking about, though.
+00:56:02 If you're if you're experimenting with an aesthetic simply because you want to
+00:56:05 differentiate yourself from people around you, that seems like an empty pursuit. But if you're
+00:56:10 just trying to find your own self expression, you're doing it specifically for your own
+00:56:16 satisfaction and you're weighing that against how you'll be perceived, that's a completely different
+00:56:21 thing. Yeah. Yeah, sure. I mean, I don't think I think it's I think aesthetics are fine. I don't
+00:56:32 know. I don't know how I feel. I'm not sure. I'm not sure. I mean, maybe if I had like more
+00:56:39 places to go, maybe if I ever like went out ever, maybe then I would put more thought I never have
+00:56:45 any cause to consider like how will I look? How will I present myself? It's just such a it's
+00:56:51 it's depressing, actually. I wish I wish there were more opportunities for me to even think
+00:56:55 about such a thing. And then maybe I would experiment with it more LeMau.
+00:57:03 What do you think about that? I mean, I feel similarly I've had like makeup nearby, like I've
+00:57:11 been thinking mascara, like eyeliner, like I don't know how this was stuff works. I gotta look at
+00:57:16 YouTube videos, and I gotta try it out and fail a bunch of times. I just have no reason to because
+00:57:22 you know, I don't need to look good for camera. And I don't need to go outside. So like,
+00:57:27 what am I going to do? Here's here's what I think. Here's what I think. I think
+00:57:32 here's why I'd be a little uncomfortable with something like something that I think is
+00:57:37 a look that I think is cool, like, um, like like a long hair or like eyeliner or something. I think
+00:57:44 something like that. This is just my opinion. I think something like that looks good. It's like
+00:57:51 kind of like a feminine detail or a feminine affect. I think it looks the best on like someone who is
+00:57:58 very traditionally masculine. And it's like, to the point that like it's sort of like a deliberate
+00:58:05 contrast. I think that's interesting and looks good. I think that I am too shlubby looking.
+00:58:12 I think that I'm like too normal of a guy. I'm not like, if I think you'd need, I don't know,
+00:58:18 I think to pull off a look like that, you need like to be tall or like have a strong jaw or
+00:58:24 something. And I don't, I'm just normal. Uh, I don't know. When I imagine myself doing something
+00:58:29 like that, I think it's like, that's weird. It's cringe. Hmm.
+00:58:38 I don't know. I wonder how much of that is like internal versus external, like just kind of like
+00:58:43 conditions you've put upon your own kind of, uh, uh, expectations of what that should be versus
+00:58:50 like objectively what it actually is. Well, I guess I don't, I don't know. I mean, I have the same
+00:58:57 issues with myself because I always feel like, you know, I don't look properly for aesthetics I'd
+00:59:02 like to do. And then on top of that, it's just like, I also don't feel like putting in the time,
+00:59:06 effort or money to figuring it out. But then on the other hand, it's like, would
+00:59:11 addressing how I look and like make myself more aesthetically in line with how I would like to
+00:59:18 be or finding out what that even is, would that help just make me feel better in general?
+00:59:22 You know, like such a huge part of like the self that I've never explored. And like,
+00:59:27 perhaps that would help just make myself feel better if I actively took a step and like
+00:59:32 presenting myself as I would like to. I don't know. I mean, it's something that's been such a
+00:59:38 non part of my life. Like I've just, I've had like all the same clothes since high school where
+00:59:42 it's just like a T-shirt and jeans or whatever. And I just don't give a fuck. And I don't know if
+00:59:47 that's was a mistake. I mean, I think there's probably like a, like a self reinforcing loop
+00:59:56 there wherein like, if you put more thought into your appearance and then, and then, you know, you
+01:00:06 have, and then you actually like go out in situations where like presentation is matters,
+01:00:13 then that like act of going out and like being presented, like presenting yourself to others
+01:00:20 will probably make you then consider your appearance even more so, right? And these things
+01:00:27 will reinforce one another, right? Yeah, I would assume so. Yeah. Same with like working out,
+01:00:36 honestly. Same with like, when I was, when I was like going out more, seeing more people,
+01:00:43 I was more, like when I was more social, I think I had more of like a drive to like
+01:00:50 work out and be active and like, you know, keep myself from getting fat and turning into a fucking
+01:01:00 piece of shit, right? I mean, I was like in the best shape I've been in a while,
+01:01:03 like by rad con for, and then COVID happened and I definitely let myself go.
+01:01:07 Yeah, same. Yeah, same. It was all downhill from there. I'm desperately trying to like recover,
+01:01:12 like the last couple of weeks I've been like really strict on diet again. I'm like, no, I have to,
+01:01:16 I have to get it back. I feel like completely, I haven't gained like that much weight, but like,
+01:01:21 I have like, I'm off keto and I'm just like, ah, fuck it. I gained a significant amount of weight,
+01:01:26 especially in the last like two months, just like, no, I can't do this anymore.
+01:01:30 I gained some, I gained a bit in like the first, the first bit of quarantine, and I've basically
+01:01:36 just kind of been stable there for a while. Yeah. Yeah. Pretty lame.
+01:01:46 Part of my personal aesthetic is not being fat. Can't have that must destroy.
+01:01:53 Yeah. Yeah. I should, I should, I should get back on keto, but I just bought some loaves of bread.
+01:02:01 Gross. I just got on. I literally threw out all the food I had.
+01:02:05 I just was like, you know what? Sacrificing on the altar of like being a keto boy again.
+01:02:10 I just dumped it all, dumped all the bread, all the bagels, all the dumps should I had bought
+01:02:14 that was cheap. And I'm like, nope, we're getting, we're getting back hardcore on the bandwagon.
+01:02:19 You know, that's a good way to like mentally reinforce that like, no, we're taking this
+01:02:23 seriously now. And to show how serious I am about it, I'm going to like, you know,
+01:02:29 basically throw out some money, right? Basically spend money by tossing all this food that I
+01:02:33 shouldn't have bought. Yeah. It's like back when I used to smoke, sometimes when I would try to not
+01:02:41 smoke anymore, it would be like, it would be a little more effective if I didn't just like
+01:02:46 finish a pack and then not buy another, but for me to say like, no, no more and like throw out
+01:02:52 like, you know, the half a pack or whatever I have left. Right. That means the decision starts
+01:02:56 right there, not when it's more convenient. Yes. Yes, exactly. It was a deliberate change,
+01:03:02 not just, oh, well, I guess, I guess it's done. I've quit, I've quit smoking though,
+01:03:11 like that's pretty good. That's like, you know, for all Coronavirus, they say it's
+01:03:15 bad for your lungs, but for me, it's been great. Pretty based, pretty based.
+01:03:22 Do you still vape? I haven't heard you vaping in a while.
+01:03:24 I have, no, I just haven't done it. Oh my God. That's like your main character trait. I don't
+01:03:31 even know who you are anymore. I don't have any stuff. I mean, I guess I would like,
+01:03:36 I don't think vaping is that bad or anything. I just because they like along now at this point,
+01:03:43 it's been a long time since they stopped them. They wouldn't ship a vape shit to Massachusetts
+01:03:49 because it got like restricted or something. I think it is still technically restricted. I don't
+01:03:53 know. I haven't tried to buy any. Yeah, they wouldn't ship it to me online and it's so getting my
+01:03:59 hands on it became a hassle. So I just stopped getting it and it's been a long time since I've
+01:04:07 had any and that's fine. Lamal. Well, you're probably saving money. There's nothing else.
+01:04:17 Yeah. I mean, vaping is cheaper than smoking, which thank God, which was one of the,
+01:04:22 which was one of the, one of the reasons why I switched to vaping in the first place
+01:04:27 is because like, hmm, you know, I can actually, if I'm smart about it, I can, if I, if I vape
+01:04:31 instead of smoke, I can actually spend less on it. But yeah, I mean, vaping does cost
+01:04:36 something. So, you know, nothing is cheaper than either. So yeah, very good, very, very clever,
+01:04:44 clever allocation of resources on my part. I congratulate myself.
+01:04:50 You know, speaking of lighting a little bit of paper on fire with leaves in them,
+01:04:55 I feel like I thought recently about how I think I might be like a,
+01:05:02 like a minor pyromaniac. Like a little bit of a, like I just, I'm a little bit too excited
+01:05:08 to burn things to get rid of them instead of throwing them away. Because there's like,
+01:05:14 I was clearing out stuff and there's a piece of furniture that's like, we don't need this,
+01:05:18 it's taken up space. We'll put it outside for now and think about what to do with it later.
+01:05:22 And I was like, wouldn't it be cool if we just burn this? And everyone was like, uh, I mean,
+01:05:27 it's still functional. I was like, yeah, but like, I don't know, I just thought we could like burn it.
+01:05:34 And I realized then I was a little bit too eager. And it was funny. I just love making fires and
+01:05:40 looking at them. It's all that dark souls. You just want to light that bonfire really bad.
+01:05:45 I do. I mean, fire is cool enough, I guess.
+01:05:48 It's, it's, it's kind of like a thing, like a stoked about it. Like you go out to, like some
+01:05:54 people, they go out to a party and they like dance or something. I go out to like a bonfire and I
+01:05:58 look at the fire all night and I'm like, well, that was fun. Go to bed. I mean, sure. Fire is
+01:06:07 I can watch a fire for a while. It's like, it's the same though. It's pretty much the same. Fire
+01:06:13 is much more entertaining when you're throwing things into it and watching that thing get destroyed.
+01:06:17 Yeah. When I'm in charge of like keeping it fed or like half in charge, it's just so like,
+01:06:21 yeah, we got, we got all this scrap wood and we're not going to use it for anything.
+01:06:25 We're going to not going to build anything out of it and it's a nice night to do a fire. So let's
+01:06:31 burn some stuff. It's just like, yeah, put stuff on there. We usually after Christmas, we get the
+01:06:38 Christmas tree because all of the pine needles on those things have like a lot of oil in them.
+01:06:43 So they burn really, really hot for a very short time. It's kind of like,
+01:06:49 so we chop that up and we have like a Christmas, like end of Christmas bonfire, which is cool.
+01:06:58 I just love fire, guys. Fire is pretty dope.
+01:07:04 That's fine. Nah, it's all right, I guess. What about if it's a government building, Ben?
+01:07:10 Well, no, you fucking moron. Some buildings are good, actually. Not all buildings.
+01:07:21 What? Which one? Hashtag not all buildings?
+01:07:25 All buildings matter. Oh, yeah. Yeah. If it's cops or a bank, maybe, I guess.
+01:07:36 I don't know. So the bad ones, yeah. But if you burn the bank, all your money goes up in smoke?
+01:07:44 You know what? I hadn't thought. I don't want to think about it. It doesn't matter.
+01:07:49 I just hope fire destroys whatever is the best thing for fire to destroy.
+01:07:54 That's why I said all these buildings on fire, just on the off chance that one of them did that.
+01:07:58 Fire is a tool. It's neither good nor evil. It is used as the human that is as good as the human
+01:08:07 that wields it. Life lessons with Benzane. When I think of return to monkey, I usually think of
+01:08:15 build fire, ooke-ooke first thing. Even though monkeys didn't necessarily do that,
+01:08:20 I guess one of them must have at some point.
+01:08:23 Um, no. Has a monkey ever made fire? Do monkeys make fire?
+01:08:29 I don't think, well, I'm trying to think of the technical name.
+01:08:32 I mean, in Jungle Book, like Homo Sapien.
+01:08:36 That's like the whole plot of Jungle Book.
+01:08:38 Like there's a Homo Sapien Neanderthal and then Homo Sapien Sapien. I can't remember which way it goes.
+01:08:46 The Cro-Magnon Man and the Homo erectus, my favorite.
+01:08:53 No, I don't remember any of them either, but I know you're talking about like primitive
+01:08:56 version of man first discovered fire. I don't know which one it was.
+01:09:02 Yeah, you have to be a man to obtain man's red flower. That's what I learned.
+01:09:11 I feel like it's not the first time you've mentioned that on this podcast.
+01:09:15 Would you guys never see fucking Jungle Book?
+01:09:17 I know exactly what you're talking about.
+01:09:18 I know. I love Jungle Book. I feel no reason to say it.
+01:09:21 You guys are so silent. I was like, who, who, who, who, appreciate.
+01:09:25 I just, I just, I was happy like deja vu. I got,
+01:09:27 because specifically remember you saying that recently.
+01:09:31 King Louis has my name. So I, I was like, oh my God, it's me.
+01:09:35 It wasn't that, that's where your love of fire began.
+01:09:38 It wasn't that recently, but a while ago I did go on a thing about how I think it's so cool
+01:09:43 that they, that he, he doesn't know what it is. So he calls it man's red flower.
+01:09:48 I just like story telling.
+01:09:51 I learned that whole song of by heart when I was young,
+01:09:55 like all of the beep, beep, beep, beep, beep, beep, beep, all that stuff.
+01:09:59 I watched that movie a lot as a kid, a bunch of times. And then I never thought about it.
+01:10:03 And then as an adult, I like remember, I think I heard it again.
+01:10:07 And only then did I appreciate that, that metaphor. I was like, hmm.
+01:10:12 Yeah. Nice.
+01:10:15 Bass, Disney.
+01:10:17 And maybe the multinational corporation is pretty good.
+01:10:20 Whoa, whoa, whoa, whoa, let's not get too ahead of ourselves.
+01:10:23 Maybe, maybe, maybe I spoke to Zinn.
+01:10:26 Hey, have you guys seen your movie sucks has been streaming his editing process for the Lion King
+01:10:35 remake review for the past like 17 months?
+01:10:39 Yeah, I've seen snips of it here and there, but I haven't sat down and watched the whole thing.
+01:10:43 It's a lot of, it's a lot of time he's been spent editing this Lion King remake review.
+01:10:50 I can't believe it's been so long.
+01:10:51 I'm kind of like strangely hooked on these streams because they're so repetitive,
+01:10:55 they're unbelievably repetitive. He says the same things over and over again.
+01:11:00 Wait, what thing, what do you tell, what is this?
+01:11:02 It's YMS, right? You know, your movie sucks. He's editing on a stream.
+01:11:07 And then there's like stream clips of him editing the Lion King review,
+01:11:13 Lion King remake. And he's like, there's so many of them at this point.
+01:11:18 It's just like such a like, probably like, I don't know, 14 hours of like content of watching him
+01:11:24 edit and talk about how the Lion King remake sucks before he's made the actual review,
+01:11:29 which is looking to be more than two hours long itself.
+01:11:32 What a bad man.
+01:11:33 He's such a content machine.
+01:11:36 Indeed.
+01:11:39 I just sort of...
+01:11:40 Human content machine, Adam. What's his name?
+01:11:44 Adam Marshall.
+01:11:47 Adam plays. That's his full name.
+01:11:49 That's what I was going to say. That's what I was going to say.
+01:11:51 Adam Johnson.
+01:11:52 But I went with the Star Wars reference instead.
+01:11:54 Like it.
+01:11:57 I hate streams.
+01:11:59 That's what the people want. They want streams.
+01:12:02 I love streams.
+01:12:03 I guess they do.
+01:12:05 No, I hate them.
+01:12:06 I hate them for, I literally, I feel the same way about them that I feel about video games,
+01:12:10 which is that they just waste your time.
+01:12:13 But like more so.
+01:12:14 It's not even, it's not even like crafted content that they're wasting your time with.
+01:12:18 It's not even like a deliberate experience.
+01:12:20 It's so efficient.
+01:12:20 It's just like some, it's just like some accidental bullshit.
+01:12:23 Not every streamer is as good as others, but I love German.
+01:12:27 German 985 because he's like on the ball witty so often that there's usually like funny things
+01:12:34 happening every minute or something.
+01:12:36 I mean, when I was like, when I was into, when I was into Destiny or then when I was into Vosh,
+01:12:41 like I never watched them live.
+01:12:43 Oh yeah, of course.
+01:12:44 Because like, why would you do that?
+01:12:46 Like they'll, they'll, they'll put the best stuff on their fucking channel as clips.
+01:12:51 Just watch that.
+01:12:53 I think it's people who just want to participate.
+01:12:55 It's the participation aspect, being able to be part of the chat and contribute to it and like
+01:13:01 being there when things happen live, which personally does not intrigue me at all.
+01:13:05 But I can understand why people would want to be part of something.
+01:13:09 I definitely have that feeling with, with German.
+01:13:12 Like the reason I watched the Game Awards was because German was streaming it and it was just fun.
+01:13:17 Like hearing his like funny commentary over the being sporing stuff that didn't matter.
+01:13:22 Obviously, like the answer, obviously the solution here is like, like with everything,
+01:13:28 do it in moderation and it's fun, right?
+01:13:31 So, you know, don't think you're smart for telling me that answer.
+01:13:34 I already know, but it seems like, like to be being like the kind of guy or like
+01:13:41 being someone who watches live streams regularly just feels like a job.
+01:13:49 Just feels like a job you don't get paid for.
+01:13:52 Well, if you're having a good time, I guess it's not a job.
+01:13:54 I guess.
+01:13:56 Some nights I'm just like, I could go into a discord call just to hang out with a few people
+01:14:02 or I could watch a German stream and it feels the same.
+01:14:06 And I just, I just need to wind down and just listen to someone.
+01:14:09 I think I don't usually stay for the entire thing because it goes on for like five hours usually.
+01:14:13 I think the problem is we all like fancy ourselves content creators, you know.
+01:14:19 And so every time we do something that isn't working, it's always like a calculation.
+01:14:24 Like I could be spending this time being productive.
+01:14:27 We're like 99% of people don't have that problem.
+01:14:29 Like as soon as they're done with their job, their time is there to do whatever they see fit
+01:14:33 because they have no autistic inclinations like we do to have to like do something
+01:14:39 greater with their lives and bless them, bless them for not being cursed like we are.
+01:14:44 I mean, I feel like I'm less and less like a content creator mentally due to me not making
+01:14:51 content for a long time.
+01:14:52 The last two months playing games, watching streams and like sitting around and doing things.
+01:14:58 It's like I'm a little sad about some parts because like, oh no, I'm not, I'm suck.
+01:15:06 But part of it has just been like, I feel more like a consumer or an audience member of things
+01:15:12 rather than someone who could potentially make an analysis video of whatever I'm watching
+01:15:17 or playing.
+01:15:18 Like that stuff doesn't enter my mind as much anymore, which is, it feels good.
+01:15:23 I have again become that person you described, Tom, who must be creating at all times or
+01:15:34 they're wasting their time and they're a loser.
+01:15:35 I mean, I'm always like that.
+01:15:37 I like, I've been like trying to come to terms with the fact that like I enjoy playing video games
+01:15:41 and like shouldn't feel bad about it because like I like for decades, every time I watch a
+01:15:46 movie or play a video game for more than an hour, like I'm just wracked with guilt and
+01:15:51 it's been this way forever and it's so bad.
+01:15:54 Tom, you deserve to exist regardless of what happens.
+01:15:59 No, same for you.
+01:16:00 You're not paying for yourself.
+01:16:02 You're not, no, you got to pay your own way.
+01:16:05 Well, you're not contributing to the academy.
+01:16:07 Ben, you're valid.
+01:16:08 Okay, fuck up.
+01:16:11 No, I mean, for the last, listen, you said two months you haven't been on the ball.
+01:16:16 Well, me either.
+01:16:18 You know, I put out fucking, I put out that their Slime and Punishment video in like August
+01:16:26 and then I spent a long time doing like fulfillment stuff on my, on those two kick
+01:16:31 starters, which is something.
+01:16:33 But other than that, I have gotten very little done and I feel pretty bad about it.
+01:16:37 But, but I also feel liberated.
+01:16:41 I feel a little bit liberated by low expectations, right?
+01:16:44 Because I feel like at this point, it's been so long since I really did anything.
+01:16:51 Since I really made anything and put it out there that was like worth a fucking a damn
+01:16:56 at all that like anyone who's still following me probably has their expectations are rock bottom.
+01:17:04 And they're, well, wait, that sounds, that's not exactly what I mean.
+01:17:08 It's not not for like quality, but like they're not expecting anything anytime.
+01:17:12 They're patient, right?
+01:17:14 They're patient, which means that like, okay, I have, I have embarked.
+01:17:18 I have embarked upon a new construction.
+01:17:21 I have embarked upon a new project.
+01:17:23 And it, and the thing about that is that they've been here this long.
+01:17:28 It's, it's been this long since I made a new thing.
+01:17:31 Like if it can take me however, however long it takes me, it's fine.
+01:17:35 I don't have to worry about like, oh, I have to get it done by the end of the month.
+01:17:38 If it take, it's going to take me however long it takes me.
+01:17:40 And if it takes me two months, then so be it.
+01:17:42 Like it's, it's not going to be, it's not going to be a disaster,
+01:17:46 any more of a disaster than the gap since my last thing has already been, which is exciting.
+01:17:51 I have been, I've been, I've been like trying to work 24 hours a day.
+01:17:58 And I can't, guess what?
+01:18:01 Shocker, I can't do it.
+01:18:02 I'm in a terrible brain fog and I can't sleep.
+01:18:06 And I can't focus on anything.
+01:18:09 And my eyes hurt and I woke up, I keep waking up at weird hours
+01:18:17 and trying to like get back into it and then just staring at my screen.
+01:18:22 And it's like, oh, I can't, I can't remember what I was doing.
+01:18:27 So, you know, it's going good is what I'm saying.
+01:18:30 Excellent.
+01:18:31 Things are, things are, things are according, proceeding according to plan.
+01:18:35 I mean, I felt like entirely the same with regards to last thing I did was in August
+01:18:42 and then nothing and fuck.
+01:18:46 Last few days before today, I was feeling really bad and I just stopped feeling bad.
+01:18:50 I guess it's just one of those chemical things.
+01:18:53 It's just the depression juice ran out and I guess I'm fine.
+01:18:57 But like, I don't know, it's, it's okay to just not do anything, isn't it?
+01:19:06 Yep, it is.
+01:19:07 I do like the idea that, you know, knowing that I still want to do it, it'll happen eventually.
+01:19:15 And I don't know, there's just earlier in the year, like at the very beginning of the year,
+01:19:22 in fact, I was like, this is going to be the year where I do a fuck ton of things
+01:19:26 and I'm super productive and I become a real mangaka and I didn't do that.
+01:19:30 I did a lot of ghosts extremely fast in one month or two months, I think.
+01:19:34 That was so much for one month.
+01:19:36 You really did crank that out.
+01:19:37 And then like, I think it was immediately then it was Redcon 4
+01:19:44 and then COVID and that was fucked.
+01:19:47 But then I sort of picked myself up near August and I was like, let's do
+01:19:51 another thing, let's do the Clarissa Gunsmoke and the Bandit King
+01:19:55 comic for the contest.
+01:19:57 And I did another month of extreme intense work and that's like two out of, or two and a half out of
+01:20:03 12 months of actual like real work and the rest was just being deceased.
+01:20:11 And on the whole, it's like, it's not terrible because I did do stuff and it's,
+01:20:16 but it's not good because so much of the year was, I don't know,
+01:20:20 riddled with anxiety and terrible other stuff.
+01:20:23 And I guess transitioning was a big part of my focus.
+01:20:27 Yeah, I definitely feel like I did get some things done this year,
+01:20:32 but I think I thought I would get more.
+01:20:35 There were things I thought I would have done by now that I didn't.
+01:20:40 Shocker, COVID was not a great motivator.
+01:20:43 No, then I don't know about you guys, but as soon as it starts snowing,
+01:20:47 I'm done.
+01:20:47 Like I can't, I can't handle winter at all.
+01:20:50 So now that it's snowing, I'm just like, that doesn't really affect me.
+01:20:54 Oh God, I can't really have much.
+01:20:56 I'm surprised.
+01:20:58 No, I can't.
+01:20:59 That's that.
+01:20:59 I don't care about that.
+01:21:01 That's the reason like the last like two months.
+01:21:02 Why?
+01:21:03 I don't know.
+01:21:03 I just hate the cold.
+01:21:05 I hate the cold.
+01:21:06 I hate the snow.
+01:21:08 I do hate the cold.
+01:21:09 I always forget how annoying the cold is.
+01:21:12 Okay, the word what's really bugging me is that I have a space heater in my room,
+01:21:16 which is fine.
+01:21:17 But like when it's on, it's too hot.
+01:21:19 And when it's off, it's too cold.
+01:21:20 Like I have to like turn it on and off every like half hour.
+01:21:23 You never worry about air air conditioning.
+01:21:25 Air conditioning gets you exactly where you need to be,
+01:21:27 but like you can never balance the heat when it's too cold.
+01:21:29 It's always uncomfortable one way or the other.
+01:21:34 Yeah.
+01:21:35 Fuck the snow.
+01:21:36 I hate having to dig out my fucking car,
+01:21:37 which you don't have to deal with obviously,
+01:21:39 but like you need to go somewhere.
+01:21:40 Well, I got to fucking dig out my goddamn car.
+01:21:42 It's buried in fucking snow and I have a broken back,
+01:21:44 which makes it even harder.
+01:21:46 And it's just like, yeah, that's a fucking shit show.
+01:21:51 Where are you?
+01:21:51 I mean, do you have to leave the house for stuff?
+01:21:55 I mean, like going grocery shopping and shit.
+01:21:58 I don't have to.
+01:21:59 I don't go a lot of places, but it's just like,
+01:22:01 I can't I can't use my EBT with fucking Instacart.
+01:22:04 So if I want to like use my fake money,
+01:22:07 I got to like dig the car out and get going.
+01:22:10 Just just just say just save the just save the EBT.
+01:22:13 You can use it later.
+01:22:14 It doesn't expire.
+01:22:15 Yeah, I suppose.
+01:22:16 But then I have to spend I have to spend real money,
+01:22:19 which is very valuable.
+01:22:23 What?
+01:22:23 What?
+01:22:24 Yeah.
+01:22:24 Money is valuable.
+01:22:26 What the fuck?
+01:22:26 So I've been told.
+01:22:27 I feel like we've all been tricked into thinking that,
+01:22:29 but in the current paradigm, yes, it is very important.
+01:22:34 What a nightmare.
+01:22:35 Well, if you say so, if you say so.
+01:22:38 No, I never leave my house.
+01:22:39 I've been Instacarting.
+01:22:40 It's it's based.
+01:22:45 The only cool thing is when I do get Instacart
+01:22:47 and I come out like with with my cane,
+01:22:49 their demeanor goes from my hate serving,
+01:22:51 like obnoxious white people to like,
+01:22:54 oh my god, can I help you bring these in?
+01:22:56 And I'm just like, I never,
+01:22:58 I never meet the deliverer at the door.
+01:23:02 I don't want to.
+01:23:04 I don't want them to look at me.
+01:23:06 I want to just I can just I'll just go down
+01:23:09 and find the shit on my doorstep later.
+01:23:11 Please start doing their makeup stuff.
+01:23:13 That's going to be your fucking like litmus test
+01:23:15 for how good they're doing.
+01:23:16 Just answer the door and see how it goes.
+01:23:18 I don't want to have to say like,
+01:23:21 oh, yeah, yeah, just leave it right there.
+01:23:23 Oh, no, you don't have to let help me take it in.
+01:23:25 No, I'll get it.
+01:23:26 No, thank you very much.
+01:23:27 Yeah, you know, I have a good day.
+01:23:28 I don't want to do that.
+01:23:29 Like just just fucking put it on my step.
+01:23:32 Just leave it there.
+01:23:33 I'll take care of it.
+01:23:35 And and I and and I don't make me tell you that either.
+01:23:38 Just do it. Thanks.
+01:23:40 All right.
+01:23:40 You can leave a note for them to do that, right?
+01:23:43 I mean, that's just what they do by default.
+01:23:45 They do it now.
+01:23:47 Not that they're not used to.
+01:23:48 Well, I mean, before COVID, like they were usually like,
+01:23:51 like you'd answer the door and shit.
+01:23:54 But now it's maybe you know, maybe it has changed
+01:23:57 because they would like.
+01:23:59 Yeah, maybe it has changed.
+01:24:00 I mean, I just eventually I mean,
+01:24:05 I just stopped answering the door.
+01:24:06 Like they ring the doorbell.
+01:24:07 I just don't answer until like 15 minutes have gone by
+01:24:10 and I am confident that they're gone.
+01:24:12 I don't need to have a conversation with them.
+01:24:14 It's not productive.
+01:24:15 So fuck it.
+01:24:18 It's fucking Instacart.
+01:24:19 I tip them and I tip them and that's good enough.
+01:24:22 That's the only conversation they need.
+01:24:24 Yeah.
+01:24:25 What more do they want?
+01:24:26 I don't.
+01:24:27 Frankly, they probably appreciate it.
+01:24:29 Like what do they need from me?
+01:24:30 Nothing.
+01:24:30 That's true.
+01:24:31 Just your money.
+01:24:32 I don't do that many favors by making small talk with them either.
+01:24:35 No, who gives a shit?
+01:24:37 I've recently just now I'm on Twitter and apparently Andrew Hussie is
+01:24:44 he's got a trailer for a thing that is new and is not homestuck.
+01:24:49 No.
+01:24:50 It's it's apparently a visual novel that is coming soon.
+01:24:55 The trailer is like four minutes and 40 seconds long.
+01:24:57 You can't milk Homestuck anymore.
+01:24:58 We're all stuck at home now.
+01:25:01 Yeah.
+01:25:02 It looks like the same sort of art style because it's written and drawn.
+01:25:06 Entirely by Andrew Hussie.
+01:25:07 So that's like good.
+01:25:08 Oh, really?
+01:25:10 Yes.
+01:25:11 That's exciting.
+01:25:12 Is it clown related?
+01:25:14 I think it has a clown guy in it.
+01:25:17 Okay.
+01:25:17 Is this like an onboarding part?
+01:25:19 Can I finally get on board with it as an Andrew Hussie project?
+01:25:22 This card theme seems to relate to his most recent juggler photo shoot.
+01:25:28 It would be cool and not like unlike him for that Instagram thing to be like
+01:25:35 clues to whatever this is.
+01:25:39 I think it's definitely related at least thematically.
+01:25:42 Oh my god.
+01:25:43 Oh my god.
+01:25:45 This is I'm it's it's it's Hussie art.
+01:25:47 This is Hussie art.
+01:25:48 You can tell.
+01:25:49 Yeah.
+01:25:49 This is a real deal.
+01:25:50 It's none of this fucking bullshit.
+01:25:52 He's drawing and writing a visual novel and I am excited.
+01:25:56 I want to see the next thing the man has made.
+01:26:01 A chance.
+01:26:01 It's been so long.
+01:26:03 Oh my god.
+01:26:05 I didn't know.
+01:26:06 I didn't realize I would be excited for the next Hussie thing.
+01:26:10 But I am.
+01:26:10 This is great.
+01:26:11 I'm just fucking stoked.
+01:26:12 That's a retweet for me.
+01:26:15 Yeah.
+01:26:16 You know what?
+01:26:17 Fuck it, me too.
+01:26:21 No, actually, I'm just kidding.
+01:26:24 Can't let people on that.
+01:26:25 I'm excited about something that's so off brand.
+01:26:29 I mean, I've always said that like all of the stuff about Homestuck
+01:26:34 being like half written sort of by Andrew Hussie and mostly written and made by other people
+01:26:39 and it just doesn't feel the same was annoying.
+01:26:42 And I wish he would just make a new thing.
+01:26:44 And now this is a new thing.
+01:26:45 So I can't help but be excited.
+01:26:47 I mean, I wonder.
+01:26:49 Yeah, it's like, I guess maybe he's just been doing this instead of while the other guys
+01:26:55 like deal with Homestuck too, which like, yeah, makes sense.
+01:27:00 I mean, I'm glad he's just he's not just not doing anything.
+01:27:04 But I guess I'm not surprised.
+01:27:06 Like when you're Andrew Hussie, you can never stop, right?
+01:27:10 You can you can never you can never just quit quit.
+01:27:13 It always it always felt like a such a sad ending that the idea that someone's so prolific
+01:27:18 and so genius that they would make one thing and then stop creating forever after that.
+01:27:24 And it's like, no, there's got to be something more.
+01:27:26 It's so it's so weird.
+01:27:30 These are like, oh, God, these characters.
+01:27:34 Yeah, they don't look that great.
+01:27:35 They still like they look straight up bad.
+01:27:37 But like, I'm okay with that.
+01:27:39 It's it's it's like the way Andrew Hussie's style for this sort of like lo-fi MS paint drawing
+01:27:49 in in act six of Homestuck sort of changed over time into something that looks like this.
+01:27:54 I got to say, I don't like know what this is.
+01:28:00 I guess I'm only halfway through.
+01:28:03 I don't this guy spinning guns.
+01:28:08 This is it looks it kind of looks really bad.
+01:28:13 But like, I that's like good.
+01:28:15 I like that.
+01:28:16 I genuinely like that it looks bad.
+01:28:18 That's because like because it's never it was never about how it looked.
+01:28:26 Homestuck looked good sometimes.
+01:28:29 But your first impression of it would be like, oh, this is kind of strange looking weird little
+01:28:36 Yeah, yeah, that's the clown.
+01:28:38 This is the clown in this trailer is the guy he's dressed up as in his profile picture and stuff.
+01:28:45 Yeah.
+01:28:46 Yeah.
+01:28:46 Oh, this is a new YouTube channel Hussie Tube.
+01:28:52 It's just got this one thing on it.
+01:28:55 Yeah, I really I'm still watching this trailer.
+01:28:58 I got I got a minute left.
+01:28:59 I don't really know what to make of it.
+01:29:05 Very, you know, I think it's interesting that it's it's
+01:29:10 visually it's all Homestuck and it's no like his old art style, you know, like whistles or
+01:29:23 one of his other like traditionally drawn.
+01:29:26 That stuff's too hard.
+01:29:27 Maybe I guess he's just completely embraced the Homestuck aesthetic is that's just how he does
+01:29:32 things now, probably just because he realized that like when he draws like that, he can just
+01:29:38 make content like so much faster, right?
+01:29:41 He probably used to spend like days on a page of a comic and now it's like, why fucking do that?
+01:29:47 Why fucking do that when this is what you're also you're known for and is so much easier to do?
+01:29:52 Yeah, for real.
+01:29:56 Well, maybe Bale, maybe Bale, Jake shouldn't get better.
+01:29:59 Maybe you should stay as shitty as it looked before.
+01:30:02 You say, well, it art always gets better.
+01:30:10 It can't it can't help but do that.
+01:30:12 That's true.
+01:30:13 Like if you just like purposely tried to like keep it at the same level of quality,
+01:30:17 it would still slowly get better, just not intentionally, I suppose.
+01:30:22 Yeah, all we all you can do is be like,
+01:30:26 like you can like you could you could be like scribbling it out like just as fast, right?
+01:30:32 Like spending just as little time on it, you would just you would get better at
+01:30:36 doing it fast and loose and sloppy.
+01:30:39 You know what I mean?
+01:30:42 I think the most distracting thing about these character designs is that the bodies
+01:30:45 are pixelated, but the eyes are smooth and it's drawing.
+01:30:48 Yeah, they're just less pixelated.
+01:30:50 That's just a little are they are they alias?
+01:30:53 I don't know if I'm watching it like in a tiny window.
+01:30:55 So I can't tell if they're alias or if they're just higher resolution.
+01:30:58 But either way, they are not congruent and it's very strange.
+01:31:01 It's it's hideous.
+01:31:04 I don't know if I'd go that far.
+01:31:09 I think I would.
+01:31:10 All right, all right.
+01:31:11 I think I would drop the H word.
+01:31:14 Oh, yeah, yeah, yeah.
+01:31:15 OK, at 206, at two minutes and six seconds.
+01:31:19 Yeah, obviously, like her body and hair is that like is low res and the
+01:31:26 hair, eyes and mouth are like, yeah, God, that's disgusting.
+01:31:31 I know that's a nightmare.
+01:31:33 I don't understand why you would do that.
+01:31:34 Or is it like recycling like face rigs for all these characters?
+01:31:38 So you don't have to continually read?
+01:31:39 I mean, I don't recognize those expressions.
+01:31:41 So you probably just drew them again.
+01:31:43 But I think I think it's just that he probably drew like the the scene like the
+01:31:48 next character at 210 looks like it has the exact same kind of eyes.
+01:31:52 I imagine he drew the scene in like a certain resolution and then he zoomed in on the character
+01:31:59 and drew the face at a different resolution.
+01:32:03 Yeah, he's like he's he's zoomed in.
+01:32:05 He's zoomed in shot in here, which is interesting.
+01:32:08 I'm just skipping through now.
+01:32:09 He's zoomed in the shot and then drew the eyes and drew the expression at the original
+01:32:15 resolution, which then looks higher resolution than the zoomed in pixelated old stuff, right?
+01:32:24 Oh, God.
+01:32:25 Oh, God, this is, you know, what this says to me, like, this is the trailer for your project.
+01:32:32 Like, clearly, he does not give a fuck if it looks good.
+01:32:35 Like, like, like he doesn't care and like good for him.
+01:32:39 And thank God.
+01:32:41 Like, that's that's clearly not the priority here.
+01:32:44 This is not it's not like my new corporate enterprise.
+01:32:47 It is.
+01:32:48 Here's a funny thing I thought of when I made it.
+01:32:50 Yeah, for sure.
+01:32:51 Oh, that's great.
+01:32:52 Oh, this is so good.
+01:32:57 Well, I'm fucking I'm fucking stoked.
+01:32:59 I'm fucking hype for this shit.
+01:33:03 Whatever it is.
+01:33:05 I wonder if the clown is hussy.
+01:33:10 You know what I mean?
+01:33:10 It might be.
+01:33:11 Yeah.
+01:33:12 Or maybe it's like cosplaying the clown.
+01:33:15 Yeah, like either either hussy is cosplaying this clown character or that clown character is him
+01:33:21 and he just depicts he just is a clown now.
+01:33:24 Like this is what we're meant to know about him.
+01:33:30 The bit at the end was like this does not happen in the game.
+01:33:35 Wait, where does it say that?
+01:33:38 With with.
+01:33:41 It's like 313 or that sequence there.
+01:33:47 Oh, this does not.
+01:33:48 We're Violent J, Shaggy Tutto with Dragon Ball Z, Scouters and what's his face for the AK-47
+01:33:56 and Kojima.
+01:33:58 Oh, OK, so this is just some shit that's in the trailer because it's funny.
+01:34:03 Yeah.
+01:34:03 And it's not I am sorry.
+01:34:06 OK, if that's true, then yeah, I think this is just hussy.
+01:34:11 This is just clown hussy and Kojima and Shaggy Tutto open Violent J and
+01:34:17 it's not Guy Fieri.
+01:34:18 I don't know who this this guy in the blue blazer is.
+01:34:22 The blue blazer.
+01:34:24 No, no, that's that's I forget his name.
+01:34:28 He's big rock rap guy.
+01:34:32 I forget whatever.
+01:34:34 Oh, I don't fucking know.
+01:34:36 He has some sort of a name that is a name.
+01:34:40 Is he like a is he a sad rapper?
+01:34:43 No, he's like something I don't know.
+01:34:47 I don't know knowledge about what he does.
+01:34:50 Perfect.
+01:34:51 Someone mentioned Post Malone.
+01:34:52 Is that Post Malone?
+01:34:53 That's what I was thinking.
+01:34:54 Yeah, that's what I was thinking of.
+01:34:56 That's who I was thinking of and I just couldn't place the name.
+01:34:58 And all I remember is that he's got like a sad rap song that got really popular.
+01:35:04 Anything about anything?
+01:35:06 It is.
+01:35:06 Damn.
+01:35:07 How did I fucking know?
+01:35:08 I've never I don't even know fucking.
+01:35:10 I couldn't name a Post Malone song, but somehow in my lizard brain,
+01:35:15 I associated this face with that identity even though I couldn't place the name.
+01:35:19 Stupid.
+01:35:22 All right.
+01:35:22 Enough about this.
+01:35:23 Yes.
+01:35:24 Fuck Andrew Hussie.
+01:35:26 Fucking hack.
+01:35:29 Gigapause was too long.
+01:35:32 Truth.
+01:35:35 Well, should we go to questions?
+01:35:38 I mean, do we still do voicemails?
+01:35:40 Holy shit.
+01:35:41 We do.
+01:35:41 Believe it or not, I have one more thing that I wanted to complain about before we go into voicemails.
+01:35:48 And that is I got so a while ago, I've said this before, my tablet died, the screen died.
+01:35:57 Press F.
+01:35:58 So so I bought a new one.
+01:35:59 Not an almost as old model, a slightly upgraded model.
+01:36:04 It's still like a decade old at this point.
+01:36:07 So like, you know, kind of old tech.
+01:36:10 But I got a new tablet, a Cintiq 21 UX DTK upgraded from a DTZ.
+01:36:20 But it turns out, and I remember I had gotten, when I had got the old one,
+01:36:26 an old, a previous patron of mine, Artemis gave it to me.
+01:36:31 I guess he's had an extra one.
+01:36:33 But he so he gave me the tablet and I didn't have a stylus.
+01:36:38 So I went and I bought a stylus and it didn't work.
+01:36:42 And I asked him and he told me, oh, yeah, that's stylish you got.
+01:36:44 Sorry, that doesn't work with the DTZ with the DTZ.
+01:36:48 That only works with the later model, the DTK.
+01:36:50 So I had to buy another stylus for that.
+01:36:54 And then I got this one, it's the DTK.
+01:36:56 And I had previously bought a stylus that only worked with DTK.
+01:37:01 And I don't know where it is.
+01:37:02 I can't find it.
+01:37:03 That's why I was looking through my room when I found the makeup.
+01:37:06 I was looking through my shit trying to find that old stylus.
+01:37:09 And it doesn't work.
+01:37:09 So now I have to buy a third stylus to replace the first one
+01:37:14 for the first tablet that didn't work, that I need to replace with the second stylus.
+01:37:18 And so this thing that I'm trying to make right now,
+01:37:23 it does, it's going to involve drawing some stuff.
+01:37:26 But I can't draw anything until I get the fucking,
+01:37:30 until I get the freaking thing in the mail.
+01:37:33 So I won't be able to do that for like a week, but it's okay.
+01:37:37 I'll have other stuff to work on with it.
+01:37:39 Do you have pencils and paper?
+01:37:44 Shut the fuck up.
+01:37:45 Oh, it's a, I need, I need to produce digital.
+01:37:50 I need to produce digital images.
+01:37:53 I mean, you could sketch them maybe.
+01:37:57 Just so you have them,
+01:37:58 then you don't need to think when you're drawing them digital.
+01:38:00 Well, no, well, okay.
+01:38:04 Yeah, in theory, I guess if I need an image,
+01:38:06 I could sketch it and then scan it and then put it,
+01:38:09 because I need sketch it and then scan it
+01:38:11 and then like trace it in my computer.
+01:38:15 No, there's no point.
+01:38:16 There's no point at all.
+01:38:19 In fact, there's no point to anything.
+01:38:21 You know, we're all just going to die one day, actually.
+01:38:24 Yeah.
+01:38:24 Why don't we just do that now?
+01:38:26 I don't know.
+01:38:27 Now you're speaking my language.
+01:38:29 All right.
+01:38:31 Let's do voicemails, right?
+01:38:32 Okay.
+01:38:35 Oh, man, I like hinted at that,
+01:38:38 but I didn't get into specifics.
+01:38:40 My sleep has been really weird lately.
+01:38:44 I've been waking up at the same time,
+01:38:47 no matter when I go to sleep.
+01:38:49 And like it's really bad.
+01:38:51 Like it's early.
+01:38:52 Like I've been waking up at like 6.45 a.m.
+01:38:56 Pretty close to that every morning,
+01:38:59 even when I went to sleep at like two in the morning.
+01:39:03 I can't seem to get a good night's sleep for the full eight hours,
+01:39:08 unless I would have to go to sleep at like 10.
+01:39:12 And I don't want to do that.
+01:39:13 That's stupid.
+01:39:14 8 hours seems like too much.
+01:39:17 8 hours?
+01:39:17 What do you mean?
+01:39:19 Like going to bed at 10.
+01:39:20 Oh, I guess if you're waking up at 6, no, no, it's fine.
+01:39:23 8 hours is normal.
+01:39:24 Going to bed at 10 seems like so early, but if you're...
+01:39:27 Yeah, I would rather shift it.
+01:39:28 I would rather shift it.
+01:39:29 So I'm going to sleep sometime between like midnight and 2
+01:39:32 and waking up sometime between like 8 and 10.
+01:39:35 Waking up like before 7 in the morning just seems like...
+01:39:38 There's no need for that.
+01:39:40 There's no need for that.
+01:39:40 It's not 10, man.
+01:39:41 No.
+01:39:44 The early worm catches the bird.
+01:39:46 I don't know.
+01:39:47 So I keep staying up a little later than that.
+01:39:51 I keep staying up until like midnight or two
+01:39:53 and then I only get like four or six hours of sleep
+01:39:56 and I wake up and I'm bleary the next day and I can't focus.
+01:40:01 I'll figure it out.
+01:40:02 Okay, are we ready for voicemails?
+01:40:05 Yeah, is a truth teller?
+01:40:07 Yes, the first one on the second page.
+01:40:12 Oh, boy.
+01:40:13 Because there's two called truth teller for some reason.
+01:40:15 Here we go.
+01:40:16 A truth teller.
+01:40:17 Three, two, one, go.
+01:40:23 That's me.
+01:40:34 He loves what?
+01:40:35 Anal.
+01:40:36 Anal.
+01:40:37 Oh.
+01:40:38 This is really what I come back to after like five weeks of not being...
+01:40:41 Being here.
+01:40:42 Good to know some things never change.
+01:40:44 Like the quality of voicemails.
+01:40:45 Even better.
+01:40:46 We've got another one from truth teller is our next voicemail.
+01:40:49 I hope it's him profusely apologizing for the previous...
+01:40:52 Three, two, one, go.
+01:41:02 He just did it again.
+01:41:05 With better mic quality this time.
+01:41:11 I want to like file criminal charges for wasting my time like that.
+01:41:21 I mean, this is supposed to be amazing grace, right?
+01:41:26 Yeah.
+01:41:26 Yeah.
+01:41:27 Well, why didn't he complete the fucking stanza?
+01:41:29 Because he's...
+01:41:30 What the fuck is this hack work?
+01:41:32 Voice jail.
+01:41:36 Like me.
+01:41:37 You didn't do the like me.
+01:41:40 Fuck.
+01:41:41 It's so annoying.
+01:41:43 I'm so glad that I'm here right now.
+01:41:46 Next one is called ABA sends its regards.
+01:41:50 Three, two, one, go.
+01:42:11 And you'll pass in the shadow of your past childhood.
+01:42:15 The jet fuel can't melt steel beams.
+01:42:18 Fuck off, you man child.
+01:42:19 You fuck tard.
+01:42:21 You loser.
+01:42:22 Fuck off.
+01:42:22 You master of lies and deception and die.
+01:42:27 Pop filter, please.
+01:42:28 Okay.
+01:42:30 Was that an attempt at like a Pink Floyd lyric?
+01:42:34 The ABA, does the ABA refer to the rhyme scheme?
+01:42:38 I have no idea.
+01:42:41 Okay, well, terrible.
+01:42:45 We're doing great guys.
+01:42:46 We're doing great.
+01:42:47 Next, we're just going to be good.
+01:42:48 We're just going to be good.
+01:42:49 Next one is Liam.
+01:42:50 This is like if NWA was good.
+01:42:53 Three, two, one, go.
+01:42:57 I was like not going to like do another call ever again,
+01:43:01 but holy shit.
+01:43:02 Let's the fucking garlic house.
+01:43:05 Fucking the fucking the what's it called?
+01:43:09 The Brad Garling house.
+01:43:10 That's right.
+01:43:13 Distract, dude.
+01:43:16 I hate it.
+01:43:17 I like it.
+01:43:17 I don't like it at all.
+01:43:18 This is fucking stupid and terrible and not good.
+01:43:23 And it's amazing and I love it.
+01:43:26 And it's bad.
+01:43:27 And the munchy verse was kind of unironically
+01:43:29 actually wicked, but it's stupid and bad.
+01:43:32 And you should never, ever make music or be allowed
+01:43:34 in your microphone with a beat playing ever again, ever.
+01:43:38 I'll kill all of you.
+01:43:40 I love it.
+01:43:41 This is bad.
+01:43:44 Pais.
+01:43:45 I'm fucking, I mean, I'm like reading the comments right now.
+01:43:48 Like let's read some fucking comments, dude.
+01:43:50 This is like if NWA was good from this guy blank.
+01:43:53 That's that's probably, that's like, this is like,
+01:43:58 this is like if NWA was good.
+01:44:05 Whatever, dude.
+01:44:07 I fucking hate all of you.
+01:44:09 Basically don't make music.
+01:44:12 So did he not like the song?
+01:44:14 I don't know.
+01:44:15 All I know is he probably paid for it.
+01:44:16 So that's pretty funny.
+01:44:17 He's like in a critical state of, of cringe and bass
+01:44:21 and he's like rotating like unbelievably fast.
+01:44:24 Yeah, yeah, yeah.
+01:44:27 Can't tell which way he's looking.
+01:44:33 Wait a minute.
+01:44:35 Fuck.
+01:44:36 There's um.
+01:44:37 I don't know what NWA is.
+01:44:41 It's it's it's niggas with attitude.
+01:44:44 The band.
+01:44:45 Oh.
+01:44:46 It's EZE and Dr. Dray.
+01:44:49 And who's the third one?
+01:44:55 MC Rand.
+01:44:55 Mr. Attitude.
+01:44:58 Yeah.
+01:45:00 And I know that because I know, but I know fuck the police
+01:45:04 and they say their names.
+01:45:06 They say their names in that song.
+01:45:09 Lamal.
+01:45:11 Okay, whatever.
+01:45:12 Cool.
+01:45:13 Next voicemail is called Liam.
+01:45:14 Ben equals Dreg.
+01:45:16 Three, two, one, go.
+01:45:18 I almost forgot to say this earlier.
+01:45:20 Ben, you also sound like fucking Dreg in the diss track.
+01:45:23 Like when fucking Dreg's doing his funky bad music things.
+01:45:28 That's what you sound like.
+01:45:31 Okay.
+01:45:32 Everyone says that my verse is the worst.
+01:45:35 Nobody likes my verse.
+01:45:38 Well, guess what, losers?
+01:45:40 Did you wrote it for me?
+01:45:41 So fuck all of you.
+01:45:45 I wrote like the first two lines and then I couldn't write anymore.
+01:45:48 And did you just wrote the rest and I just wrapped it?
+01:45:50 Lamal.
+01:45:52 I don't remember.
+01:45:52 I don't.
+01:45:53 What a boy.
+01:45:55 The best part.
+01:45:56 What a boy, guys.
+01:45:58 Nobody likes mine.
+01:46:01 I think mine was the best because they got bowtoy in it.
+01:46:05 Piece of shit.
+01:46:08 Honestly, I saw a lot of people saying that Munchie's verse was the best.
+01:46:14 And it's just not.
+01:46:16 I'm sorry.
+01:46:17 I can't even remember everyone else's.
+01:46:18 Munchie's verse is not very good.
+01:46:20 It's like the worst one.
+01:46:21 I think it's worse than mine, to be honest.
+01:46:23 Yeah, I said it.
+01:46:24 Yeah, I fucking said it.
+01:46:26 Fuck you.
+01:46:27 Rap battle.
+01:46:30 Two bad ones.
+01:46:35 Next one is called Voice Whale.
+01:46:37 Three, two, one, go.
+01:46:40 That's W-E-I-N.
+01:46:45 Yeah, I get it.
+01:46:45 Because last time we had the whale like the aquatic mammal.
+01:46:49 And this time the whale like the vocal vocal.
+01:46:53 What is with the, I mean, I ask what is with the shit quality of the voicemails this week, but.
+01:47:00 It does seem particularly bad.
+01:47:02 They knew I was coming back and they were like,
+01:47:03 we've got to make sure he never comes back again.
+01:47:08 It does seem especially cringe this time.
+01:47:12 When are we just going to stop taking voicemails?
+01:47:18 Over our cold dead bodies as well.
+01:47:21 Motivation to murder both of you.
+01:47:23 Sick.
+01:47:24 Oh, thank fuck.
+01:47:25 I don't have to do it myself.
+01:47:29 Just looking out for my bros.
+01:47:30 That's it.
+01:47:31 And I'm back.
+01:47:31 What's the next one?
+01:47:32 Fake fan mage stan.
+01:47:35 Three, two, one, go.
+01:47:38 So I don't follow any of you weirdos on Twitter.
+01:47:41 So I probably missed the info from there.
+01:47:44 But I swear last time I remember mage being on the show.
+01:47:50 She said that she just wouldn't be on for a while because she was like going to take care of her grandma or something.
+01:47:58 But now it sounds like mage just like isn't on the show anymore and she isn't coming back.
+01:48:04 I'm sorry.
+01:48:05 I just miss mage and her weird dreams and her drawings and stuff.
+01:48:11 So yeah, what's the deal?
+01:48:14 Sorry for being a fake fan by.
+01:48:16 Okay.
+01:48:17 How angry should I be at this person for not knowing?
+01:48:22 Only mildly?
+01:48:24 Yeah, mildly.
+01:48:24 I don't can't remember which episode we would have said it, but I know we've said it at some point.
+01:48:30 Yeah.
+01:48:31 I'm just saying if you miss mage's work, mage is on Twitter posting her work.
+01:48:35 That's true.
+01:48:36 Get on Twitter.
+01:48:36 Yeah, if you miss her drawings, YouTube is not, this podcast is not really the best place for them.
+01:48:45 I think she's gone.
+01:48:46 I think she's officially out.
+01:48:47 I don't know.
+01:48:50 Am I wrong?
+01:48:50 I have no clue.
+01:48:51 I genuinely don't know.
+01:48:52 The door is always open.
+01:48:53 She doesn't want to do podcast stuff anymore.
+01:48:56 Yeah, the door is always open.
+01:48:58 Of course.
+01:48:59 Yeah.
+01:49:00 That's her prerogative and that's fine.
+01:49:04 Yep.
+01:49:05 Who cares?
+01:49:05 Next one is called Homestuck Preservation Follow Up.
+01:49:09 Three, two, one, go.
+01:49:11 All right.
+01:49:11 Follow up on that whole Homestuck Preservation thing I sent a million years ago.
+01:49:15 I finished Homestuck months ago.
+01:49:18 I love it to death.
+01:49:19 Act six is terrible.
+01:49:21 Yep.
+01:49:22 Yeah, that's true.
+01:49:23 Tom's actually a lifesaver because he mentioned the whole Flashpoint project thing where,
+01:49:29 which is actually preserving flash animations.
+01:49:32 Somebody decided to take this and apply it to some weird version of Chromium.
+01:49:39 And so there's an offline archive you can download.
+01:49:43 Now, in order to get the one that I have, you have to email a bot.
+01:49:49 It's at gimme homestuck at ZohoMail.com.
+01:49:53 And you have to ask for an offline archive download.
+01:49:58 And because he doesn't own any of the rights.
+01:50:01 And then he'll send it to you and it loads the entirety of Homestuck and ProblemSleuth offline.
+01:50:09 It's a little slow.
+01:50:10 It's a little janky.
+01:50:11 Sometimes the save feature fucks up.
+01:50:14 But you can still use the map to sort of figure out stuff.
+01:50:18 I don't know.
+01:50:18 Thank you, Tom.
+01:50:20 You put me on the right path.
+01:50:21 Homestuck is preserved.
+01:50:22 I do what I can.
+01:50:23 That's awesome.
+01:50:25 That's super great.
+01:50:26 Yeah, I'm glad that it exists, that will continue to exist in some form.
+01:50:32 That's kind of appropriate for Homestuck, I think, right?
+01:50:34 That like you can only get it by emailing some bot.
+01:50:40 I like that.
+01:50:40 Gimme Homestuck.
+01:50:42 Gimme Homestuck at ZohoMail.
+01:50:44 Gimme Homestuck or Gimme Death.
+01:50:47 Agreed.
+01:50:50 Next one is called Exposed.
+01:50:53 Three, two, one, go.
+01:50:55 Continue as you were, gentlemen.
+01:50:58 On our news site we posted an extremely ugly story about how Hippocrite here
+01:51:06 actually turned out to be a transsexual.
+01:51:08 Okay, would you care to elaborate on that?
+01:51:11 It's all true.
+01:51:12 The rumors, every and all rumors, even ones that don't make sense.
+01:51:17 That's the truth.
+01:51:18 Post up, none up, coin up, give us all the deeds.
+01:51:23 My trainer code is 1-8-2-7-9-7-6-2-4-5-6-8 for my transgo game community video game.
+01:51:36 What are the three numbers in the back and what did they just expire on?
+01:51:43 Okay, so that's a little blast from the past as before it was trans.
+01:51:47 That's mildly amusing.
+01:51:52 What was that, like a million years ago?
+01:51:54 Yeah.
+01:51:55 At least.
+01:51:55 At least.
+01:51:56 Good times.
+01:51:56 I mean, I could hear Nate, so it was like, wow, what?
+01:51:59 So that must be ancient times before COVID, before Gib decided to go trans and spite God
+01:52:06 and cursed us all with COVID.
+01:52:09 It was a necessary sacrifice, I'm sorry.
+01:52:12 I'm sorry.
+01:52:13 Worth it.
+01:52:16 Tom, were you going to say something?
+01:52:18 I just said, I was just going to say it was worth it as well, so.
+01:52:21 Okay.
+01:52:22 Yeah, well then we're all in agreement.
+01:52:23 Good.
+01:52:25 Next one is called a weeb with a counterpoint.
+01:52:28 Three, two, one, go.
+01:52:30 Hey guys, back during the election episode, some doofus came on the voicemails and was saying,
+01:52:36 hey, if an anime is bad, and if dubs are bad, doesn't mean that the dubs of bad anime are good.
+01:52:43 And.
+01:52:43 Yes.
+01:52:44 Generally rightfully, you guys said, no, of course, that doesn't make any,
+01:52:48 that's bullshit, it's additive, it's not multiplicative.
+01:52:51 Counterpoint, the ghost story stuff, which is good, despite being a bad anime.
+01:53:00 Okay, but that's, no, that's not the same.
+01:53:03 They're not dubbing the source material.
+01:53:05 It's basically a bridge series, officially.
+01:53:08 Yeah, that's not a bad dub, that's a deliberately silly dub, right?
+01:53:12 Like it's trying to be funny.
+01:53:13 It's all ad-libbed, most of it's ad-libbed, and none of it is representative of the source material at all.
+01:53:20 I didn't know it was ad-libbed.
+01:53:21 I haven't seen that much of it.
+01:53:23 Is that the one where it's like the voice actors just didn't give a shit, and they said a lot of crazy things?
+01:53:28 Yeah, there's a lot of like, really edgy humor in it, and it's pretty funny.
+01:53:33 It was, I mean, it wasn't on like TV, right?
+01:53:36 No, I don't believe so.
+01:53:37 Yeah, it is basically just an abridged series.
+01:53:42 What's the, there's like one particularly famous line from it, but I don't remember what it is.
+01:53:53 Ghost, ghost stories, there's like the girl who's like really religious and always like makes Jesus
+01:54:00 jokes, and then there's the girl who like falls in love with the bunny, and the bunny's like a
+01:54:04 that's the voice of a deep, like a deep voice of a black man and stuff, and
+01:54:09 there's a lot of weird shit in that dub.
+01:54:11 I think there's a, I think there's like a pedo joke somewhere about the kid.
+01:54:15 I think that's what I'm thinking of, but I don't remember what the joke is.
+01:54:20 Yeah, that's, no, it's not the same.
+01:54:22 This isn't, that's not a, that's not a bad dub.
+01:54:24 That's just a weird, deliberately strange dub.
+01:54:29 Uh, but good try, maybe next time.
+01:54:32 Next one is called Cross, garlic and stuff.
+01:54:35 Three, two, one, go.
+01:54:38 So the garlic house diss track was pretty based.
+01:54:41 I thought all of you guys did really great.
+01:54:43 Talk about it, if you haven't already.
+01:54:46 I don't know, is there anything fun, cool about production and shit?
+01:54:50 Also super excited for the Brad Garling House lecture.
+01:54:56 That's, that's it.
+01:54:58 See you next week.
+01:55:00 Good voicemail, solid voicemail.
+01:55:02 Yeah, I guess we didn't talk about that at all.
+01:55:04 Cause that, I had actually forgotten that that dropped this week.
+01:55:07 Same.
+01:55:09 Yeah, it was, uh, this process of that was nobody really knew what they were doing
+01:55:16 at all at any point.
+01:55:18 And, um, did we do any work on it before we were there?
+01:55:23 Did we come up with the lyrics?
+01:55:25 No.
+01:55:25 I think, didn't, did did you like, they, they picked the beat, I think.
+01:55:30 I think they had like picked the beat out before.
+01:55:32 Yeah.
+01:55:33 And yeah, we picked the beat out and I think I had like scribbled some things on a Google
+01:55:39 doc and me and Munchie were working together too.
+01:55:42 Cause we were like, we had figured out the, the like the chorus thing.
+01:55:49 Like who, who was going in front of who and like we were left to our own devices to come
+01:55:53 up with our own lyrics for our part.
+01:55:56 And, um, yeah, I think I had done mine by the time we were there and some of us weren't.
+01:56:02 I think Digi winged it.
+01:56:04 Yeah.
+01:56:05 And, and you hadn't written anything.
+01:56:07 So we had to like help you write something.
+01:56:10 Well, like no one, most people hadn't written anything.
+01:56:12 Yeah.
+01:56:13 Nate hadn't written anything either.
+01:56:14 Like every, everyone else just like figured those out on the fly and I just suck and I
+01:56:18 couldn't do it.
+01:56:20 Right.
+01:56:20 Confor was just so much shit going on at the same time.
+01:56:23 Like even finding time to do that was like a pain in the ass.
+01:56:26 And then like recording it wasn't all day affair.
+01:56:29 It was just, it was so, it was so stressful.
+01:56:31 We had to cram everything in.
+01:56:32 We didn't even have time to do the final recording at Radcon.
+01:56:35 So we all had to do our final parts individually and get them mixed after the fact.
+01:56:39 Yeah, that's right.
+01:56:39 Yeah, the reason it was like that of course was because we, there was a music video associated
+01:56:45 with the thing.
+01:56:47 I'm surprised that didn't drop and we just had the, did the audio upload.
+01:56:51 Oh wait, are we not supposed to say that there's a video?
+01:56:54 No, that was part of the Kickstarter.
+01:56:55 It's like music video too for the, for the disc track.
+01:56:58 The disc track is out.
+01:57:00 There is a video.
+01:57:00 Yeah, I was expecting the song to drop with the video.
+01:57:04 I think it will come pretty soon.
+01:57:06 He can't have forgotten.
+01:57:08 No, no, no.
+01:57:08 That the way it was, it was set up was the, the lecture comes out first, then the music video.
+01:57:15 Oh, okay.
+01:57:15 It's all linked up.
+01:57:17 So the idea, so the song, the song was ready.
+01:57:19 So Nate dropped the song and then the lecture will come out next and then the music video
+01:57:23 after that.
+01:57:25 Yeah.
+01:57:26 Okay.
+01:57:27 Very good.
+01:57:28 Very good.
+01:57:31 Yeah.
+01:57:32 God, it's, it, I think I've been kind of stressed.
+01:57:40 I think it's been a source of like subconscious stress for me that like it's been so long since
+01:57:45 Radcon 4 and like a lot of the content never came out.
+01:57:48 I would not be stressed except for the fact that so much of it hinges on this joke that is like a
+01:57:54 year old and like will it still be funny?
+01:57:57 That doesn't bother me.
+01:57:59 Honestly, that, I'm like, you know, that's in God's hands now.
+01:58:04 Whereas things like getting the rest of the lectures out, that's, that's in, it's man.
+01:58:11 We could, mankind can only rely on himself for that.
+01:58:14 And I don't, I don't trust us.
+01:58:18 I mean, I can't judge because I haven't gotten mine done either, but I'm going to.
+01:58:22 Yeah.
+01:58:22 I mean, I feel like that's an individual sort of thing.
+01:58:24 If you've got one to do, then obviously you'd feel stressed about that.
+01:58:28 But like, in terms of Radcon stuff, I guess I feel a little bad.
+01:58:33 Yeah, the, I guess the lectures are not technically like stretches, rewards.
+01:58:37 There's the, the OVA, which I still have to edit, but there's the OP, which is still being animated.
+01:58:44 So they couldn't, I couldn't release it anyway.
+01:58:47 There's, so that's Mike's use still.
+01:58:50 Yeah.
+01:58:51 I mean, that's, that was always going to take a while.
+01:58:54 Then there's the, the dojin, which is the dojin, which we have not really even started.
+01:59:02 It's because nobody wants to be the person to draw smut of ourselves.
+01:59:07 Well, none of us is going to draw it.
+01:59:09 We were going to commission someone.
+01:59:10 We were kind of, yeah, we hadn't found anyone.
+01:59:13 I think we just hadn't written anything yet.
+01:59:14 I think, I think the holdup for me about that was I kind of thought that like,
+01:59:21 it was going to tie in with the final chapter of Road to Radcon was another thing that needs to get done.
+01:59:27 Yeah, it's all on Digi.
+01:59:29 So there's, there's that.
+01:59:30 And then I, I guess I thought that the dojin was going to tie into that somehow.
+01:59:34 I thought it was.
+01:59:36 Road to Radcon 5 at this rate.
+01:59:39 Yeah.
+01:59:40 Well, oh God.
+01:59:41 Well, Road to Radcon Chapter 5 can also be the Road to Radcon 5 Chapter 1.
+01:59:46 See, Bridges the Gap.
+01:59:48 I see, I see.
+01:59:49 Can we, can we get on Digi's ass about just finishing that?
+01:59:52 Like, I don't, I want, like I have previously and they just, she just, she's doing strange things.
+02:00:02 Stupid, stupid.
+02:00:03 Road, road trips and drugs and strange new people.
+02:00:08 And I don't get it.
+02:00:09 And I guess it's fine.
+02:00:10 It's just sort of like.
+02:00:11 I'm not the only one who has no idea what's going on in Digi's life right now.
+02:00:14 That makes me feel a little better.
+02:00:16 I mean, it just seems like a bunch of stupid bullshit.
+02:00:18 I mean, I don't, I don't.
+02:00:19 And that's, that's all I know.
+02:00:20 And that, I feel like that sums it up.
+02:00:22 I'm just so fucking lost.
+02:00:24 I don't know what the hell's going on anymore.
+02:00:27 I wasn't sure if it just because I wasn't paying attention because I wasn't.
+02:00:30 I just want to see the, the, the, the Brony lecture was great.
+02:00:34 And that should come out.
+02:00:35 It really was.
+02:00:36 It really was good.
+02:00:37 Yeah.
+02:00:37 I mean, again, I can't judge because my lecture's not out.
+02:00:41 Well, so.
+02:00:42 I can judge.
+02:00:43 You can, and Tom can.
+02:00:45 You guys can.
+02:00:45 Flex.
+02:00:46 For sure.
+02:00:46 Flex.
+02:00:49 We, you know, we really do need Road to Radcon 5 though.
+02:00:54 And, and then the Dojin and then the, and I think that's like it, right?
+02:00:58 That would.
+02:00:59 Yeah.
+02:00:59 After the, the Brad lecture and the music video, the OVA, the Dojin and the Digi's.
+02:01:06 That's it.
+02:01:07 Just like, just lots of stuff, you know.
+02:01:10 I mean, Digi wrote the Road to Radcons.
+02:01:13 She, she wrote them in like less than a day.
+02:01:16 Yeah.
+02:01:16 Like she just like, she just like blasted those chapters out like, like in no time.
+02:01:21 So like, yeah, you know, uh, I feel like, uh, I don't know.
+02:01:28 I feel like she could be gotten to sit down and do it.
+02:01:32 We would just have to get her at like the, at a time when she was like.
+02:01:36 Go to, go to digi.com and say, please Road to Radcon 5 in the comments.
+02:01:42 Right.
+02:01:44 Uh, and then yeah, we didn't, we, we, we, I think we tried at one point to decide like,
+02:01:51 okay, who's going to write the story of the Dojin?
+02:01:54 Who's going to decide what it is?
+02:01:55 What is the story going to be?
+02:01:56 Who's going to script it?
+02:01:58 Uh, and we like never came to any conclusions about it.
+02:02:01 It's like, how do you, like, and then they fuck like, I don't want to write that.
+02:02:05 That's the dojin was not going to be like, uh, anti.
+02:02:10 We, yeah.
+02:02:11 It's going to be a little, a little itchy, you know.
+02:02:15 Yeah.
+02:02:17 Very good.
+02:02:18 Wait.
+02:02:20 Okay.
+02:02:21 I'm brainstorming this.
+02:02:22 The dojin should be, the dojin should be about how we all became girls for Road to,
+02:02:30 for Radcon.
+02:02:31 Like that should be the, it should be the, the gap.
+02:02:35 Wait.
+02:02:35 Oh yeah.
+02:02:36 Did I just, did the girl, do, do people even know about the girl thing?
+02:02:39 I don't think so.
+02:02:41 Well, no, no, no, no, no, we have the calendars out.
+02:02:44 Yeah.
+02:02:45 The calendar, we have the behind the scene videos.
+02:02:47 Is the calendar out?
+02:02:49 Yeah.
+02:02:49 It was shipped in the rewards.
+02:02:51 Okay.
+02:02:51 Okay.
+02:02:52 It was shipped in the reward.
+02:02:53 Wait.
+02:02:53 So was it shipped in the rewards with like no context as to like what?
+02:02:57 Correct.
+02:02:57 Correct.
+02:02:59 Correct.
+02:03:00 And only the backers know about it.
+02:03:02 Correct.
+02:03:03 So only the backers know about any of that.
+02:03:05 We spoiled that for the majority of people listening to this podcast.
+02:03:08 I'm pretty sure in the original Kickstarter promotional video, that was part of the thing.
+02:03:14 Like we're going to be anime girls.
+02:03:16 You can get a calendar of us being anime girls.
+02:03:18 No one's seen it.
+02:03:19 Nobody knows, except for like the small glimpses in that one blog.
+02:03:22 That's so god.
+02:03:23 It's so stupid.
+02:03:27 Remember when we were on the beach for an entire day dressed like that?
+02:03:30 Recorded.
+02:03:31 Yeah, it was great.
+02:03:32 Yeah.
+02:03:32 I was very attacked us.
+02:03:34 Yeah.
+02:03:35 A fucking dog.
+02:03:35 I fucked that dog.
+02:03:38 Piece of shit.
+02:03:39 Well, it wasn't the dog, it was the owner who just wouldn't wrangle it.
+02:03:43 Well, both.
+02:03:43 Well, yeah, I mean both.
+02:03:45 Like fuck the dog and fuck the owner for not fucking taking responsibility.
+02:03:49 But whatever.
+02:03:53 Okay, well, that's my pitch for, that's my pitch for the dojin.
+02:04:01 Who wants to draw it?
+02:04:03 Email us.
+02:04:04 Don't actually, we'll email you.
+02:04:07 We won't actually.
+02:04:11 Fill in the comments if you will do work for free and then I'll be like,
+02:04:14 Oh, that person does work for free.
+02:04:16 No, no, no, we'll pay someone.
+02:04:18 We'll pay someone, which means that if you're listening to this, you're not qualified.
+02:04:23 Next, next voicemail.
+02:04:26 Tom King's Mr. Miracle.
+02:04:29 Three, two, one, wait, three, two, one, go.
+02:04:34 I meant Tom King's run of Mr. Miracle.
+02:04:37 It's on six issues long.
+02:04:39 It's poetic.
+02:04:41 It has great, it's beautiful.
+02:04:43 And Big Bada, not a kuma, I don't come to comic books, but she is a beautiful little piece of
+02:04:52 that.
+02:04:53 She's tall, she's thin.
+02:04:56 They draw her beautifully.
+02:04:58 No, she just looks like any other woman.
+02:05:01 It's good.
+02:05:02 No, shut up.
+02:05:04 Shut up about what's her name.
+02:05:06 You're wrong.
+02:05:07 You're wrong about that.
+02:05:09 But if it's only six issues, that kind of makes me
+02:05:13 think that maybe it would be worth reading.
+02:05:15 Okay, I'll consider it.
+02:05:17 I heard you think about this.
+02:05:17 So, Tom King's.
+02:05:19 Yeah, we got a voicemail last week about, I think it was the same guy.
+02:05:24 That unmistakable, that unmistakable Hispanic drawl about Tom King's Mr. Miracle.
+02:05:34 Is this Tom King's Mr. Miracle?
+02:05:37 Because this is a character that's been drawn by other people.
+02:05:40 Yeah, yeah, it's a run by Tom King.
+02:05:44 Okay, this might be what it looks like then, because I just googled that.
+02:05:54 Let's check it out.
+02:05:55 I'll fucking check it out.
+02:05:57 Next one is called Cowpoke Slim.
+02:06:00 Three, two, one, go.
+02:06:04 Howdy, y'all.
+02:06:05 It's me, The Cow.
+02:06:07 Mario.
+02:06:08 I just wanted to call in to thank old Gib here for helping me round up them dusty old cows
+02:06:12 in the dusty old Wild West.
+02:06:14 Y'all was a big old help.
+02:06:16 Is my trusty lasso that I loaned you holding up?
+02:06:19 I might need her back soon, so make sure she's in good shape.
+02:06:22 Well, it's time for me to go down to the old water and hole.
+02:06:25 So, as they say in old me humland,
+02:06:28 Sayonari, old canary.
+02:06:32 I did that.
+02:06:33 I must have been drunk.
+02:06:35 Uh, uh, yep.
+02:06:39 Something.
+02:06:40 It's a new character.
+02:06:41 Oh, it's the start of a new arc, a whole new arc.
+02:06:44 Oh, it's going to be span months.
+02:06:46 Oh, wait, I get it.
+02:06:47 Connect to all the others.
+02:06:48 The samurai was like, please give back scroll.
+02:06:52 This guy is Cowpoke Slim.
+02:06:53 Please give back lasso to Gib.
+02:06:56 Oh, no, it begins again.
+02:06:58 Gib, you lost Cowpoke Slim's prize lasso.
+02:07:01 How is he going to wrangle his herds?
+02:07:04 How's he going to wrangle his doggies?
+02:07:07 How's he going to commit suicide?
+02:07:09 But I misplaced it.
+02:07:10 How's he going to commit suicide so Samurai Sama can resurrect him with the necronomicon?
+02:07:16 How's the plot going to happen if something isn't going to happen?
+02:07:19 How's the plot going to happen if you were introducing conflict?
+02:07:22 You moron.
+02:07:26 Next one is called bring back wonderbread guy.
+02:07:30 Three, two, one, go.
+02:07:33 Man, fuck these guys who shit on wonderbread guy.
+02:07:36 He was the best.
+02:07:37 The critics, they're all like, wonderbread guy.
+02:07:39 He's a Nazi and he has weird conspiracy theory ideas.
+02:07:43 Well, you shut the fuck up.
+02:07:45 That's not the point.
+02:07:46 And it doesn't even matter.
+02:07:47 I agree that's not the point.
+02:07:48 When he was telling his story about losing his virginity or whatever,
+02:07:51 and you had to ask your questions repeatedly because he just,
+02:07:54 he wouldn't answer them directly.
+02:07:56 And his story was just so long and unnecessarily convoluted.
+02:07:59 Does the funnest that I've heard is funnest for a long time?
+02:08:02 It was funny.
+02:08:03 I was literally laughing at loud and about his weird ideas.
+02:08:08 Even though I disagree on them, I still find it funny to listen to.
+02:08:11 Okay, bye.
+02:08:12 No, I agree.
+02:08:13 No, I agree.
+02:08:13 I think he was funny to have as a guest,
+02:08:15 even though he's annoying as a person.
+02:08:17 Lamal.
+02:08:19 No, I want 100% on board with this.
+02:08:22 Well, I'm bringing him back.
+02:08:24 Well, no, not on that.
+02:08:26 I wouldn't go that far.
+02:08:27 That's the title of the voicemail.
+02:08:29 On board with it.
+02:08:30 Good voicemail.
+02:08:31 Good voicemail.
+02:08:33 Next one is called Keraskoet.
+02:08:35 Satania, especially.
+02:08:38 I don't know what that means.
+02:08:39 Okay.
+02:08:40 Three, two, one, go.
+02:08:42 Another comic book recommendation.
+02:08:43 Anything by this French couple called Keraskoet.
+02:08:46 They made these very dark stories with beautiful art.
+02:08:50 Okay.
+02:08:50 And it's a very fresh read and very good.
+02:08:54 I appreciate these comic recommendations.
+02:08:57 I've never heard of Keraskoet or Satania.
+02:09:00 That's French.
+02:09:01 French comics.
+02:09:02 There's a huge comic scene in France.
+02:09:04 Look at this.
+02:09:05 Look at this one.
+02:09:06 This is much better than Mr. Mama Luigi.
+02:09:09 Mr. Mama Luigi.
+02:09:12 Oh, that's interesting.
+02:09:14 It does look pretty French.
+02:09:18 Yes, it's like hell, just like France.
+02:09:21 Just like France.
+02:09:22 Yeah, exactly.
+02:09:23 Yeah.
+02:09:24 Ah.
+02:09:25 It's a great life drawing they do there.
+02:09:28 Next voicemail is called Frendle Babin.
+02:09:32 Three, two, one, go.
+02:09:35 Hey, PCP.
+02:09:36 Have you ever listened to Coast to Coast?
+02:09:39 Specifically when George Nore is broadcasting.
+02:09:44 You know, it's a show about the paranormal.
+02:09:46 So a bunch of people who are way out there calling.
+02:09:50 And George Nore, he's like a real hero.
+02:09:53 He just like, he keeps them talking.
+02:09:55 He keeps a narrative line.
+02:09:59 And like, what I'm saying is I'm seeing a parallel
+02:10:03 to how you guys have been recently.
+02:10:05 So like, what do you call it?
+02:10:08 Like, this is feedback and recommendation.
+02:10:11 I don't know.
+02:10:12 Just keep getting weird people on.
+02:10:14 It's great.
+02:10:15 Thank you.
+02:10:16 Anyway, you have a wonderful 2021.
+02:10:19 Peace out.
+02:10:20 I sure hope we do.
+02:10:22 I've never listened to Coast to Coast.
+02:10:23 I've heard about it a little.
+02:10:28 Thanks.
+02:10:29 Thanks for watching.
+02:10:31 A game theory.
+02:10:34 Glad you like the guests.
+02:10:36 Fuck you.
+02:10:37 Coaster Coast is like a coast but made out of coasters.
+02:10:44 Instead of sand.
+02:10:45 Oh, a coaster coaster.
+02:10:47 Oh, yeah.
+02:10:49 Just fuck me in the ass.
+02:10:55 Next one is called Gibb.
+02:10:56 Where's the Lude Twitter account?
+02:10:58 Three, two, one, go.
+02:11:00 Gibb, where's the Lude Twitter account?
+02:11:02 Wow.
+02:11:04 There it is.
+02:11:05 Straight to the point.
+02:11:06 I can appreciate that.
+02:11:08 I wish every voicemail were five seconds.
+02:11:11 It's out there on the Twitter.
+02:11:14 I feel like not, I don't want to promote it
+02:11:17 just because it doesn't have a lot of good stuff on there yet.
+02:11:20 It's just a lot of sketches and little bits here and there.
+02:11:24 But it's called, let me find it just because she cares.
+02:11:27 It's the PCP.
+02:11:28 You can say whatever you want on this show.
+02:11:30 That's true.
+02:11:31 That's true.
+02:11:32 What's it called?
+02:11:33 What's it called?
+02:11:34 Big, at Big Girl Squish.
+02:11:36 Big Girl Squish.
+02:11:37 Big Girl Squish.
+02:11:38 You can find out what I've drawn.
+02:11:41 Find out all the secrets.
+02:11:44 You can find out how to have sex.
+02:11:48 Oh, no.
+02:11:49 We don't show that on screen.
+02:11:51 You can finally figure it out.
+02:11:53 The secret knowledge.
+02:11:57 Okay.
+02:11:58 Next one is called Max Patrick Aylward-Nesbitt.
+02:12:03 Three, two, one, go.
+02:12:05 God, it's a minute 30.
+02:12:07 Hello, pre-crastinators P and audience.
+02:12:13 I've sent this voicemail over electronic mail to plead your wisdom on matters of
+02:12:18 high importance and philosophy.
+02:12:20 Furthermore, I wish to bring to the floor a motion on the discussion of the subject thusly.
+02:12:25 Mr. Nesbitt, this is a library.
+02:12:28 On the floor is to consider the limitations of what is heterosexual and what is otherwise.
+02:12:36 Or gay.
+02:12:37 It is it gay for a cisgendered man to be in sexual relations with a transgendered female person?
+02:12:49 What about when it's a cisgendered woman?
+02:12:52 All this theater in service of a fucking lame question.
+02:12:55 How gay is it when a person looks on a transgendered person of the opposite gender?
+02:13:01 Who cares?
+02:13:02 Shut up.
+02:13:03 No, stop it.
+02:13:04 No, I'm done.
+02:13:05 No, good try.
+02:13:06 Whatever.
+02:13:08 It's a very stupid take.
+02:13:09 Who cares?
+02:13:10 You should think about it a little bit.
+02:13:11 Just think about it a little bit and just the obvious answers are the answers.
+02:13:16 Just it doesn't matter.
+02:13:17 Oh my god.
+02:13:18 I'm annoyed.
+02:13:18 I was actually I'm annoyed because I was a little excited because I was like, oh, he's
+02:13:22 gonna like do a thing.
+02:13:24 Oh, this guy is like a eccentric man.
+02:13:25 This guy put a little effort into this into this into this voicemail.
+02:13:28 A good, you know, he's gonna shoot a shot.
+02:13:31 Well, it should have known better.
+02:13:33 So good try.
+02:13:33 Good try.
+02:13:34 I know, I know.
+02:13:36 The next one is called Santa came down my chimney.
+02:13:39 So I came down Rudolph's throat.
+02:13:43 Three, two, one, go.
+02:13:54 I said I was sorry.
+02:14:02 I said I was sorry.
+02:14:03 You said I thought we were cool.
+02:14:07 Hey, guys, happy holidays from Cassidy.
+02:14:12 So out of curiosity, I went back and had a bit of a gander.
+02:14:18 This summer, I gimmick has been going on since August 15th.
+02:14:23 And I think that Ben deserves like an eternity credit in the world for playing
+02:14:27 along with it for these fucking four months.
+02:14:30 Good on you.
+02:14:31 Feels like yes, did you?
+02:14:34 Because of you, I was able to confront my own issues with gender this year.
+02:14:39 It's been a crazy butterfly effect from watching somebody with an unkempt beard
+02:14:45 like mine giving a lecture on Maddox to looking in the mirror today.
+02:14:50 And I just wanted to let you know that you helped change my life for the better this year.
+02:14:55 Thank you.
+02:14:57 But did you do next time?
+02:14:59 I say one more.
+02:15:01 Did you will never hear this voicemail, Lamal?
+02:15:06 I'll personally see to it.
+02:15:08 I'm never ready for a sincerity in these voicemails.
+02:15:11 It always takes me a back.
+02:15:12 I'm like, oh, God, cringe.
+02:15:14 I know, right?
+02:15:17 Just waiting for the other shoe to drop the whole time.
+02:15:19 Just like, this can't be real, this can't be real.
+02:15:21 In order to express even a moment's genuine sentiment,
+02:15:30 you have to run a four month long character arc.
+02:15:34 Ah, right, right, right.
+02:15:35 That's the toll you got to pay.
+02:15:40 Yeah, whatever.
+02:15:41 Glad you're a fucking girl now or whatever you have fucking nerd.
+02:15:47 Okay, next one is called Funny Joke.
+02:15:52 Three, two, one, go.
+02:15:55 PCP, more like HRT.
+02:16:00 Okay, I thought I thought he was gonna go HIV, but that's fine too.
+02:16:06 Tomato, tomato.
+02:16:10 The huge
+02:16:14 reps, I can't think of it.
+02:16:16 I can't think of a PCP HRT turning that into words
+02:16:21 that is not hormone replacement therapy.
+02:16:25 That rhymes with PCP, procrastinators, whatever.
+02:16:28 Shut up, shut up, move on.
+02:16:31 Welcome to the next episode of this exciting episode
+02:16:34 of the Hormone Replacement Therapy Project.
+02:16:41 It's hypnosis.
+02:16:42 You listen and we hypnotize you to make your butt look bigger.
+02:16:51 You know, like a girl has a big butt, you know?
+02:16:56 You know what I'm talking about.
+02:16:59 Ellie is our cut this part.
+02:17:00 No, no, no, no, refurb this part.
+02:17:04 Okay, all right, shut the fuck up.
+02:17:08 Next one is called GCCX on Cardfreck.
+02:17:13 Three, two, one, go.
+02:17:15 If y'all were anyone listening last week, thought,
+02:17:17 hey, yeah, Game Center CX sounds cool.
+02:17:19 I want to watch it and don't feel like torrenting.
+02:17:22 You can always watch it on Twitch.
+02:17:23 There's a 24 seven Twitch stream on twitch.tv slash cardfreck.
+02:17:29 So if you want to watch an episode of Game Center CX
+02:17:32 and don't particularly care what games being played,
+02:17:34 you can just go watch it there anytime.
+02:17:38 This is, of course, assuming Twitch doesn't just obliterate it
+02:17:41 due to all the DMCA shit they've been doing.
+02:17:43 But hey, for now, it's good.
+02:17:47 Interesting. Game Center CX being the show that Tectonic Improv
+02:17:52 did the retrospective on that got taken off YouTube for bullshit reasons.
+02:17:58 I love modern internet.
+02:17:59 It's so good.
+02:18:00 It's so good.
+02:18:05 I just love saying yes to cookie popups.
+02:18:11 I still haven't gotten a single cookie,
+02:18:12 just by clicking all those fucking things.
+02:18:15 A 24 hour stream.
+02:18:20 I think I feel like I really would like a Game Center CX
+02:18:27 if it were in English, because that would mean that I could just
+02:18:30 kind of have it on and sort of not pay that much attention to it.
+02:18:34 Just kind of watch it passively.
+02:18:36 But the fact that it's subtitles
+02:18:38 mean that I would have to watch it actively and be reading,
+02:18:41 and I just don't know if that's the experience I want to have with it.
+02:18:46 It's funny you mentioned the subtitles thing,
+02:18:49 because one of the really jarring things that's happened to me
+02:18:51 in the last couple weeks, it started with playing Ghost of Tsushima,
+02:18:55 because you can play it in English or Japanese with subtitles,
+02:18:58 is I've decided that I hate subtitles.
+02:19:00 I don't know why it took me so long to figure this out,
+02:19:02 but I'm just so sick of having to read
+02:19:06 while all those gorgeous animation happens,
+02:19:08 and I'm ignoring the actual visuals of this visual medium,
+02:19:12 and I'm really just like, I really need to just learn Japanese.
+02:19:14 I'm so sick of missing all the good stuff that happens in anime,
+02:19:17 because I'm too busy looking at the words
+02:19:19 and not paying attention to the animation that people slaved over making.
+02:19:23 This never used to bother me,
+02:19:24 but now it's just like it's enraging.
+02:19:27 Dubs are bad because they sound terrible,
+02:19:29 and subs are bad because I can't watch anything anymore,
+02:19:32 and I'm just like, no, the only answer is to become the ultimate weeb
+02:19:36 and learn Japanese.
+02:19:38 I have never once felt that feeling that you just described ever.
+02:19:46 I feel like I've had that feeling.
+02:19:48 I don't think I've ever thought to act on it.
+02:19:51 It's just been like, damn, I didn't really pay attention
+02:19:54 to what they were doing there because I was reading.
+02:19:56 Damn, well, I can't be bothered to go back.
+02:20:00 Drives me crazy.
+02:20:00 Yeah, well, I don't think I've ever been like,
+02:20:03 I didn't appreciate the gorgeous visuals because I was reading.
+02:20:07 It's like, nah, I get the picture.
+02:20:10 I understand the gist of what I saw without carefully examining it or whatever.
+02:20:18 I don't want the gist.
+02:20:19 I want to see the whole thing.
+02:20:21 The point of, I don't know, in a film, if there's a really beautiful shot,
+02:20:26 like, I don't need to be, I don't know, I can get the impression
+02:20:32 that the shot is meant to give me even while my eye is kind of directed down at the subtitle.
+02:20:39 It's just like, it's not even like a legitimate concern.
+02:20:41 It's just one of those things that I just like realized was happening
+02:20:44 and now I just have like this weird autistic fixation on it and it makes me really angry.
+02:20:48 I just, it's the same with, I would probably re-watch
+02:20:59 Monben a bunch more.
+02:21:01 I've probably watched the whole series like twice, which is a lot for me because with subtitles.
+02:21:09 If it were not subtitled, if it were in English and I didn't have to read for it.
+02:21:12 Right, we'd be cool if you could just tab over and just continue to absorb that.
+02:21:18 Yeah, I probably would have watched it like a dozen times.
+02:21:21 That's how much I love it.
+02:21:23 Yeah, I feel like similarly about...
+02:21:25 Think of all the Japanese podcasts you could listen to.
+02:21:28 Like a whole world would open up.
+02:21:31 I think there might, I think there might be one or two Monben's that I have not,
+02:21:36 that are like newly translated that I have not seen actually.
+02:21:40 I should check on that.
+02:21:42 They're like hard to find and keep track of because I think it's just like one guy somewhere
+02:21:47 who is doing the subbing of them and like...
+02:21:49 What a champion.
+02:21:51 Yeah, I don't know why he does it.
+02:21:54 Like I don't know, I don't know what he gets out of it, but I'm thankful for his work.
+02:22:00 Pretty cool, yeah.
+02:22:03 Well, shit, that's the last voicemail.
+02:22:06 Thank God.
+02:22:07 Yeah, we did it.
+02:22:10 We made it to the end.
+02:22:11 Made it to the top of the mountain.
+02:22:13 Well, any final thoughts before we sign out till next time?
+02:22:24 Wait, I have one thing, I do have one thing.
+02:22:28 Because this episode, this episode will be coming out on Christmas, on Friday.
+02:22:35 Oh, one mile.
+02:22:37 So I'm going to post this in the chat.
+02:22:40 It's time stamped.
+02:22:41 Okay, the song, last year, the YouTuber called Tom, No Relation, sent in a voicemail
+02:22:51 and we listened to it around Christmas time and it's been taken down.
+02:22:56 You know the song I'm talking about?
+02:22:58 I do not.
+02:22:59 I don't really know.
+02:23:02 Well, I mean, I want us to listen to it.
+02:23:06 Oh, I remember this.
+02:23:09 Should I count down?
+02:23:10 The Hatsune Miku.
+02:23:11 So, oh, I already pressed play.
+02:23:13 Oh, right.
+02:23:14 Yeah, I remember this.
+02:23:14 Okay, well, I'm going to count down three, two, one, go.
+02:23:25 I think it wouldn't be a PCP Christmas without listening to it again.
+02:23:41 This is the only version of a song that exists anymore because it was removed from Tom's channel
+02:24:00 for bullying and harassment of me.
+02:24:04 No, I remember that.
+02:24:06 I remember you saying that.
+02:24:10 It's tragic and I tweeted at YouTube saying,
+02:24:15 I like to be bullied.
+02:24:16 Please let them bully me.
+02:24:18 And they didn't answer.
+02:24:19 This is a masterpiece.
+02:24:47 It's so fucking good.
+02:25:18 Oh, my God.
+02:25:36 This is the whole song.
+02:25:37 It's the whole song.
+02:25:39 Oh, it just keeps going.
+02:25:42 The extra level is just off the charts.
+02:25:47 If you want to hear the song again now,
+02:25:53 you have to hear it with Nate laughing in the background.
+02:25:56 It doesn't have something to it to prepare.
+02:25:58 It does.
+02:26:29 Yes, yes.
+02:26:44 I've killed Digi.
+02:26:46 I've killed Nate.
+02:26:48 I've killed Mage.
+02:26:50 Killed Jesse.
+02:26:52 You're the only two left.
+02:26:54 Right.
+02:26:57 I was just procrastinating on killing Ben Sane.
+02:27:00 Soon it'll be me.
+02:27:07 More, more, more, more.
+02:27:09 I can't get enough.
+02:27:12 All right, we're fading the hat.
+02:27:14 Okay.
+02:27:19 There it is.
+02:27:19 There it is.
+02:27:20 Wait, Tom.
+02:27:21 Okay.
+02:27:21 Why was that?
+02:27:22 There it is.
+02:27:22 Shut up, procrastinators from the past.
+02:27:24 I don't want to hear you.
+02:27:25 Past, procrastinators.
+02:27:27 The pro-pastinators.
+02:27:29 Get them out of here.
+02:27:30 Merry fucking Christmas, everyone.
+02:27:35 Merry Christmas, Tom, other Tom.
+02:27:38 Tom, who made the song.
+02:27:39 Not this Tom, this guy.
+02:27:41 That guy actually made something, you know?
+02:27:47 Merry Christmas for everyone.
+02:27:51 God bless us.
+02:27:52 Everyone.
+02:27:54 That's the one.
+02:27:55 Good, good night, and God speed you, you black emperor.
+02:27:59 Sweet dreams.
+02:28:00 Good, see you next, see you in 20, fucking 21.
+02:28:04 Before we wrap up, it's Christmas.
+02:28:07 It's the season of giving.
+02:28:08 So if you would like to give to us on this holiday,
+02:28:11 patreon.com slash the procrastinators.
+02:28:14 That's right.
+02:28:15 And donate $5 a month where we can give gifts to you
+02:28:18 in terms of multiple bonus episodes.
+02:28:21 All of middling quality, some that are actually even
+02:28:24 kind of good.
+02:28:27 The latest one.
+02:28:28 I don't know if it's uploaded yet.
+02:28:30 It might not be, but soon.
+02:28:32 You can hear me get fucking salty and just bitch about everyone.
+02:28:37 So just like this episode and every other one.
+02:28:40 Yeah, but even more.
+02:28:41 No, it was like vicious.
+02:28:42 Ben St. Unleashed.
+02:28:44 That's the bonus episode.
+02:28:45 Oh, God.
+02:28:46 It was too hot.
+02:28:47 It was too hot for YouTube.
+02:28:49 So it's in secret YouTube.
+02:28:52 Uh, that's the trick.
+02:28:56 And send us a voicemail at speakpipe.com slash pzp voicemail.
+02:29:02 If you think you can do better than these fucking hacks this week.
+02:29:07 A low bar to clear.
+02:29:09 You can do it.
+02:29:10 I believe in you.
+02:29:12 Anything else?
+02:29:14 Are we done?
+02:29:15 No.
+02:29:16 No.
+02:29:17 Never.
+02:29:18 Never.
+02:29:20 Not Merry Christmas.
+02:29:22 Very Christmas holiday.
+02:29:24 Very, very Hanukkah everypony.
+02:29:27 Good.
+02:29:28 Happy Hearth Swarming Eve.
+02:29:30 Happy Hearth Swarming Eve.
+02:29:32 Ah, a unicorn power.
+02:29:35 Dab, dab, dab.
+02:29:38 Earth's power, I guess.

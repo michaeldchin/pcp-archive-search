@@ -1,0 +1,1323 @@
+00:00:00 Ok, here we go. Hello everyone and welcome to another episode of the PCP. I'm the best guy
+00:00:19 ever, your host today, and we're joined by all our lovable companions, Hippocrit for
+00:00:24 example. Hello. Ben Saint is here. Heyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+00:00:54 yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+00:01:24 yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+00:01:54 yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+00:02:24 yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+00:02:54 yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+00:03:24 yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+00:03:54 yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+00:04:24 yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+00:04:54 yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+00:05:24 yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+00:05:54 yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+00:06:24 yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+00:06:54 yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+00:07:24 yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+00:07:54 yccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccg
+00:07:58 Okay, well here was the problem that I ran into it was like put in your tax information
+00:08:02 I put in all my tax shit, but then like it said like it auto-completed my name to Ben sain
+00:08:09 But then down in the name category
+00:08:11 It was like okay type your first name and last name and I did and it was like name must match
+00:08:16 And I said but but that's not my name. That's not my real name
+00:08:20 So eventually so I was typing my real name and it said it does it has to match
+00:08:24 That's not okay, and finally I was like okay fine fuck it, and I just typed my name as Ben sain, and you know what it said
+00:08:32 Said Nate it said name has to match
+00:08:34 Even though I did no I made it match, and it's still didn't I don't I don't understand any of this shit
+00:08:39 Can I just say as the last issue here? I've the problem. I've been facing maybe someone else can help
+00:08:44 This is a desperate attempt to get someone to fucking help out in the audience
+00:08:48 Bouncy now that
+00:08:50 Yeah, I will give you I will give you money out of my pocket if you can help me solve this problem my personal money
+00:08:57 I will do it this has been a headache for years literally years
+00:09:01 One of the problems I've been facing is this whole thing where you can't have more than one account guys like
+00:09:06 Munky are easily are able to tie you know all their different channels to get their AdSense money to like their main account
+00:09:11 Like that's not a problem because they're all attached to one Google account the problem is I have had to make multiple Google accounts
+00:09:17 You know things that involve different people myself and then procrastinators without everybody
+00:09:20 So if you know how to fix this please for the love of God help me
+00:09:25 And that's it
+00:09:29 My rant wasn't over that was oh
+00:09:33 That's all like relevant. That's all the sort of stuff like okay. That's what I was going through but it was it's like
+00:09:39 For you and and all that stuff. That's like important money. That's like PCP money
+00:09:43 That's AdSense for your channel and PCP
+00:09:45 That's like big amounts of money for for people that people need to have I mean I've been I've been going through yeah
+00:09:51 It's it's bigger. It's bigger than it's bigger than the literal zero dollars
+00:09:55 I would make off Twitch which is this is my point like that the fact that like I would have been fine
+00:10:01 Never making money on Twitch, but the fact that they said I could potentially get money
+00:10:05 Right, let me on this part of this two-day past still hasn't been fixed
+00:10:09 I have to now wait for 24 hours for this account to get re
+00:10:13 Like you know reset itself so that I can input my number again, and maybe it will work
+00:10:17 I don't think it will but maybe it will I don't know but it's just like agony like it just eats away at me like just
+00:10:24 Thinking about the fact that I could be making like a dollar every two years on this twitch account
+00:10:30 The fact that there's a revenue stream that is
+00:10:33 From you gotta open up really just open up those passive revenue streams
+00:10:37 It just makes it it just really makes me think it's like I I do this twitch stream for the passion and now that there's money
+00:10:44 It's really makes me annoyed that it doesn't work
+00:10:48 And now everything is fucked, and I'm really angry and I want to kill everyone and myself included and I fucking
+00:10:54 I hate that money has done this to me, and it's it's shit
+00:10:57 You know that's a perfect segue to some of the definitions of money over on Urban Dictionary
+00:11:03 Oh, thank God. Thank God for this segment before you do that. I just wanted I just wanted to end with a twitch TV slash give and take
+00:11:09 Do you want to go?
+00:11:11 Everyone go watch I'm on there sometimes we play Minecraft or is that munchies? I can't remember no it's yours, and it's super fun
+00:11:17 I I love it. I we should do that more we didn't do it yesterday, and I'll hate you forever for it
+00:11:22 anyway
+00:11:24 That that's true
+00:11:25 I rather I sat there all night with my arms crossed to my brow frode staring at the screen
+00:11:30 Why are they inviting me to play Minecraft? Why stay with fucking inviting me to play that's that's me every day
+00:11:36 And there's there's a whole bunch of definitions by the way for money over on Urban Dictionary
+00:11:40 So I'm going to cherry pick the ones I like
+00:11:43 So definition four of money is the root of all evil
+00:11:47 Where's another one number three here?
+00:11:49 We go paper and coinage that can be used to exchange for goods and services more of it equals power and chicks
+00:11:56 And and number two is a good one a money that which allows lazy people to do stupid things without painful consequences
+00:12:02 Thus keeping them forever stupid. I know devu would not appreciate these definitions
+00:12:08 He might appreciate the second one that was that I thought that was pretty fair pretty pretty even-handed
+00:12:14 Let's go with that one. Let's go with that one that works
+00:12:16 So, uh, I guess let's just get into our thoughts on on I mean we're all creators here, right?
+00:12:21 We're all art kind of guys. So there's always a struggle going on. Well, not bad
+00:12:25 Yeah, I mean, you know everybody I have I have the rest of us have artistic integrity of the story. Yeah
+00:12:31 And so, uh, there's there's always the struggle of trying to
+00:12:34 Decide what's appropriate to to you know make for what you do like avenue revenues
+00:12:41 Fucking avenues for revenues is what I was trying to say and I mean guys like me
+00:12:46 I'm really trying to do it. Can everyone hear the fucking tractor out my window
+00:12:51 No
+00:12:53 Well, maybe it's fine here. I'm I'll just kill myself. Thanks. Okay. Thanks. I'll sort that out
+00:13:02 I know not everybody thinks of like doing their art
+00:13:05 professionally like to support themselves like like mage for example
+00:13:08 At least it doesn't look like you're making, you know, particularly strident moves to try to like support yourself entirely with your art
+00:13:15 She did start. She did start a patreon at patreon.com slash lethal aurora mage
+00:13:21 Tragically underfunded at the moment
+00:13:23 What's what's your goal with that mage? Let me just ask you what would you hope to get out of uh, your your patreon?
+00:13:28 I just some extra spending money just as to get as compensation or you look into, you know
+00:13:33 Be professionally and support yourself entirely. Oh not not with just patreon, but in general all all your stuff all your own gosh
+00:13:39 And complicated question. Um
+00:13:42 Let me let me quickly think about it. Well, um, I've been debating on getting patreon for like
+00:13:48 A while I actually made the patreon account like several years ago back when I was doing phony stuff
+00:13:53 but I never got around to actually
+00:13:55 Implementing it because I kind of felt bad for charging people for like the shit I do. Oh, let's talk about that
+00:14:00 Let's talk about uh that later charge feeling bad about charging people for stuff willingly, but okay, we'll get into that
+00:14:06 Yeah, so, uh, but right now I kind of need the extra spending money just on like better food for myself and
+00:14:14 Yeah, sometimes sometimes I mean I might need extra spending money because that's the only
+00:14:20 Job I have kind of but I'm not like in particular dire need or anything
+00:14:25 Um, I don't know mage. You say that you need the money for better food. That honestly sounds pretty dire
+00:14:31 I mean, I I'm still getting food. It's just not very good
+00:14:36 Well, maybe if she didn't buy as much pocky and ramune from her local anime shop, she'd be in the fucking green come on
+00:14:42 I wish I had an animation
+00:14:44 I under you know, I I understand mage
+00:14:46 I know that a significant a significant chunk of your income needs to go to patreon.com slash ben sain every month
+00:14:54 It has to come out of something
+00:14:56 That's right
+00:14:59 But yeah, like I'm not I'm not in like super dire needs
+00:15:01 So I'm not like advertising like hey guys, please give me all of your months right now or else
+00:15:07 I'm gonna die tomorrow. I'll say it everyone give major months, please
+00:15:13 No, no, it's okay
+00:15:15 Like I I I'm like I'm giving an option for people who do want to support me
+00:15:21 And that's you know, that's fine. They don't have to I don't I don't want to pressure people into doing it because then I'll feel
+00:15:27 Really responsible about doing content and stuff
+00:15:30 Which I really don't want to pressure myself into doing because then I'll just start procrastinating
+00:15:35 and hating myself
+00:15:37 Yeah, I want to procrastinator hates himself intensely. That's true. I want to talk about that because like
+00:15:43 I
+00:15:44 This month on my on hypocrite
+00:15:46 I haven't made a single video for the channel for for patreon for april
+00:15:50 So I'm not charging anybody for april
+00:15:52 I haven't really thought about I mean I've thought about the fact that I'm not charging anybody
+00:15:55 I'm not making a video
+00:15:56 But I'm I'm more concerned about the fact that I'm not putting out a video in april
+00:16:01 That the the charging people money is just like a thing that I don't think about as much
+00:16:05 Because when I feel bad and procrastinate, it's because I don't want
+00:16:09 You know the the video to not be good enough. I don't want but it's not because people are paying for it
+00:16:15 It's just because I don't want to make bad videos. I don't want to make like videos that I don't think are good enough
+00:16:20 And that's why I don't make anything like
+00:16:23 There's like a there's a there's a different thing like I don't know how how the rest of you feel
+00:16:28 About whether it's charging the people money for it that makes you feel bad and procrastinate or whether it's the quality of the thing itself
+00:16:35 Whether it's probably it's probably both actually. I don't know. I definitely my philosophy on that in general
+00:16:40 Yeah, you can come in after this, but like I just want to state my philosophy about patreon in general
+00:16:46 I sincerely believe that when it comes to patreon specifically
+00:16:50 Any money that you get out of the people willingly?
+00:16:53 I mean you can't lie and tell them that you're gonna do something and not do it that that's not good
+00:16:57 But whatever content you provide legitimately that people are willing to give you money for I think I would find it
+00:17:04 Ridiculous to criticize anyone for doing so. It's not that I like if you make, you know
+00:17:08 Like shitty art and people pay for it. It's not like I'm gonna like the art there
+00:17:12 I just find absolutely no moral objection to to like you getting any amount of money that people find worth in that
+00:17:19 Yeah, like no matter what like no matter what people have have opted into it
+00:17:24 Like yeah, people have opted in hardcore to support you on patreon. You can't you can't like swindle someone on patreon
+00:17:31 That's right. I don't unless you lie. I don't think you know
+00:17:33 Yeah, well like that's the whole thing even if let's say you are releasing a bunch of stuff on patreon
+00:17:38 Then you do a hard left and you do something different like people can just say I don't want to pay for that and they don't have to
+00:17:43 That's right. They have the option at any time. It is your responsibility as a patron to say, okay, this content is no longer good
+00:17:49 I'm not going to support them anymore. That's that's you. That's up to you entirely
+00:17:53 Yeah, there is no like what can the creator do to like help with that never change their content
+00:17:58 No, I've never I've never heard of a of like a patron being like you fucking cheated me
+00:18:04 to anyone
+00:18:05 But I have heard other people claim that like others are like cheating people with their patreon. You hear that with like kickstarter all the time
+00:18:12 Yeah, I feel like I feel like that's more of a case of like people being new to patreon and not realizing that you know
+00:18:18 Yeah, like they do it and then they they get surprised when they they realize they've been charged for stuff that they didn't really care about
+00:18:25 and they forgot to like set the cap or
+00:18:29 You know like because that was a thing for a while forgetting to set your cap as a thing
+00:18:34 But like that's not on the person you're pledging. Yeah. Yeah, it's totally on you right
+00:18:38 Yeah, it is on the person
+00:18:40 But I think I feel like the the small instances in which patrons have gotten mad at creators is because it was a new thing
+00:18:47 And then now people know a bit more about it so that they know
+00:18:51 Well, I can just leave so
+00:18:53 That's what i'm gonna do. It's it's a bit similar to getting mad at like, you know
+00:18:59 Sort of like the owner like I you know, I'm a member at a gym and like when I joined this gym
+00:19:04 They it's a it's a fantastic gym. I absolutely love it. Um, and it's got all this wonderful stuff
+00:19:09 Um, but like I was very clear because I've had a lot of experience with different gyms to ask like, okay
+00:19:13 Tell me about the joining fees the leaving fees like the the the monthly payments like is that ever going to go up?
+00:19:20 Like what is the uh, you know, like at what points am I allowed to leave the plan?
+00:19:24 It's like I've got a yearly plan
+00:19:25 So I cannot leave before that point like you just have to understand the situation you're getting into and know that
+00:19:31 You know like what fees you can expect to see and uh, you know
+00:19:34 Just make your as a as an aware consumer or customer or supporter
+00:19:39 You just have to be savvy about the costs and about like any
+00:19:43 Issues that could come up. It's your responsibility
+00:19:46 Okay, okay. So like I have people pledging to me. Thank you guys by the way if you're listening and um
+00:19:54 so I I made a video and I charged people for it and
+00:19:59 If like they said they're only gonna like charge them at the beginning of the month
+00:20:04 So
+00:20:05 If if they wanted to they could back out
+00:20:08 But like, you know, if it was a private video, which is it isn't but if it was a private video
+00:20:12 They could have seen it and then back out with and I don't know. I think would they be charged?
+00:20:18 No, I think I think if it if the charge doesn't go through it doesn't count as a payment
+00:20:23 I think like so, I mean mage what you're asking for is if you had gated content
+00:20:28 That was behind like your patreon that people had to be a patron to get
+00:20:31 Could someone because it because you get charged at the beginning of the next month could someone come in
+00:20:36 Say they're gonna pledge watch the stuff and then bail before the money goes through. Is that the question? Yeah
+00:20:41 It can't you can do that. I've had people do that to me before
+00:20:44 Um, it's it's dumb the way to get around it the patreon in response to that
+00:20:49 They have a new thing now, which I suggest everybody do is when you you can set up your account
+00:20:53 You can set it so every new patrons automatically charge as soon as they sign up
+00:20:58 So like if they sign up for a $50 pledge instead of
+00:21:01 Waiting till the end of the month to charge if they're instantly charged for that as soon as they sign up
+00:21:06 So that's the way to do it. If the pcp one isn't like that
+00:21:09 It should we should adjust it to be like that immediately
+00:21:12 Mine is like set up per video rather than per month though
+00:21:16 Right the same thing you just got your own system because because the way patreon works
+00:21:19 Even if you're set up per video instead of charging as they come out at the end of the month
+00:21:23 They'll collect all of the the content you have to upload four videos
+00:21:27 They're gonna charge people four times or attempt to charge people four times at the end of the month and then give it to you a week later
+00:21:32 Yeah, so they're gonna charge at the end of the month rather than whenever I post videos
+00:21:37 Correct guys. I don't know how much we should go down the rabbit hole of you know, patreon minutia here
+00:21:41 I was waiting. I was waiting to say I think we've gotten a bit far afield of the topic of
+00:21:46 I was just curious. Sure. Yeah. No, not that I don't think this is talking about it
+00:21:50 podcast. Yeah. Yeah. Yeah. Um, okay, so
+00:21:55 Teach me some pies
+00:21:56 Do doing it doing it for the money versus doing it for the the love of the game
+00:22:01 Um, I I guess I have I guess I have a relevant uh topic to say I've been
+00:22:06 um, I've I've been doing like
+00:22:10 All right, I've I've been I've been pretty slow
+00:22:12 I've been pretty slow with my main content
+00:22:14 Recently and I have a couple of reasons for that
+00:22:17 One of it is like personal stuff because I've been like getting ready to move and all that
+00:22:22 um, and the other is just like
+00:22:25 I've been I've just
+00:22:26 Just been focusing nice looks. Yeah. Yeah, I've been I've been focusing on that and it's been and it's been terrible
+00:22:32 It's been terrible and I can't wait for that nightmare to be over almost done. I'm so close. Oh god
+00:22:38 But I have I I took I took a little bit of commission work and it's just I found
+00:22:44 I found that it's so hard like drawing. Yeah commissions is so hard
+00:22:51 because like
+00:22:53 Like no matter what the commission is like even if even if what they're asking for is like fine
+00:22:58 Like I don't know when when you're when you're making something yourself and you're drawing yourself you're doing it
+00:23:03 You're like I don't know like you're you're doing it in accordance with like what you want to see
+00:23:09 But like right right
+00:23:11 When it's a commission when you're doing it for someone else for you know when you're doing it for the money
+00:23:16 I guess as opposed to for the passion. It's like
+00:23:18 Every step of it is like this slog and like I don't know right the more the more
+00:23:23 Like I sketched out this image that this person wanted and then you know, I was like, okay that sketch looks pretty good
+00:23:29 It's pretty rough whatever it's got most of the stuff and then I started finishing it and and like
+00:23:34 Finishing it was such a nightmare because it's like I worked and worked because I had to like
+00:23:38 Put in more details and stuff and like this is not how I would design this thing and like right
+00:23:43 The more I worked at it like the more it resembled what I had been asked to do
+00:23:47 But the less I liked it because I was going against my like natural instincts. It was such an uphill battle
+00:23:53 Commissions are just such like a psychologically such an uphill battle and it's just so much less
+00:23:58 Good
+00:23:59 That's similar to like when I first started my patreon. I had reward tiers some of which were like drawing a thing
+00:24:07 For a person and and I found those really difficult as well because
+00:24:12 Well mostly because I was lazy, but also because I didn't like having to do something
+00:24:16 at all
+00:24:17 So I don't do rewards because like it really is exactly doing something for the money
+00:24:22 Like I'm doing this because you pledged because there's a reward. I'm not doing this because I would have done it
+00:24:28 Yeah, and that's why in my patreon now. There's no rewards at all
+00:24:31 Which is probably making me lose a bit of money, but I think it's worth it
+00:24:34 I don't like having that hanging over me. I know I know that I know that I owe
+00:24:38 I know that I owe like a handful of people some reward art that like I have been sitting on for a while
+00:24:45 and that is
+00:24:47 Yeah, I'm gonna get I'm gonna get to that like probably after the nuzlocke's end
+00:24:50 I like that's like on my plate because I have to do that at some point because I feel terrible
+00:24:54 I feel terrible owing people art
+00:24:56 I feel like some of them have probably forgotten that I even owe them art in the first place
+00:25:00 But I know I do and I have to at least try like I have to at least be like hey, you still you still want this
+00:25:05 Let's let's let's get this sorted out so I can feel like a person again
+00:25:09 It's really annoying
+00:25:10 It's really it's really weird when they forget and then you feel bad about it still so you have to you have to decide
+00:25:16 Well, I could just do I could just forget about it, but I feel bad about it
+00:25:21 Maybe they don't forget maybe they just don't say anything you want to be nice
+00:25:24 Well, there is at least one person who I have explicitly emailed and been like hey
+00:25:29 I owe you some art because you you gave to my I think it was for my um
+00:25:34 Indy might go fund me like what do you want and they didn't answer and I'm like well
+00:25:38 You're in the clear. I think I've done all I can do
+00:25:42 And absolutely I did the same thing because when I started my patreon way back in like what 2014
+00:25:47 I had a tier where I just did commissions and it was a nightmare because I had like 15 commissions to do all of a sudden overnight
+00:25:53 Yeah, and I was like, yeah great
+00:25:54 I'm making money, but like I made the money to support the videos I was making at the time
+00:25:58 But now I've given myself all of this like basically freelance work on top of the work that I was trying to fund in the first way
+00:26:03 So I fucked myself over hardcore it sucks and all these pictures are fucking stupid. I don't want to do them anyway
+00:26:08 So it's eventually what I just did is I just like people who weren't responding because it took me forever to get them done
+00:26:14 So I was like I just put out a big thing on patreon
+00:26:16 I was like these are the people I have left to do if you don't respond within two weeks
+00:26:19 I'm knocking you off the list and like half the people didn't respond. I'm like, you know what?
+00:26:24 Fuck it
+00:26:24 Yeah, when it's when it's something. Yeah, when it's something that someone else wants to see rather than what you want to be drawing
+00:26:31 It's just harder like it just makes it harder to do
+00:26:34 You know this this feeling you've been described is exactly why I have I offer exactly zero perks on my patreon
+00:26:41 Exactly zero all that you get is that you get to feel support
+00:26:45 Uh for you know best guy ever and you um like that I actually like that a lot
+00:26:50 It is completely ideologically pure the only reason to to to you know
+00:26:56 Yeah, the only reason to patron me is because you like the content and you want to support it because I make it very clear in my
+00:27:01 In my you know on patreon.com slash best guy ever that the money goes to me being able to do this as a career
+00:27:07 That's what that's what my whole life is geared towards. That is the only goal
+00:27:10 I have in life being able to leave my job and and do more of this shit as fast as possible
+00:27:15 Yeah, and um rewards either because like I don't produce that much content and I feel like if I had rewards
+00:27:21 I would spend more time working on the rewards, which which is bad for everybody which is bad for everybody
+00:27:27 of speaking of like the goal of like
+00:27:30 Doing this as a living I feel right okay get on the subject of like like money versus passion
+00:27:36 I'll just I'll just lay out my belief on this subject, which I think everyone is probably going to agree with
+00:27:41 I don't think anyone's going to find this too controversial
+00:27:44 um
+00:27:45 Um, I don't I don't care about money at all except in so far as it lets me live
+00:27:52 The way that I want to live so like as long as I'm making enough money
+00:27:57 Like I I I I need money up to the point that I have all my shit taken care of and I can and I can do art
+00:28:05 And then beyond that it's all it's all superfluous right agreed
+00:28:09 Yeah, I think we all agree on that except some of us have standards of lilings that go slightly above
+00:28:13 You know eating a discarded pizza hut out of the dumpster from behind the thing
+00:28:17 Well, you know some of us buy our own pizza. Well
+00:28:21 You know I've had I've had to get closer to that point. I've had to yeah, I've I've lowered my standards of living
+00:28:29 I've yeah, I'm not joking like I'm low
+00:28:32 Like I've like I've lowered my costs and I've lowered my expectations to like as low as they can possibly go
+00:28:38 Because I just want to hit that equilibrium point where I'm making enough money that I can live
+00:28:44 And not have to do any other bullshit except make the shit that I want to make
+00:28:48 And like anything that I could anything that I could do to scrape more money out of my art or
+00:28:53 Lower my fucking cost of living like anything that gets me closer to there is worth doing like
+00:28:58 Everything I respect that actually I think that's it's the only thing. It's the only thing that makes sense to me. You know, right?
+00:29:06 Yeah, I the way I work is is exactly that like
+00:29:10 But the problem that comes with that is that I sort of go in and out of phases of certain things that I want to do
+00:29:16 Like um
+00:29:17 Like recently this month instead of doing hypocrite videos
+00:29:20 I did like a whole series of drawing brisker, which is you know, it's it's I'm going to continue doing that
+00:29:25 But I then then I was like, oh, you know what my little pony started
+00:29:29 I'm going to do a my little pony podcast with Jesse and I was like that's another thing
+00:29:32 And then there's like vlogs and and anything anything and anything that isn't like a main channel video because I have been working on one
+00:29:38 But it's sort of like
+00:29:40 I have to play the other whole game and take notes and it's taking long
+00:29:43 And it it it sort of drains me out. I just want to do other stuff
+00:29:47 I I want to make other videos
+00:29:49 I could have if I worked on it if I had the the the wherewithal the passion that the drive
+00:29:54 To make a couple smaller videos on hypocrite and that would have been great for everyone
+00:29:59 but I didn't because I
+00:30:01 I do it so much for the passion that if I don't have the the passion then I won't make any money and that's just how it is
+00:30:08 Yeah, um, I hate I hate that about myself because I do at least want something at the end of the month
+00:30:14 But I don't know devout devout chimes in
+00:30:18 Quote life is like a video game and money is like points
+00:30:22 I want to achieve fun and interesting goals while also seeing how high I can get my score
+00:30:26 People in the stock market and billionaires and shit. I think this is their entire goal
+00:30:30 Most of them seem to like making money way more than they like spending money
+00:30:34 That's that's accurate. Yeah, he's living living living that living that gamified life. He's living
+00:30:39 He's living the gamification dream your passion is making money. I think I would argue that must become addicting at some point
+00:30:45 It's oh, oh, absolutely
+00:30:47 I'm sure but I was I was gonna say in response to sort of ben's point and you know, everybody gives as well
+00:30:52 About you know wanting to achieve the equilibrium of you know, lowering your standards to to just like be able to do what you want
+00:30:59 I would argue that. Oh, well, I guess I wouldn't argue anything. I'm just I would put in that. I have an additional
+00:31:03 um, like like uh, sort of point in that equation something that I feel should also be addressed
+00:31:09 And that is I mean and then here comes Nate's quote. We uh, what is it a weird utilitarianism?
+00:31:15 Yeah, I feel like I feel like there there should be some
+00:31:18 Like net gain from your life or you know, you should strive to achieve that like there is no fucking such thing as like
+00:31:25 There's how you say that how the fuck do you measure that? Uh, well, there's lots of ways. All right
+00:31:30 I know I know what you're gonna say is does it close to get us closer to starfleet?
+00:31:34 Well, no, I was okay. No, this is how do you fucking know?
+00:31:38 You can you can wait wait wait wait wait wait. There's a net gain
+00:31:42 By purview of like already by the fact that we didn't exist before and now exist and some people like what we made
+00:31:49 Right, that's already a net gain. So you're talking about a big like long-term people would argue that isn't even like a legacy, but yeah
+00:31:55 Uh, I yes, I mean, I yes, I am operating from the standard. I fully admit I am operating from a human
+00:32:01 Centric utilitarianism standpoint. Yes, that's where I'm coming from
+00:32:06 But so is it is it I don't but you're not talking that you want to have a legacy because you
+00:32:11 This isn't a but no, it's not about any individual person ego
+00:32:14 You're trying to like give back to the community on a more macro scale. I'm rooting for team human here. That's just what I'm doing
+00:32:19 There's no there's no like there's no standard of like what is progress and like what is what is a
+00:32:25 Hard to quantify that is absolutely untrue. You're absolutely untrue
+00:32:30 There's so many ways we can all agree that the world gets better
+00:32:33 Is the world better if we create a vaccine that eliminates a specific disease objectively? Yes. Oh my god
+00:32:41 Everyone go out and invent a vaccine. I guess what is your bet is your point that I'm wrong because you're just I'm just my point
+00:32:46 Is that you're not true? You're fucking literally throwing out some fucking un
+00:32:50 Indefensible unfalsifiable like crazy shit like how like we can't
+00:32:55 No, we cannot have according to the standards you're laying out because they're incoherent you you are such you're so dense here
+00:33:01 All that is is an example showing you
+00:33:05 Dude, you'll get your
+00:33:09 Ben you are saying that I am objectively wrong across this uniform view and I'm showing one example to show how that's untrue
+00:33:15 That's all I'm doing. That's all I'm doing one example is like so specific
+00:33:19 And that's exactly that's fine
+00:33:25 Guys we're getting off track the the point is Nate. Well, yeah, but you're never gonna go anywhere with that
+00:33:33 Like the whole thing is that Nate wants his videos to lead to something greater than his videos in the long term of humanity
+00:33:40 And that's that's just he's just thinking he's just thinking way bigger than we are
+00:33:44 I don't really particularly that's true. I'm just I think bigger than everybody
+00:33:50 I don't think that's like a necessarily better thing to do. I just think that you know, that's what he does
+00:33:54 If you're an artist
+00:33:56 Yeah, if you're a if you're a doctor then yeah, okay, sure you you can you you're creating vaccines
+00:34:01 You're doing cancer research or you're adding to like the sum of human knowledge or something. That's fine
+00:34:06 If
+00:34:07 Relevant example do our discussion today if you're a fucking artist
+00:34:10 How do you measure whether you're fucking shit has has a fucking net gain on society?
+00:34:15 Look, I would argue
+00:34:16 I would argue that every person intrinsically does it whether they know it or not
+00:34:19 They are trying to basically do exactly what i'm saying. They just aren't aware of it
+00:34:23 Like why does an artist create, you know, like a big mural of like, you know, martin Luther king or like or like
+00:34:29 Inspiring people from their community. They do it because they want okay one time
+00:34:33 This is my sound bite for the podcast art is a self-indulgent practice. It is
+00:34:38 Absolutely. It is. I I think I think I think
+00:34:42 Even if I sit here and say I want to make a piece of art that says something
+00:34:47 Relevant the only reason I want to say that thing that's relevant because I believe it and I want people to believe what I believe
+00:34:52 So it's entirely a self-indulgent practice. Well, I don't think I will say I will say that um, I've just realized in this that
+00:34:59 Nate
+00:35:00 Aside from his analysis videos is not an artist per se. He doesn't make stuff
+00:35:05 Self-indulgingly in that way. He likes explaining why something is good
+00:35:09 He likes explaining art more than he likes making why Nate is right about something and why he is the best guy ever is
+00:35:15 Incredibly self-indulgent
+00:35:17 Right, but but I I do that because I think that there is something valuable to be gained through that process
+00:35:22 Davoo says, why does Nate always come to this? Nate? I also want videos to lead to something great
+00:35:27 But I don't need to bring it up every goddamn week
+00:35:29 It's
+00:35:31 It's it's almost like it's almost like that's kind of the core philosophy to everything else I do
+00:35:36 It's almost like that Davoo. Wow. You're such a brilliant guy Davoo. You're so smart always making these
+00:35:41 I just want to kill you. I just want to make one more point about this subject like
+00:35:47 Nate I think that you're I think that your logic is fuzzy here on two levels because one
+00:35:52 I think that everyone is going to disagree about what constitutes progress
+00:35:56 I agree and be I think that it's going to be like like even a really
+00:36:01 Like it's going to be really like no matter what standard you choose
+00:36:04 There's going to be cases where it's going to be hard to determine whether or not progress was actually made
+00:36:09 That doesn't mean that we shouldn't try or make an effort to to get that way
+00:36:14 What I really want to understand because this is the thing that's that's always like made it seem fuzzy is that I don't know
+00:36:20 Quite exactly what your plan is to make like
+00:36:23 Specifically what your videos and what your plan is in life to make a change for the better
+00:36:28 What do you want to happen due to your involvement in you know the universe?
+00:36:33 What what what do you want your impacts to be?
+00:36:37 Based on what you're doing now and what you plan to do in the future
+00:36:40 Well, I fully admit and there's really no other way that anyone can operate that like I am approaching things from my perspective
+00:36:46 As what I think the right way to go is and I have thought about it for a long time
+00:36:51 And I legitimately hold these beliefs so things like in the gurren login video
+00:36:54 What I'm doing in that video is pointing out how this show is is sort of encapsulating an idea that I think is valuable
+00:37:00 And I wish people would consider more as they conduct themselves or in their daily lives
+00:37:04 And it's you know, like it's an anime analysis showcasing an idea that I think is really good and explaining why I like the show that you know
+00:37:12 Has that bit in it like that's that's what I'm doing and I want so what
+00:37:16 So you would say maybe that you're like a preacher using the medium of youtube analysis
+00:37:21 I okay. I mean I say this
+00:37:23 Yeah, I say this all the time. He's a bard. He's a bard
+00:37:26 Yeah, like I I'm all about that thing that hui freeman talked about in that fucking episode of the boondocks where he puts on the christmas plate
+00:37:32 Like he had this idea and he wants to explain to people
+00:37:34 I don't know whatever it was in his case like the real jesus or something
+00:37:37 And why you know everyone's wrong about jesus and like nobody gave a shit until he put like fucking
+00:37:42 Uh, I don't know like I don't know who was it like kanye west or like people that are just like famous and just like are cool
+00:37:48 And he put like songs and he put sword fights and he put all this flashy shit in order to like
+00:37:53 Make a sweet pill that people would swallow to get the medicine that's inside it like the important message to get people talking about it
+00:37:59 That's what i'm all about. That's what i'm all about. That's hui's law as i call it all about that blue pill
+00:38:04 I'm totally it's not a blue pill
+00:38:06 I'm totally sweet pilled. I'm totally sweet pill dog. It's
+00:38:12 I get it now that you're just you're just trying to spread uh, good messages good vibes christ consciousness
+00:38:18 You know, that's right. All that good stuff. Damn right. That's it. You're just you're just trying to tell people
+00:38:23 The cool stuff look ben ben. I really just to go back to this
+00:38:26 I really think that there are even if you you think that it's like
+00:38:29 Hopeless that there's too many things that people are going to disagree on and we can't get anywhere
+00:38:33 I would still I would say that you have to say that there are at least some things that I think that we can form a consensus on
+00:38:40 Like like just as an example come vaccines like things like that
+00:38:44 But how is that?
+00:38:45 Guys because I want to make a statement
+00:38:47 Wait, wait, I just let me mage mage. Let me just answer what he just said quick
+00:38:52 he's
+00:38:53 Go on ben. He said
+00:38:55 The like that's such a specific example like that. Yeah, that's who the fuck is gonna be like i said
+00:39:00 Who the fuck is making vaccines like like i'm like what i'm doing in my life is not going to lead to the creation of
+00:39:05 Giant corporations giant, you know like medical corporations are making vaccines. How does that fucking how does that fucking inform?
+00:39:10 How the average person should live their life?
+00:39:12 Maybe they should work for that company
+00:39:16 About this discussion anymore and it's certainly going to be losing us money if we keep going so mage
+00:39:21 What's up? I just wanted to like agree was tell me that when he said earlier about this whole self-indulgent thing
+00:39:28 Like, uh, I I do art because it makes me happy
+00:39:31 Like i've always been drawing regardless of whether people saw it or not
+00:39:35 And even if I wasn't popular or even if people didn't like my art
+00:39:39 I would probably still be drawing but the fact that there's a lot of people
+00:39:44 Out there that like my art and and they they're happy because the you know, they got to see what i'm doing
+00:39:50 Kind of makes me happy and it kind of motivates me to do more
+00:39:53 But regardless of that I would still be doing what i'm doing with or without the people
+00:39:58 That leads me into the point
+00:40:00 I wanted to make about this discussion of money versus passion and how I think
+00:40:04 There is another aspect that people operate on that we're totally leaving out of this equation and that's a tension
+00:40:09 I think more than even money. I think people do things for attention. I think that's a huge motivator
+00:40:14 honor and
+00:40:15 Glory they're similar in the sense that you know, like one is sort of economic capital and the other is social capital
+00:40:20 And both can be sort of used to gain advantage like social capital for a lot of people is probably more valuable
+00:40:25 I think okay. Sure. Sure. That's fine. That's fine
+00:40:27 I totally is but I think there's like I think there's so many people who just like shitposts and do like random crap on the internet
+00:40:33 Just because they they're looking for attention even though they know it's not going to make them any money
+00:40:37 Whereas there are things that could make you a lot of money that people don't do
+00:40:40 So I think I think a lot of people operate just under like they want attention
+00:40:44 I would start hiding and doing things whenever I would give like a lot of attention because I got scared of being like
+00:40:50 Really I line light
+00:40:52 I I will say that mage you say you say that you would draw even if no one was watching and
+00:40:59 I
+00:41:00 Honestly, I'm pretty sure that if I didn't if I didn't think anyone would see it
+00:41:04 No, I would never draw anything because what would be the point
+00:41:07 I could just imagine the image in my head and then I'd have seen it and I wouldn't need to share it
+00:41:12 I wouldn't need to create it to share it with anyone
+00:41:14 I feel sort of similarly to Ben and I would say I advocate for sort of like a
+00:41:19 Sort of like a benevolent
+00:41:22 capitalism on this front
+00:41:24 What was the other thing? What was hippo gonna say? Sorry. Yeah. Go ahead. Oh, well, uh,
+00:41:29 I don't know. I was gonna say something
+00:41:32 about like like like not understanding Nate's position before but now kind of understanding that yeah
+00:41:38 He's thinking about that that sort of thing and I think
+00:41:41 Art, uh, when you're making it
+00:41:43 It's it's it's everybody does it for a different reason some people do it because they want attention
+00:41:47 Some people do it because they need money, but also because they kind of like it
+00:41:50 Some people just love it so much that they can't not do it
+00:41:53 You know, I think we all have like the the reason I make my my reviews of video games is because
+00:41:59 I feel good when people reacts positive positively to them. I also like it when I can tell people about
+00:42:06 Um, cool video games and have them play and have fun. So I like spreading the the fun and you know on another level
+00:42:12 I like understanding understanding in myself why something is good
+00:42:17 Which is why there's always a lot of analysis even though I'm mostly a comedy guy
+00:42:21 I try to figure out for for real exactly why a game is good so that I can say to myself. Yeah
+00:42:26 I figured it out finally and it's it's all those
+00:42:30 Little different things the reasons that I like doing what I do
+00:42:34 And the money is is a is a much lower on the on the scale really to the point where I probably would still make them
+00:42:40 Even if I didn't make that much money that it would always be a hobby of mine to do that
+00:42:44 Um, you know, if I got like a real job or something or a different source of revenue and hypocrites
+00:42:50 Just sort of the died or it never gained any sort of big popularity
+00:42:54 I would still probably just be slowly making them until I'm dead
+00:42:58 Is it is it going too far to say that really when it comes to a question of doing it for passion versus doing it for money
+00:43:04 Is the heart of that doing it because you want to do it for yourself versus doing it for other people
+00:43:11 Is that really what it comes down to?
+00:43:13 Well, everything's selfish everything's selfish in the end
+00:43:15 You might do it for other people because other people make you feel good about yourself for having made it for them
+00:43:22 Go on
+00:43:23 Okay, let's hold on to your thought. Don't forget it. Yeah
+00:43:27 So for me like, um, it's a little uh, when we talked earlier a bit about the whole, you know
+00:43:32 You said, you know, you wouldn't do it because no one would see it like for me
+00:43:36 I've like I said, I've always been drawing ever since I was little and not a lot of people saw it
+00:43:41 Like the fact that people did see like a few friends, maybe family family not so much friends, I guess
+00:43:46 Uh, it it was definitely like a motivator to you know, sort of show off and share it
+00:43:51 But I it just I couldn't not draw like even if no one saw it. It's just it's just part of my life for me
+00:44:00 um
+00:44:01 That's like is that, you know, the people saw see it and they like it
+00:44:05 That's definitely like motivating me to make more. However, there is a point where
+00:44:10 The attention turns into expectations and that's where I get like really uncomfortable
+00:44:15 And then I kind of backpedal and not do anything because I don't like people expecting stuff from me
+00:44:20 like um
+00:44:21 And and like this is what's bothering me because my most recent video like the animation meme it blew up like a lot more than I
+00:44:28 Expected it too and people were like, oh man, this is so good. I'm subscribing like I can't wait for more quality memes
+00:44:35 animation memes and I'm just like
+00:44:38 How I'm gonna live up to this
+00:44:41 I see I see
+00:44:42 Like I did this meme like just because I wanted to for the most part like I could have oh my god 152,000 views
+00:44:49 Jesus christ and less than a week. Exactly. That's uh, really good. I mean
+00:44:54 It took me several days
+00:44:55 But I I did it because I really wanted to make it look a little different than the other uh copycat memes
+00:45:02 It wasn't like because I wanted it to get a lot of attention or like make a lot of months out of it
+00:45:08 Silly boys. Don't look at my meme animations. I hear you mage
+00:45:12 No, no, no, no, I mean like yeah, I wanted to put it out there and I wanted people to see it
+00:45:16 But it was like I wanted to do this. That was my main motivator. I
+00:45:21 This is the meme I want to do and this is how I want to go about it
+00:45:25 And I did stress about it sometimes and I did change several things and some things didn't turn out the way
+00:45:31 You know, I wanted to and in the end I'm not too happy with it
+00:45:34 But kind of proud of it. I'm proud enough to put it up. But then like
+00:45:40 You know, it was for me mostly for me
+00:45:42 I'd like I like the people did like it and shared it and now that he's getting a lot of attention
+00:45:47 I am getting scared
+00:45:50 And at the base it was it was just because I wanted to do it not because other people wanted me to do it
+00:45:58 Yeah, I think that I think when you when there's like
+00:46:01 Reasons to make something everything's on sort of like a slider the more you slide something to one end
+00:46:06 You know the other ends like you know a percentage of the reason you want to do it sometimes like gender like gender
+00:46:10 You're somewhere along the slider. Yeah, okay. We're on the same page, right? Like like
+00:46:14 It's like a percentage thing like or a pie chart. I don't fucking know how to to visualize this but like
+00:46:20 That's like
+00:46:22 Yeah
+00:46:23 There's like, uh, there's uh making it because you want it to exist
+00:46:27 That's like every every time I think of something. Oh, wow, that doesn't exist. I want it to exist
+00:46:32 And I make it sometimes said something like very similar to this. I'll read this after you're done
+00:46:36 But yeah, so there's like making something because you just wanted to exist and you haven't seen it yet
+00:46:40 And you just that's the drive the other thing is like making it because uh for attention slash money because like
+00:46:46 It's basically the same thing you you want like validation in some form. Um, and then the other one is like
+00:46:53 Uh, something I don't fucking know. I I I I ruined my own idea
+00:46:58 I'm with you though. I'm with you. Well, well, DeVuz DeVuz comment is I have a Venn diagram
+00:47:02 The things I want to make circle is so big and vast that I am left demoralized at the futility of picking one
+00:47:07 When I examine the things people will like and things that will turn a profit and
+00:47:12 Things that I have the skills for fields and figure out what is contained within all of them
+00:47:16 I am presented with a glorious few paths to choose from
+00:47:20 Summed it up pretty good. I think I like think I'm into that metaphor or it's not a metaphor
+00:47:24 Hey, uh, I'd like to I I'm also acting as the voice piece in this case for monkey who just asked
+00:47:29 Where is DeVuz typing this shit? I want to post fun notes. Okay, never mind. No, I owe this to DeVuz
+00:47:35 I owe this to DeVuz. I'm I'm being subsumed. Yeah. Well, because he left me his microphone
+00:47:40 And he was like, oh, that's right. He was no, he was like, I kind of want to be on this cast
+00:47:44 But I kind of don't so I'll just let you use my microphone and in return in return just read my DMs in
+00:47:50 In the thing. I was like, well, I guess I can't say no
+00:47:53 Yeah, what the hell like we could never ever have a podcast with Ben and and DeVuz on it because
+00:48:00 We did last week and I just used my shit mic and it sounded like garbage. You gotta buy one my friend. No, but I don't want to
+00:48:07 Yeah
+00:48:10 How will I how can I buy a new mic like that's going to come out of the funds I'm saving up for that oculus rift
+00:48:25 If anyone yeah, let us know in the comments if you understand what the fuck i'm talking about when I say that
+00:48:31 That's that's a deep it should stay a deep a deep hidden. Yeah, deep hidden. Yeah, that's the deep layer
+00:48:37 So you know on that on that pcp like depth chart that should be like that's pretty fucking deep
+00:48:42 It's maybe not the deepest but it's down there. Um, okay
+00:48:46 So about what we're saying about like things you want to make versus what people want to see for for me
+00:48:51 Being an artist is all like the satisfaction of being an artist is all about making the thing that you want to make and then
+00:48:58 Putting it out there and seeing what other people think about it. So like I'm
+00:49:03 Like like I'll do like I'll do commissions or stuff whatever because I need money like like I said like like money
+00:49:09 Doesn't motivate me at all except in so far as it lets me do the things I want to do
+00:49:13 What really does motivate me is attention and I'm kind of embarrassed to admit that but there you go
+00:49:17 I just want people to see my shit. I want I want I want people to see my shit and I just want to see
+00:49:22 I want I want to make the thing
+00:49:25 I want to make the thing that's in my head and put it out there and see what it is
+00:49:29 And I want to make things that are like honest and like represent like my actual self in some way and put them out there
+00:49:35 And get like the and see what see what happens, you know
+00:49:39 Like there would be no point in doing it. There would be no point in doing it with anything other than like what is really
+00:49:45 my
+00:49:46 self, you know
+00:49:48 Any like I wouldn't like I have I have no interest in like catering my content or something to be more popular because
+00:49:54 If it's not if it's not the thing that I want to make then I don't care
+00:49:57 If it's not the thing that I want to make then I don't care how what people think about it or how popular it gets because it's not
+00:50:02 Really mine if you're just gonna if you're just in it for the money might as well do a job that actually pays more than that
+00:50:08 Yeah, exactly like if you're in for the money, there's no reason really being an artist
+00:50:12 You're kind of kneecapping your your main desire right there. Yeah. Yeah, what when it when it comes to things that I want to make
+00:50:19 I think this is the reason I'm a jack-of-all-trades and I'll never be like really good at any one thing
+00:50:24 I'll just make a loads of different things because I have like ideas that you jump cut jack-of-all-trades my favorite character
+00:50:30 I'm so glad you're here jump cut jack-of-all-trades. Yes
+00:50:33 and and it's like
+00:50:36 You know, I want certain things to exist and they don't exist and I don't want to pay for them because I don't have really
+00:50:40 I don't really have money for that if I did have money even if I did have money
+00:50:43 I would feel weird paying somebody to make certain things like like art or whatever
+00:50:49 So like I've considered like writing a book because I want to I want to have like a book
+00:50:54 I just I just want it. I I've written like a little thing and I'm gonna I'm gonna make it eventually
+00:51:00 And there's like a video game. I want I want playstation 2 style graphics to become the next big thing
+00:51:05 I want to bring it back
+00:51:06 So I want to work with my brother to make a playstation 2 game just to just because I want that to exist because there isn't one
+00:51:13 There isn't one on steam that you can buy in the scooter. There is no playstation 2 game. God damn it
+00:51:18 PlayStation 2 has no games in yeah, that meme has been going on
+00:51:22 Really annoys me
+00:51:23 You know and things like that even like pornography like there's certain pornography
+00:51:27 That I I think in my head and I'm like, oh wow, that'll be cool, but it doesn't exist. Nobody draws it and it's it's annoying
+00:51:33 I feel like I gotta I gotta get better at drawing anatomy so that I can I can make that for myself just be like, oh, yeah
+00:51:39 Yeah, I did it
+00:51:41 I did it. I did it. I
+00:51:42 It was in my head and now it's on paper and I don't have to think about it anymore
+00:51:45 I could just look at it, you know, it's just all these things. I want to do everything
+00:51:49 I want to make a rock album or I want to make a rap album or I want to make everything
+00:51:53 And it just it kills me because I'm just I just don't focus on any one thing for any
+00:51:59 You know a good amount of time to make the things that are in my head because I just
+00:52:07 Yeah, I have so many comic ideas that I want to do I don't want to do comics
+00:52:10 I don't want to make a game as well
+00:52:12 But I don't know like I don't know the first thing about like programming shit
+00:52:16 I could do the arts
+00:52:17 I'm I'm lucky that I have a brother who is a programmer so I can
+00:52:21 I can have him do it. I I wanted help. I have you said you're good at programming
+00:52:27 Not uh, yeah, I'm you know, I pretty much stick to my lanes that I use at work and like I like
+00:52:33 When I was younger, I was into game design and planned on doing it
+00:52:35 But like I've I I basically just do the corporate kind of shit and do not spend my free time doing it
+00:52:41 So like I'm not really a game programmer or anything like that kind of show
+00:52:43 I I want to expect that I had I had I had a bunch of I had a bunch of champion stuff that I really wanted to do
+00:52:49 And like I'll probably still do it
+00:52:51 But like like I had I had like the next three chapters planned out and I had like a side chapter
+00:52:56 That I was gonna thinking of like maybe paying someone else to draw
+00:52:59 It's like a little side story and I thought about making like a little like a game
+00:53:02 I thought about like programming like a really simple game that related to it or something and then all it all kind of got
+00:53:09 I fucking I started the second nuzlocke and then I fucking
+00:53:12 I don't know I put I don't know
+00:53:13 I feel like my effort went into that instead and I deeply regret it and I hated and it was the biggest mistake in my life
+00:53:18 It wasn't worth it
+00:53:19 But like once I started it I had to finish it and well you're almost done
+00:53:23 And once that's done you can reassess all your priorities at your leisure and I hope you make
+00:53:28 I hope you make choices that will uh support you financially and then once you have more, you know leveraged there
+00:53:34 My find it'll be easier to do whatever you want. Yeah. Yeah. I mean, yeah, that's all. Yeah. Yeah. Yeah. It's good
+00:53:39 It's gonna be good. It's gonna be good
+00:53:40 I feel like I feel like I'm really coming to a point where I can finally just like
+00:53:45 Fuck everything else like I'm gonna have time like soon
+00:53:48 I'm gonna have the time and like the ability to like just do the shit that I want to do and it'll be fun
+00:53:53 Once once I get some stuff out of the way like some commission stuff and
+00:53:57 Fucking getting people other rewards because I need to fucking get everyone their rewards before I can feel comfortable with anything
+00:54:03 I feel like how did I even get on this fucking tangent? Never mind. It's not important. No one knows. Nobody knows. Nobody cares
+00:54:11 What were we talking about?
+00:54:12 Money I hate it. We're talking about stuff and it's so hard and I don't like how difficult it is and it's gonna take
+00:54:19 40 years before I
+00:54:21 Feel good about it. You guys were talking about all this this, uh, you know doing stuff because you want to do it
+00:54:26 Let me just put it out there that I don't give a shit about anyone's feelings
+00:54:30 The fact that artists want to make what they make could not care less about, you know, people doing what they want to do
+00:54:36 I'm only interested in your uh, and you know, like the the the productivity the productivity units that you are, uh,
+00:54:43 Putting into the human machine. That is what I'm interested. That's what I see people when I walk around
+00:54:48 I just see units of of value and some people have more some people have less
+00:54:52 You're crazy, Nate. You're fucking crazy. No. No, Ben. Yeah, Ben. I'm the one who's called the communist
+00:54:58 This is something a little communist. Here's the thing here's the thing with this
+00:55:01 I'm on Nate's side here because I I understand that his point of view is that and there's no
+00:55:06 Owners on me to give a shit about his desires as a person
+00:55:10 So if he wants me to like if he doesn't care that I'm doing what I like, right?
+00:55:15 I mean that doesn't change anything about what I'm doing. No, I'm doing what I like
+00:55:18 That's not what's crazy about it. What's what's like I'm all for not giving a shit about about other people or about what they want
+00:55:27 but
+00:55:29 Measuring measuring them and here's measuring them in utiles
+00:55:32 Like like giving them like a utility using some kind of utility calculus to like objectively determine their marriage is
+00:55:39 Nonsense, that's a meme. That's a meme. But what I'm really saying is I am not interested
+00:55:43 I like I don't agree with Ben Shapiro on a ton of stuff
+00:55:47 But one thing that I do totally agree with him on is that I am totally disinterested with how other people live their life
+00:55:52 But I want them to have the total freedom to do whatever they want as long as they contribute in some way to the whole
+00:55:58 So this this is a purely capitalistic system
+00:56:00 I'm talking about here where I want you to have the freedom to do whatever you want to do
+00:56:04 You just have to find a way to make people give a shit about it and and just in addition to that
+00:56:08 I would like it
+00:56:09 This is where like my personal thing is I would just really like it if everyone had as a priority that like
+00:56:14 Okay, I'm gonna find a way to make my way in the world
+00:56:16 But I'm going to keep in mind that my overall goal is to like also try to make things better in general in whatever way
+00:56:23 I define that as I'm gonna try to make it better and obviously there's gonna be conflicts as to what makes things better
+00:56:27 But that's what I want. That's what I want. So say say I make all my art stuff and it's like, you know
+00:56:32 It never gets super big but people like it and it's and it is people liking it
+00:56:37 It's people being feeling happy about the fact that that I they're watching or listening or reading the thing that I made
+00:56:44 That the happiness level has gone up. They've got happiness points. Is that progress? Is that like what you think is a good idea?
+00:56:50 I'll tell you exactly what usefulness art and and all that shit has there
+00:56:54 There are times when human beings can no longer do the work that makes them valuable members of of society
+00:56:59 At those times it is appropriate for them to do things like in consume art or or play video games
+00:57:05 Or which is art. I'm not making the distinction there or just like do you know things that make the relax listen to music
+00:57:10 Whatever to de-stress so they can wake up the next day and continue to be a slave to the to the human machine
+00:57:16 That's what that's what we need them to be. So there's totally a place for that. Here's here. I agree with that
+00:57:20 Okay, I just I just don't think of it like that. I just don't think I like to think in cold
+00:57:26 Mechanical terms because I don't think of it like benefiting society. I just think oh, you know what? I'm glad that people enjoy myself
+00:57:33 I'm glad I'm making a few people's lives a little better every so often
+00:57:39 It's really funny. I don't care about making anyone's life better. Like I like I don't I don't care
+00:57:45 People Ben is far more amoral than me consider
+00:57:50 No, I'm completely amoral, but I just think that
+00:57:53 I think the I think that I don't like the tone. I'm using that's all you're no here's what I say
+00:57:58 You see I admit to being completely amoral, but you claim that you have some kind of moral compass
+00:58:03 And I'm over here highest moral. I'm over here trying to dismantle it and show you that actually
+00:58:08 You're not because your moral compass doesn't actually make any sense or point anywhere
+00:58:11 Um, the right. That's what you're trying to do. That is what I'm trying to okay. It's spectacularly
+00:58:16 Yeah, by okay by saying that like people should keep in mind like the greater good
+00:58:21 You're just you're just asking people to go against human nature and it's just pointless like everyone human nature is weak
+00:58:27 Human nature can't be trusted. We have to rise above it. Everyone you can't you can't rise above human nature
+00:58:31 You just can't do it everyone by nature
+00:58:33 That's a great like acts in a way acts in a way that like maximizes their own fucking good and like their own
+00:58:40 So there's so much evidence. There's so much evidence that humans can in fact rise above human nature
+00:58:44 Take for example the founding of the united states of america. It broke away
+00:58:48 It was it was created by the enlightenment as a secular state in
+00:58:52 Direct defiance to the old aristocratic systems of europe that shit was garbage
+00:58:57 Yeah, they did it because they wanted to and nate. What does that mean?
+00:59:01 Of course, they wanted to they were reacting to things they found in just because we have elevated our morality
+00:59:05 And we're continually working all the time in philosophy to keep elevating human morality
+00:59:09 I'm not I'm not gonna work through that. I'm not gonna work through this whole fucking
+00:59:14 Thing i'm just gonna like just viewers at home just try as an extra try as a homework exercise to think about in what way
+00:59:21 In what way the creation of the united states of america could have been, you know, what's the word?
+00:59:27 Pragmatically motivated like for the Kurds creators like in what way could they have been driven?
+00:59:32 Like, you know in in in some way that that serves their own self-interest. I'll bet you could think of a few
+00:59:37 I don't throw jefferson and washington and adams under the bus
+00:59:40 It's just saying saying saying that people should work for the greater good is just it's just asking the fucking impossible
+00:59:47 Because people don't do that people people people act in accordance to maximize their own benefit
+00:59:53 And like it just so happens. Well, not it's not entirely an accident
+00:59:56 It's like I don't know just the way of things or whatever. It's a way things shake out that like
+01:00:01 Generally people acting in their own benefit will will benefit the group at large, but not only it's a group
+01:00:07 It's benefiting all the individuals. I will admit I will admit in a second that
+01:00:11 No one is not selfish every single act we do is a direct action done in order to make our own lives better
+01:00:17 I will happily admit that. Yeah, I just want people to consider the the large-scale ramifications of that
+01:00:22 when I said when I said that um
+01:00:24 Like where people like be people feeling happy about my stuff
+01:00:28 Like that that isn't like a reason that I make anything. That's just a happy little bonus like a little extra
+01:00:33 Like every time I get a comment saying man, this is really good. I really like this. I'm like, ah, cool
+01:00:38 That's nice. You know and and and I and I I do admit that I sometimes make content because I know that people will like it
+01:00:45 But not that's not ever the only reason I do it. It's never money. It's never other people
+01:00:50 It's mostly to do with the fact that me wanting it to exist and it just so happens to benefit society
+01:00:55 I don't think of it as as a like a thing that in in my head that I'm thinking all the time
+01:01:00 Like it's strange that you think about it all the time, but it's fine. It's weird. I don't I don't do art
+01:01:05 I don't do art for my own satisfaction because if no one was watching it
+01:01:08 I wouldn't do it and I don't do art for other and I don't do art for other people's benefit because I don't care if it
+01:01:13 Makes them happy. What I like. I don't know. I guess I do. I guess I do it to get their reaction or something
+01:01:18 I guess I do it because I'm interested in people's reaction to it
+01:01:22 I guess you get it like I do it because you want people to take you know to to value your opinion and I think that you're cool
+01:01:27 I also just want to say that Davoo says that he agrees with Nate on the American Revolution and also with the enlightenment the rise of science
+01:01:32 The way we swapped out right. I don't know what I'm already airing for slightly less terrible ideas like multiculturalism
+01:01:37 Sometimes me and Davoo are absolutely on the same wavelength. Anyways, go ahead. Okay. Here's here's the thing
+01:01:43 I'm not sure where I'm going with this. I'm still kind of sleepy. I'm man. It's been hours. I'm still sleepy. God damn, age wake up
+01:01:48 Come on. No, no, no. Listen. Okay. Listen. I have this I have this idea. I don't know where I'm going with this
+01:01:54 Okay, so there was this dude in his side to find out he was he was he was like super good at painting right and
+01:02:01 Hitler
+01:02:07 Yes
+01:02:09 Oh
+01:02:11 So he was he was really good at painting and he just if he just went with that instead of like trying to benefit
+01:02:18 Society because he was a patriot and he wanted to like help the German people initially
+01:02:29 So what is this lovey-dovey bullshit? Oh art will fix all the problems of the world. No, that's not that's not how it works
+01:02:36 Also is very good at painting. What is your point? There's no way he's good
+01:02:40 Nate I have a question to you about your about your mentality and okay
+01:02:44 My thing is just listening to this whole time because I haven't really been saying much is that
+01:02:48 I can understand you saying that you want people to consider and try and have some sort of motivation when they create things to
+01:02:55 for the greater good and
+01:02:57 pushing humanity forward but my question is do we as individuals even have the capacity to truly understand the
+01:03:05 the grand impact of anything we do
+01:03:07 Because like we I
+01:03:09 Who knows what's going to happen with our content, you know
+01:03:12 Even like 10 years after we're dead or 10 years down the road from now
+01:03:15 Like we don't know how it's going to go out there and proliferate into the world
+01:03:19 So we can't really see the far-reaching impacts of anything we do. So
+01:03:24 Is it
+01:03:25 Is it I think outside the scope of human perception to understand the grand impact of anything that we do has in the world and beyond that
+01:03:33 I think it's it's it's um
+01:03:36 It's it's something that the the fact that Nate is the one that's saying this and he's not an artist
+01:03:42 Means he has like the time to think about that like artists. I mean, I'm not a fucking like drawing artist. That's true
+01:03:47 I would consider my what I what I what I mean by that is that I think I think for us
+01:03:53 Um thinking about the greater good, you know, it's not worth thinking about it's just an extra taxing thing
+01:03:59 Like oh, how will this benefit humanity you just you just have to let it happen if it does happen to benefit humanity
+01:04:05 That's great. Whatever
+01:04:10 Sorry, I would rather let I would rather let Nate think about that and just just just you know
+01:04:15 Think about that in in the big grand scale and just let me do my little dinky thing in my in my own little head
+01:04:21 Just just going along doing whatever I'm doing and if it just so happens to benefit humanity, that's good
+01:04:26 I don't want to have to think about what I'm doing. You can't think about that
+01:04:29 You can't think about the greater good with in everything you do because you you never know what the fucking larger
+01:04:35 Amifications are going to be you can have some idea, but you'll never really know
+01:04:39 It's totally fine. There's no objective standard of what to work for and fucking it's just not even fucking human nature
+01:04:45 Like you're if you're a human being you're going to be doing what you think is going to fucking just get you the best outcome
+01:04:51 And like yeah for for a lot of people
+01:04:53 Yeah, benefiting the whole is going to benefit the individual
+01:04:57 But in that case
+01:04:58 They're they're going to do what benefits the whole of humanity just naturally because it also benefits them like okay
+01:05:05 That's just it's it's all you can do is just kind of go with the flow and follow your fucking human nature
+01:05:10 And most of the time just the way that just the way that it happens to shake out
+01:05:14 Most of the time if you if you do that most people what they do will benefit the the larger fucking society
+01:05:20 Usually and that's the best that's the best we can hope for
+01:05:24 I would say I would say that
+01:05:25 Largely largely it's a pipe dream to imagine that everybody could be thinking about the greater good all the time
+01:05:31 Like if hitler was thinking about the greater good
+01:05:33 Maybe he wouldn't have done what he did like maybe he would have like
+01:05:37 You know put german resources to to fixing the economy without having to kill a bunch of people
+01:05:42 In his mind he was saying the greater good
+01:05:45 Well, I mean yeah, but like the the greater good for like the entirety of humanity like like you can't imagine
+01:05:52 I can't I can't imagine a world where people
+01:05:54 Like all like the majority of people will be working towards the goal of that
+01:05:58 You just have to have these few people because like most people they just they're just dumb
+01:06:03 We're we're apes we you know, it's pessimistic to say and to think that
+01:06:08 Like everybody will not be able to be on the same page of humanity, but I think sometimes you just have to concede that not
+01:06:16 You know expecting other people to take on your worldview like that
+01:06:20 Um and use it and think about it
+01:06:24 Hang on hang on no, I am not I'm not expecting people to adopt my same world
+01:06:29 I'm fucking sick of this subject. Fuck you Nate. This sucks. I hate this. How is this my fault?
+01:06:34 I just said my opinion and everyone's freaking out about it's not my responsibility. It's funny. It's funny. It's a funny meme
+01:06:40 I'm over it. I just want to say all I want to say is just that ben we clearly and I don't think this is totally fine
+01:06:46 We clearly have a different view. Yeah of like the capabilities of human beings and all our differences stem from basically the fact that
+01:06:52 You know, I sort of think that people can aspire to higher things or like can perceive it and you don't and I believe
+01:06:58 There is a level above talented above loyal that a nigger can aspire to
+01:07:05 That is a great quote from negi huga. Okay, uh,
+01:07:11 I wanted to say that for the most part
+01:07:13 I think most of humanity the best they can do is just not get in each other's way
+01:07:17 But there are you know, several people that can actually greatly benefit humanity
+01:07:22 And you have to sometimes realize which person you are and do that
+01:07:27 I'm one of the people that I don't want to
+01:07:30 Kindre other people and I'm just gonna do my own thing in my own little corner
+01:07:34 Well, that's exactly what I would hope for if you think that you're an obstacle get the fuck out of the way
+01:07:39 That's perfect. That's exactly right
+01:07:41 I have like an obstacle
+01:07:44 Hey, mage called herself an obstacle not man. She's she's our old ball and chain. She's the old ball and chain
+01:07:51 Of the whole pcb. Excuse me. I identify as purple
+01:07:56 Purple purple ball and chain
+01:07:59 Yeah, purple isn't an object purple is a concept. Yes, exactly. I am a concept. Oh, okay a wavelength. She's a wavelength
+01:08:05 Yeah, I have a cool cool ending statement for the whole podcast
+01:08:11 Before if we get if if nobody has
+01:08:13 Yeah, I think we're wrapping up in those part. Are we we've already been going for like an hour
+01:08:17 Well, we need to do questions for a while and you know, we can make statements, but yeah
+01:08:21 Yeah, I have a good ending statement. I would say that as as we are in the pcp
+01:08:26 Um
+01:08:27 In general we are more passionate than we are money-grubbing. Yeah when it comes to to our art. Yeah, but
+01:08:33 Um, we are all very much procrastinators in making that art. That's true. That's true
+01:08:39 We're always just sort of fucking around
+01:08:42 Yeah, and that that's the that's the story of the pcp the procrastinators. That's our origin
+01:08:48 Yeah
+01:08:49 Fade out. Yeah fade out credits roll. Well fade out and then fade back in because we gotta do questions. Yeah, that's right
+01:08:55 Okay, let's uh, all right. That feels pretty good. Let's let's just pull these questions here
+01:08:59 Uh, let's see what we got I that came on so suddenly I didn't have a time to actually look at them ahead of time
+01:09:04 Like I normally like to do so. Okay. Let's see what we got
+01:09:07 Okay, here's a filler question while I look for a better one at jen is maku domaro this this guy's always had some questions
+01:09:15 Um, that guy that guy helps me with pokemon. Shit. That guy gave me. Yeah, that guy gave me a that guy gave me a
+01:09:22 shiny a shiny rallet
+01:09:25 Yeah, he gave me a score for my birthday. He gave me a shiny rallet and a name
+01:09:29 Guys my birthday is fiftieth of may but this is probably gonna come out after fiftieth of may give me
+01:09:34 That's cinco de mal you were born on mexico day
+01:09:38 It's sometimes gold goes along with like the fiennion mother's day because mother's day and the fiennion is the first sunday on may
+01:09:44 So sometimes we've all done that thing and mage mother of the pcp
+01:09:49 Okay, all right. I see what's going on here. My birthday is on easter sometimes
+01:09:54 Oh, yeah, uh, ben uh, home. Europe's home a zombie man, right? Just like jesus understood basically
+01:10:00 Okay, so, uh, jen is maku tomorrow asks, uh, what would you guys like the next from software game to be?
+01:10:06 They're all done with dark souls forever pirate game pirate game pirate game with dark souls physics
+01:10:10 I want I want but dark souls but pirates. I want to bet the best. Well, I want it. I want it to be like the
+01:10:17 I just want it to be dark souls but on pirate ships. I just want pirate ships. I there's never been a good pirate game
+01:10:22 They've all been sort of okay, but never really good. They would be the best people to make a pirate game
+01:10:27 I've always held this opinion. I love uh, yeah, they could they could they're great. They can do mech games
+01:10:33 They can do you know medieval games
+01:10:35 I don't see the connection to like yes, they make good games
+01:10:38 But why specifically are they the best ones to make a pirate game?
+01:10:40 Is it just because you like pirates and you like from software?
+01:10:43 So obviously they're their games going to be the best. They made they made a great
+01:10:47 If they made bloodborne if they made bloodborne but with pirates and pirate ships like moving ones then
+01:10:52 You know, well, I'm just saying I basically like any any genre like with the dark souls formula applied to it
+01:10:58 With the level of craft they put in I would pretty much instantly love because I love playing this game so much
+01:11:02 I really want to make demon souls last night. I really want them to make kingsfield 4
+01:11:06 Or whatever you played any of the kingsfield though. Yeah, I played one on digi bros that is like months late and hasn't come out yet
+01:11:12 I think oh and boy. I think it was kingsfield 1 or 2. It fucking sucked
+01:11:17 It was so bad
+01:11:20 Well, here's here's another question at monkey away our frequent commenter says uh hitler used meth. Why don't you use meth?
+01:11:28 Well, you know relevant solid. I mean just look at the benefits. Just look at the benefits
+01:11:34 You got to you know, unite the german people. I know I know why it's because I just I don't have the courage
+01:11:41 I don't have the courage that hitler had
+01:11:43 I I agree. I feel like that with a lot of hard drugs and just drugs in general
+01:11:47 Your cowards your cowards don't even don't even do meth like hitler
+01:11:53 You're goddamn right. I have a joke for this bit. Yes
+01:11:58 No, I don't
+01:12:00 Well, the joke was you the joke was you I guess shout out to hitler for being a special member of this podcast
+01:12:07 Yeah, shout out to hitler
+01:12:09 Ha
+01:12:12 Another guy at
+01:12:14 Ladder and at the ladder analyst who's a guy I see commenting on just asked like your favorite adolf hitler quote
+01:12:19 What's all the hitler questions?
+01:12:21 I guess he is a popular guy monkey jones
+01:12:24 Well, no, well, maybe it was because his birthday was only nine days before the recording of this podcast
+01:12:28 Really? That's true. Yeah, April 20th shares his birthday with christian weston chandler as a matter of fact
+01:12:34 Everyone was born on weed day. Yeah
+01:12:38 That's that's great. Oh, and divu divu says that hitler's death day is tomorrow
+01:12:42 Really? Oh, wow. What a celebration. Well, he's not actually dead. He's not actually dead. This was not intentional
+01:12:48 And I did not know all the days
+01:12:51 Also divu's birthday weird. I'm just saying mage. You were you were born in europe, which is basically like being born in germany
+01:12:58 It's basically like being hitler. So i'm just saying it's very similar. It's very simple
+01:13:03 Hey, here's a here's a super relevant question for today's episode. Uh at tpcrasnators
+01:13:09 Uh, what's the name? Oh at jamie step 47 says ever considered getting a sponsor for the podcast
+01:13:14 What is that? I'd certainly consider it. What would that even mean?
+01:13:17 Like what would that be about us? I would just have like a solid like 10 minutes of hitler references and then someone asked about a sponsor
+01:13:22 Oh, our sponsor for today's episode mind comp
+01:13:26 Like in the middle of the podcast we take a minute and plug harry's razors or whatever
+01:13:30 Yeah, that'd probably be it. I I'd do it man. I'd do it if the product was good. I would do it for the money
+01:13:36 Yeah, I would do it for money. Yeah, I would do it for money. I don't care
+01:13:40 Like I don't think we're losing a lot of integrity by doing that on this particular show
+01:13:43 You know like like splicing that into there's none to lose
+01:13:46 The pcb doesn't have much integrity to give up in the first exactly
+01:13:50 Something like a like a I don't know like a fancily edited anime analysis video for example
+01:13:55 Like there's not I don't see a place for like an ad in that but here
+01:13:58 Yeah, I don't see the problem. I'd do it in a heartbeat if there was a good a good offer
+01:14:02 Thing that I really like that I haven't bought for myself in a while. There's like these this little box and it has like yes
+01:14:09 It's food
+01:14:11 But it's like healthy food, but it's also very tasty food and it's and it comes in the box
+01:14:15 And I forget what it's called. So I guess that's good because you know, I'll be I'll be kid cuisine
+01:14:20 And no, no, no, it's like it's a very cute short name any here
+01:14:23 Kid cuisine
+01:14:26 It's some sort of insert word box. Uh, I don't know my nerd box. There we go
+01:14:33 Get a nerd food delivered straight to your mouth or something like that. I know bento box. Yeah. No, not bento. I'm not
+01:14:43 You were just saying you wanted you wanted the anime star
+01:14:47 Yeah, because that would be cool anyhow
+01:14:50 I'd like a box called get bento
+01:14:54 I
+01:14:55 Agreed. Oh, that would be good. Yes. It's just a asian bart simpson on the cover
+01:15:02 Just just like uh, mr. Sparkle dr. Sparkle. Yeah. Yeah
+01:15:05 Mr. Sparkle
+01:15:08 Yeah, simpson. Yeah, I would be I would be fine with like, you know being sponsored by dad because I freaking love the thing
+01:15:14 And I love the food they have because it's healthy and it's tasty. We should we should email every every corporation
+01:15:20 It's a product you believe in. Yes, right
+01:15:23 Uh, yeah, maybe we should look into that. Uh, okay
+01:15:24 Here's a question that might be my favorite question
+01:15:27 We've ever gotten and I know this is just because it pertains to my interest. You guys might not agree
+01:15:31 But uh at gregory barry 2 says, uh, at what point do you feel analyzing an artwork crosses the line into conspiracy slash headcanon territory?
+01:15:42 immediately
+01:15:47 I I mean uh that uh to me that that feels like kind of like ben's pornography test
+01:15:51 We're like it's hard. You like you just have to use common sense
+01:15:54 You know, there's no like definition of when you're going too far
+01:15:56 But you really just have at some point you need to step back and say like this is not what makes the pornography test up
+01:16:02 By the way, that's not my invention. Don't be so humble ben. Don't be so well. I won't I would say
+01:16:08 I would say it's probably if you ever have to even like
+01:16:12 Tangentially reference anything outside that that's not in the text directly. You're probably crossing a line
+01:16:17 Says the man who analyzed big horse at great detail
+01:16:20 Well
+01:16:21 That was total bullshit. I'm yeah, exactly. But it was the best thing ever. I'm not saying it loses value
+01:16:27 Yeah, it goes from analysis to something else. That's pretty good
+01:16:31 Like that's a pretty good guideline like if if you're referring if you're referring to something else
+01:16:36 Like to inform your reading of the text something that is like not actually suggested in the text at all
+01:16:41 then yeah, you're probably reaching and
+01:16:44 Like unless you have really good reason like like unless like you knew that like the author was like friends with some
+01:16:50 Other guy who wrote something and maybe they were tight or something
+01:16:53 Unless you can't point to the thing itself and show me
+01:16:57 I think yeah, I think yeah, I think it's fine as I think it's fine as long as at the end you say well, it's just a theory
+01:17:14 Evangelion yeah that one and because they thought it was cool and whatnot and then
+01:17:20 Trying to find meaning and
+01:17:23 Reasons and whatever but like yeah, it was just because people thought like the creator side. It was cool
+01:17:28 I would say that it's totally fine to have a yeah go ahead. You can go first
+01:17:32 That's going into like like uh, are you reading the the the the thing right?
+01:17:37 And I think it's it's fun to analyze like oh, what does this mean like thinking about it?
+01:17:41 If it's in the thing you can you can ponder it. I don't mind people pondering something. Here's here's the thing. Yeah, okay
+01:17:47 No, no you go. Okay. I was just gonna say that I am totally fine with people coming up with whatever cockamamie schemes
+01:17:52 They want you know like like some of that game theory shit about like nests being sands like like you can go nuts
+01:17:58 Go ahead and do it, but like I feel like the crucial step that is missing ben. Stop vaping stop fucking vaping god damn it
+01:18:09 He's vaping for the passion man. You gotta let him do it bad
+01:18:13 Yeah, yeah, you think I do you think you think I do this
+01:18:18 For the money
+01:18:21 It's for the craft it's for the craft for the love of the craft the artisan my artisan my artisan juice
+01:18:26 Artisan vapes artisan juice
+01:18:28 That I steeped myself in a still in in my in my granny's basement
+01:18:33 Oh god, okay, but here's what I was gonna say that what I feel okay
+01:18:37 So go ahead and come with ever crazy schemes you want
+01:18:39 But I feel like the step that people forget so often is like after you've presented all this stuff
+01:18:44 You have to do take the final step and say like okay
+01:18:47 Now that we've brought all this information up does this actually seem reasonable in the slightest if the answer is no
+01:18:54 You then say okay into the trash it goes. We were reaching on all of that
+01:18:57 Please forget it like just you can keep in mind, but it was not true. So just move on it's not do not keep this here
+01:19:03 When people reach it's when they reach like that and then pretend that they're not reaching
+01:19:08 When they obviously are sure and it's even worse when a video like that like gets really big
+01:19:13 And then everyone just starts quoting it as gospel when it's like
+01:19:18 Anytime somebody's headcanon becomes popular
+01:19:21 Um, that's when people start getting angry that the headcanon is real is not real
+01:19:25 You know what that's the only time it's really bad
+01:19:29 Yeah, major that whole I can relate to this so bad because the whole like uh, hey meditons ghost was a female shit
+01:19:36 It's not it was never stated. It was never proven
+01:19:39 But someone headcanon it it became popular people are now
+01:19:43 Pronouncing it as the gospel and I have to deal with this cannon for years
+01:19:48 I have to deal with this on my on my
+01:19:50 Most popular video that has almost one million views and people just chime in it is like oh
+01:19:55 The mediton ghost was the female so is he male or female and I have to deal with this every single day
+01:20:01 Yeah, mediton is david bow
+01:20:04 Okay, but you know what you know what?
+01:20:05 I don't blame people sometimes because like things like solar and like people thought he was the son of guin
+01:20:11 Like there there was reasons to come up with that conclusion and the thing is like dark souls is deliberately vague
+01:20:16 So like I I totally excuse stuff like that like they were just thinking about that and then like when when dark souls 3 comes out
+01:20:22 And just proves like no incorrect like that was never the case. Yeah, well, it's always there's only a problem when
+01:20:28 That's fine. I love heads too
+01:20:30 Yeah, yeah, but that's the thing a lot of people they get a headcanon and then they get upset instead of surprise when it's not real
+01:20:37 Like being a woman like the thing about crocodile and one piece being a woman, but yeah, yeah
+01:20:41 Come on people. Come on. There's no evidence at all
+01:20:43 Like if it ever comes like saying if say hey, are you were you ever born a woman?
+01:20:47 Like for some reason this character is talking about that and he says actually no
+01:20:51 I was born a man as you can see I'm still a man and then it's like everyone's going. Oh
+01:20:56 Oh
+01:20:57 Okay, like I it'll be okay. It'll be okay if they just say oh, well, I guess that's not real
+01:21:02 But some people will get mad and they'll be like fuck this
+01:21:05 Show
+01:21:09 Drop like when it comes to like reading into like like theory crafting like I think you can
+01:21:15 I think you can read whatever like meaning into the work you want like you can like you can read a thing and
+01:21:21 And look at like I don't you you can you can take whatever lesson from it that you want
+01:21:25 Or like you can you can look at it and be like uh, like when the when the characters do such and such
+01:21:30 They you know, they're they're that's an embody like they're doing what they're doing there is like
+01:21:34 Ah, it's typified by the Dunning Kruger effect or something or you can but then like
+01:21:39 You can't it's not fair to do you like you do that with your own interpretation of the work
+01:21:43 But it crosses the line when you read that into like the author's intentions
+01:21:47 And like
+01:21:50 Intention versus interpretation
+01:21:52 Yeah, it's not you you can't you can't just you can't like put shit on the author if you don't have like real good thing
+01:21:58 Like real like real solid like textual or like or like like word of god reasons to think them. It's not fair
+01:22:05 The the most pointless arguments people can have is like
+01:22:09 Which canon is the correct one? It's like my head canon is the correct one. No, my head canon is the correct one
+01:22:14 Well, that's just pure masturbation guys. Did you know that everyone in undertale is a black gay trans woman?
+01:22:20 I read human tana dude. I'm a big fan of human tail actually
+01:22:24 Wait, is that like an actual comic? I thought it was a tumblr. It was a tumblr. Yeah
+01:22:30 What else would it be? Let's be honest when when you uh
+01:22:35 Yeah, like when like when so like when someone like game theory comes out with like uh
+01:22:40 Is sands and papyrus you see you see sands and papyrus are very
+01:22:46 Similar to like the theory of the two halves of the brain to the left brain and the right brain like you can like
+01:22:54 You can interpret that if that way you you can look at that and be like
+01:22:58 Huh the dichotomy of sands and papyrus kind of reminds me of the left brain right brain dichotomy like that's fine
+01:23:05 But and I and I and I don't even think that that game theory is a particularly bad offender at this
+01:23:10 Like there are much worse people about this, but then if you go on to be like
+01:23:14 Like that was the point then you're retarded like then you're retarded like unless there's textual unless there's textual evidence
+01:23:22 Unless unless there's textual or metatextual evidence linking
+01:23:26 Like somehow suggesting that some kind of connection with the brain
+01:23:29 You're just stupid if you think if you then go on to be like oh, I see this is what it was meant to be
+01:23:34 Like I actually I actually quite like game theory because I like to see how he's connecting things
+01:23:40 Yeah, I don't actually mind game theory that much. Yeah, I love I love a man perform mental gymnastics for you know
+01:23:46 Like 20 minutes at a time. I've never watched game theory and really thought that they were trying I was being sarcastic by the way
+01:23:53 I actually really like they're one about the simpsons about finding spring field. It's actually really good
+01:23:56 And I like it that that one is good. Yeah, sure. So we're good
+01:24:00 I do generally like a game theory or two that the mental gymnastics is fun
+01:24:04 Like just to see how far you can connect the dots if you felt like it
+01:24:08 But how am I with fucking mental pirouettes? Can I do off this goddamn fucking it's it's it's an exit
+01:24:13 It's a brain exercise. It's like yeah, all those things. Yeah, I like but then I like it out there
+01:24:18 I like an out there interpretation of things. I think that's valuable. Yeah
+01:24:22 Yeah, I never like accepted them as like true for whatever. It's really fun to see how he can you know
+01:24:27 All I'm saying is watching games theories like watching ancient aliens
+01:24:32 Yeah, all I'm saying is people just just keep that final step where you say, okay, we heard all this
+01:24:37 Is this reasonable? If not, you know, treat it just a theory. Yeah, treat it just a theory
+01:24:43 Thank you, uh, Gregory Barry for that incredibly juicy question
+01:24:46 I'm gonna put that down as my favorite question. We've ever gotten everyone
+01:24:49 That's the standard of a question that you should be asking. I'm here. Oh, let's clap it
+01:24:54 What was the question how what was the phrasing of it?
+01:24:56 The the phrasing was uh by at gregory berry 2 at what point do you feel analyzing and artwork crosses the line into conspiracy slash headcanon territory?
+01:25:05 Real solid
+01:25:07 But we yeah, yeah
+01:25:10 Uh, okay. Let's yeah, I got like two more little ones. Uh at pond pondi dator at pondi dator asks
+01:25:17 I have literally no friends or aspirations. What do I do here?
+01:25:21 Don't recommend suicide unless you have a simple and easy method to suggest
+01:25:25 make some
+01:25:27 Yeah, make some friends or some aspirations. You gotta have that's really easy to say though
+01:25:32 Okay, well, actually surely you can do one or the other
+01:25:36 I think aspire to make a friend. There you go. We solved one of the problems right there
+01:25:40 You can't just say that like if he's actually
+01:25:43 Like seriously though, I think something to do if you don't have aspirations is to kind of just start like consuming a lot of media
+01:25:50 And then kind of start
+01:25:52 I think he probably does that looking looking for ins maybe but like doing it in a way that you're kind of like looking
+01:25:57 For something to kind of resonate with you beyond the fact of just like i'm sitting here passively consuming something
+01:26:02 I think that's like that idea. Yeah, most of my ideas come from the desire to emulate something
+01:26:06 I find really impressive although that is a bit skewed towards the idea that this person should have artistic aspirations
+01:26:12 Maybe he could start reading. Well, I mean, I mean, you know
+01:26:15 Because like if you watch if you watch like an anime or something about basketball
+01:26:18 You're just like, man, I want to go fucking shoot some hoops. Like you can do that too basket. Yeah. Yeah, I guess
+01:26:23 I think I think the the the thing you should do if you're in a situation like that
+01:26:27 You don't know if you have any
+01:26:29 Any because I felt like this if you don't know that you have any aspirations any goals any desires to have a skill
+01:26:35 In any, you know way
+01:26:37 Just think of about what you already do and what you enjoy doing and if you know if it's you know something
+01:26:44 You know, you you probably have one thing that you think well, I could never make a career of that
+01:26:48 But maybe you could just look into it. I was something like eating
+01:26:52 If it's something like I really like
+01:26:54 Um eating then maybe I don't know become a chef
+01:26:58 Something something just just choose anything that you like already and then work with start doing something you like
+01:27:05 Yeah, yeah, even if you think oh, I'm not really good at this or whatever. Uh, don't let that you know
+01:27:12 Be
+01:27:15 Hold on words. Just good. Yeah. Yeah. Don't don't don't don't let that don't just try to say is don't let your memes be dreams
+01:27:21 Get out there and live them. Yeah
+01:27:23 Don't let the lack of quality if you might think, you know, you lack of quality discourage you because like your lack of quality
+01:27:32 Because honestly a lot of people
+01:27:34 Especially artists like to be down on themselves thinking. Oh, they're not good enough for whatever they're doing
+01:27:39 And the feeling of not being good enough is probably gonna haunt you and a lot of other people myself included probably until
+01:27:46 The days end for me. So
+01:27:49 I don't think you'll ever reach the point
+01:27:51 At least a lot of people probably will never reach the point where they're satisfied with themselves and their quality of content
+01:27:57 No, but it's the journey. Yeah, it's the journey. That's right. That's right seeing yourself improve over time
+01:28:02 Sometimes like oh, hey taking like a drawing from two years ago and comparing to a current drawing
+01:28:07 Oh, like, hey, I never noticed how much I've improved. That's kind of very satisfying
+01:28:12 And like I will say about
+01:28:14 About like watching yourself improve. Don't think about that. Don't don't think consciously
+01:28:19 Oh, if I do stuff, I'll improve because then you'll you'll you'll you'll see like one week ago
+01:28:24 And then you'll find no improvement and you'll feel like nothing is changing and then you'll get
+01:28:29 Just just do what you'll do. Yeah, do whatever you enjoy doing and just do it over and over again
+01:28:35 And then in a couple years just see what's gonna happen because something will probably happen
+01:28:39 Whatever you whatever you feel like doing whatever you want to do take just take it one like mini projects at a time
+01:28:44 Just set yourself like one little goal like I'm gonna draw this really small
+01:28:48 I'm gonna I'm gonna draw this thing or I'm gonna sing this thing or something and then just do don't worry about anything else
+01:28:54 Just do whatever it takes to make it happen. Just just do it make it happen be like, okay. This is how that came out
+01:29:00 Um, let me now. Let me try this this next thing. Yeah, just just focus just focus on the task at hand
+01:29:05 Yeah, and if it's like some sort of like little something that you put on like on the internet
+01:29:10 And like if no one pays attention to it at first or like, you know, you get some discouraging comments
+01:29:15 Don't pay mine to those everyone who starts
+01:29:19 Like at the beginning has to deal with it
+01:29:22 I would say I would say just like just set yourself set yourself
+01:29:25 Just set yourself a goal just just set yourself some little goal
+01:29:28 Just think of something you can do some attainable goal that you think that you're confident you can reach and then
+01:29:34 Do it for yourself do it because you want to and yeah, I would suggest even if you're starting at something
+01:29:39 And it is something that's like post-able online. I would say like don't put it online like immediately
+01:29:44 I think if you just kind of keep it to yourself for a while like and let your it was an interesting
+01:29:49 Kind of metaphor that someone once said that like
+01:29:51 Like your creativity when it's young is like kind of like a person when they're young when they're a baby
+01:29:55 They have like the fontanella in their head and it's soft and like if it gets hurt it can like kill you
+01:29:59 Your creativity is the same way if someone fucking like shoots you down right when you're starting and you're still kind of soft
+01:30:05 It could destroy all of your like
+01:30:07 Motivation to keep going
+01:30:08 But if you just like keep it to yourself and just kind of like take pride in your little steps forward over and over again
+01:30:13 In like six months later
+01:30:14 Then you start to post things online as someone comes by and is like oh, it's gay
+01:30:17 It's like, you know, you've been doing it enough that you've had enough confidence in yourself. It's like, I don't fucking care
+01:30:21 You're gay and if you're just and if you're just starting out don't compare to like pros because there's no point
+01:30:26 All right, just just compare to yourself just only and compete with yourself
+01:30:30 and like
+01:30:31 Dad, I want to say I want to say because we've only been talking about skills the the friend thing
+01:30:36 I will
+01:30:41 It's really it's really important to know to know like if you if you find skills too
+01:30:46 Troublesome and you're like, I don't know I just want to I just want to have a friend like if you have one or the other
+01:30:51 Here's how you make a friend you either if you if you go to school
+01:30:54 You just act like a complete retard and hope somebody notices like go out
+01:30:59 Go out expecting to be a laughing stock and nobody likes you because that's how you already feel
+01:31:04 You already feel that nobody likes you. So if you just do some loud shit
+01:31:08 He hates himself. Good. It's only up from here
+01:31:11 Yeah, but you have to you have to make your help yourself be heard because if you're just like a quiet person
+01:31:15 You don't talk to anyone don't have any friends
+01:31:17 People will just think of you as the person who doesn't want to talk to anybody
+01:31:21 If you go out into the world and you like
+01:31:25 Display a willingness
+01:31:27 To make a fool of yourself and not give a shit
+01:31:30 Even if you do in fact make a fool of yourself like you still look like the cool guy
+01:31:34 Because because you were willing to do it like making making a fool of yourself is no big deal
+01:31:39 But like not giving a shit about making a fool of yourself is is is is the big deal and everyone likes that and also
+01:31:45 Also for people who are not in school if you're if you're like not in school
+01:31:49 You're you're just living at home. You don't have a job. You don't know what you're doing with your life
+01:31:52 You don't know you don't know any people you don't you can't just hang out in a bar or whatever
+01:31:56 Uh get a job like go just get a menial job and you will meet a coworker and that will be your friend
+01:32:02 You you'll you'll just work through it like that. Oh wait, that's always there's always smaller steps to go to to find
+01:32:07 Let me let me get a job is actually great advice. I was gonna say nothing else going on
+01:32:12 What I was going to suggest is just like I'm going to assume that you are a uh an able-bodied
+01:32:17 You know like like high school or college age person
+01:32:20 And and that you're in the situation like that and you have the ability to do these things
+01:32:23 So that being the case I would say yeah
+01:32:25 Like find first of all you got to find an interest and then just go find the group around that is involved in that interest
+01:32:32 Like a club or something
+01:32:32 But really the essence here is to put yourself in situations
+01:32:35 Where people cannot ignore you where you where you are imposing on people
+01:32:40 So they have to deal with you because like it or not those people will become your friends
+01:32:44 And they leave them no choice in the matters leave them no choice
+01:32:47 I just want to input a caution like don't get too emotionally invested in the first person you make friends with
+01:32:54 And like don't get too attached as well
+01:32:56 Like even if it's a friend online, especially if it's a friend online don't get too attached with them initially
+01:33:01 Even if you're hitting off very well because
+01:33:04 Some people are crap and sometimes some people might feel
+01:33:08 Like like you're smothering them and they might start, you know backing away from you. So
+01:33:13 We should probably have like a whole podcast of friends. Like how to make friends. That's a good one. That's a great idea
+01:33:19 Yeah, there's a lot there's a lot to unpack there may just may just really write about that because like you can
+01:33:24 You got to get like a starter friend sometimes like a ben saint and work your way up to like the best guy ever
+01:33:34 Don't worry ben there is so sometimes you can train your ben saints to be better sometimes you can elevate them too
+01:33:39 sometimes
+01:33:42 That's such a sick burn. I can't even
+01:33:47 Okay, well, I'm not even I'm not even mad. I'm just like
+01:33:50 I just want to I just want to close out that question if we're done with that
+01:33:53 Okay, that because he said like, you know, I don't know if I'm ever gonna
+01:33:56 You know have a passion or have friends, um, especially with passion
+01:33:59 But also with friends too, uh, if if it's bothering you that you don't have it
+01:34:03 That means that you can because if you had no passion, you wouldn't be worried about it
+01:34:06 Yeah, so there is there is a passion there waiting to be unlocked. You just haven't stumbled upon it yet
+01:34:12 Also like movies anime and whatever media like to romanticize the whole passion thing
+01:34:17 Like love is never like how you know
+01:34:20 The movies describe it and same with like friendships and passions like you don't have to be super into it
+01:34:25 It doesn't have to consume your whole life and you don't have to tear yourself over it
+01:34:30 Like if you're just like, you know happy with what what little you have
+01:34:34 That's fine. Don't don't stress yourself like for not caring more or wanting to do more or whatever
+01:34:40 Do it in your own pace
+01:34:42 And and very very last thing on this subject. I just wanted to say that I have a last thing as well
+01:34:47 Okay, I'll say my first last thing you can say your last last thing
+01:34:49 Uh, I was just gonna say keep in mind you're I I'm getting I would guess that you're fairly young
+01:34:54 Or at the very least like you haven't really established yourself in the world yet
+01:34:58 Like the the confidence to you know go out and do things that comes with just like
+01:35:02 Doing like having achieved things in your life
+01:35:05 Uh really makes the rest of this a lot easier like the rest kind of just falls into place
+01:35:08 So I would emphasize achieving some goals like find out what you want to do and work towards that
+01:35:13 And even just the act of working towards it will give you inherent confidence to like just get better all this whole life
+01:35:19 Shit, you'll be better off right and the last thing I want to say is that if you if you do actually want to kill yourself
+01:35:24 Here's a here's a quick
+01:35:27 No, no, no, no
+01:35:29 Bring that up. Well, yeah, he's like don't recommend suicide unless you have a simple and easy message
+01:35:34 Here's the easy way to do it right get all the savings you have
+01:35:38 And then buy a one uh one uh one way plane ticket to a third world country a random third world country
+01:35:42 And then just uh exist and if and if you're okay if you can if you can survive then
+01:35:48 You deserve to to live and then you can do cool things and you'll be like real cool
+01:35:52 Uh, that's a cool idea because like if you're about to kill yourself
+01:35:55 Like just Jesse was saying this the other day instead just start a new life somewhere else and see how it goes
+01:36:00 Using like all your money because like then you're not dead. You get to try again at the very least might work out
+01:36:04 I've literally I literally
+01:36:07 I I did the I went to google earth and I did uh show me a random place and I clicked on it
+01:36:12 I was like, yeah, I could go there. I guess because I was feeling real down at the time
+01:36:16 I was thinking I could I could just buy a plane ticket there. I have the money
+01:36:19 But then I kept spinning it and then it was like
+01:36:22 There's too many
+01:36:25 And now i'm looking at that too many to choose and beam in my room real enticingly. That's uh, I don't have any beams in my house
+01:36:31 That's why I'm
+01:36:35 Oh, thank god for the new code standards. No no exposed beams
+01:36:39 Uh, okay. Well, let's go to our last question here by at mr. No name 2001
+01:36:44 Asks, what's the worst thing any of you have ever done? The answer is this podcast
+01:36:50 That's for a listen everybody
+01:36:52 The answer the answer is um
+01:36:54 The answer is my little pony analysis and if you want to hear more of my my thoughts on that go listen
+01:37:00 Go listen to the latest fucking uh rowdy fuckers cop killers where we dive deep
+01:37:04 We dive deep into our innermost feelings on that subject. I actually have a story. I want to say I think that's the worst thing
+01:37:10 I was like six or seven years old and there was this girl and she had a lot of like
+01:37:15 Little miniature animal things and I was really big into those little miniature animal things
+01:37:21 And like she had like I think I saw like all of them and they were really cute
+01:37:27 But um one day I was walking around and I saw it was dropped like somewhere on the street
+01:37:31 And I knew it was hers because no one else had like this little zebra one
+01:37:35 And I picked it up and I was like
+01:37:38 You know what if you're not going to take care of it. I might as well keep it and I never gave it back
+01:37:43 Give it to a good home. Yeah. Hey, hopefully you took care of it. I I mean that's basically what ash did with charmander
+01:37:52 That's true. Hey, okay. You know what I've got one since this reaction down
+01:37:54 This is I think this is actually the the evilest thing I've ever done one time when me and ben were kids
+01:37:59 We were just kind of like lying on the couch sort of like parallel to each other and then just for absolutely no reason
+01:38:04 I just heel dropped ben in the stomach for no reason. I just thought it would be funny
+01:38:09 Really funny
+01:38:15 It was very funny actually no, I was terrified because I really felt my slip myself slip into sociopathy for a second there
+01:38:22 I really just lost all all you know, like companionship with humankind and just decided to hurt someone for fun
+01:38:28 No, not okay. Don't don't do it. Very. I'm sorry ben
+01:38:34 Yes, I'm not notice. I'm not forgiven notice. I'm not forgiven. No
+01:38:39 We'll we'll we'll see about that. I'm gonna hold that one over you for a little longer
+01:38:44 Do you remember that ben? Do you actually remember that? I'm just curious not like I remember
+01:38:48 I think I remember like the day that it happened. I don't really remember like it was that traumatic it happening
+01:38:54 I because it like I didn't see it coming. You know, yeah for no reason. It was yeah
+01:38:59 Yeah, it was just like a sudden like oh god. I am in so much pain and I can't breathe
+01:39:04 I was such a bad ass back then
+01:39:08 Go back. I have to go back. Yeah
+01:39:11 to those days
+01:39:12 Yeah, I've always stretched this for almost two hours. Oh, all right. Hang on. I I have a I have the worst thing
+01:39:18 I ever did. Okay. It's a pretty big one
+01:39:21 The when I was a little boy and then the school cafeteria
+01:39:24 um
+01:39:25 You have like your meal and then you can have like a pudding a dessert thing
+01:39:28 And I always chose the crackers because I liked I like savory things
+01:39:31 So I chose the crackers there's a little two pack of crackers
+01:39:34 You put them on the on your tray you go and eat them
+01:39:37 But I I always I always wanted to eat them in the playground afterwards
+01:39:40 So I put them in my pocket and I ate them in the playground even though I'm not allowed to
+01:39:44 That's the worst thing I've ever done. Wow
+01:39:46 And uh, I still feel remorse
+01:39:48 Really?
+01:39:49 You're such a bad ass dude. Did you did you only do that once? Actually, no
+01:39:53 There's actually more to that because I used to do that all the time until
+01:39:57 To the point where the lunch lady would search my pockets for it because I wasn't allowed to to eat it in the playground
+01:40:02 In no repeat offender in in I know like all throughout like elementary school middle school and high school
+01:40:09 um
+01:40:10 I like
+01:40:11 You could you could buy lunch at school and lunch came with like a roll and you would like take your tray
+01:40:16 And you would go through the thing and you would take one item from each thing and like the first station was like rolls
+01:40:21 And I would just go and like take rolls all the time
+01:40:23 I would start in the line get in the line take a roll and then leave the line and go back to my seat
+01:40:27 And like I just did this like my for so long because I love that bread. I fucking love it's great
+01:40:32 That bread was so good. It was so like doughy and just like yeah powdery and just like
+01:40:36 It's just so succulent and like people would always tell me like ben. You're just stealing you're just stealing there
+01:40:41 And I would be like I don't I don't like I don't care
+01:40:43 Yeah, like for a while I tried to justify like no the roll is not actually lunch like it's not a part
+01:40:48 It's like it's it's like its own thing. It's just like a thing that comes with lunch
+01:40:52 I don't have to really buy it
+01:40:54 But eventually I was just like lunch is not lunch. Let's be serious
+01:40:56 Eventually I was just like I just want it and I don't want to pay for it
+01:40:59 So I'm gonna take it because I think I deserve to have the things that I want without paying for them
+01:41:04 I think that that is about pirating games. Yeah, I just do it. I don't care. I do not care. Yep
+01:41:10 All right, does tom want to share a story. Are you a bad person to tom?
+01:41:13 Let's see. I think my story is kind of similar to mage
+01:41:16 I think but I don't know is like it's like taking advantage of stupid people really a crime
+01:41:20 I don't know
+01:41:20 Because what what I did is is that back in the day when pokemon cards were huge you made a patreon
+01:41:26 Well, that was a terrible mistake as you can clearly see now now all my passions become about the money
+01:41:32 No, so I pokemon cards were a big thing and I didn't have any pokemon cards
+01:41:37 But what I did have at the time what's a boy to do
+01:41:39 Exactly it was it was a big problem
+01:41:41 So I well the only things I had that even slightly resemble pokemon cards
+01:41:45 I remember like back when before anyone knew what pokemon was
+01:41:48 Kentucky fried chicken had little like kids meals that came with pokemon stuff
+01:41:51 And one of them was a deck of playing cards like just like regular deck of cards. I had pokemon on them
+01:41:57 I don't know how this worked
+01:41:58 But I had the the brilliant idea of writing in sharpie just like fake stats and moves on all these pokemon cards
+01:42:05 And then traded them to people for real pokemon cards and it worked. That's their fault. That is their fault
+01:42:12 What did you trade them for pokemon cards? It was it was just like from kfc
+01:42:16 Like you know, they get like they have like kids meals that come with little toys
+01:42:20 It was a deck of like playing cards like ace and five of clubs and shit like that
+01:42:23 But I just wrote in marker pokemon moves on them and traded them to people for real pokemon cards
+01:42:28 And it worked
+01:42:30 Okay, but I went I got advanced later a couple years later
+01:42:34 Uh like the third set or something came out and my neighbor at the time who was a dick and we hated him
+01:42:38 But we had to hang out with him because he was the only kid in the neighborhood
+01:42:40 He had lieutenant surge ritu and I thought it was the coolest shit ever
+01:42:44 And I was like I want this fucking card and he wouldn't trade for it
+01:42:47 So me and my sister devised the perfect plan to get it from it because because he was an idiot
+01:42:52 what we did is we went home we went on my dad's computer and
+01:42:55 We looked up an image of the card and I drew it on a piece of paper
+01:42:59 And then I drew it
+01:43:01 I copied it down as like in like crayon and pencil or whatever and then I we went to his house and we convinced him that
+01:43:06 It was the original card that they eventually made copies of and traded him the fake one for the real one and it worked
+01:43:13 It was amazing. Oh my god. That's the ultimate. My dad works for a nintendo story. That's the ultimate
+01:43:19 That's crazy that that worked. So you have you have a literal history of forgery. I do
+01:43:25 Yep
+01:43:26 I'm working on drawing my hundred dollar bill right now
+01:43:29 Going to go down in the bank. It's going to be great
+01:43:32 In crayon, of course. Yeah, exactly. That's working. Awesome. No. No those people all deserved it. They all deserved it
+01:43:39 I don't care. Crayons should die. How do why why do we have crayons?
+01:43:43 Yeah, good questions. Crayons are great. I want crayons right now. They're good. They're good crayons, but they're not the kind you're
+01:43:50 accustomed to, you know, like pastels are technically crayons, I think aren't they?
+01:43:54 I'm talking like the like oil pastels. If they're not called crayons, they're not crayons, my friend
+01:43:59 Crayon is the brand. Well
+01:44:02 Squares are rectangles. Maybe pastels or crayons. I don't know. Squares were rectangles
+01:44:07 Okay, well before we go for another three hours on this, uh, you know, this is some deep shit, man
+01:44:11 This crayons conundrum. Let's uh, let's wrap this up. So everybody send us more questions at tpcrasnators
+01:44:16 We do this on saturday. That's where we'll be posting. We answer those questions. Thanks for listening everybody and we will see you next time
+01:44:23 Bye
+01:44:25 See you later, everybody
+01:44:37 Right now

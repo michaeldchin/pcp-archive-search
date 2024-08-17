@@ -1,0 +1,1437 @@
+00:00:00 Hello everyone and welcome back to another episode of The Pro Crastinators Podcast. I'm
+00:00:11 the best guy ever and we're joined by Gibbontake. I'm so medium, I'm the medium guy ever. You've
+00:00:20 never seen anybody quite as normal as me. Except of course for Ben Saint. Dab. I did it. An intro.
+00:00:34 Have you guys heard about the little game called Minecraft? Minecraft. There's been some rumblings
+00:00:42 in the ether mod available for version 1.12 but not higher than that.
+00:00:50 Welcome. I tried. It doesn't work. It doesn't work with the latest mods. They're fucking up over
+00:00:55 there. What about, what's that one? Is it Technic? Is Technic the one that has like all this weird
+00:01:01 technology stuff? Technic is the launcher. Technic is like an umbrella for a lot of mods. It used to
+00:01:08 be one mod. I think a thing of Minecraft industrial or something like that. That's got like nuclear
+00:01:13 reactors. No, I might be thinking because I'm just remembering the old the old Yogscast
+00:01:21 series where they built like the the the Jaffa cake factory and they used the they used Technic
+00:01:28 and maybe some other mods I don't remember. Mate, do you think we should like bring this up? Because I
+00:01:33 am kind of curious what the audience of the actual podcast thinks. We should definitely bring it up.
+00:01:36 Yeah. Okay, well let's just launch into it. We're changing the podcast to be a Minecraft
+00:01:40 Let's play show. Minecraft only lads. What if the podcast was just us playing Minecraft
+00:01:46 while talking? Duable. Literally doable. No video. Not really. Not really. So we've been
+00:01:54 thinking, Meiji and I, it was a major proposal about setting up a PCP Minecraft server for
+00:02:00 access for like patrons or something and there's been a great deal of discussion about basically
+00:02:05 everyone thinks it'd be potentially a good idea. But the the hot debate has been how to roll it out
+00:02:11 so as to not make it seem like weirdly expensive and then also to make it accessible to people
+00:02:18 relatively easily. And oh boy, has there been some some I don't know struggles about what's the
+00:02:24 appropriate plan? Do we make like a separate Patreon just for that? Well, that doesn't really feel
+00:02:29 PCPS. Do we make it like a $7 tier? Well, now it seems like weirdly expensive and more price than
+00:02:35 the bonus episodes, which are probably more value. I don't know. It's complicated. No, actually all
+00:02:41 of those sounds like great, great values and whichever one we decide on you the viewer should be
+00:02:46 excited to participate. If you haven't checked out the heckles for shackles live streams where we've
+00:02:53 been playing Minecraft, it'll be like that except in real life. I love the idea of having our own
+00:03:00 server may just been all the heavy work of like trying to experiment three days and nothing nothing
+00:03:06 but Minecraft Minecraft on the brain. I've been doing nothing but sleeping eating bathroom and
+00:03:10 Minecraft making server. So you know tragically, I tried to extend on Twitter. I put out a poll on
+00:03:16 the PCP thing saying like, are you interested? I tried to make it as long as possible. It's going
+00:03:21 to end like the day before this episode goes out. So it's not quite open. So people could hear it.
+00:03:26 We could theoretically do another one, but I'd be very curious to hear people in the comments
+00:03:31 if you're interested at all what you after that. Maybe I'll just literally do a second poll and be
+00:03:36 like, Hey guys, what do you think? Yeah, like after this episode releases, we can make a poll
+00:03:42 with the options we have discussed in this episode. Yeah, you know, why not? Literally why not? Let's,
+00:03:49 we should do that. It's an ongoing discussion about what's the best plan. Because I mean,
+00:03:55 yeah, go on. Go on. No, I'm just like, how people pay is like, I don't really mind. I'm sure they
+00:04:03 think like, you know, okay, they care about like, not paying too much, obviously. I think
+00:04:11 the simplest one is just have it part of the $5 tier. So you get bonus episodes, you also get
+00:04:18 Minecraft. I just think, I just think that if we do that, we will probably end up making very
+00:04:28 little money because probably most, most of the people that we are going to sign up are going to
+00:04:32 be the people that already maybe have the $5 subscription. And the thing about that makes a
+00:04:39 lot. Yeah, I agree. That's most of the people that there'd be some and like it probably would help
+00:04:43 with like longer term people would stay pledged that. So it's a little hard to judge exactly how
+00:04:48 that would affect things long term. Munchy for one thinks that's a good idea. But I think what
+00:04:53 should be incorporated here is we'll get into some inside baseball because I find this stuff
+00:04:56 fascinating. The semi-issue with that is like, for, Mage has been the one doing all the heavy
+00:05:02 lifting. She's going to be the one running it if we, you know, get it off the ground and whatnot.
+00:05:06 Until I lead the workers revolution. Of course. It's only fair that as someone doing a bunch of
+00:05:12 work on it, Mage gets like some cut of the earnings from it. If we just lump it into the $5 tier,
+00:05:18 I think it's only fair. I mean, really, no matter what we do, some amount of money that this thing's
+00:05:23 earning really should go to Mage. So that means at a minimum, let's say we make it part of the $5
+00:05:29 tier, we absolutely should carve out some amount of payment per month. Yeah, I mean, we should do
+00:05:34 the same thing we do with you. Like you get like an ad, you get like an, a regular admin fee for
+00:05:39 like administrating the, the, you know, the PayPal account or whatever and like doing all the, the
+00:05:44 like fucking, all the charting money, all the charting stuff. We just, we'll do that. And like
+00:05:50 how Tom gets the fee for doing the iTunes stuff. Right. But here's the thing about that. Because
+00:05:54 like we were saying, if we make it part of the $5 tier, I don't particularly expect things to rise
+00:05:59 that much. I'm sure we'd go up some. I think that's definitely true. But would that even be enough
+00:06:04 to cover whatever potential fee that Mage is making for now doing the job? I mean, I don't know,
+00:06:10 probably, but like that sounds like a pretty slim margin. I mean, it would, it would depend on,
+00:06:16 it would just depend, I don't know. And, and think of like, it's going to take Mage up on time. Also,
+00:06:20 how much does it cost to run the server? We're right now at $15 a month to, for it to be feasible.
+00:06:26 Okay. So, so it'll be that plus whatever we pay Mage for it. So if, so we would need
+00:06:33 seven more people to sign up for the $5 tier to cover that?
+00:06:38 Uh, seven? Wouldn't it just be three? Oh, wait, you, right. You mean,
+00:06:42 because I was sorry, I was assuming, I was assuming we were going to pay Mage like 20 a month to
+00:06:46 administer the thing. I don't know if that's accurate or not. Whatever. I don't know. I mean,
+00:06:49 I mean, something like that. But I don't, but think about like, here's the other thing about it.
+00:06:56 What's my incentive? Let's just say, for example, let's say, or, I don't know, anyone who doesn't
+00:07:00 play Minecraft that much who might want to do it. What's my incentive to spend time, dedicate time
+00:07:05 to this community? If we don't already have like, like when you're on a PCP episode, you get a payment
+00:07:11 for that episode. There's an incentive there. If you're on a heckles for shekels, there's donations.
+00:07:15 There's an incentive to do that. What's the incentive to do this if we don't have like a
+00:07:19 separate thing carved out? Well, I thought the idea was that we would be in, we would play in the
+00:07:24 server on shekels for heckles. That does make sense. And I think we should and could like we
+00:07:30 would stream ourselves playing in it. I could say that being kind of the way most of us play.
+00:07:36 Yeah, like, yeah, I mean, that does make sense. I mean, I thought that was like the entire basis
+00:07:41 for the idea in the first place was we should do heckles for shekels on our own server.
+00:07:46 Yeah, that is a decent idea. I mean, I stand by. Okay, the only one that doesn't think that's how
+00:07:53 we're going to do it. Well, I mean, look at mage is the one who expects to play a decent amount.
+00:07:59 And I mean, like, there's, there's other things like managing the server regularly,
+00:08:02 managing like the community, she'll have to whitelist people who join because, you know,
+00:08:06 it's a private server and all that. I don't know, like working with the people on the game,
+00:08:11 organizing private, like, I don't really know what it would entail. I guess it could just be
+00:08:14 the heckles for shekels. And that's all that matters. But but just consider the alternative,
+00:08:19 which is like, this is the idea that I currently think is the best one. Yes, there's downsides,
+00:08:24 but it's still my favorite overall, which is a theoretical, totally separate Patreon,
+00:08:29 because this is all new value being added. You know, we could say it's like the PCP one,
+00:08:33 that's all fine, we could link to it in various places. And it's called like this is the PCP
+00:08:37 Minecraft Patreon, it's just a separate thing. And you pledge $3 or whatever, and you get access
+00:08:43 to the server. And you don't have to, you don't have to worry about it at all. If you don't want
+00:08:47 to, all the costs now come out of the income from that. So nobody on the normal PCP loses any money.
+00:08:53 And in order not to fuck over anybody who's pledging like $10, I saw that like Culek 64 or
+00:08:59 whatever, whatever their name is. Pizza Chan. Yeah, Pizza Chan. They're like, Hey, I already pledged
+00:09:03 $10. Like I want in like, I don't want to fuck over that guy or anybody pledging more. So we could
+00:09:08 maybe just lump in for 10 or up people on the normal Patreon, they just get access to because
+00:09:12 they're already, you know, doing good stuff. But like ideally, for everybody who wants a lower thing,
+00:09:17 it's just a separate thing, which I think is clean. And I feel like that guarantees more. We already
+00:09:22 have a $10 tier, right? Yeah. What do you get? What do you get at $10? What's the bonus? Literally
+00:09:27 nothing extra. Okay, cool. Yeah. Yeah, just nice people who want to support. Why? I don't know. I
+00:09:36 mean, let's let's examine the downsides of that. Why not make it the $10 tier? Like, because like
+00:09:41 there's already the $5 tier to get to the bonus episode. So it's not like we're just, it's not
+00:09:44 like we're just saying, Hey, $10 to get into the server, because that's not all you're getting for 10.
+00:09:50 Right? Okay, okay. But then consider this, like there might be some people who aren't particularly
+00:09:54 interested in the bonus episode, PCP in general, like on my side, at least there are a few people
+00:09:58 that would like to play Minecraft with me, but they're not particularly into the PCP. So then
+00:10:03 asking them to pay $10 a month just for the server is not fair. I don't think. Or I mean,
+00:10:10 you're not, you're not wrong. You're not wrong. But I mean, it's a fifth question.
+00:10:17 How many of those people are there? That is a reasonable question to ask. I think that the
+00:10:21 people who would want to play in a PCP Minecraft server probably overlaps fairly heavily with people
+00:10:29 who would want to listen to the bonus episodes. I agree. I agree. The question is how many people
+00:10:36 don't fit in that is my biggest question because I don't know. I don't know. Well, I would imagine
+00:10:40 it's in my mind. I mean, there might be people who maybe have not pledged the five dollars to
+00:10:47 listen to it. Maybe like they would listen to the bonus episodes, but they don't feel like pledging
+00:10:51 the five. And I mean, that's fair and all. Okay, just for those who are listening, me and Nate,
+00:10:57 we're planning to make like, you know, if we're going to make a separate Patreon, the fee for the
+00:11:02 Minecraft server a month, a month is just three dollars. That's how we were planning it. Yeah,
+00:11:07 we like, we thought about some ideas. It seems like a three dollar pledge. So like, yeah, let's do
+00:11:12 polls. We'll put some together. Are people with people? Okay, here's the other thing. We can ask
+00:11:18 people what they think. And this is this is true of me. This is true of every person on the planet.
+00:11:23 The consumer doesn't necessarily think in the same terms of like, what would work best for the
+00:11:28 business? Yeah, you've got to be like, you know, I feel like making a second Patreon is really
+00:11:33 multiplying entities beyond necessity, split kind of splitting people's attention between two things
+00:11:39 in a way that I don't think is going to be optimal. I really don't like that. I already made a few
+00:11:46 points. Like from a purely logical perspective, like in terms of like, perfect efficiency,
+00:11:51 yeah, I think it makes the most sense. But in terms of like, how it'll actually work and how
+00:11:55 like people will actually engage with it, I don't think that's the right way to do it.
+00:11:58 Well, let's just examine one other possibility. Because you were saying make a $10 tier or
+00:12:03 limited that that makes some sense. We were thinking, yeah, we were thinking even going lower for like
+00:12:07 a $7 tier, theoretically, for doing that for and we actually said 750 or something. So if we did
+00:12:14 that, that's actually you're paying less additional cost for that over. This is like the first
+00:12:20 proposal that we do like a $7 thing or whatever. That's that was what I asked people in like the
+00:12:23 Discord server. So you're you're still getting the bonus episodes and you're getting additional
+00:12:27 value that technically is cheaper than what you'd be paying for like the $3 on a theoretical new
+00:12:32 Patreon. But there's now the hurdle of this $750 mark, which is a psychologically sort of different
+00:12:38 thing that could because when I asked people about this, again, this was fairly anecdotal. I only
+00:12:43 asked a couple of people. By the way, I hope this is interesting to people. I find it legitimately
+00:12:47 fascinating. I find it interesting. I was going to say that like,
+00:12:53 inside baseball can be fun. But I feel like we're so inside this baseball that people can't really
+00:12:59 relate. Okay, but listen, listen, like I was in a practice with Digi and Tom and then talking about
+00:13:04 printing shirts for like half an hour, if not an hour. Some people really enjoy that others might
+00:13:09 find out. Yeah, but I feel like Minecraft is slightly catching more people than shirt printing.
+00:13:16 People like Digi quite a bit and they get caught up in his site. Not me. Actually,
+00:13:21 that's not true. I felt I felt the warm and fuzzies yesterday. Did you did you made a pretty glowing
+00:13:28 tweet about about my shit, which I don't want to I don't want to get on the subject of that
+00:13:33 shit yet. We can talk about that after Minecraft. Sure, sure. I made a I made a warm tweet.
+00:13:39 You also did. And I was very happy. So here, last thing I want to say because I'm
+00:13:46 people when I when I propose like the I like talking. Okay, yeah, I enjoy this kind of inside
+00:13:52 baseball. Like how much do we charge for stuff? How should we structure this? Because I think about
+00:13:55 this kind of thing all the time. Right. Me too. I think about like, I stress about like, what is
+00:14:01 what is a what what is a good and ethical and effective business model? I fucking sweat this
+00:14:08 stuff. I find this not funny at all. Just purely fascinating. Yeah, the okay. But my last point just
+00:14:15 I just for people's consideration for whatever they want to think of the like that $750 model or
+00:14:20 whatever, a new tier, essentially, that's a Minecraft thing. Like when we propose that a lot
+00:14:25 of people like in the patron server, I specifically when asked people what they thought, they were
+00:14:29 like, ooh, it feels weird that we're paying more for a Minecraft thing than the bonus episodes.
+00:14:36 It's like there's a weird incentive to like that, like you're saying it's valued more than the bonus
+00:14:41 episodes. And like, ideally, if we were making a new patron from scratch, we might make this like
+00:14:47 the $3 tier that currently doesn't exist. But the fact like we're trying to work with a model that
+00:14:52 already exists. So, you know, there's not really much of a charge. We're not charging the more for
+00:14:58 the PCP server than for the bonus that we're charging more for both put together, which just
+00:15:03 seems like yeah, obviously. Yeah, exactly. But like people people feel and people say the thing.
+00:15:09 I mean, not everybody does the thing. I don't want to shit on any of the commenters or anything.
+00:15:16 But I mean, you know, obviously, they're going to be skewed in favor of, you know,
+00:15:23 the consumer, right? They're going to want the greatest value for the consumer. And we,
+00:15:29 owning the means of production and being petty bourgeois that we are, we want to extract the
+00:15:34 most value from the proletariat, i.e. them, right? So, you know, the class struggle continues.
+00:15:40 You know, there's another fascinating aspect to this that I think about that's
+00:15:44 consider the perspective of those who are the most into this idea and who
+00:15:48 likely will do the most work on it and stuff who would want to benefit from the most versus
+00:15:53 someone like, I mean, just for example, Digi says, don't care, go for it guys, do whatever you want.
+00:15:57 So like, I mean, frankly, Digi doesn't really deserve to benefit, particularly outside of the
+00:16:03 outside of the reality. If I think it's fair that if this is a PCP branded Minecraft thing,
+00:16:10 I don't think it's crazy for some of that income to go toward like the overall PCP earnings.
+00:16:15 It's it's like part of the network or whatever. And I think it gets some benefit from that.
+00:16:20 Some. Yeah. Some. Yeah. I mean, I put a pay a model out to like the guys in the Collier that I won't
+00:16:25 go into now. But it's like, if it's if it's obviously made, just the main one, she's doing
+00:16:30 the hard work, I plan on playing too. If those guys are like developing a community,
+00:16:35 they're playing with people there, I don't know, organizing games, they're doing fun things.
+00:16:39 They're the one like driving the incentive to play the game. That is a very different thing
+00:16:46 from someone like, I mean, Digi or maybe Munchie or other people who are too busy,
+00:16:50 not that interested or whatever, who are suggesting things like attaching it to the $5 one,
+00:16:54 as opposed to making it like a $7 50 or a separate Patreon, because those guys,
+00:16:59 they just want to not have to change anything, which I totally get. And they just want additional
+00:17:03 value being provided to what's already there because they benefit from that. Whereas like we
+00:17:09 want a separate thing where we can, you know, have the profits there in a place where those who
+00:17:14 are working on it can receive that share, you know, being sent to them in a clean way. No,
+00:17:19 it would be in a separate when you say it like that. Yeah. Suddenly, I'm suddenly I'm thinking
+00:17:23 that maybe the the separate model makes sense from a from a business from a business perspective
+00:17:30 in some ways, in some ways, kind of. Okay, I'm a little I'm coming around a little bit.
+00:17:35 I mean, maybe for fun, we'll put out that poll. I'm coming around a little bit. It's just that I
+00:17:39 feel like the numbers like I like I feel like it's not going to get I don't know. I mean, it depends.
+00:17:47 I think that maybe a Patreon is not the right way to do it. And maybe there could just maybe
+00:17:50 there's just a subscription service like that. I mean, I would do a subscription. There are like
+00:17:56 PayPal, you can do like a monthly PayPal subscription. It's just that Patreon makes it really easy to
+00:18:01 manage all that, which is kind of what it's for. But like I did the calculations. If they're doing
+00:18:06 a if we're doing a $3 pledges, we lose about 9% off like that's basically what we're paying them.
+00:18:12 9% is not a huge amount. Wait, they're paid through Patreon. Yeah, if we use Patreon,
+00:18:18 because that's the way they break it up. Yeah. Patreon sucks. So like theoretically,
+00:18:23 if we made it to our current Patreon, and we just made it like instead of $5,
+00:18:31 now you pledged 750 or whatever, like now that additional loss is lessened.
+00:18:35 So no, it's still it's still it's still 9% off of whatever additional money is made. There's a
+00:18:42 couple reasons why that's not true. But the biggest one is because our PCP was our piece of Patreon
+00:18:47 was made before the rates changed. So it's getting grandfathered in to the lower rates that are like
+00:18:52 5% or something. Really? Yeah, that's true. That's true. Secret. Really? It's really true, you guys.
+00:19:00 I am shocked. So that's something. That's something. But I mean, if at the end of the day,
+00:19:06 if we can't agree, I think it's kind of funny, we all agree more or less that this would be a
+00:19:11 benefit. There's there's some disagreement about what's the optimal way to do it. And those
+00:19:16 disagreements could lead to an impasse. If that theoretically happened, me and Major just gonna
+00:19:21 make it on our own as a separate Patreon, and then we'll make it like effectively the same thing
+00:19:26 anyway. And you know, we'll as a person who like delves in and out of like caring about Minecraft,
+00:19:35 I'm sure I'll play for a bit and then stop for months and months and months. So I'm probably
+00:19:39 not gonna be like making a community there. Well, okay, I mean, for me, like I like playing it on
+00:19:46 Shekels for Heckels. I'm not I'm not just gonna be playing it by myself. I'm gonna be playing it when
+00:19:52 you guys are playing and probably when we stream it. That's that's what I'm interested in doing.
+00:19:57 I do like that. And that's my primary goal too. Definitely. Definitely. So, you know, it's on
+00:20:02 experiments. And it'd be nice if we could figure out just some model to try. And then like if it
+00:20:08 works, great. You viewer can make a name for yourself. You can be a star. You can be in the
+00:20:14 streams, right? You can be on our screens in front of the like 100 people. Just imagine the vision,
+00:20:20 Ben. Imagine you open your capitalist heart and just imagine the vision. We're playing Shekels
+00:20:25 for Heckels. We're playing it right now. Let's say in this particular model, it's a separate
+00:20:29 Patreon or whatever. We're like, Hey, guys, we're having so much fun. We're doing our like weekly,
+00:20:33 bi-weekly, monthly stream or whatever. We've got this community going. You could join us right now
+00:20:39 and literally be on the stream. If only you cough up those sweet three dollars. You could be griefing
+00:20:45 us right now. Only for and three dollars is a is a is a ledge. I think most people are willing to
+00:20:51 hop. Honestly, that's a real sweet spot. You know, I kind of think three dollars is I kind of think
+00:20:58 that's low ball on it. Yeah, some people said three to five and said like I think I think five is
+00:21:03 fair. Um, maybe I don't know. Okay, at the at the risk of sounding egotism, right? I know we're,
+00:21:11 you know, we're not like, we're not fucking, I don't know, we're not gonna fucking. We're not,
+00:21:17 we're not the Yogs cast or we're not like a big like fucking network. We're not, we know, we're
+00:21:21 just the PCP, right? We're not some grow though. But yeah, but what I'm saying is so I know it's
+00:21:27 not like, Oh, you need to play with the prestigious members of the procrastiners podcast. That's
+00:21:32 the value of at least five dollars. But at the same time, I mean, how much would the entry into
+00:21:36 like any old fucking, like private server costs? I don't know. I mean, yeah, you'd have to run your
+00:21:41 own. I feel like three is like so little. And like, I feel like for what it is, you get a considerable
+00:21:47 amount of value. I don't know. I mean, that's not unsure. And we're talking five dollars a month.
+00:21:52 This is a pretty cheap, you know, that's not a huge expenditure. And I feel like most people who
+00:21:57 would be willing to part with three dollars would probably be willing to part with five,
+00:22:01 like, like how much difference does that $2 make? Because when we did the first poll, I said like
+00:22:07 $7 on the Patreon for it. And people were like, that seems like too much. But but really like
+00:22:12 psychologically, if you just make a separate payment of $5, a lot of people will think that's
+00:22:18 less, even though theoretically, there might be paying more for less value than that $7 pledge
+00:22:23 if they patronize the bonus episode. I mean, I kind of think rolling it into the $10 tier makes sense.
+00:22:28 I mean, I get the idea. Like for business reasons, I really like the idea of like a clean,
+00:22:33 separate way to manage how much money is coming for that specifically. But yeah, I mean, I mean,
+00:22:38 theoretically, the idea of doing both so that, well, what appeals to me about that is just that
+00:22:44 it makes it really clear on our end, like what value is being added by this particular aspect
+00:22:50 versus everything else. What I want is I desperately want the ability for people to be able to choose.
+00:22:56 If they want both $10 on our Patreon, if they just care about Minecraft or whatever,
+00:23:01 just five dollars somewhere separately, they don't have to fuck around with both.
+00:23:04 That would be a pretty swell deal. Wait a minute, brain blast. Is it possible to have two alternate
+00:23:10 $5 tiers? Okay, that sounds like we're getting crazy.
+00:23:13 I had that brain blast and everyone said it was stupid.
+00:23:16 I don't think you can do that on Patreon, but I don't know.
+00:23:20 Well, you can have a five dollar and one cent.
+00:23:23 It's just that like practically speaking, if you're pledging five dollars for one,
+00:23:27 I think you can go in and like change what your pledge thing is at some point. And we all know
+00:23:32 axing the bonus episodes is not as hard as we would like if you're heavily motivated to do so,
+00:23:37 especially if you're pledging that already. No, that's plain to lose. That's plain to lose.
+00:23:41 We can't acknowledge that. Fair. Edit that. Edit that.
+00:23:46 Oblivionfall edit. Oh, wait, shit. Oblivionfall is dead.
+00:23:49 Oh, by the way, were people confused, Oblivionfall has retired in good spirits and it's all the same?
+00:23:54 I think we just haven't said it out loud. We haven't literally went into it last episode.
+00:23:58 Was it because the school year started? No, no, no, no.
+00:24:01 It was super busy the whole time with other work. He has an animation work thing.
+00:24:06 Yeah. Okay, apparently he was putting in like 16 hours of work on each episode,
+00:24:11 which is like so much more than any of us ever did.
+00:24:15 I'm curious, Ben, on your edits. Yeah, I'm really embarrassed for you, Oblivion,
+00:24:20 that really sucks to be here. No, that's not what I meant. I meant for us.
+00:24:24 When you were doing your like edits with like the art stuff, like how many hours would you say that
+00:24:28 was? Okay, okay, okay, okay. Oh, like on the ones with the moving mouths?
+00:24:32 Yeah, yeah. Okay, that did, well, okay. Yeah, that did take a lot of time, but I think that was
+00:24:40 mostly just hassle. It wasn't that I was like doing like 16 hours of solid like creative work,
+00:24:47 generating that. I was spending like, there would, it would be a days long process of like
+00:24:52 getting it to render, like having something fail during the render, like having to try it again,
+00:24:57 like, you know, waiting for processing to finish and stuff like dealing with errors,
+00:25:00 having to redo stuff. Okay, so yeah, on those, I probably did put in like maybe
+00:25:05 a similar amount of time, but not, but just because of like fucking
+00:25:09 faulty hardware and not knowing what the fuck I was doing with like- Which I presume Oblivion
+00:25:13 did not have the issues. Adobe Premiere and yeah, yeah, yeah, yeah. Okay, well fair enough,
+00:25:17 God, I'm gonna fucking miss him, but we're gonna get an editor. At some point, Oblivion, I love
+00:25:22 you, you two make work. He was so good. Nah, nah, he's so good. He gay. Yeah, that's fair.
+00:25:31 Well, whatever, I don't know. We'll put out some polls in the description, vote on Minecraft
+00:25:35 things. I don't know if we do them. We'll figure something out. Don't worry, have no fear, have
+00:25:39 no fear. And just voice off if you're interested in general, because I want to know, I want to know
+00:25:44 how many people are into it. Anything else to say on the subject? I'm, I'm spent. I'm excited for
+00:25:52 the glorious future of Bufalantopia. Indeed. Indeed. Well, we might need to make a new,
+00:25:57 a new land with, I mean, are there going to be Bufalants in our new location or wherever
+00:26:01 that happens to be? I don't know. I don't know. We'll have to find out. All right, we can, we can
+00:26:06 send our old Bufalant to the glue factory and get some new ones. Indeed. Indeed. Oh, the new one
+00:26:12 will be called Bufalantopia. Bufalantopia. I love Bufalantopia. I do too. It's just, it organically
+00:26:21 grew. The people there are helpful and cool. I was like, next stream, we got to burn it all down.
+00:26:27 I had such, I had such, I had such, I was filled with such pride. I was filled with pride as I,
+00:26:31 as I was getting up there on the scaffold and making the sign, I was like, yes, this is going to be
+00:26:35 the start, the mark of a new civilization. People from miles around will see the Bufalantopia sign
+00:26:41 lit up in the night sky and say, huh, I wonder what the fuck is going on over there. When we,
+00:26:45 whenever this happens and we migrate to our new server, we should burn the whole place down.
+00:26:50 Oh, absolutely. With our Bufalant, trap our Bufalant inside. They have to, they have to go down with
+00:26:57 the ship. That's, it's the right thing to do. Okay, let's move on. What else is going on in your
+00:27:03 lives, everybody? Um, well, I got my, oh yeah, talk about your stuff. Oh wait, Ben was going to fight
+00:27:10 me about Minecraft something. Oh, I kind of already, well, yeah, I just, well, you know, you're going
+00:27:16 to be the motto and whatever, right? Cause you're, you're creating the thing and I just, that's fine
+00:27:21 for now, but like once that's all established, um, you know, it's not going to be acceptable
+00:27:26 anymore for you to own the means of production. Um, we're going to have to have mutual ownership. So
+00:27:32 we are going to fucking, uh, we are going to fucking workers revolution.
+00:27:36 Could we get a mod to, uh, to create guillotines in Minecraft? That's gotta be in there somewhere,
+00:27:41 right? Yeah. And then when he crafts that soon, he himself will be on the gallows as,
+00:27:46 you know, the new guy in charge. This is what happened to what's his face?
+00:27:53 That's to happen to all of us eventually. Uh, Ben, talk about vapors. Yes. The Vapors 2 kick
+00:28:00 starter is going right now. And that's what I was talking about before. Digi and Nate and,
+00:28:05 and hippo. And I think everyone, everyone's retweeting my shit and making nice tweets saying
+00:28:09 it's a great value, which it is incredible value on offer at kickstarter.com slash project slash
+00:28:16 Ben St slash vapors to, um, Lincoln, the doobly dude in the down there part. Um,
+00:28:24 it's, it's going good. It's surpassed. It's we're on the third day and we're past, uh,
+00:28:29 4,000 or $4,100 right now, which is, it's pretty good. Yeah. It's out. It's outpacing the last
+00:28:36 year. The initial target was $2,586. So you win. You already I did. I passed it like
+00:28:43 early into the second day. Um, yeah. And the stretch goal, uh, was 4,000. So you already
+00:28:49 got that as well. Yeah. The stretch, the stretch goal was to pay for, um, the extra pages and
+00:28:54 paying all the guest artists, which are, I will list them off right now. The people doing guest
+00:28:58 art for the vapor arts are hypocrite, munchy wears tiny hats. Who's that? I don't know.
+00:29:03 Nobody. Munchy wears tiny hats. Um, uh, nexus mania, cheesy manfredo, jade morrow,
+00:29:11 and I'm forgetting someone. Who am I forgetting? You're forgetting fucking, uh,
+00:29:14 God damn it. Cassey. Cassey. That's right. That's right. Yes. Yes. Cassey snap. Um, it's going to
+00:29:20 be fucking cool. More like Cassey snapper fucking neck when she does it. I realized that chapter
+00:29:28 two is actually a lot shorter than, um, chapter one, but I still wanted to make it its own book.
+00:29:32 So I thought I would just write a whole bunch of scripts and, and like pay a bunch of, um,
+00:29:36 good artists who like, you know, make like more, because like the first one had a couple of,
+00:29:41 it had maybe like, actually it had, it probably had almost, it's probably like 16, 17 pages of
+00:29:47 bonus content because munchies was like 11 pages long. This one, I kind of was expecting maybe
+00:29:53 each vaporette to be like three to five to maybe seven tops. So six of those might be, might, there
+00:29:59 might be like 20 or 30 bonus pages in there that are not on the internet. They're not even made
+00:30:04 yet. No one will have seen them. Um, but I wanted to fill it out. I want to fill that page count
+00:30:08 out. So it's not like half the size of the first one, you know, you know, I want that consumer
+00:30:14 advocacy is what I'm doing. I, Ben, you know, you know, I hate you and you know, I don't respect
+00:30:20 you, but I think if I can, okay, I've, there's no, I have to have this infinite jest pin to go with
+00:30:26 my poobop. There's no, there's no question. So I think, God, I don't know. I, I'm looking at the,
+00:30:32 at these amazing reward tiers with these incredible benefits. I think I have to go
+00:30:36 tell me about it for the $150 tier. Maybe Michelle wants to split it because I mean,
+00:30:42 I have to have a pin. I know Michelle's going to want to pin two and we get three pins from that.
+00:30:46 And then I have some spare poobas. If I lose them someday, I want to have that. So maybe me
+00:30:51 and Michelle can split the $150 one and you'll have a books, you know, the hundred, the $150
+00:30:57 one is like, it's pretty, it's pretty good. It's pretty, it's a pretty good value. What do you
+00:31:02 get? Like, you get like a sign. You get the signed copy, which I'll like, you know, I'll do a drawing
+00:31:07 for you in there. Just write you a message and stuff. It's personalized. And then you get three
+00:31:11 copies of vapor one, three copies of vapor two, three poobop pins, three infinite jest pins. That's
+00:31:17 it's epic. And so I don't know. I'm thinking about, so yeah, we passed the the reward tier
+00:31:24 that's or the stretch goal for how to afford, you know, the guest art and stuff, paying for the
+00:31:28 extra page. By the way, that's not just, it's not a flat amount. I'm going to give, I'm going to give
+00:31:33 the, all the guest artists are going to get like, they're going to get like a cut of each copy of
+00:31:37 vapors. I decided that like 50 cents per issue of vapors to per person with the six, so that means
+00:31:45 $3 total, but like 50 cents to each guest artist per copy of it was to last time there was like a
+00:31:50 little over 200. So that would, if we do the same numbers, that would be like $100 to each of them.
+00:31:55 But if we go higher than that, it'll be more. That's the plan. Also, I want to say, everyone's,
+00:32:00 everyone agreed to do it for free. And then I was like, actually, I want to pay you.
+00:32:05 That's the right thing to do. So here's, because I don't want to be a real doctor.
+00:32:08 I don't want to be a doctor. I'm looking forward to seeing the script. I haven't seen it yet.
+00:32:14 Okay. I have like four of them done. I gave one, one to-
+00:32:20 Did you write them with people in mind, Ben, thinking of their particular artistic senses or-
+00:32:24 Kind of a little bit. Not exactly. But I did kind of think like, oh, what would be a good one for
+00:32:30 like so and so. So I did write one that I thought Cheezy would be the most suited for. So I gave,
+00:32:35 I gave him that. But all the other ones, all the other ones, I just, I'm just going to let people
+00:32:40 choose. And I, but there's like two of them that I keep like thinking, like, should I rewrite that?
+00:32:46 Should I rewrite that? And I don't know. So just, I got to do that. And then I can be like, here,
+00:32:51 pick, pick, pick, pick. Are you a Tarantino with these? Do you accept creative changes if they
+00:32:55 think that something would be better in- To an extent, I probably would, yeah.
+00:33:00 The drawings are going to be like creative changes just inherently.
+00:33:03 I mean, Munchies was in high school and it was not supposed to be right. So there was a change
+00:33:07 right there. That's fine though. That's fine. That was good. That was good stuff. I like that lore
+00:33:12 expansion. Um, yeah, no, whatever. I want everyone to get, get creative like that one video. I'm
+00:33:19 just curious, like the, yes, like, like those guys, uh, have you in any way incorporated things that
+00:33:25 people have produced in the, um, in the vaporettes? Like, like, I'm thinking of like the background
+00:33:30 characters that like Munchie put into some of them. Have those in any way become canon or you want
+00:33:35 to do more with? I'm just curious if the lore is expanded due to the vaporettes in any meaningful
+00:33:39 way or a small way. I don't know. Uh, that's a very specific question and the answer is no.
+00:33:48 Okay, great. But then, but the new vaporettes do expand the lore. Hey, you want to know,
+00:33:53 you want to know something? You want to know something you'll learn about in the vaporettes
+00:33:56 to this, to this in this issue? Yes. Magda and Vincent's parents. Oh no. Oh my god. Silver
+00:34:07 screen. Silver tongue. Silver platter. I can't wait to meet all the siblings. It's going to be great.
+00:34:12 Exactly. Exactly. Wait, what's the other one? There was another one. Silver lining.
+00:34:18 Oh yeah. Silver line is the good. Oh yeah. Silver spoon is the other one. Yeah, yeah. That's the
+00:34:22 family. Wait, no, silver. Yeah, yeah. Silver. Silver screen. Silver tongue. Yeah, tongue was the dad.
+00:34:29 Yeah. That's right. That's right. By the way, for anyone who doesn't know, these are our fan
+00:34:33 characters of the extended family of Silver spoon. Literally the greatest OCs in the game. They were.
+00:34:38 Silver lining. So good. Silver lining and the Silver family. He deserves his own comic series.
+00:34:43 I absolutely love those. I'm so fucking proud of these. I'm so fucking proud of these. Silver
+00:34:47 lining. Like they're all evil. Silver tongue. Back up. Back up. So we start with Silver spoon,
+00:34:52 the character, of course, for my little pony. She's the bully. She's like the lackey to Diamond
+00:34:58 Tiara. Clearly a rich kid with a Silver spoon, obviously. Yeah. Her whole family's evil. Her
+00:35:03 dad is like a slick lawyer named Silver tongue. Her mom is like an old screen actress or something,
+00:35:10 a retired actress named Silver screen. Her brother is a spoiled snotty little bastard named Silver
+00:35:17 platter, but she's got one good brother, the one good egg in the bunch, who's called Silver
+00:35:23 lining, who always sees the bright side. Incredible. It's so good. He is the Silver lining of the
+00:35:30 family. Yeah. Yeah. Oh, it's great. Oh, that's true. Damn. That's deep lore. And also horse fister.
+00:35:35 Who could forget horse fister? And his cutie mark is a cloud, but there's just a little bit of sun
+00:35:41 poking out the behind it. I know. It's beautiful. I'm a genius. Max revive T-Bap immediately.
+00:35:50 As you can see in the famous video, thank you, KP. Check it out now on tbap.com. Or whatever.
+00:35:57 I need to, so I've been spamming, so I've been spamming Magi Chan Sonichu on Twitter,
+00:36:04 trying to get him to retweet the vapor's link. I think he's my best shot at an endorsement.
+00:36:11 I'm just, I don't know. I need, I want to. Oh, you should have got him while he was possessing
+00:36:15 Chris's body and that would have been easier to retweet, right? Well, well, he's, no, he's,
+00:36:19 he's in, in the real world physically now. Didn't that, oh, oh, that's right. Yeah. He's, he, he,
+00:36:25 he, like, just yesterday, he made the full physical transition to dimension 12, 18. Finally.
+00:36:31 I know. And he says in his tweets, like, if you see that, if you see like a weird purple
+00:36:36 somewhere, that's me. Like, that's, I'm watching you. That could be made just,
+00:36:41 just a weird purple, like anything.
+00:36:44 Um, I, okay. Okay. You know what I'm going to do? I had this idea. And I don't know when I'll do
+00:36:50 this, but I am going to do this as a, as a, oh wait, sorry, I want to talk about stretch goals.
+00:36:56 Last time for the stretch goals, one of the stretch goals was the card stock cover. I was
+00:36:58 looking at the copies and the card stock cover, I don't know if I can really, I don't know how
+00:37:04 much of a difference it makes. So what I did was I ordered two more test copies of Vapors II
+00:37:08 with different covers, the glossy covers, just to see if they're better or worse. So I'm just going
+00:37:13 to, I don't know, I'm not sure if I'm going to do that stretch goal or not, because I want to
+00:37:17 compare the other options and see if it's actually worth like the extra cost. But what I am going
+00:37:21 to do is one of my stretch goals, I'm going to implement communism. Okay. I'm going to make
+00:37:28 communism real. What does that mean? What does that mean? You ask at whatever, at whatever
+00:37:33 level I decide to do it. It's going to be, if we hit this goal, I'm going to redistribute the wealth
+00:37:38 and everyone who play, everyone who's getting a package of any kind, I'm just going to give you
+00:37:42 a dollar. I'm just going to put a fucking dollar bill in your envelope. It's like yang, but a
+00:37:48 slightly more modest. It's like yang, but better because you get it in a cool black envelope.
+00:37:54 I do want that envelope. You know, you know what it's like, it's like, you know, from each
+00:37:59 according to their ability to each according to their need. Everyone's ability is to buy whatever
+00:38:04 shit they can afford on my Vapors to Kickstart it. And what do they need? They all need the dollar,
+00:38:09 dollar, dollar, that's what they need. And that's what they're all going to get.
+00:38:13 What about people who are pledging with currencies from outside the US?
+00:38:18 They will receive a one United States dollar. Okay, I'll put it on my wall. Epic.
+00:38:25 And I'll probably write like burning on it or something.
+00:38:29 Yeah, if you sign the dollar, then I'll keep it. Yeah, I probably will.
+00:38:34 Maybe. Or maybe maybe you just want to spend it. Maybe you just want to treat it as a rebate. I
+00:38:38 don't know how to spend American money. The first one, I was tempted to get it because I always
+00:38:44 did want a copy of this. I think that because you just gave me a pin, because that was nice of you
+00:38:49 and you just had extras and I wanted one, I probably would have pledged it wasn't for that,
+00:38:53 but I'll definitely pledge it. God damn it. I know, I know. Don't do that again. In fact,
+00:38:58 if you could just like send me an infinite jest pin. In fact, okay, so what you're saying, Nate,
+00:39:02 is that I should never do you any favors ever again. I mean, it disincentivizes me to use money
+00:39:06 to achieve those same goals. Absolutely. Yeah. This is why capitalism doesn't work, but go on.
+00:39:13 This is just worth the value, I think. I want the books. I want the thing. If I get them for
+00:39:19 free, great. This is my personal life. I have to pay for them, then I will, then I will.
+00:39:23 Dab, dab, dab. Cool. Cool, cool. I was thinking, you know what I could do as like another, maybe
+00:39:30 if the thing goes really well, like maybe if we went like really high, like I don't know, like
+00:39:33 $10,000 or something. Yeah. What I could maybe do, and like this is possible, I could do basically
+00:39:39 the communism thing, but instead of with money, I could just make another pin and just everyone
+00:39:45 gets an extra pin. I want those damn pins. I was thinking maybe like the Saint Heart pin,
+00:39:50 which I've had, I've been kind of meaning to make for a while, and it would just, it would be like,
+00:39:53 it would be a black pin with a silver border, but like the white heart logo with like the rays
+00:39:57 coming out of it, it would just be that in silver. That would be, I could make that, and like if,
+00:40:03 I mean, if we hit a tier like that, it would not be out of the realm. It would not be unaffordable
+00:40:07 for me to just like make a run of like 200 or however many, and just everyone gets one for free.
+00:40:12 Yo, that would be great. And sick undertale reference, dude, like totally. Sick undertale
+00:40:18 reference. I just, I just, I just think that would look really cool in silver. I, I want to,
+00:40:22 I don't know. I was thinking of making those pins, but then I was like, when would I, when would I
+00:40:26 ever sell them? I don't know. Maybe not. Maybe now's the time. What am I waiting for? The thing,
+00:40:30 the thing, like it does sound really cool. The thing that annoys me about pins though is I don't
+00:40:34 have like things I can put them on and that I could like, you need like a rucksack and I don't
+00:40:41 really have a rucksack for that. I've said this before. Actually, they're not there right. I think
+00:40:45 I put them on the floor just now, but right next to my desk, I have my printer on my printer. I keep
+00:40:50 my Radcon three pin and my Puba pin and they're always pointed at me and I get so much joy just
+00:40:56 looking over at those because they really are tangible, little physical. It's the same reason
+00:41:01 people buy like trinkets probably when they go on vacation, but these are so much more because
+00:41:05 these are like, this is what me and my friends have accomplished. These little physical things
+00:41:10 remind me that like, when you really put your effort into something, when you really try,
+00:41:14 you can do great things and this is just a little reminder and those give me
+00:41:19 a disproportionate amount of pleasure. You know, I think my name's Marie Kondo,
+00:41:23 that lady who wrote the book about wanting to be clean and wanting everything to be nice and tidy.
+00:41:29 The simple joy of tidying up, whatever that is, she says. You never read it, obviously.
+00:41:35 Okay, people will know what I'm talking about. She's the cute little Japanese lady who loves tidying
+00:41:39 up and Michelle's been reading her books and looking into her stuff and she's been getting me
+00:41:43 into it too and Marie Kondo or whatever her name is, if I'm fucking it up, my bad, she says,
+00:41:48 like, what's the point in owning things if they don't, this is the quote,
+00:41:51 it's everything you own should spark joy. If you own things that don't spark joy,
+00:41:58 literally why do you own them? Throw them in the trash. Those pins and in fact, I have my little
+00:42:03 slime core pins that I made sitting next to me too from BronyCon and stuff. They spark so much
+00:42:08 joy in me. Just to look over at them. Mine disintegrated. You know, mine are breaking down,
+00:42:14 but they still are alive. Mine is pretty fucked up, but it's hanging in there. There you go.
+00:42:20 I would love metal pins of those one day. At some point, no, at some point, we are going to do,
+00:42:25 it might be its own thing or it might be as part of another campaign, but we are going to do a
+00:42:30 RFCK pin kickstand. We're going to have a cop killer pin. We're going to have a rowdy fucking
+00:42:34 pin. We're going to have a slime core pin. We're going to have a podre... Excellent.
+00:42:36 Have you seen the podren pin that I designed?
+00:42:40 No. Does it look like a Max Revive? No, no, it looks like... It's cool looking.
+00:42:46 I spent a lot of time... Look at the show notes or something, so we are in the description.
+00:42:49 All right, yeah, I can find it in a minute, but like, we're going to do, here's the thing,
+00:42:53 and like, this is not insurmountable, right? We can get, but for some reason, and it's not just
+00:43:00 enamel pin factory. It seems like every company is like this. Companies have such a hard time
+00:43:05 printing green. Like, green is like just, yeah, so like, I mean, it's not, it doesn't...
+00:43:12 That's rough for slippers, all the slimes. We could still do it, but like,
+00:43:16 the options are limited. Like, they don't, they don't have like a really like bright neon green,
+00:43:21 like I would really like to see. They just, like, just, they just don't come, like so many companies,
+00:43:26 they just don't have that, which is really a shame, because that's like the most important one.
+00:43:31 Yeah, yeah, there can, and there are, these are pins that exist in the universe already,
+00:43:35 and of course, people want them, especially me, who's the prime example.
+00:43:39 That's true, that's true. I don't know, but whatever, I worked around it. I managed to make
+00:43:45 some pin design, like the podron pin, I managed to make it look good in spite of that.
+00:43:51 Excellent. Anyway, but yeah, that's it, that's the thing. Okay, sorry, I'm trying to find it right
+00:43:56 now. Yeah, no, no, no rush, no rush. Well, so that's, so that's what's up, that's what's up with that.
+00:44:02 Dope, 28 days to go. 28, 23 from when you're hearing this, I think.
+00:44:07 We, 101 backers right now. If we could, if we could, if we could quintuple that,
+00:44:15 but between, between when, between when you hear this and, and next week, right? Go, go, go for
+00:44:23 between, from when you hear this to when the next, for one week from today, listeners, 200, or bust.
+00:44:30 Let's make communism real, everybody. Seems doable, and it's had a great success record in the past.
+00:44:36 I'm looking forward to it. Debunked. All right. Well, lads, okay, what's next? What else we got?
+00:44:48 I, well, I have been feeling very musical lately. I have been, I've been deep into
+00:44:57 jazz fusion and, and cool, cool bands online. And I'm just going to link, I'm going to put this
+00:45:06 here. Snarky Puppy is a, is a great, is a great band I've, I've heard. I don't really have much
+00:45:14 to say. I just, I just love instrumentation. I just love musicians who are good with instruments,
+00:45:20 and I, and I hate lyrics, lyrics bad. Instruments really funny. You know, and my favorite thing.
+00:45:27 Most people know you as the dad rock guy when it comes to music. I mean, at least I do. I don't
+00:45:31 know how, how pervasive that is. There's the podium. Oh, there's the podium. It's pretty neat,
+00:45:35 huh? It's pretty neat. Yeah. But it was funny. I mean, my main exposure to jazz, I've listened
+00:45:40 to some, my dad listened to smooth jazz, whatever, but like watching, watching whiplash is just very
+00:45:45 funny. Watching these jazz musicians just roast. They're like, um, yeah, you could be a real musician
+00:45:50 or you could go be in a rock band, lol. I mean, okay, I guess you could call that music. And I mean,
+00:45:56 it's true. Now that's what I call music. I mean, it's not even, it's not even that like rock music
+00:46:01 is worse. Like, um, it's just that a lot of the point of all this jazz stuff is that musicians
+00:46:09 being like, so into like, all the cool things you can possibly do with an instrument and then
+00:46:16 grooving and jiving and jibbing and jabbing. Yeah. And, uh, it's all about the groove. It's all about
+00:46:21 the, the, the sort of like sweet solo that makes your face scrunch up like you bit into a lemon.
+00:46:28 And it's just sort of like, oh yeah. Ooh, like crazy sort of stuff. Um, and rock is more about,
+00:46:35 well, I mean, it's very like, like rock is a huge genre of spanning so many things, but like
+00:46:41 a lot of music that has lyrics and is like less music like instrumenty. Oh yeah. Yeah. It's still
+00:46:49 like good. It's just, there's a certain level of like bliss and like euphoria you get from hearing
+00:46:57 a, like a brilliant musician at nay, a huge band of brilliant musicians all performing incredibly
+00:47:03 well together. And it's just so tight. You just can't get that feeling anywhere else. This should
+00:47:07 tell you, uh, evidence that like even I can play some guitar and I, I pluck my six string every
+00:47:13 once in a while. But like when the idea comes up of like just jamming, no, no, no, I've memorized
+00:47:18 my songs. I've memorized the specific chords. Do not ask me to go outside or to improvise.
+00:47:24 Can't do it. We'll cry. Yes. I've really, I mean, here's another song, Wolfpick, really great band,
+00:47:31 very funny, very funny guys. Yeah. Um, they do a lot of funky stuff. This Dean town is very popular
+00:47:37 and the bass line to this is like overly complex and I'm not like a really good. Is it as good as
+00:47:42 Monsters Inc opening bass line though? Oh, you know, that, that's a pretty good one. I kind of like
+00:47:47 that one as well. I'll learn that one too. Um, but, uh, if you listen to this, like the bass line is
+00:47:53 like 18 bars long or something, like the, before it loops, it's just really complex and I've, I've
+00:48:00 really enjoyed the past few days just learning it, um, and trying to, to, to match the speed at
+00:48:06 which the Joe Dart, the bassist plays it because he's really good. And, um, I'm so wrapped up in
+00:48:14 like getting that right that like, I can't, I'm not like a jam musician. I know a bit. I know a
+00:48:19 few chords. I know some scales, but I don't, I couldn't probably do much more than like a very
+00:48:25 simple like rock solo in E. Um, just like, just go up there like, and then go back to normal chords
+00:48:35 because I'm, it's, it's, it's a world that I can't possibly reach at the moment with the amount of
+00:48:40 practice I put in, but I appreciate it so much knowing how much more practice I would need to do
+00:48:45 to get there. It's just so fucking good. You know, I saw an interview once with, um, what's the guy,
+00:48:52 the drummer from Nirvana who, who started Foo Fighters, um, Dave Grohl. Dave Grohl, yes. I saw
+00:48:57 an interview with him and Kyle Gass of Tenacious D, you know, Jack Black's buddy. And he was, um,
+00:49:04 like, there was, it was like the most eye-opening experience I had about like the levels of
+00:49:09 musician because obviously Dave Grohl, seasoned veteran, he, he's a, he's a true pro, but he,
+00:49:13 he does like big, you know, rock and stuff. And then Kyle Gass, total hack, total amateur.
+00:49:19 He's like a, he's like a professionally, classically trained guitarist, I think, who then
+00:49:22 went on to do, yeah. But, um, he, he like, allegedly, he was the one who, what was, I think,
+00:49:28 him and Jack Black, when they met, Jack Black taught Kyle Gass, quote, how to act. Kyle taught Jack,
+00:49:34 quote, how to play guitar or like something like that. And they, they were formed that thing.
+00:49:38 In this interview, though, it was, um, Dave Grohl, I'll see if I can find it because it's
+00:49:42 popular. It's a well-known one. Like Dave Grohl's just breaking down. He's like, yeah, like I,
+00:49:47 I only write hits. This is what I do. I only write hits because like I just understand what my
+00:49:52 audience wants. They want, uh, and he's like, he's just like most white people, they dance to the
+00:49:57 lyrics. Like this is, and this is my, like this is what people sell. They dance to the lyrics. What
+00:50:02 does that mean? White people dance to the lyrics. And this is the main market. What does that mean?
+00:50:06 He's saying that like they don't, like the demographic that most, that consume his music,
+00:50:11 they are looking for like catchy, repetitive lyrics that they can get into because this group
+00:50:17 does not like vibe with the music the way like, I don't know, probably incongruous to like black
+00:50:22 communities or whatever, get into like deep jam, jazzy shit. I don't know, this is the point he was
+00:50:27 making. That is so weird. But think about it though. But I kind of get it, but that is such a strange
+00:50:34 thought. When he framed it that way, I found that an extremely eye-opening quote. And I was like, I
+00:50:39 mean, thinking about like, what, what do I like? I don't know. I went to a concert of fucking, um,
+00:50:43 Incubus way back in the day and they're playing like Anna Molly. That song is like
+00:50:48 fucking brain blast or heart hitting. It's what I mosh and got punched in the face
+00:50:51 while I was dancing to that song. And like, yeah, I mean, I love the rock souls and stuff,
+00:50:55 but I definitely see the point he was making. So, so all this is to say, like different people
+00:51:00 have different appreciations for like what layers of music and rock songs are like repetitive,
+00:51:06 on purpose. They're designed to be that way. So they're kind of like addictive and you want that
+00:51:10 big, that big coom, which is a different appreciation from like appreciating a really
+00:51:16 well put together like solo that's just instrumental. And I don't know. I mean,
+00:51:23 a lot of rock songs have that like the different like the non repetitive and the intricate solo
+00:51:30 stuff. Like it's not, it's not like rock can be defined as like one thing. I mean, like prog rock
+00:51:36 is getting progressively more jazzy. Like I love Pink Floyd's solos and like crazy diamond and stuff.
+00:51:41 So yeah, I get it. But like just for example, for Foo Fighters, those guys, some souls mostly,
+00:51:48 you know, what would you describe them? I'm not like, I'm not savvy on all the genre names.
+00:51:53 And I might even say, I'm sure people in the comments would know, but like, what would that
+00:51:56 I mean, did you could give you a fucking paragraph about it? I'm sure pop grunge or something grunge.
+00:52:01 Yeah, pop rock, hard rock, like some no band is any one thing. They're all like a mix and a fusion.
+00:52:07 So something in there, but they're not Pink Floyd. They're not snarky puppy, you know, they're
+00:52:13 a particular thing they're going for. And it's by design. Dave Grohl's like, yeah, like I'm trying
+00:52:18 to be popular and appeal to this demographic. So I construct my songs in this particular way.
+00:52:23 And like watching Whiplash, I mean, or anything about jazz, it's funny because like it's,
+00:52:29 you know, what it's kind of like, okay, now guys, you're going to understand the point I'm
+00:52:32 making. It's like video games. Okay, now my ears, my ears perked up now.
+00:52:41 It's like, like jazz music is for basically just like the refined palette. So for guys like me,
+00:52:48 I mean, people might like shit on a game like, I don't know, Shantae and the Pirate's Curse
+00:52:53 for, I don't know, being too waifu bait, being too blah, blah, blah, whatever. But that game
+00:52:58 has incredibly refined and beautiful movement mechanics that like a connoisseur of Metroid
+00:53:05 Vanias such as myself finds to be basically the pinnacle. Now other people can prefer exploration,
+00:53:10 and there are like specific things that you want to get at different games. Like for example,
+00:53:14 I just did a rant on my stream yesterday about how Metal Gear Solid 5 was a catastrophic failure
+00:53:20 in many ways, story wise, but the mechanics of that game are so satisfying. And I love just
+00:53:26 physically playing it that, you know, there's things to appreciate. So like your jazz is a
+00:53:32 more complicated intricate, you have to commit more to it and kind of study it a little bit
+00:53:37 to get more out of it. Whereas I don't know, I mean, maybe I'm wrong. Maybe yeah, maybe less so,
+00:53:43 I'm sure. But there's definitely jazz I've heard that is like really, really funny and how stupid
+00:53:48 it is. And how like people, people like that they're improvising and they're going into weird
+00:53:54 keys. They're so weird that it can't possibly be, I can't jive to this, to this noise, you know,
+00:54:00 that. Trout Mask replica. That's one of the famous ones by what's his face? She can't remember his
+00:54:07 name. Mr. Meat Man. Dizzy Gillespie. Mr. Meat Man. Be Meat. What's that fucking guy's name? It's
+00:54:15 Captain Beefheart. Captain Beefheart aka Mr. Meat Man. Same guy.
+00:54:27 But like, I feel like there's this, it's like with a lot of things, like the more like, quote
+00:54:34 unquote, intricate and difficult and like skilled you need to be to play a certain thing, or to
+00:54:40 like the, you know, the more brain cells you need to appreciate Rick and Morty, like the more
+00:54:46 elitist people get about it being gooder than the things that they used to like, which were less
+00:54:52 good. And I just want to say that jazz is fucking sick. But that doesn't mean that pop music isn't
+00:55:00 and rock music isn't. It's just all good if you like it. Indeed. It's good if you like it. It's
+00:55:06 good if you like it, but please listen to Wolfpac. If you, if you'll know if you like it once you
+00:55:11 listen to Dean Town, you're like, you know, if you're bopping your head and you're twitching your
+00:55:16 toes, then you should probably see a doctor. How do you, how do you feel about like songs that I
+00:55:24 would consider like earworms? Like you hate them, but like, ah, you can't stop listening to them or
+00:55:30 like, you know, you like them and you can't stop listening to them to the point where you hate them.
+00:55:37 Eh, it is what it is. There have been those. Well, you know, I, well, you know, I love Avril Lavigne.
+00:55:42 Who doesn't? There have been those like. There was this song recently that I was, that was earworms
+00:55:50 back into my brain from like a few years ago by Alicia Dixon or something, which is like,
+00:55:56 uh, does he brush up? No, he doesn't brush up. Does he clean up? No, he doesn't clean up.
+00:56:02 Does he wash up? Does he wash up? He does nothing. The boy does nothing. It's just like a really
+00:56:08 annoying song about her complaining about her, how her boyfriend is stinky. And it was really,
+00:56:14 it was really popular for a little bit there. And I, I just remembered it. I was like, oh god,
+00:56:19 not her, not that, not that stupid song. That sucks. It fucking sucks.
+00:56:23 Doesn't gaslight her. He just body gas, you know, with like his odor.
+00:56:27 He just, he just regular gas aside. Oh god, Holocaust joke. I'm not going to make it.
+00:56:34 Somebody else's making sleeping gas, but okay, fair enough. I don't think a laughing gas, because
+00:56:39 it's funny. Yeah, yeah. But like that got in my head and it was annoying for a bit, but it doesn't,
+00:56:45 it didn't really stay because I don't know. I had the music in my, in my periphery to listen to.
+00:56:51 I was talking to a, I was talking to a friend yesterday and I'm not going to say who,
+00:56:57 but they might be listening, they might be listening to this right now.
+00:56:59 Hello, this unnamed friend.
+00:57:02 I'm sure they'll be mortified, so I apologize for that, but your secret's safe. And this person was,
+00:57:07 this person was telling me about some of their, some of their, some of their personal problems,
+00:57:10 about some of their, some of their life. And I said, you know, I think this is literally the plot
+00:57:16 of an Avril Lavigne song. So now I understand it and Ken Relay. It was, it was, it was, it was,
+00:57:23 it was, they were literally describing what is being described in the lyrics of complicated.
+00:57:30 I was just listening to that song the other day for personal reasons.
+00:57:34 It's a good, it's a good fucking song. I'll stand by it. I will stand by complicated.
+00:57:38 I was hoping you were going to say Skater Voight. Now that's, no, I wish.
+00:57:43 No, they were literally, this is literally the plot of that kakakakawaii song.
+00:57:48 It's just about loving Hello Kitty, which we all relate to, of course.
+00:57:53 Speaking of Hello Kitty.
+00:57:54 Yeah, speaking of Hello Kitty.
+00:58:01 Oh, Maja's cat, the star of the show.
+00:58:04 He likes to announce when he arrives. What can I do?
+00:58:08 I'm home, Luigi, I'm home, he says.
+00:58:10 Big dick is back in town.
+00:58:13 Is there a name, his name Lulu?
+00:58:15 Lullaby, but Lulu for short.
+00:58:17 Okay. Yeah. Yeah.
+00:58:19 That was close. I got it. I got it.
+00:58:20 I got it.
+00:58:21 Didn't Digi have a cat called Lala?
+00:58:23 After Lala from Inuyasha. Yeah.
+00:58:26 Lala was, okay.
+00:58:28 So I think I famously railed against Lala in the Sonichu lecture, right?
+00:58:33 There were a lot of comments for a while being like, why is he yelling at the cat?
+00:58:36 Answer, because I mean, answer, because I need my fucking personal space.
+00:58:41 But Lala is like, Lala is the best cat that I've ever lived with.
+00:58:44 And the reason why, I wouldn't want a cat.
+00:58:47 But if I got one, I would want it to be like Lala.
+00:58:49 I could, I could deal with it because Lala just fucked off.
+00:58:52 Lala didn't, you didn't need to feed Lala.
+00:58:54 She just like, she just like hung out outside, climbed on the roof, hunted her own food,
+00:59:01 didn't eat you for anything.
+00:59:02 Hunted her own food too? Wow. Okay.
+00:59:04 Yes. Yes. She, there was a, she like, she caught a flying squirrel out of the air.
+00:59:10 And then, and then ripped it in half and left it on the back porch.
+00:59:15 Wait, did you see this happen?
+00:59:17 I did not see it happen, but did you said that he had seen it happen?
+00:59:22 I think, and I definitely, and I saw the corpse.
+00:59:25 I saw the corpse that she had left.
+00:59:26 Right out of the air. She jumped from the ground.
+00:59:29 First I saw it in trade-off.
+00:59:30 Then I came back later and saw the same corpse torn in half to him.
+00:59:35 Lala was great, except for when she wouldn't fucking leave me alone in the lecture.
+00:59:40 She liked you.
+00:59:41 Do you not like, do you not like cats, like coming close?
+00:59:46 I don't mind it particularly.
+00:59:49 I mean, during the lecture, we need to walk around.
+00:59:51 You're trying to do something, you know?
+00:59:53 You don't want your, your, I mean, I remember the cat was on my future.
+00:59:55 I mean, I mean, I'm trying to pace around.
+00:59:57 I'm trying to pace around the space and Lala was in the way.
+01:00:00 So I had to say, get that cat out of here.
+01:00:02 That's perfectly-
+01:00:03 Otherwise you're going to crunch on its tail.
+01:00:05 Yeah. And who wants that?
+01:00:08 Uh, Luna, my cat is extremely, like, uh, right up in your, in your face.
+01:00:14 And no matter who you are, no matter if they're, if you're a stranger,
+01:00:18 Sixton was over at my house just today.
+01:00:21 He was visiting UK and he was like, hey, can I come over for an afternoon?
+01:00:25 I was like, yeah, stay the night.
+01:00:28 And, uh, like the, the cat, like, instantly was like, oh, yeah, cool.
+01:00:33 There's a person, like I'm not in any way scared.
+01:00:36 And I'm like, you're going to be in trouble if you ever meet like a nasty person outside.
+01:00:42 Cause you just, you're just too trusting.
+01:00:44 You're too pure, you're too innocent.
+01:00:46 You go up to them, you, you per immediately, you're too nice.
+01:00:50 And she doesn't even like struggle if you pick her up.
+01:00:54 You know, if I, if I was a supervillain, I could pick her up
+01:00:56 and put her in a vat of boiling lava and she wouldn't even realize what was going on.
+01:01:01 You know, we, um, so we got some new downstairs neighbors
+01:01:05 cause I live in a duplex and, um, the bottom half of the duplex was empty for a little while
+01:01:10 cause the old, the old people moved out.
+01:01:13 But, um, uh, we got some, we got some new ones, like maybe a month and a half ago.
+01:01:18 And it is, it's three, it's three people.
+01:01:21 There's like a husband and a wife and another guy who I guess is their friend or something.
+01:01:26 And, uh, they have a cat.
+01:01:27 The cat's name is queen.
+01:01:28 I saw the cat one time.
+01:01:30 She seemed fine.
+01:01:31 Yes, queen.
+01:01:33 And like the, the wife and the friend seem like perfectly fine.
+01:01:36 They're perfectly friendly.
+01:01:37 They don't see him that much.
+01:01:38 But when we do, it's like, Hey, the husband seems like the biggest fucking dick.
+01:01:42 The husband is an asshole.
+01:01:44 Like the husband will complain about noise at like when we're not even doing anything weird
+01:01:49 and at a time that is not even like late and not, and like not even disruptive or anything.
+01:01:55 Like we were working out in the basement.
+01:01:57 We were working out in the basement at like six or seven PM, right?
+01:02:01 So like, you know, yeah, the way, the way it's hitting the ground and like he comes down and is
+01:02:05 like, Hey, I've really, you know, you guys need to keep it down down here.
+01:02:10 And he like, he came up another time on like a Saturday night at like maybe like 10 30 PM.
+01:02:15 And was like, some of us, some of us have work in the morning or something.
+01:02:19 I mean, I get it, but what are the, I mean, you live in a shared space.
+01:02:24 I mean, and then, and then another time I was coming out the door.
+01:02:28 I was coming out the door like 10 PM on a Saturday.
+01:02:31 Come on. That's not, that's not crazy.
+01:02:33 And like I'm coming out the door and he's there.
+01:02:36 I think he's like taking the garbage out or something and he's coming in and I give him,
+01:02:40 I give him like a very friendly, I'm like, Hey, what's going, how are you doing?
+01:02:43 And he like does not make no eye contact, like deliberately avoids looking at me.
+01:02:47 Maybe this is a one time thing.
+01:02:49 And he was just at that moment occupied in his brain or something possibly maybe.
+01:02:56 None of us, none of us have any, no, but none of us that live here
+01:03:01 have had any good experiences with that guy.
+01:03:03 Fair enough.
+01:03:03 He's bad news.
+01:03:05 He's a troublemaker.
+01:03:07 We have to, we have to roll him up in a blank and then throw him off the bridge is what I'm saying.
+01:03:12 That's the right move.
+01:03:13 At least he's in a blank.
+01:03:16 At least we know, we know, we know what we have to do.
+01:03:21 Ben, that's it.
+01:03:21 That's my story.
+01:03:22 Okay. Well, Ben, I have something I wanted to share with you, Ben.
+01:03:26 I think you'll appreciate it and everyone else will too.
+01:03:29 You know, I mentioned Metroidvanias earlier.
+01:03:32 There was a new kid on the block when it comes to Metroidvanias.
+01:03:35 I've only dabbled a little bit.
+01:03:37 I played a little bit this morning, but I've been very interested for a long time.
+01:03:40 Okay.
+01:03:41 Cast your gaze on a couple of these images that I'm posting here.
+01:03:45 This is from a game called blasphemous.
+01:03:48 And basically the Orthodox boys.
+01:03:50 Oh my God.
+01:03:51 It's time to assemble.
+01:03:53 Our time has come.
+01:03:54 It's time to praise God and lash ourselves.
+01:03:57 Okay.
+01:03:58 So this game.
+01:03:58 Okay.
+01:03:58 This looks wicked cool.
+01:04:00 It is incredibly cool.
+01:04:02 Look like a big boy.
+01:04:03 Okay.
+01:04:03 Just, just look at it.
+01:04:04 Look at it.
+01:04:04 I'm posting an image right here.
+01:04:06 This is after you beat the first boss, the beginning of the game.
+01:04:09 So here's what you do.
+01:04:10 Is he a big boy?
+01:04:11 He looks like a big boy.
+01:04:12 He's, he's a normally sized human.
+01:04:14 He's not particularly large.
+01:04:16 But he fights boys that are real big.
+01:04:18 Wait, is this from the, is this the new from software?
+01:04:21 No.
+01:04:21 No.
+01:04:21 It's by these guys, I want to say 17th street studios.
+01:04:25 This is their first game, I believe.
+01:04:26 So they're, they're new kids on the block with a lot to prove.
+01:04:29 You're getting some press and I've been liking it so far.
+01:04:31 Funny note.
+01:04:32 Like I've seen this before, but only once on my Twitter timeline when someone was calling him daddy.
+01:04:38 Okay.
+01:04:39 I mean, he's pretty daddy.
+01:04:40 He's authoritative.
+01:04:41 I could see him, you know, be in my new dad, pleasing my mom the way she has been pleased.
+01:04:47 And since dad died, I look forward to that.
+01:04:49 But this is so, so here's the scoop lads.
+01:04:53 So you start off this game.
+01:04:54 You're in a pile of these guys, whatever you get up and you keep going.
+01:04:57 You've got this cool cone head.
+01:04:59 Never fear everybody.
+01:05:00 It's not a KKK thing.
+01:05:01 This is like a Spanish church thing.
+01:05:03 Don't freak out.
+01:05:04 Let me put your mind in the use about the whole about the KKK question.
+01:05:08 The KKKQ.
+01:05:10 Oh, that's the one.
+01:05:12 So this guy, he's going, he does swordsman things, whatever.
+01:05:15 Okay.
+01:05:15 This is like the most Orthodox Catholic shit.
+01:05:17 It's he's called the penitent one.
+01:05:20 And it's all about experiencing pain for your sins.
+01:05:23 So the first thing you do is you go and you fight a boss.
+01:05:26 Yeah.
+01:05:26 You strike him down as like a big giant guy.
+01:05:28 You cut him open.
+01:05:29 Okay.
+01:05:29 You see how he's got this big bucket helmet on like he's got a normal head under that.
+01:05:33 He takes it off.
+01:05:33 He can't see his face.
+01:05:34 He fills it up with the blood of the boss that he just like he fills the whole thing up.
+01:05:40 And then he goes, he puts it on over his head and he just filled with blood.
+01:05:44 He just thought this was the right move to make.
+01:05:48 I don't know why.
+01:05:49 I assume it's like beneficial in some way.
+01:05:52 Is this you haven't you haven't told me anything about the game.
+01:05:54 Is it a 2D sidescrolling metroidvania?
+01:05:56 It's a metroidvania a la like by way of Dark Souls.
+01:06:00 It's it's got like estus flask shit.
+01:06:02 It's got it's very much like Hollow Knight or Dark Souls.
+01:06:06 Hollow Knight is pretty embarrassing.
+01:06:07 This blood thing is a very red man-esque thing.
+01:06:10 I think red man might review this game.
+01:06:11 Him and red man they should and him and red man would be best friends.
+01:06:14 Is it out or is it just it's out?
+01:06:16 It's out everywhere.
+01:06:17 It's yeah.
+01:06:17 I was playing it this morning.
+01:06:18 There was a demo.
+01:06:20 It's it's out.
+01:06:21 I mean it's a metroidvania.
+01:06:22 I've only played maybe like an hour or two maybe.
+01:06:24 It's super duper fun.
+01:06:26 I love it so far.
+01:06:28 I can't speak that it's great.
+01:06:29 Apparently it's reasonably short, but it's just so orthodox.
+01:06:33 So like everything you do is about how like your sinners need to harm yourself and lash
+01:06:38 yourself and bleed the blood to praise.
+01:06:41 I mean it's not specifically like Catholic.
+01:06:42 It's like kind of pseudo non-shit and I'm not actually religious.
+01:06:46 But the aesthetic is sick.
+01:06:47 So this looks so fucking cool.
+01:06:49 It is.
+01:06:50 I'm watching the trailer right now.
+01:06:51 Yeah.
+01:06:52 It's it's dope as hell.
+01:06:53 So I've been loving it.
+01:06:55 I think everybody how much how much on steam.
+01:06:58 Shit.
+01:06:58 You know I don't know.
+01:06:59 I think I paid 20 bucks.
+01:07:01 Let me see.
+01:07:02 Blast 20.
+01:07:03 I bought it on Switch.
+01:07:04 But fuck it.
+01:07:05 I'll wait till it goes on sale.
+01:07:06 Good plan.
+01:07:07 Good plan.
+01:07:08 I'm just curious how much fucking was this thing.
+01:07:10 I don't even know.
+01:07:11 I just knew I wanted it.
+01:07:12 It might have been like 30 40 bucks.
+01:07:14 And so I can't I can't remember.
+01:07:16 Okay.
+01:07:16 It doesn't matter.
+01:07:16 Point is I felt it was worth it and I've been very much enjoying it.
+01:07:19 And I knew you'd be into it based on the scene based on the visuals.
+01:07:22 But I mean yeah.
+01:07:23 Feel free to wait for it to go on sale or whatever.
+01:07:26 That's it.
+01:07:27 That's my game recommendation for the day.
+01:07:29 Looks dope.
+01:07:30 This is not a full review people.
+01:07:32 Just letting you know.
+01:07:33 I played like an hour but it looks dope.
+01:07:36 All right.
+01:07:36 That's me.
+01:07:36 Excellent.
+01:07:37 That's me.
+01:07:37 Excellent.
+01:07:38 Blast on this.
+01:07:40 We could go to voice.
+01:07:41 Shit.
+01:07:41 I'm just throwing it out there.
+01:07:42 We could do it if we wanted to.
+01:07:43 I mean I guess.
+01:07:44 I got one more thing to talk about.
+01:07:46 Sure.
+01:07:46 Let me find the image.
+01:07:48 I have been drawing like on stream draw streams.
+01:07:53 Those are still going well.
+01:07:55 Every every weekday on on twitch.tv slash give and take.
+01:07:59 If you if you want to see me draw something.
+01:08:02 I've split it up now.
+01:08:03 Now I'm doing a rendering study on Fridays.
+01:08:06 And this is the first one.
+01:08:09 Turns out turned out pretty good.
+01:08:10 I think it's quite a big image.
+01:08:14 Oh yeah.
+01:08:15 I saw that before.
+01:08:16 You literally cut out for me.
+01:08:18 I didn't hear what you said.
+01:08:19 Oh.
+01:08:20 Oh did you draw that?
+01:08:22 I drew it.
+01:08:23 That's so good.
+01:08:25 Yeah.
+01:08:25 I was I was really proud of it.
+01:08:26 From scratch.
+01:08:27 Anything like that before.
+01:08:29 Look at the lighting on the hand.
+01:08:31 From scratch.
+01:08:33 No.
+01:08:34 I mean I was copying images but I was trying to get the.
+01:08:37 Yeah.
+01:08:37 Yeah.
+01:08:37 From scratch.
+01:08:39 Oh that's so cool.
+01:08:40 The hand was actually like one layer.
+01:08:41 I forgot to have layers on the hand.
+01:08:43 I just kept like adding like like low opacity like airbrush.
+01:08:47 I like the depth of field as well for the hand.
+01:08:51 That's how you like the finger furthest away is so blurred.
+01:08:54 You can see that like the light is kind of coming through the skin.
+01:08:58 Yes.
+01:08:58 Yes.
+01:08:58 Yeah.
+01:08:59 Yeah.
+01:09:00 Oh that's amazing.
+01:09:02 It's advanced.
+01:09:02 These are advanced techniques.
+01:09:04 You suddenly I didn't expect when you got here.
+01:09:07 Yeah I mean I didn't expect to be like I'd never really
+01:09:09 sat down and tried this.
+01:09:10 I've done paintings before.
+01:09:12 I've done like stuff like this in school.
+01:09:14 But like it's really just it's you know you look at it and you're like what does it look like.
+01:09:20 It doesn't look like that.
+01:09:21 Let's change it here and change it there.
+01:09:23 And yeah.
+01:09:23 Yeah.
+01:09:24 No layers are for pussy.
+01:09:25 Draw a close up in this style of pump's face.
+01:09:29 I want to see those pumpkin seeds.
+01:09:31 I want to see that candle in there.
+01:09:33 I want to see it all.
+01:09:34 Her seed she's she doesn't have seeds.
+01:09:37 She's she's a pure maiden.
+01:09:39 Or maybe just do it next time.
+01:09:41 Whoa.
+01:09:43 I made a slime mead version.
+01:09:45 Oh that's so good.
+01:09:47 That feel and touch slime.
+01:09:49 I choked on my spit a little bit.
+01:09:51 This is like Earth of a Slime Boy.
+01:09:53 This image literally Adam touching God you know zero BC or whatever.
+01:09:58 Yeah this is a this is a branching timeline actually.
+01:10:01 There's like two things that could happen.
+01:10:03 He could have had an apple or he could have had slime.
+01:10:07 This man went for slime.
+01:10:08 That's the difference between Dimension 1218 and Dimension C197.
+01:10:15 There it is.
+01:10:16 Magichan does not take the threat of slime seriously.
+01:10:20 No.
+01:10:20 Okay but it will be to his ruin right because when the dimensions merge right
+01:10:25 the slime boys are gonna they're gonna be out in the forest right.
+01:10:28 I don't know.
+01:10:29 I don't know.
+01:10:29 I don't know if they can stuff you know Chris is so confident that all the
+01:10:32 soniches and him and and and all the her and all the deities and whatever all the
+01:10:37 fucking superheroes that are gonna like they think they think they can stop the slime but
+01:10:41 I mean I don't know I guess we'll see.
+01:10:43 Did you see I mean that big I for one am terrified about you know coming back from the
+01:10:48 the there was a there was a big I believe it was like a four page like Twitter story.
+01:10:54 It might have been on Chris's it might have been on Magichan's I'm looking right now to see
+01:10:57 if I can find yeah I was I was just okay that's where that Magichan announced that he has physically
+01:11:01 come to dimension 1218.
+01:11:03 Right right okay okay I'm with you.
+01:11:05 And that the purple blurs him.
+01:11:07 I mean in that it was described that the I mean maybe this is already known but that
+01:11:11 they are I believe the word omniscient was used and so I mean I assume that they're there
+01:11:16 seems pretty confident that slime is not going to be a hassle but I mean I don't know.
+01:11:21 Yeah well better better men than the Magichan soniches have fallen to the slime.
+01:11:28 Indeed indeed don't underestimate it.
+01:11:31 Also here here's a red man image just to show you the the breadth of my artistic abilities
+01:11:37 I can do it I can do this guy I can do this hand and I can do that hand.
+01:11:42 He's pointing at himself the little red man at the top I love it.
+01:11:46 Yeah this is another one you could do oh yes point oh you could have another one of this
+01:11:49 this Adam hand reaching out to touch red man's finger.
+01:11:52 Oh my god.
+01:11:53 Pokey poke finger on finger action.
+01:11:55 That's uh you know red man's looking pretty kawai right here.
+01:12:01 Yeah he's he's a cute boy.
+01:12:04 I was I was thinking of having him be like like the the the bottom right like character on screen
+01:12:10 for like I don't know a review show but I but I wouldn't make the review show I just wanted
+01:12:15 to draw a red man as if he were.
+01:12:17 Yeah do do a like you know one minute long review of Blasphemous by red man and just have to be
+01:12:22 like this is the most bloody game ever I love it it's like fuck Bloodborne.
+01:12:26 Oh I was going to say fuck Bloodborne that's pussy blood shit Blasphemous.
+01:12:30 Now now we're talking real blood amounts and uh it's great it's great.
+01:12:34 And he's pointing at it and he said there it is.
+01:12:36 There's blood.
+01:12:37 I love it.
+01:12:38 There's the blood.
+01:12:39 I can see some.
+01:12:39 He's his famous catchphrase there's blood.
+01:12:43 There's blood.
+01:12:43 Everybody loves him.
+01:12:44 I will get blood.
+01:12:49 Fuck yeah.
+01:12:51 All right let's go to Boys Nails.
+01:12:52 Let's yeah.
+01:12:54 I mean great art everybody take a look.
+01:12:55 Look at all those look at Blasphemous look at Kickstarter.
+01:12:57 I'm still watching this slime.
+01:12:59 I'm just watching it flow.
+01:13:01 It's a peaceful image.
+01:13:02 It fills me with joy.
+01:13:05 Makes me hungry.
+01:13:06 I just want to put my mouth at the bottom of this stream of slime.
+01:13:09 It's just like right below the cutoff of the image is me with my mouth open.
+01:13:16 All right well you know what I did and that's canon.
+01:13:19 I prepared like 10 voicemails.
+01:13:21 They were of decent quality.
+01:13:22 They're all they're all something to appreciate.
+01:13:24 So let's just jump into those and we can we can take our time.
+01:13:28 Uh yeah all right so let's go.
+01:13:29 Speak pipe link people down below.
+01:13:31 Leave us voicemails.
+01:13:32 Good stuff.
+01:13:33 And let's start off with um eat my entire ass with a voicemail.
+01:13:40 Let's jump into it.
+01:13:40 Here we go.
+01:13:41 Go.
+01:13:42 So I've been doing some thinking.
+01:13:45 What is the autism power level of the PCP?
+01:13:50 We have the obvious choice being Davoo who we all know as like a
+01:13:56 thing he's said himself that is autistic or people have said so.
+01:14:02 But do um like what is the ranking?
+01:14:05 Who is the most autistic?
+01:14:07 I think a lot of people might want to put themselves at the top.
+01:14:11 But as a person who not me autistic people or autistic people
+01:14:17 are constantly around autistic people I feel like I'm a bit of an expert myself.
+01:14:22 And I just want to point out one thing bigger than any other thing that the
+01:14:27 most autistic person in the PCP is Nate.
+01:14:35 Yeah that's it.
+01:14:36 That's it.
+01:14:37 I mean what good is that without an explanation of why?
+01:14:40 He did not give an I guess we're supposed to fill in the blank.
+01:14:42 He says he's an expert but then he provides no no that's lame.
+01:14:47 That's lame dude call back and tell me why.
+01:14:49 Yeah I do want to know why.
+01:14:50 I do want an explanation.
+01:14:51 Give me a point by point.
+01:14:52 I'm not going to assume it's because Ha Ha Nate likes numbers and being
+01:14:56 correct and making sure the facts are straight all the time.
+01:14:59 No no no no you don't he doesn't deserve he doesn't deserve to have you go and attribute
+01:15:04 all these like facts and logic to what he said.
+01:15:07 No failure.
+01:15:09 That's fair that's fair.
+01:15:11 As for as for who has the most autism it's clearly DigiD.
+01:15:14 I mean I was thinking I thought he was going to go straight.
+01:15:16 It's clearly DigiD bro.
+01:15:17 I mean Digi identifies as autistic.
+01:15:20 Diboo is more autistic than Digi.
+01:15:22 I don't think I don't this might be a hot take.
+01:15:25 I don't think Digi is as autistic as he thinks he is.
+01:15:28 I mean he's made it kind of an identity at this point.
+01:15:31 So you know it's just a it's just a meme.
+01:15:33 Yeah it's a meme.
+01:15:34 All right whatever let us know details if you can provide that sir.
+01:15:37 Well I mean he did eat that shit.
+01:15:40 Sorry.
+01:15:41 You know he ate that that non autistic person's shit and he became less autistic remember that.
+01:15:46 Oh the whole yeah the whole you know even though even though that study was maybe
+01:15:51 found to be like it was not like substantiated enough.
+01:15:54 Who's who's shitted he it's a it's a it doesn't matter it doesn't matter it doesn't move on.
+01:16:00 I really don't want to know.
+01:16:01 Okay great because we got Clyde Caliber here with another voicemail actually his first
+01:16:07 voicemail probably okay go Clyde take it away.
+01:16:12 So PCP I was just trying to think a good question.
+01:16:17 I didn't come up with one.
+01:16:18 I was wondering what's like canonically on that disc you know the TPC logo.
+01:16:25 There's a disc there.
+01:16:26 What the hell's on it.
+01:16:27 I don't know you have Digi's secret hentai stash or some shit.
+01:16:33 Maybe it's the theme song.
+01:16:34 Maybe it's the theme song.
+01:16:36 Wait what the theme song.
+01:16:38 Yeah one mp3 of yes no I I always thought of it as like
+01:16:43 um like whatever is on that disc is like I forgot to burn this disc it's empty.
+01:16:50 I procrastinated on it.
+01:16:52 Oh I like that an empty disc uh yeah that needs to be filled with data and information.
+01:16:58 That sounds good which represents you the audience need to be filled with our
+01:17:01 information are useless worth this trash.
+01:17:04 Yes it represents you even though it is literally representing us.
+01:17:08 That's correct that's correct.
+01:17:10 Sounds like as good an explanation as any.
+01:17:12 Perhaps DaVoo could provide more insight but uh it's open to interpretation.
+01:17:16 Okay we got Smyrg now this was it was specified this is for Munchy but Munchy who knows and
+01:17:22 Munchy's gonna be back because he's a busy boy with school and all that stuff.
+01:17:24 Yes he did say about school taking up all his time.
+01:17:27 Figured we might as well you know play it now because who knows when that'll happen so
+01:17:31 okay here we go Smyrg go.
+01:17:34 Howdy Smyrg here with a basic ask question welcome so tell me about keeping motivation
+01:17:40 on long-term creative projects.
+01:17:42 In my experience I'll have an idea for a project I'll dive way into it and burn
+01:17:48 pretty much all of my free time for next two weeks maybe a month at most fully devoted to
+01:17:53 the project at which point I seem to always hit a wall where I either become more interested
+01:17:59 in pursuing a new project idea or just burn myself out completely and need a break.
+01:18:05 So how do you avoid this?
+01:18:07 Does it happen to you?
+01:18:08 You feeling me on it?
+01:18:09 Okay see ya.
+01:18:10 Okay I was thinking about this I mean first of all I'm terrible at this I'm terrible at
+01:18:15 maintaining motivation over a long term um literally literally the thing to do the thing
+01:18:22 the way to do it is to make it as not long term as possible.
+01:18:26 Yes true and to get it done as fast as you possibly can at any cost.
+01:18:31 Just do what I'm currently doing with the Minecraft server right now do nothing else
+01:18:36 with your life absolutely nothing that that sometimes works depending on what you got.
+01:18:41 No I agree like when I um yeah because then it gets done that's how you get it done the fastest
+01:18:48 right well what about I mean sometimes sometimes I wish sometimes I wish that like I didn't do
+01:18:54 anything else sometimes I kind of I'm like oh god I wish I didn't have to like have friends in real
+01:18:58 life or do like twitch streams or do or record the pcp or do anything else and then I could just
+01:19:04 turn off the internet and have literally nothing to do except like work on something for like
+01:19:09 how many weeks it took. Strike while there and talk, do what you can, do what you want to.
+01:19:14 Like everything else in my life would suffer but like I could I could I would be faster at
+01:19:18 achieving like the one thing that like I'm focused that I want to get done next you know.
+01:19:24 I don't know I disagree generally with with all that like I mean the idea of burnout is that
+01:19:30 you're forcing yourself to do a certain amount in your mind you're like oh I've got to do this
+01:19:35 and if you slip up and don't feel like doing it one day then you crumble and die and then it
+01:19:40 becomes difficult to get back on the horse. I think um I mean I'm not like an expert either
+01:19:46 but like I haven't lost motivation for the things I'm doing even though they're just coming along
+01:19:50 very slowly because I'm not like forcing myself to get so much of it done um every day like I have
+01:19:58 a reasonable expectation of myself. I have a lot of things planned but like the thing that makes me
+01:20:04 like die the most is when I have a lot of free time and I have a like a choice of things to do
+01:20:10 and I just don't know how to choose. That's rough yeah yeah yeah that that gets me more more so than
+01:20:16 like um you know having trouble starting is like having trouble choosing so make the choices ahead
+01:20:23 of time yeah and if you don't do them then doesn't matter you know you had your allocated time to
+01:20:27 draw a page of this uh you failed but at least you know when you're supposed to next to do it
+01:20:33 and it's like at least you know what you failed at yeah instead of just feeling like this vague
+01:20:38 like sense of like you are gonna die one day and you haven't drawn a million things and you're not
+01:20:43 Hayao Miyazaki and I'm like ah shut up you know not everybody can be Mozart it's too hard.
+01:20:49 We should uh we should remember probably that I don't know exactly what Smirks working on
+01:20:54 necessarily obviously I know Smirks are great art boy but um the uh like Smirks sent me a bunch of
+01:21:00 um art rfck stickers. Give me one I want one so bad. She designed um have you seen them it's just
+01:21:08 it's like a cute little graphic of like endless yeah endless war endless war in the middle.
+01:21:12 It's so cool. And then you can see Rowdy Rowdy Rough House in Cobb Kilt Town. I want to see it.
+01:21:16 I've been I've been going around I've been sticking them on. Yo put a picture up for the
+01:21:19 links. People need to see this shit. Oh they're great. I don't shit. I have to find the digital
+01:21:25 image. Um yeah um I stuck I stuck them around like Medford and I stuck them on like Tufts and
+01:21:31 stuff but I was gonna stick them in downtown because we were downtown yesterday for Munchie's
+01:21:35 birthday but I forgot to bring them but whatever. I'll um I'll um I'll get them um and yeah she
+01:21:42 sent me like hundreds of them and I mean I cut a bunch of them out and I've been I was gonna
+01:21:47 I want I want okay I want to sell them but not for a profit just so just to like cover the costs
+01:21:53 of production because I just I want people to have like extremely easy because I want people
+01:21:58 I want these in the hands of like everybody yeah yeah I want everybody who likes this shit
+01:22:03 to have just to have like really easy and cheap access so they can stick them fucking everywhere
+01:22:07 and I'll say again there's there's one thing because we've already had just from like the
+01:22:11 couple ones that we've already had people join the server just from seeing these stickers around
+01:22:14 that's great that that's perfect and the one thing you guys should definitely fix I believe on
+01:22:18 these stickers it has the discord URL at the bottom right uh in the yeah like across the middle
+01:22:25 you guys gotta get a fucking address that's easy to type in just so that people don't get scared
+01:22:31 off by letters and numbers and stuff I think that would do a lot personally well we I mean
+01:22:37 there's like slime.com or whatever that that takes you to the discord like you buy the url
+01:22:41 like slime okay well slime.com is we look into custom urls and what if though
+01:22:48 instead of that you get a qr code you get a qr code for that link I have a qr code for um yeah
+01:22:55 that's good to server it's good to uh I mean the the sticker would have to be redesigned
+01:23:01 there's a shirt actually you can buy a shirt with literally just the qr code it's like a black shirt
+01:23:08 in like a lime green like fluorescent just like the qr code for the server is just the entire shirt
+01:23:13 damn I like I kind of want one of those that's pretty sick it's pretty sick actually I think it
+01:23:18 looks it actually looks good yeah sure sure um uh what was I gonna say oh oh and so I was gonna say
+01:23:23 just to just to get back on uh Smirks question here um sorry I'm just writing this down so we
+01:23:29 don't forget I was I was gonna say so Smirks question about motivation whatnot was originally
+01:23:34 was directed at Munchy so I think the implication was like Munchy with his like doing rfck stuff
+01:23:39 seems like the target thing so like and that experience is kind of different from what we
+01:23:43 were talking about up to this point because the nature of endless war and stuff is like
+01:23:47 like it's an it's intended to be like a long-term ongoing thing that like even if you like do all
+01:23:53 the work and make your primary focus just buy the nature of that project you don't really want it to
+01:23:58 like be all done now you want it to take a while to like you know be rolled out and blah blah blah
+01:24:04 do stuff you want to you want to have like events that people can participate in and
+01:24:07 all that stuff so with something like that I've really like never done something like that
+01:24:13 but I would say like that that uses a skill that I'm terrible at I want to do what these guys were
+01:24:17 saying my instinct I want to forget everything just do one project as I said a million times
+01:24:23 yeah that's like that would be like the the ideal like just eat raw sugar just eat raw salt like
+01:24:29 pleasure nodes in my brain activating not best way to operate in life but really it's a nice it's
+01:24:35 a nice idea I feel like though I'm not the idea of like a bad way to live but I'm just saying to
+01:24:40 work on exactly exclusively one thing it's like a very childish idea because you think it like
+01:24:46 binary like you're doing this and then you're doing that one or the other life is really
+01:24:51 complicated and there's always things that come up there's like there's like there's the bills to pay
+01:24:57 there's the dentist appointment there's the there's there's all sorts of things that get in the way
+01:25:03 of stuff but what is it bad and so it's you have to you have to like plan like make a plan but then
+01:25:12 put like areas in that plan where things can go wrong but it's still okay yeah because like you
+01:25:17 know have days where you you don't have anything to do um like weekends are a good time where you're
+01:25:23 like uh it's clear on the weekend and then during the weekday you have very regimented clear cut
+01:25:29 what you're supposed to do at the time I mean it doesn't have to be like this hour you need to do this
+01:25:34 but like a general like goal for the day is easy to get you started and then you can you can juggle
+01:25:42 multiple projects at once like like alternating which day you're doing it on and you can still have
+01:25:48 time for like oh in the like a like a flight of fancy sort of idea hits you and you have time on the
+01:25:53 weekend to work on that if you want to you know you're not you're not like the the the thing that
+01:25:58 really gets me sometimes is when I'm working on a project and this idea comes into my head like I
+01:26:04 watch a video and now I want to make videos or something and I'm like damn it this is ruined
+01:26:09 everything I'm trying to focus on this thing I'm trying to do and all these great ideas are coming
+01:26:13 to me and I got to ignore them I got to throw them away I got to like jot them down for later maybe
+01:26:19 but like your brain doesn't work like that sometimes you just want to just want to go all
+01:26:24 loopy loo and like explore these cool ideas you have and you got to have you got to have time for that
+01:26:30 it's true it's true yep I was just freaking out because I was looking for smirks uh sticker art
+01:26:36 and I found this I had not seen this one before but she made a bunch you made a bunch of these
+01:26:42 too the the cards you know like the redesigned um cards for slime poker oh yeah and I saw the
+01:26:48 ace and I saw the ace of killers I think is the the ace of shields and it's so beautiful oh yeah
+01:26:55 I'm gonna fucking cry it's so good can you link to them in some ways so we can look at like a bunch
+01:27:00 if they exist uh collection yeah yeah well here's a here's a there a bunch of them are tagged on the
+01:27:05 rfck wiki as rfck arts like rfc oh yeah cards um I don't like I don't know if all of them are here
+01:27:15 but okay well that's pretty good yeah uh okay these look like uh the ones smirk made mine
+01:27:22 some of these are yours some of some of mine are there yeah are our name missing
+01:27:27 uh doesn't look like it no it looks like all of them okay I'm talking about this link I'm scrolling
+01:27:33 okay there's a bunch all right dope check those out let's go to our next voicemail though uh let me
+01:27:38 see this one's from where the heck did this go all right here we go this is from craters with
+01:27:43 pancakes uh short and sweet okay go quick a gun to your head what's your favorite
+01:27:53 that's the correct response to when you ask that question instantly instantly deceased
+01:28:00 no fully cool the last time I tried to answer this and I said I couldn't think of one and someone in
+01:28:04 the comp fuck I was someone I know in the comments might have been marron pan I don't know it was
+01:28:09 someone I recognized in the comments it was like dude ben I know your favorite anime is fully cool
+01:28:14 you said it a million times I was like oh my god he's right I forgot my own favorite anime
+01:28:20 maybe it was I'm sorry it's stupid I know but Karakano Karakano is really Karikul
+01:28:28 curry kano that's I'm not hungry thanks for asking uh all right let's go to the next
+01:28:33 did you did you see yeah you guys watch um Brian David Gilbert on polygon I don't think so no
+01:28:41 he's done some pretty good videos for polygon I like his I like his shit um he did a video
+01:28:47 recently I don't think it's as good as his old ones but it's like I made all 78 recipes you can make
+01:28:53 in um sky not skyward sword um oh yeah yeah I saw that floating around what do you think was it
+01:29:00 interesting it's all right uh it's pretty good it's not his best I think his best one is here's my
+01:29:04 best one is probably the one about like the mega man robot masters that one's pretty excellent did the
+01:29:09 did the cooking one reveal no no the one about the the one about the kingdom hearts the one about
+01:29:12 the kingdom hearts like story structure is really funny okay fair enough did this by any chance I'm
+01:29:17 curious about the cooking did that reveal that the mechanic is relatively shallow and that there's only
+01:29:22 so much point in doing it I'm just curious if that was the conclusion no not really it's basically
+01:29:27 just it's just goofy and like it's like man the recipe for the recipe for this like pink like
+01:29:34 healing drink is like watermelon radish and a dragon fruit and milk so let's just like put those
+01:29:41 four things in a blender and blend them and just drink it and like see if it's any good or whatever
+01:29:46 oh I see I see but the thing that stood out to me most about the video is that he grew a mustache
+01:29:51 and he needs to not have a mustache anymore he needs to get his old swoopy hair back he had
+01:29:56 really cool hair for a while there see if you can grab the link to that for the show no sure but
+01:30:01 okay let's let's move on to our next voicemail this one's calling out bge rot row okay go calling out
+01:30:10 Nate vestman can you please never make a weyagawa promise on the pcp
+01:30:22 ever again thank you also starting those lock next month well uh maybe i'll do that uh we
+01:30:30 i constantly fail these it's true and i have loosened my schedule i've i've determined that
+01:30:36 weagawa's being strictly weekly is not the best you gotta you gotta under promise and over
+01:30:41 delivery that's exactly that's exactly right even if you deliver a ton if you promise more it's a
+01:30:46 mistake it's a mistake okay duly noted you got a chief gonna do my best all right moving on thick
+01:30:52 spanish accent boy okay go hello pcp first of thanks tom and thanks mate for your contribution
+01:31:01 with the university paper i passed it on as you welcome so now to my actual voicemail
+01:31:07 personal drama but it pays off i saw around six years ago i was in a very dark place in my life
+01:31:13 and at that time i decided hey going to japan we will surely solve all of my problems in life you
+01:31:20 know so flash forward to nowadays and i sorted my entire life i got a university degree i got a
+01:31:27 wonderful girlfriend tons of friends a job it came to the point that i applied just for the
+01:31:33 lowest to a university scholarship to go to japan for four months but here is the problem i actually
+01:31:41 got the fucking money i got the scholarship they are they are sending me to japan for four months
+01:31:48 but i already sorted my life so why should i go there i am not quite sure what i even
+01:31:56 applied for this scholarship even more so i i don't even know japanese the only japanese i know
+01:32:02 it's from the fucking hentai i have watched in my life so i don't know i might be tired for doing
+01:32:08 this i i am going to die i'm going to die right i'm going to die so wait so he applied for this
+01:32:17 scholarship and then like years later they get back to him like hey we're sending you to that thing
+01:32:22 but like no i think i think it was i think it was like he he he didn't get it the first time
+01:32:29 or then or something but then he after he sorted his life out he just sort of like as a joke applied
+01:32:35 again and he got it possibly and everyone knows the only reason to go to japan is to have a character
+01:32:41 arc development and to progress because you're at the end it's a complete waste of time uh i i don't
+01:32:47 see what the problem is like it's only four months you can go have a cool experience and then you'll
+01:32:52 have that to add to your repertoire of things you can say you did we all know going to japan if
+01:32:56 it's covered i mean it's gonna be fun it's gonna be dope well i mean i i think so but like i mean
+01:33:02 i think he would probably have to like quit his job to go away for four months uh huh wait he said
+01:33:08 university did he say he has a job he said he said job yeah he said he's got a job well shit
+01:33:15 stuff like i mean he would have to like he would have to like put his life on hold i mean he'll
+01:33:20 probably be away from his girlfriend for the four months if nothing else i mean that's that you
+01:33:23 know kind of a downside well i mean if if everything will go to shit if you leave for four months and
+01:33:28 just don't leave is that yeah not possible if that's the issue then that's an understandable reason
+01:33:33 to to bail but now do you have to do it are you like committed to it no no but i think he's like
+01:33:39 you know he'd like to do it but yeah now it would fuck up everything else four months is a long time
+01:33:45 but i i you can go so you can you can make if you've got like if you've got your shit sorted
+01:33:50 out you can fucking go to japan another time i was there for shit what was it i want to say
+01:33:57 and it sounds like he doesn't even care about japan itself right sounds like he's not even like
+01:34:01 it's not like he's like oh i've always wanted to go to japan he just like signed up for this
+01:34:04 thing like pretty much at random it basically well is the impression that i get did i forget
+01:34:10 how i want to say i was there for two months am i wrong about that i feel like it was two months
+01:34:14 and it was a great time and i mean for me like me that's when i had my character arc development
+01:34:20 so you're a little past that but there's always room to grow and seeing a new place is always a
+01:34:24 good idea if it doesn't totally fuck up your life 100 go you will not regret it it doesn't matter
+01:34:31 if you know zero japanese because everything there is designed there's english everywhere
+01:34:35 people will help they all speak a tiny bit of english they're not great at it but you'll be fine
+01:34:40 you'll be fine go fucking go unless it ruins your life that's this is the one island the cat island
+01:34:47 the deer like exactly yeah go to all the animal life oh incredible go to neat uh what's the word
+01:34:54 weeb uh uh valhalla uh akihabara go see everything go to the shops and go to that go to that fucking
+01:35:01 thing i always talk about those little off the beaten path curry restaurants where you put your
+01:35:06 quarters in your fucking yen tokens your hundred yen coins in outside you go beep boop boop on the
+01:35:11 thing outside then walk in and the single guy who's running the thing brings you the best curry in the
+01:35:15 world that's that's i dream of it every day go live it for me street ramen that's that's good you
+01:35:21 to get yaki street takoyaki i would get so often if i went to japan i would actually be pretty excited
+01:35:27 to try like street ramen hell yeah dude it's fucking great i would i would break kito just for that
+01:35:32 oh wow damn i know that's that's heavy all right let's move on to our next one we've got
+01:35:37 che givara's ghost calling in thank god another boy had a commie hell this guy doesn't like let's see
+01:35:42 what he has to say for us go hola americones yo soy che givara yama desde el inferno comunista
+01:35:54 i just want to say us in communist hell are very big fans of uh the pcp but whatever you do
+01:36:01 do not let those melcones the castor melcones onto your fucking podcast
+01:36:09 other than that i just like to say then say it uh you're a big hero in let's see communist hell
+01:36:17 yeah much kudos to you yes yes i'd also like to say we definitely need to get those t-shirts down
+01:36:24 here we would all wear them we would all hang out with satan once he gets verified he can wipe the
+01:36:29 t-shirt too uh it'll be it'll be glorious in communist hell yes uh i can't wait for everybody
+01:36:36 the next christian that actually should be interesting when we hear about that and i really
+01:36:42 hope that magichan does not take over the world that would be most unfortunate for all the communist
+01:36:49 anyways uh fuck all of you uh go die so you can come join us in communist hell this is che givara
+01:36:57 all right thanks che good to hear from you buddy um um i wait which which shirt is he talking about
+01:37:05 uh shit i think it's the i'm just being cool and the um it wasn't the main no wasn't wasn't there
+01:37:11 a specific one that we joked about making last oh shit i can't remember i think you're right uh
+01:37:17 i can't remember it was probably i am a commune yeah that's probably it uh uh uh che givara's
+01:37:25 ghost you're gonna be really we should have a shirt that says ask me about my 20 million murdered
+01:37:29 or you know some shit like that wait are you 20 million what murdered or you know 20 million
+01:37:34 starved whatever it's all good no no don't um don't make that it's i'm it's it's i'm just throwing
+01:37:41 the means of production i'm just season the means of production okay i like that um um
+01:37:47 che givara's ghost you're gonna be are you excited for when i for the stretch goal for the vapor's
+01:37:52 to kick starter where i make communism real and redistribute the well he's gotta be are you
+01:37:57 fucking excited do you think i'm fucking excited if the dimensional merge happens does that include
+01:38:02 hell merging with the rest of you know everything else does is that i don't think i doubt it because
+01:38:08 i gotta imagine that hell is not is it in our dimension hell and heaven must be their own
+01:38:14 dimensions okay yeah it's the dimensional merge is only between dimension c197 dimension
+01:38:20 128 it's just these two particular ones that are do you know why these particular two of all of
+01:38:26 them is there a what's uh what's the that's a group that's a good question and no i i don't know
+01:38:31 i don't know why chris we don't i don't know what's causing this could use your buddy uh
+01:38:36 chris call in to the voicemail please leave a link in the description that would then explain why
+01:38:42 why are these two dimensions merging i know that they are merging but i do not understand why this
+01:38:46 is happening why am i seeing these weird purple blurs everywhere that i know in my heart of hearts
+01:38:50 our magic chan sonichu what if it's just mage who's developed super speed and she's just dashing
+01:38:55 about everywhere uh you know there's the blue blur i mean i pray that that's what it is
+01:39:03 okay let's move on we got uh okay this one's weird it's like they use some weird fonts it's like
+01:39:08 dania dianaya it's got like umlats and shit dania i don't know whatever okay go i want to see how
+01:39:15 hey did anybody else notice how before when you used to write pcp and youtube the actual pcp showed
+01:39:22 up now when you do that just because joe rogan became kind of more relevant every time you see
+01:39:28 joe fucking rogan talk to joe rogan go eat a banana dick or something did he did he did he take our
+01:39:37 spot on the youtube algorithm i gotta do a search right now i'm gonna go now i have a little i always
+01:39:41 search like the procrastinators podcast to find pcb stuff because when you just search pcp which i'm
+01:39:46 doing right now my first you get this bike slam thing i mean okay i'm logged in as me so i get like
+01:39:51 the pcb lectures on my channel and stuff but a couple down i get the yellow episode which is our
+01:39:56 most popular episode of the pcb the virginity cast ben's lectures up there the other lecture
+01:40:01 steven universe for some reason is pretty high weird fetishes oh but oh i scroll down and then i
+01:40:06 see everlast tells a pcp story uh joe rogan clip or whatever maybe that's the one he's talking about
+01:40:13 but then there's a gallon of pcp from the whitest kids you know that's a good one that's a classic
+01:40:17 and then they were actually talking about that's been there for a lot or for a while this one always
+01:40:21 pops up it's pcb fenciladine whatever it's called what you need to know by the drug classroom i always
+01:40:28 see that one up top i don't know okay whatever yeah so feel free to google so vice lands beating us
+01:40:36 right now i see the lectures doing pretty well but we do need to seize the means of search results
+01:40:42 so let's let's do that immediately uh okay moving on we got two more we got two more this is um okay
+01:40:50 now this is called get me out of here but i can tell it's the teen cp calling in the individual
+01:40:56 known as oh not only has teen cp and also the manager and runner of teen cp uh calling let's
+01:41:03 see what he has to say good go day to log in the voice jail day fuck i don't know at this point
+01:41:13 it's been so long i was trying to scratch the days into that wall but they took my knife away after
+01:41:19 the whole epstein ordeal yeah nine eleven breakout efforts have been futile my monty plan's been
+01:41:25 thwarted he hasn't been on either of the last two teen cp episodes he must have found me out somehow
+01:41:30 i can't even get help from my own teen listeners has without munchie they've been tricked into not
+01:41:35 watching three thousand people could easily overpower some boom of chair walls sure but not three i need
+01:41:42 something anything please pcp has joined the teen cp ranks and get me the hell out of here
+01:41:51 oh how the mighty have fallen teen cp locked away in the deepest darkest dungeon of the jail
+01:41:58 yep there's no coming back for you your your munchie god has abandoned you your your zoomer
+01:42:04 audience turns out they were as flighty as i predicted and they're not in for the long haul
+01:42:10 i think you better you're gonna be in there until you are a boomer until you've aged up out of
+01:42:15 zoom oh no the worst we'll let you out when you're one of us exactly ha ha suffer died teen cp
+01:42:23 now we play the waiting game see you in uh i think they're like 13 or something so we'll see you in
+01:42:29 like what what's boomer age like 20 25 i don't know i think 20 yeah you turn 20 or you're a boomer
+01:42:34 we'll let you out in seven months munchie's only got one year left he just turned 19 that's right
+01:42:38 he's almost over the hill it's he's gonna have that uh you know uh uh kids next door thing where he
+01:42:43 either decides to be a secret agent for the kids when he goes for the zoomers when he hits that
+01:42:48 codename kids next door yeah yeah or man that's some zoomer core i fucking love codename kids next
+01:42:54 door although isn't that more boomery because it was when we were kids you watched it right it was my
+01:42:58 channel no i mean like like the idea is that like being young is it's like so much better than even
+01:43:04 like slightly being old so true so true the worst of all are the teenagers you know the just past
+01:43:10 the age they're the ones who really need to burn uh but that is the zoomer so well i don't know i
+01:43:15 guess there's infighting and what are the zoomers feel about the codename kids next door once you're
+01:43:19 13 at least the adults have like a purpose right the teenagers are just they're just they believe
+01:43:24 in nothing they're just agents of chaos they're probably voting biden because it's the safe middle
+01:43:29 option they're the worst yeah you ever think about how like potentially like generations quote on
+01:43:36 quote of people are gonna be like colloquially like shorter and shorter like if if you're a boomer when
+01:43:42 you're 20 then a zoomers are gonna start dying out pretty quick and then the new generation is
+01:43:47 gonna replace them what what are they gonna be called and there's only gonna be like a few years
+01:43:50 difference between them there's i mean i'm hearing uh talk about kumers right now you know the porn
+01:43:55 addicted people don't like them i don't know i don't think they're an age demographic so much as a
+01:43:59 way of life but uh they need to be eviscerated uh yeah i don't know i don't know we'll have to
+01:44:06 just deal with it as as the history marches on and let what was that wasn't we looked it up and like
+01:44:10 the zoomers are all sometimes called the new lost generation or something is that true god no the
+01:44:16 new silent generation which like doesn't make any sense because they're really loud you could only
+01:44:21 you could only make that claim in hindsight when you saw the oh yeah these people didn't say anything
+01:44:27 yeah they're just kids right now yeah i don't understand it at all whoever made that is i hate
+01:44:32 them all right we got one last voicemail an ominously titled not even cluster punk can save
+01:44:39 me now so let's hear what that has to say and here we go
+01:44:47 it's a night like any other i'm driving home for my weekend a meeting anarcho fascist
+01:44:51 anonymous when i see the flashing lights behind me and hear the shul call of misfortune the sound
+01:44:55 of a police siren fear is injected into my bones i pull over to the shoulder of the road my heart
+01:45:00 beating in my throat i knew i was done i knew i had shit in my car that could end me the police
+01:45:04 officer looms over my window and shines his light in my face and as he does he notices my dilemma
+01:45:08 out of the cop boy he says and at the booming voice i comply and he throws me to the ground
+01:45:13 my head hitting harder than Nate's high dive what is that he yelps dancing his flashlight on the
+01:45:18 connected bluetooth device on my dash it's pcp i cry tears running down my baby face his knee on
+01:45:24 my back he looks down at me a wicked look in his eyes listening to the pcp huh boy you don't look
+01:45:29 like a rowdy he says bringing his face closer you look like a killer a cop my penis shrinks to the
+01:45:34 size of a raisin in my soil my pants no sir it's not like that i whimper almost inaudibly
+01:45:39 ah and what's this he asks taking out a bottle of fuel and a receipt from my car
+01:45:44 looks like a recent donation to big patreon.com slash ben saint oh and you're drinking and driving
+01:45:49 huh a fuel oh no he cuffs me and hauls me to the back of his car that's 10 years right the street
+01:45:52 lights briefly and it will illuminate the side of his car and as he throws me in it says pc police
+01:45:57 before i can begin to beg he he cuts in he cuts in it says you're going for all degenerates belong
+01:46:04 boy you're gonna wish you were in voice jail rather than this jail please help me
+01:46:14 wow oh man sad and yeah that's a bad yeah fight the power fight the power dude what jail is he in
+01:46:21 did he say what jail it was real jail i supposed to jail just regular jail you know well he's that
+01:46:27 well he's the pc police so maybe he's taking him to the pc jail penitentiary the pc prison the pc
+01:46:33 penitentiary yeah we're all true criminals go oh there's no coming back i i like to think that
+01:46:39 this policeman he like he's not like working for the pcp this man's on patrol four pcp heads of
+01:46:45 all stripes they have to be locked away because we're the reason people are dying so they have
+01:46:49 to make a new division just like the undead asylum and dark souls the same logic they're all
+01:46:53 infected it's it's i i really like how you know he says what's that it's it's pcp and he immediately
+01:47:01 assumes the podcast yeah i'm thinking that bluetooth device he's drinking okay he's first of all
+01:47:06 listen to the pcp that's a five-year minimum right there drinking hule that's a 10-year minimum
+01:47:11 right drinking while driving that's transhuman shit we don't abide he's uh don't a receipt for
+01:47:17 a donation to patreon.com slash pensate that's 20 years minimum right there we can't comm use them
+01:47:22 failed and we are not going to try it again that's all there is to it he's he's he's he's he's he's
+01:47:25 driving under the influence under the influence of digital influencers like the pcp
+01:47:34 no there's no there's no coming back from this but you know what in the end he was just being
+01:47:39 cool and that's all the reason they need to fucking cuff him indeed and if this if you want this to
+01:47:44 be you lads and ladies why not head over onto patreon.com slash the procrastinators one dollar
+01:47:51 you're in the discord five dollars you get 29 bonus episodes another one coming soon at the
+01:47:57 beginning of the next month what a deal or more and maybe one day some kind of minecraft bonus as
+01:48:02 well look at those fucking vote things that we're gonna have down below let us know what you think
+01:48:08 about them and follow us at tpcrastinators on twitter for updates and stuff to polls and what
+01:48:14 not so you can see what we're up to and of course the speak pipe link down below be like not even
+01:48:20 cluster punk can save me now and leave quality voice messages to enhance the quality of the show
+01:48:27 and that's it thanks for being here everybody we'll see you next week i had a beer time and i
+01:48:31 hope you did good talk everybody no doubt chat bye
+01:49:01 myself i'm sucking

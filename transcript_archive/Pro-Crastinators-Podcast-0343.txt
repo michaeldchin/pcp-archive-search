@@ -1,0 +1,608 @@
+00:00:00 I'm going to bless that guy, that son of a bitch.
+00:00:13 I don't know, whatever. Hello, welcome to The Pro Crastinators Podcast. I got nothing,
+00:00:17 I don't know, I got, did you like that opening jingle? That's all you're getting in terms
+00:00:23 of your intro. Jumping right in, jumping right in, watch out. We're starting off as a Ben
+00:00:29 Cast this week. I am all by myself. I'm sorry, I'm sorry, I know nobody likes me. I know
+00:00:36 nobody likes me. I know, everyone just tolerates me. For Gibb's sake, for poor, sweet, it isn't
+00:00:46 Gibb's sake. But alas, she's not here. And I'm just going ahead. I don't need to explain
+00:00:58 myself to the likes of you listener. You don't even have a podcast unless you do. Let me talk
+00:01:10 about some stuff. Let me talk about this channel and what I did to ruin it recently. That's
+00:01:19 not true. Well, I was trying my best. I was doing my best. I fucked up. I fucked everything
+00:01:24 up. Not really, but a little bit. Here's the story. A while back, maybe we've been talking
+00:01:33 about doing this for a long time, but a few months ago, we finally did it, which is Nate
+00:01:40 wanted to transfer ownership and management of all the various PCP accounts, like the
+00:01:50 Redbubble and the Google AdSense and the YouTube channel and what other things are there. Oh,
+00:01:59 the Patreon, patreon.com slash the procrastinators, I think, if I've remembered the URL finally.
+00:02:09 The Minecraft server, obviously, which is free now, free now to anyone who wants to
+00:02:14 join. Link in the description for the Discord server, which will get you set up with that
+00:02:18 if you want to join that. By the way, I hope we can stream some of that soon. I'm getting
+00:02:24 new internet. My shitty internet has been a big problem for a while when we've tried
+00:02:28 to stream, but I am supposed to be getting new internet supposedly on the 13th, which
+00:02:33 will be, I think, the day this comes out. Will that be this Friday? Yeah, it would be
+00:02:40 this Friday. If that happens and it works going forward, I might be able to stream. I'm
+00:02:46 a lot of apologize for how inconsistent that's been and how shitty that's been and how my internet
+00:02:53 has gotten in the way of more regular streaming of the Minecraft server as well as other things,
+00:02:59 but I'm sure that I will want to stream more once my internet is reliable, so that will be great.
+00:03:05 I'll also be getting way off topic. I'm getting way off topic, but I guess I'll also mention it.
+00:03:13 Once my internet is up, I will want to start streaming on my Twitch again, the BenSaint Twitch
+00:03:22 channel, which I used to do with some regularity. I had built up a little bit of momentum on there
+00:03:32 a couple years ago, and then I fell off of it, so I would like to get back into that. My plan for
+00:03:37 that is I'm going to be streaming Mega Man Battle Networks. I've never played them. I'm going to
+00:03:42 play them for the first time, and I thought might as well do that on stream, so that's what I'll do.
+00:03:48 I mean, maybe even starting next week, if the internet thing works out, that would be great.
+00:03:56 But anyway, that's all off. By the way, I'll talk more about that, and in regards to Mega Man
+00:04:02 stuff and Leicester stuff, I guess I'll mention that I do have a bunch of, I think I have like
+00:04:06 14 or 15 unanswered questions for Q&As. I'll probably do another on my personal Patreon Q&A,
+00:04:12 probably do that soon, actually, over on Patreon.com slash BenSaint, which has, by the way,
+00:04:22 I said in the video that I would hold a Patreon vote for a lecture, let people decide a lecture
+00:04:30 for me to do at 100 Patrons. At the time I had, I think about 35 Patrons-ish. Now I have almost,
+00:04:38 I think I had 80, and then I lost like one or two after the end of the month or end of the year,
+00:04:46 so I have like 78. So that's pretty good, but not quite at 100 yet. But soon, and a lot of people
+00:04:52 have asked me for various, various different lecture topics, some of them are things I had
+00:04:57 heard of and some I never had. So I genuinely don't know what I'll end up doing for that.
+00:05:01 Probably will not do it, probably will have to get another lecture out. Maybe it'll be the
+00:05:06 Battle Network one, or I'd like to finish a different one. I'd like to finish another lecture
+00:05:10 on something else while I'm in the process of playing through all the Battle Network games.
+00:05:15 I'm rambling. I'm so far off the original topic right now. Let me get back to it, all right.
+00:05:20 So the Patreon and the YouTube accounts and the PCP accounts, Nate, you know,
+00:05:27 wasn't really managing them, or he didn't want to manage them anymore. He gave them to me.
+00:05:30 And one of the things that needed to be moved was, okay, there was an AdSense account for
+00:05:39 Nate's channel. There was an ad, or actually, bafflingly enough, Nate's channels, like all
+00:05:46 of Nate's channels and all the things he uses AdSense for, all used the, the T-Bap
+00:05:53 AdSense account, the associated AdSense account for that. He, there was another AdSense account for
+00:06:02 the PCP. And then, of course, I had my own, you know, Ben St. AdSense account. And I guess
+00:06:12 YouTube got really, or Google got really finicky about multiple, multiple accounts on AdSense.
+00:06:20 And even though it would make so much more sense to just have separate AdSense accounts for
+00:06:26 separate channels, I guess it's really picky about like, oh, no, they don't want you having multiple
+00:06:30 AdSense accounts. They want you to connect all your, your YouTube channels, all connect them
+00:06:35 all to the same AdSense account. Whatever, right? So the P, it ended up, and this might have been
+00:06:44 a result of the, the Garling House hack that might have been what caused the initial, this
+00:06:48 situation. But the point is there were $82 in, in ad revenue in the PCP AdSense account.
+00:06:57 And Nate had switched to the T-Bap AdSense account and the $82 was just in there. So he
+00:07:04 transferred ownership of the PCP, like the email and the Gmail account, the Google account.
+00:07:10 He transferred that to me. He gave me that and I, and I was hooking it up to my AdSense.
+00:07:19 And it was like, it would, it wanted me not to use its own AdSense account, the one with $82
+00:07:26 in it. It would let me connect the YouTube account, the PCP YouTube account to my AdSense. So now
+00:07:32 what happens is ad revenue from the PCP, instead of going to its own AdSense, it goes directly to
+00:07:39 my AdSense. And this is actually annoying because now I have to stretching. I just woke up, by the
+00:07:49 way. The AdSense for my account and the PCP account both come and they're not differentiated.
+00:07:55 So in the account, I just see one amount that I get every month and I have to manually go into
+00:08:02 my YouTube analytics and look at the analytics and the views and the revenue and I have to personally
+00:08:10 sort out how much of that is mine and how much of that is PCP money and then divide it up on that
+00:08:17 basis. So it's annoying. I would prefer they just go to separate accounts so I could know this money
+00:08:22 is for this, this money is for that, but they won't let me. Oh well. But I was really annoyed. I
+00:08:27 wanted that $82 of PCP money. So I'm like, okay, well, I'm going to try and do, I'm going to try
+00:08:35 and hook it up. So I tried to switch, right? I tried to switch back to the PCP account for the $82
+00:08:44 and it wouldn't, and it gave me, and it said like, you know, this account is not approved. This
+00:08:49 account, this is a duplicate account. Delete your duplicate accounts before you try to connect this
+00:08:53 account. And I'm like, okay, well, I don't want to delete, I don't want to delete my account.
+00:08:58 Nate doesn't want to delete the tbap account that he's using through that all of his stuff is
+00:09:03 connected through. So no, I won't do that. So it just thinks it's a duplicate account. I'm not even
+00:09:07 sure if it thinks it's me or if it thinks it's Nate, but it knows it's a duplicate or it thinks
+00:09:10 it's a duplicate. And so it just said, I tried to connect it and it said, no, you can't do that.
+00:09:17 So instead of just not switching accounts, it disconnected from any AdSense account.
+00:09:25 And it said, well, now, since you've tried to do this, you can't connect your account for 32 days.
+00:09:32 So it disconnected the PCP account from any AdSense account for 32 days. In fact,
+00:09:39 in fact, the channel is no longer monetized for 32 days.
+00:09:46 I don't know why the 32 day restriction, but that's what it did. So
+00:09:53 so basically for one month, the channel is no longer monetized,
+00:09:58 which will cost about so that's about it varies month to month. But generally,
+00:10:05 the channel makes about like 120, maybe 150 on a good month dollars in ad revenue.
+00:10:13 So unfortunately, in attempting to retrieve this $82, I ended up costing us about $150.
+00:10:23 Tragic, tragic. So I have to wait until I think like near the end of January,
+00:10:31 because I did this near the end of December. I have to wait until the end of January to try
+00:10:35 and fix this back and get the channel monetized again. Costs cost us money. I'm sorry. I did
+00:10:43 my best. I wasn't trying to do I didn't know this guy. I didn't know it would do this. I don't know
+00:10:47 why it would do this. I did, however, figure out a way to get the $82. The way to get the $82
+00:10:56 is I just had to close that AdSense account, which is fine because it would not let me use it
+00:11:00 for anything. So I just closed the account and it said like, yeah, when you close the account,
+00:11:05 if there's more than they don't pay out regularly unless there's more than $100 in there. So $82
+00:11:10 wouldn't hit that. But if you close the account, it will send you whatever is in there as long
+00:11:15 as there's more than $10. So supposedly within the next two to three months, they will send me
+00:11:23 because I switched the the associated like bank account to my bank account. So it will send to
+00:11:28 my bank account $82, probably minus some fees. So at that point, what I will do is I will take
+00:11:37 that $82 and I will apply it to the total PCP pay as though it were the money that had been that we
+00:11:44 lost due to ad revenue that month. And so I hope to somewhat mitigate that loss with that still
+00:11:49 will end up losing like, you know, $50, $70 or something. But it's, you know, so that's how
+00:11:58 that worked out. Very stupid, very dumb, very bad. But what can you do? I'm hungry. I might go get
+00:12:11 breakfast. I might just leave this recording on and just go get some food. I'm gonna do it. Fuck it.
+00:12:18 Fuck it. A few moments later, I'm back. I put a quarter of a Kirkland brand
+00:12:25 Supreme is it a Supreme Supreme cauliflower crust pizza as recommended to me by
+00:12:33 by what's her name not a big jerk on Twitter. Yeah, that'll be so that'll be 20 minutes. So
+00:12:39 let's see. So how much how much dead air can I feel for the next 20 minutes before I got to go
+00:12:45 collect my pizza? The I changed my mind about that guy, that guy who moved in to the room
+00:12:56 with the girl that lives downstairs in my house, I said in a previous episode,
+00:13:04 I thought it was a feminine that they they cook all the time. Because it's like, I don't know.
+00:13:11 I don't know why I said that. No, I do know why I said that is because I don't like cooking and I
+00:13:17 wouldn't like spending cooking. So I just assumed I naively just assumed foolishly that he also
+00:13:23 probably didn't like it and that they were just like he was like doing it like, I don't know, to
+00:13:31 either as like a thing to do, or as like, I'm doing this for my girlfriend or whatever. And
+00:13:38 that was stupid. I've changed my mind. And what I think now is that that guy just likes to cook
+00:13:44 because I just see him doing it sometimes with the girl and sometimes but also just by himself.
+00:13:50 So I think he just likes to do it because I never see her cook like when it's when it was just her.
+00:13:55 So I think that's just his thing. And so I've changed my mind and I've decided that no, he's
+00:13:59 he's he's drawn her into his world. It's it's alpha actually. So I salute it.
+00:14:08 This is why you should never listen to me about anything.
+00:14:14 You know, sometimes I sometimes I just have a sometimes I just I just form an opinion
+00:14:20 off of preconceived biases. And then I just go with it. And I just and I just throw it out there.
+00:14:26 I just throw it out there and I let the world tell me what they think about it.
+00:14:30 And sometimes I revise it later. And sometimes I don't. And that's and that's
+00:14:38 you know, I'm just drawing every I'm drawing everyone else into my own world. I'm at it's
+00:14:42 the alpha thing to do. That's that's the that's the plan. All right. I have nothing else to say
+00:14:51 about that, nor indeed anything. I used a okay. I don't know if I've ever mentioned this before,
+00:14:59 but like my dad got me I think he got like everyone one year he got these these rotary tools
+00:15:07 which are not drills. I mean, I think you can drill with them. They have drill bits in them,
+00:15:12 but they're not really for drilling. They're like a drill but weaker.
+00:15:16 They're just like a thing that you hold and you plug it in. And you can put a little thing on
+00:15:20 the end and it'll spin. And it has all these attachments for it. And I think they're mostly
+00:15:26 for like grinding or sanding or polishing. And I don't know what possessed my dad to think that
+00:15:32 like, people definitely need to have a rotary tool for grinding, sanding and polishing. Maybe
+00:15:39 one time he found like such a thing useful. And it came in handy in a pinch. And so he thought,
+00:15:45 you know what, people, everyone needs to have one of these lying around. Just just in case.
+00:15:51 Well, I use it for something for the first time this week. Because it had some
+00:15:58 it has a like a like these like kind of rusty metal discs that are called cutting discs.
+00:16:07 So you can use it to like cut stuff. And I just wanted to see if I could do this. And I took one
+00:16:14 of the RFCK pins, one of the unsold RFCK pins, one of the ones that had the most one just like
+00:16:20 extra ones lying around. Specifically, it's the one like the number one, the the orange and yellow
+00:16:25 and white number one design. And I took that and I use the rotary tool just to cut the actual pin
+00:16:32 part of it off like the pointy part that sticks into the backing that sticks through whatever
+00:16:36 you're attaching it to. So we just cut that part off. And now I just have this little this cool
+00:16:42 little like metal and enamel number one, I don't know, token or whatever. And I don't know what
+00:16:51 utility that has. But I guess it's kind of cool. And I guess I quote unquote made it myself. And
+00:16:59 that's neat in its own special way. I don't know. I don't know why I did that. I just did. And I
+00:17:08 don't regret it. Yeah. Well, I guess I kind of no idea. I guess the reason I was thinking about it.
+00:17:19 Part of the idea was to turn these things into into tokens. And the and the reason why I was
+00:17:26 thinking about tokens is because okay, and I'm hearing from and I just asked Munchie. I just
+00:17:38 asked Munchie and whether he minded me talking about it publicly. And he said he would rather
+00:17:43 keep it a secret. And I think that's totally reasonable. We can put it in a bonus episode.
+00:17:48 It's not you can't go in the main episode. Lamal. Oh, God. Now what do I do? Now how do I fill air?
+00:17:56 Okay, Eleazar, but leave in but leave in me mentioning that it's been cut and put and resigned
+00:18:02 to a bonus episode. That that stuff can all go in a bonus episode. Leave in me saying that all
+00:18:06 that stuff I just said can only be in a bonus episode because I guess it's it's a secret
+00:18:11 for a future project. So I can't I don't want to talk about it publicly, but a bonus episode
+00:18:16 is fine, I think. So that's the that's the another plug
+00:18:26 for the for the for the PCP Patreon as if as if you didn't already have ample reason
+00:18:31 to pledge a mere $5 a month only $5 a month keeps us keeps us fed keeps us keeps us bread
+00:18:39 whatever that means. And also, you know, will help mitigate that all that ad revenue that I
+00:18:47 cost us by trying to get the $82 please please patrons help us save us save us by pledging
+00:18:56 to our Patreon mitigate mitigate the ad revenue that YouTube has fucking stolen from us with its
+00:19:02 draconian 32 days policy why why 32 days why by attempting to link an ad sense account that they
+00:19:12 thought should not be allowed is this why then am I for being rejected am I then not allowed to try
+00:19:19 again for 32 days why 32 all right I got my I got my pizza I got my one quarter of a Kirkland
+00:19:31 Supreme cauliflower crust pizza you know it costs a little more it costs a little more but the benefit
+00:19:37 is that I can have a quarter of the pizza and it's only like 300 calories instead of being like
+00:19:41 600 so I feel like that's I feel like that's worth a premium and you know I got my I got my
+00:19:49 birch beer so you have a classic combo of brek of birch birch beer and and and and pizza for breakfast
+00:19:56 uh try it if you don't believe me uh there's nothing better
+00:20:01 truly I've got it it's got a nibble the corner because the center is too hot
+00:20:07 I took it out a little earlier I like it usually I like them a little undercooked usually I prefer
+00:20:14 you know cook them cook them at home pizzas I usually prefer them a little softer
+00:20:18 rather than being too crispy more flavorful in my opinion
+00:20:23 ah shit all right I had shit I had an idea I was gonna there was something else I was gonna bring
+00:20:27 up um what was it okay oh yeah I still have not I still have not finished the um slime and punishment
+00:20:36 uh uh end section the reason why and again maybe you can see this coming is I just it's not the
+00:20:42 stuff that I had already done is done I just keep thinking of more I just keep thinking of more
+00:20:49 things to put in it um basically if I have not explained this before maybe I will what I'm putting
+00:20:56 in I think I have said this before you know I wrote the end notes that explain the pages
+00:21:02 because a lot of the pages are references to two things that were going on at the time or are just
+00:21:07 rfck in jokes or whatever and then on top of that I wanted to go back and I wanted to put in
+00:21:14 context in the form of like things chris said because a lot of the many some of the comic is
+00:21:22 like directly responding to things that chris said like weird weird takes that chris had about the
+00:21:27 story weird takes that chris had about endless war at rfck or and of course her weird insistence
+00:21:34 that slime must be destroyed by a storm of bicarbonate soda water rain um so I'm putting in
+00:21:42 like her her messages and her tweets and her dms like about that and and I I remembered the other
+00:21:49 day a little while ago that she had been in the server and she had interacted with some people
+00:21:54 and she had made some posts in there and people and she had people had said like why do you hate
+00:21:58 slime chris we love slime it's our it's our life blood and she uh you know was weirdly insistent
+00:22:05 and I think that's really funny so I think that's worthy of inclusion so you know this was another
+00:22:09 thing like oh you know I should add a I should add a page or two just sort of cataloging that
+00:22:15 part of it as a I just I just think that stuff's funny I think I think reading her
+00:22:23 you know across all these in tweets and retweets as well as twitter dms as well as like discord
+00:22:30 messages in the endless war server you know you read it all in or the idea is that I assemble it
+00:22:34 all in order and it all paints a picture it all tells the story of this person who just has this
+00:22:41 crazy idea that like I like it's it's my job to destroy the slime that like powers this place that
+00:22:50 like and and I don't know I I'm not really want to want to provide commentary I'm not really like
+00:22:56 commenting on any of it I'm just kind of putting it there and the idea is that you will read through
+00:23:01 the footnotes and you will read you know her own words about all of it and you will come to your
+00:23:07 own conclusion and that conclusion will be like this person is really weird and and I just I just
+00:23:14 think that's funny um just really funny that she was on a crusade against slime I don't know I feel
+00:23:19 like so anyway uh yeah I keep I keep remembering little bits like oh wait didn't didn't didn't she
+00:23:24 say this and she said that wasn't there a moment when that happened and so I keep like going back and
+00:23:29 finding uh finding a tweet here or a message there and being like oh that's part of it yeah I put
+00:23:35 that I honestly I I bet the point where I should probably start parrying it down and maybe I need
+00:23:39 to go back through it and actually pick out things that like maybe that doesn't need to be here maybe
+00:23:44 that response doesn't really add anything to the narrative because the point is to build a narrative
+00:23:48 the point is that you read through these notes and it gives you more context and it paints this sort
+00:23:53 of behind the scenes picture of why what was going on and so I think yeah I started I I I
+00:24:04 finished putting everything together and then I started a new I duplicated the file and I started
+00:24:09 a new version of the file and the goal of that file was to go through and and cull you know
+00:24:14 and edit crop out things that are not necessary but then as I was doing that I remembered the
+00:24:20 like the in server messages and the server interactions and I like that's funny I gotta
+00:24:24 I gotta I gotta get I gotta find those so I had to go find them which was a little bit hard because
+00:24:28 she's her her discord account well it means she was removed from the server I think her
+00:24:34 discord account still exists but it's hard to search for messages from someone who has left
+00:24:38 a server I did figure out how to do it um but I don't know I kind I kind of want to find like
+00:24:46 because it's it's funny that like she was in there and she got killed right the story is she
+00:24:50 joined the server and she postured as though she had all these like powers in the game that
+00:24:55 do not exist she said she could exclamation point mock speed dash or exclamation point goddess
+00:25:00 protection um and there's a really funny part where like it's it's it's gib gib actually asked
+00:25:07 her like hey what's your do you have a slime so now like do you have an rfck character and
+00:25:13 chris posts um it's like it's the card it's the twilight sparkle she she secret ship fake folder
+00:25:19 card of her like goddess sonichu form like with all these rainbow like beams coming off or whatever
+00:25:26 and it's like and she's like my goddess body is immune to the slime I uh I use I use the I use
+00:25:35 dash and protect myself at will so I am not so I am unkillable and cannot be corrupted by slime
+00:25:40 and it's a really funny response by a bunch given a couple other people they're just like cool awesome
+00:25:46 that yeah nice nice and it's really good so I was glad to find that I would like to find I would
+00:25:54 like to find the person that killed her because somebody somebody killed her and a couple and
+00:26:01 somebody scalped her um because you can scout and I would like to find those commands I would like
+00:26:07 to find like exactly who did that because yeah chris's scalp was like an item that was circulating
+00:26:13 through the economy for a while I think there were two of them and there's a part where there's
+00:26:20 a part where during a conversation someone like a date date checks her data and it says like yeah
+00:26:25 she's dead she's riddled with bullet holes blah blah blah um so uh I would just like to I I figured
+00:26:34 out how to find a person's uh messages even though their serve their chant their account
+00:26:39 is no longer in the server uh I have not I tried to just search for their at to find like
+00:26:47 commands directed at them like kill kill at cwc 1982 or whatever um and it didn't work so maybe
+00:26:53 there's a way to do it and I just have to figure it out but anyway this is this is the this is the
+00:26:57 endless sycophie and struggle that I find myself in constantly thinking of uh hey what about that
+00:27:04 one thinking of new things like oh I gotta put that in I gotta put that into the index part
+00:27:09 even even as I'm constantly trying to like cut as much as I can because I want to cull it down to
+00:27:14 be the most the cleanest and most the cleanest narrative experience of reading through like
+00:27:20 the this this record as possible I'm trying to cut but I keep thinking of things I want to add
+00:27:27 basically okay I've I've said it I've said it enough ways time to take another bite of my pizza
+00:27:34 I said a bite but I ate the whole thing delightful all right enough I'm sure you don't want to hear
+00:27:40 me talk about my breakfast uh I think maybe I'll just jump right into voicemails I think I've
+00:27:46 prattled on long enough and it probably won't even be that long after all that shit I had to cut
+00:27:51 there's probably what like 20 minutes what can I what can I say there's just not I'm just I can't
+00:27:59 you know uh uh uh uh it's tough you know you you try podcasting you try solo podcasting for uh
+00:28:09 you can't do it it's impossible okay whatever uh anyway speak pipe the first message is called odd
+00:28:14 I think some messages disappear oh wait I didn't no I don't want to no I don't want to read the new
+00:28:20 one piece chat I'll wait until next week and discuss it with gibb now sorry no no one piece
+00:28:26 discussion this week because uh I would just be like uh mm-hmm yep and then that happened and then
+00:28:32 that happened and then that happened um pretty neat okay well that's all I have to say also great
+00:28:39 my internet is uh fucking up did I mention that I'll hopefully have new internet by the 13th
+00:28:44 because you know here here I am and it's doing the thing again where it uh it doesn't load the it
+00:28:48 doesn't fucking load speak pipe even though here here's a funny thing uh yeah I clicked to download
+00:28:54 the message download a speak pipe message and then I clicked to refresh the speak pipe page
+00:29:00 and it did successfully download the message the the the message was was downloaded no problem but
+00:29:06 the website itself uh site can't be reached there's no internet you're not connected to the internet
+00:29:10 my dude so that's great all right first message is called odd I think some messages disappear but
+00:29:17 I also almost spam three two one go oops I mean Pokemon ranger they have two they have a that
+00:29:28 it has a sequel and poke park that has two versions as well they are really good I remember I looked
+00:29:36 these up before Pokemon ranger and poke park poke park we Pikachu's adventure Pikachu must engage
+00:29:43 in battle with a Feraligator in order to befriend it that's when I that's what I see when I go to
+00:29:49 the plot section of the poke park we Pikachu's adventure Wikipedia page is it like an action
+00:29:56 platformer like a 3d you can run around a 3d world and just kick the shit out of other Pokemon to
+00:30:03 befriend them uh Pikachu sent to the poke park with a mythical Pokemon you tells them the 14
+00:30:10 pieces of the sky prism has shattered with his friends Pikachu sets on an adventure to find them
+00:30:16 in the poke park blah blah blah blah does it say genre does it just say what's action adventure
+00:30:25 interesting um looks kind of neat I mean I don't have a we I guess we can emulate it
+00:30:31 but I won't I got other games I want to play I got oh I got Disco Elysium I finally downloaded
+00:30:36 Disco Elysium and I will play that soon but I have not played it yet uh
+00:30:47 maybe I'll stream it I don't know I don't know if I want to stream that one I feel like streaming
+00:30:51 might distract me from the game I feel like I just kind of want to experience that game because
+00:30:56 everyone says it's so it's so good and it seems like it's like a very reading heavy like it's it's a
+00:31:04 it's a from what I gather it's a you know an isometric basically a tech I mean it's I mean I
+00:31:14 don't know I guess there are rules but it's sort of like one of those what the fuck do you call
+00:31:18 games like um like planescape torment uh and I mean it's like an isometric RPG that's very like
+00:31:26 dialogue tree heavy so I don't have streaming that game would really be that good of a way to
+00:31:31 experience it um but anyway uh I'll play it soon next one is called at ask in rules for skin rules
+00:31:42 I think four skin rules three two one go hello PCB remember that one time Aaron from Game Grumps
+00:31:50 floated around the idea of regrowing his foreskin and immediately his bitch wife Susie
+00:31:56 burst in the room screaming about how if he does that she's getting a divorce so uh yeah
+00:32:05 would you regrow your foreskin would you be okay with your girlfriend trying to control your body
+00:32:12 like that I mean I don't remember the exact moment you're talking about I have to imagine that Susie
+00:32:19 was I mean was she serious like that that would be weird that would be weird if she was serious
+00:32:24 about I assume she was joking um I don't care I don't care about my foreskin so uh and also I mean
+00:32:35 let's we're all clear on that we can't regrow it right uh it doesn't it's not me personally
+00:32:44 me personally I think it's fine I wouldn't regrow it if I could I would not have any desire to do
+00:32:49 that it's it uh uh but I mean um uh I hate circumcision you know what we should ban circumcision
+00:32:59 just because I hate talking about it I hate that there's a debate about it uh it's like the most
+00:33:05 annoying uh subject to discuss in the world so I'm against it just because I don't ever want to hear
+00:33:12 about it again that's my that's my new take um nice the next one did I download that one
+00:33:20 yes I did the next one is an imager link so let's freaking look at it shall we the procrastinators
+00:33:28 ben saint hypocrite rebel pixels beska ever I mean yeah those uh I might have mentioned a while ago
+00:33:35 this was a go this was a while ago now but Nate had already not been on the the pcb for a long time
+00:33:41 and I tried to and I removed him from that list and he got mad at me he got angry I don't know why
+00:33:47 so yeah they probably should be removed I think maybe I'll do that again and there's no there's
+00:33:54 no good reason for him to be angry if I try to do that again I'll do that at some point um because
+00:34:00 yeah it's it's me and hippo gibb now uh next one is another imager link uh let's see uh what we got
+00:34:12 yes I mean first of all I mentioned this already that our ad is procrastinators 9667 no I don't
+00:34:17 know why it's like that might have been for the garlinghouse thing yes I know the descriptions
+00:34:21 is under construction I think that's also a brad garlinghouse thing no no it shouldn't say that
+00:34:28 but like what should it say I don't know what are you pointing this out for I know all this I know all
+00:34:35 this uh next one is um let's see here r slash the procrastinators the pin okay I see this actually
+00:34:48 should probably be changed the pinned link on r slash procrastinators is radcon 17 2017 the playlist
+00:34:56 and apparently it's a dead link right because we removed right because we remove the playlists
+00:35:02 the radcon playlist they're now linked wait are they is that a dead link let me let me try it
+00:35:09 yes the playlist does not exist okay you know what that's fair that should not be that should not be
+00:35:13 the pinned should not be pinned on the subreddit uh reddit user reddit user rival underscore
+00:35:21 steven if you're listening uh maybe you could remove that um why is divu a moderator gross
+00:35:31 okay next I mean all right all right guy you make you make a fair point you make a fair point
+00:35:36 next one I'm gonna fucking add the http colon slash slash all right here we go full episode
+00:35:44 pcp playlist multiple missing episodes okay well there's nothing I can do about that one buddy
+00:35:50 because uh a bunch a couple of them have been removed for copyright or something and I can't
+00:35:56 put them I can't put them back on the itunes google play spotify okay okay yeah I know those are out
+00:36:03 of date I've been saying for a while that I need to update them I just haven't gotten around to it yet
+00:36:09 I I know I've been meaning to so but that's why and if you listened you would know that like yes I
+00:36:16 know that those are not up to date and they're missing episodes the google play is apparently a
+00:36:21 dead link okay that's probably fair join the pcb minecraft server yeah I mean maybe this was sent
+00:36:29 late I I already I already removed that part of it uh the and I've replaced it with a um a link
+00:36:37 to the pcb minecraft discord server which is not you don't need to join uh a a patreon to join
+00:36:44 now so that part I already fixed and then the pcb wiki yeah the pcb wiki dead link that one
+00:36:51 probably should be removed because that is a dead link I guess I was hopeful that
+00:36:55 the owner might restore that at some point but that's probably stupid so that one's fair okay
+00:37:03 some of these are valid and some of them are annoying maybe I'm being too sensitive about it
+00:37:12 um I will I know I have not updated the itunes google play spotify feed
+00:37:20 it's really it it's really annoying to do it's really really annoying
+00:37:26 and I know that a few people do want them and would appreciate it and I will do it at some
+00:37:30 point but you got to understand from my perspective it's like a really annoying thing to do that like
+00:37:38 what like 10 like 10 people like 10 fucking people are gonna listen to it that way
+00:37:43 or that's how it seems to me anyway um anyway next one is bus girl speaks out
+00:37:52 it's another fucking imager link and it doesn't include the http so I gotta add it myself
+00:37:59 huh okay bus busera autobus kizi in December okay this is this is this is very funny
+00:38:14 in December 2022 I was approached by it's also a little waiting for my bus despite
+00:38:18 his weird smell and withering hairline I tried to make friendly conversation
+00:38:22 unfortunately he preferred to follow me stammer about horse slime and androids
+00:38:26 only to make the most pathetic attempt at coming on me I have ever experienced I feel
+00:38:29 violated and want to warn every woman on here that he is a sick little freak and a menace to
+00:38:33 women around the globe uh this this is some kind of copypasta right I that that line withering
+00:38:40 hairline I feel like I've seen that before somewhere um honestly this this picture actually
+00:38:48 looks not that dissimilar from how she looked so I guess all the Turkish women all look the same I
+00:38:55 don't know uh this uh good one you freaking you freaking got me you freaking got me with this one
+00:39:03 I have nothing to say but kudos to you sir okay next one spread the cheeks and like the whole
+00:39:11 ugh the scent so pungent okay three two one go Ben if you actually end up doing the digital
+00:39:20 diaspora lecture make sure to mention the sticky piss floor for wiping her teeth with a t-shirt
+00:39:26 instead of brushing them in the time she didn't shower long enough for her scalp to form a uniform
+00:39:31 mass of dead skin blood hair and puss don't forget the weird philosophy of how she is actually so big
+00:39:38 brain mega intelligent that she watches Marvel movies in an avant-garde type of way that she
+00:39:43 adopted in the past six months as a part of the ongoing being online is bad actually project
+00:39:49 also let's say for the sake of argument that someone was able to reverse engineer the location
+00:39:55 of the compound from the videos of bird and trixie petting diseased stray dogs while already
+00:40:00 been through the dump that is Corbin Kentucky already done with menace to women Ben saint
+00:40:06 hypothetically do that information it's already been done and the answer is nothing uh it would be
+00:40:13 really weird if i if i like did anything with that uh so yeah don't bother doing don't bother
+00:40:21 don't bother trying to reverse engineer her house is it's it's done and i'm not doing anything with
+00:40:29 that information just so you know uh but she also doesn't live there anymore i mean i'm convinced
+00:40:35 i'm i'm pretty convinced that like uh she's been kicked out of that house um because she's
+00:40:44 been posting she's been posing from california for like a long time now and uh they don't
+00:40:53 the ye the yeag posters she's she's taken sucker punch out of her bio so i'm pretty sure she's out
+00:40:59 of there either either sucker punch is dead and no longer exists or she is just out of it which
+00:41:06 would mean that she doesn't live in that house anymore i don't know where she lives i think i
+00:41:09 thought she was living with her parents crashing with her parents in california but she i don't
+00:41:14 know recently she's been like on the road again she's driving somewhere i guess maybe she could be
+00:41:18 driving back to Corbin Kentucky to live there again i i don't know why she would do that because
+00:41:24 like i know that they have this tiny little apartment and call it the Corbin crack house
+00:41:29 i know that they have this tiny little apartment and like three other people three people live there
+00:41:39 and i don't think and and that seems like too many already like five people like his bird
+00:41:44 and tricks like that's too many people and they were living there like five people to this one
+00:41:48 bedroom uh little hole uh and that must have sucked really bad and so you know if she's going
+00:41:55 back that would suck really bad too but the fact that the fact that sucker punch is out of the bio
+00:42:00 is what makes me think more than anything that she probably doesn't live in where she's going
+00:42:04 or where she actually lives i don't know maybe she's going back there i have no idea i try to keep
+00:42:08 my finger on the pulse of these things because i find it because i find it funny to watch her um
+00:42:14 um nobody nobody understands uh uh the the humor for me is like every single time she says i'm
+00:42:23 going to do something and like if i pay attention i can see every single time it falls apart and
+00:42:29 doesn't happen um like in yeah in the in her i'm quitting youtube video she said you know
+00:42:36 you we're starting sucker punch you know we're we're a sucker punch we're on Spotify that's
+00:42:41 what we're going to do we're going to be rapping we're a rap group now also uh my day job is going
+00:42:46 to be editing youtube videos for mint salad to sub to promote uh mint salads uh only fans
+00:42:54 uh right and i know that both things didn't happen because now sucker punch is out of the
+00:42:58 bio sucker punch is dead um and uh cranberry dave is mint salads editor and there's absolutely
+00:43:06 no reason why she needs more than one and i'm pretty sure she's been kicked out of that house
+00:43:10 that she was intending to make a living and working in her job so all of that crumbled but in a very
+00:43:16 in a non-public way in a way that you wouldn't know unless you're a genius like me who keeps track of
+00:43:21 everything uh so that's why i do it uh because because i get i get because it always pays off
+00:43:28 it's always gratifying in that way um so well anyway these things um yeah i probably would
+00:43:35 the poor hygiene yeah i probably would mention that i probably would give the example of like
+00:43:40 the gray goo on the head the gray bloody scabby goo on the head the brushing the teeth thing definitely
+00:43:48 um i don't know if i would specifically mention the morrow i mean it
+00:43:52 i probably would not devote that much time of such a hypothetical lecture to the the yig era and the
+00:43:59 post yig era i would pretty much just because like that pretty much is the end right like
+00:44:04 the like i mean on the one hand trixie is digi bro there is there actually is no separation
+00:44:14 between those two despite what she claims because she was never playing a character she was just
+00:44:18 being her the most authentic version of herself that she could on camera and that's what digi
+00:44:24 bro was despite the fact that she claims otherwise now uh nevertheless digi bro as a brand did pretty
+00:44:31 much end it turned out with the um with the yig rebrand because the content dried up or just became
+00:44:40 worthless uh and unnotable and you know the the the enterprise collapsed monetarily and and then
+00:44:51 ultimately was uh officially dissolved so i mean i i i mean i would probably touch upon all the
+00:44:58 stupid i mean it would touch upon like the weird way that the yig channel was organized
+00:45:04 yeah and i probably would talk about like how all her announcements were like how anime is bad guys
+00:45:09 if you still watch anime you're addicted to it and anime is an addiction and you have to break it like
+00:45:13 me you have to figure out that like actually going outside and standing in the woods is like
+00:45:20 real enlightenment and if you're online you're a loser actually uh i mean i would probably i
+00:45:25 would touch on all these i think i would touch on all these things that you've mentioned um
+00:45:29 yeah fair fair enough okay next one oh it's just one image um it's it's munchy saying purple is
+00:45:40 literally such an ugly color i mean i don't know what the i don't know what the context of uh this is
+00:45:48 i mean why would you say purple is such an ugly color that's so dumb i mean i guess it's kind of
+00:45:52 funny how munchy would say it because he's a rowdy and killers and rowdies grouties kill
+00:45:57 killers and killers kill rowdies they don't like each other you don't like purple i get it i get it
+00:46:03 um next one is another image link from ibb.co that's an outside the box choice for an image
+00:46:11 hosting website let's look at it does anyone have any questions okay career day does anyone have
+00:46:17 any questions about being an artist comic artist how much money do you make have you ever had a
+00:46:22 useful job don't robots make comics now what would you do if your drawing hand got mangled
+00:46:29 does anyone have any questions that won't make me cry on the drive home ha ha ha ha
+00:46:34 good one artists poor art worthless ai makes art even more worthless
+00:46:44 what would you do if your drawing hand got mangled i mean drawing hand got mangled that one's fair
+00:46:49 the other the other three are true don't robots make comics now the answer is just no
+00:46:56 because uh nobody's ever made a good ai-generated comic like a painting maybe a comic no except
+00:47:05 except of course for um that one about the hand drawn boyfriend dating his ai girlfriend
+00:47:10 that's the only one that's uh that's good and the only one that ever will be good actually
+00:47:16 uh okay next one is called ben's annual reminder get a job yeah okay thank you next one is called
+00:47:27 the great eight-bit debate three two one go so in episode 342 of the pro crass naters podcast
+00:47:36 one person called in into the voice mills with a little like b-mo sounding ass like ai-generated
+00:47:43 voice talking about ai art and i'm sorry but like the message was really really annoying um
+00:47:52 first of all they go off and they say that people who are like complaining on art station about
+00:47:58 like ai art they're just like looking out for their own job security and they're going against
+00:48:02 progress who are completely disregarding the fact that like all the current ai models that
+00:48:08 produce ai art are completely based on stolen artwork from all across the internet which like
+00:48:15 immediately go fuck yourself for saying that and then on top of that they go with the nonsensical
+00:48:21 point that like oh you know like it's democrat it's democratizing art because you see uh you
+00:48:26 know normally you would be limited by money in order to you know for instance recording you
+00:48:32 know for musicians you would have to buy record recording equipment in order to like record and
+00:48:37 now with with ai music the shit you wouldn't have to do that yeah of course of course that's
+00:48:42 you're right you know we're completely removing the process of having to do anything is is
+00:48:49 absolutely the solution to needing money for recording equipment instead of just fucking i
+00:48:55 don't know just democratizing access to recording equipment fuck you
+00:49:01 hmm i think i agree i mean uh hmm it's kind of uh hmm what point what what are the salient points
+00:49:14 that i can comment on in this voicemail um okay the the thing about uh the thing about like most
+00:49:23 ai is being based on stolen art uh i i that seems true to me but i've i've heard people
+00:49:30 more and more okay there was a video by shat diversity that i didn't i admit i didn't watch the
+00:49:36 whole thing but i started watching it and he was art he was saying he was saying pro ai and now
+00:49:43 you remember that i am amenable to the idea that that ai art can be a an okay thing under the right
+00:49:50 circumstances but not that is not the case if the ai if it's like stolen okay if now all right i
+00:50:00 guess i guess here's he was saying he seemed to be saying it's not stolen or if it is stolen
+00:50:07 oh it's not their fault because they didn't know they were stealing oh they just stole by accident
+00:50:11 it wasn't on purpose and that sounded fucking stupid to me um but i think there was a point
+00:50:19 raised that made me ponder and it was like okay okay okay a lot of these a lot of websites
+00:50:26 i think there are there are websites where when you post art i think sometimes you post under the
+00:50:32 understanding that anything you post is considered creative commons it's it enters into the realm
+00:50:38 of creative commons and i'm not an expert but i think what that means is that other people are
+00:50:43 allowed to use it in certain capacities uh maybe in in just non-commercial capacities i don't know
+00:50:51 but i i guess if you i think i think maybe ai has changed the game a little bit and that maybe now
+00:50:57 maybe people would have been okay posting content under creative commons that now they
+00:51:01 feel that they don't want to do that because uh ai might take advantage of it and i feel like that's
+00:51:08 not necessarily ai's fault and i feel like maybe it's not fair to hold that against it because
+00:51:15 like if it if it's available for use in that way i feel like ai ought to be able to take advantage
+00:51:20 i don't see any reason why i shouldn't so i don't know if there's some if and if ai's are built in
+00:51:26 a way that uses stuff that's already like legally and and and in every sense you know ought to be
+00:51:34 available for people's use um then i think it's good and i don't know if there's any ai's to do
+00:51:40 that because like at the end of the day honestly someone who someone who makes ai an ai program
+00:51:46 or whatever would probably like to claim that and i genuinely i don't trust the the tech bro
+00:51:53 sort of dude who makes a thing like this or what or whatever i don't trust them to tell me oh yeah
+00:52:00 it doesn't use any stolen assets everything it uses creative comments because like of course
+00:52:04 they would say that and frankly the way that i know that it would shake out is that they would
+00:52:09 just say that because they know that it's what they're supposed to say and the onus would be on
+00:52:13 anyone else to prove that they are wrong so someone would have to it's like it's like innocent and
+00:52:19 it's innocent until proven guilty but in like a bad way like really they should have to demonstrate
+00:52:24 that like yeah this thing is not stealing art this thing is operating in a in a in a legal way
+00:52:30 there's a there's a fine line i guess i feel like if um they they i'm getting a little bit
+00:52:37 i'm thinking multiple thoughts at once here um they would have to they would have to
+00:52:42 i feel like they should have to prove and demonstrate that like yeah my system does not steal
+00:52:46 art my system only uses stuff that's creative commons my stuff does not uh infringe on anyone's
+00:52:51 but i think there's not plagiarism there's not a plagiarism machine i feel like they
+00:52:54 should have to demonstrate that first but i know that in practice they would just say that it's not
+00:52:58 until someone proved that it was and that only then would anyone be like oh this is bad because
+00:53:03 because you know if if art theft is the main complaint against ai art now people are going
+00:53:08 to start saying well mine's the one that doesn't do that actually does it is that true who knows
+00:53:13 they're not going to be honest about it um
+00:53:17 all right i i i guess the long and short of it
+00:53:21 i guess the long and short of it is there there are certain cases i'm i'm i'm i'm never okay with
+00:53:26 plagiarism but i am okay with theft under certain circumstances under certain cases
+00:53:33 and so for me to for me to give like an ai my thumbs up i would have to be like really sure
+00:53:39 that it steals only to the only to the extent and only in the cases that i think that's cool to do
+00:53:45 and i just don't have any confidence even even if i am assured of that i don't have any confidence
+00:53:52 in the people that would be doing the assuring uh so yeah i have to i have to just i have to mistrust
+00:53:58 it uh so i think i'm with you on that one okay next one is called final rant i promise three two one
+00:54:06 go and then one other thing too the this might be a little bit more of a controversial opinion
+00:54:12 that i have uh that not everyone agrees with and if they don't that's fine but like for me honestly
+00:54:20 like if you have some kind of creative idea some kind of idea for a video game and artwork a song
+00:54:28 a painting whatever you have some kind of idea that you want to see right and you
+00:54:34 put that into an ai in order to generate it in order to see it provided the ai is created ethically
+00:54:40 you know uh that's fine you know you want to you want to create it you want to look at it good
+00:54:45 i don't care to see it like i genuinely don't care about the creative output of people who
+00:54:51 just want to make the ai make it for them i don't care because you don't care that's the problem
+00:54:59 you don't care enough about this idea to even fucking work at making it what this these are
+00:55:06 just the types of people who are like dude what if the game was like skyrim but it was also like gta
+00:55:12 that would be fricking epic and then they don't know how to code they don't know how to do art
+00:55:16 they don't know how to do voice acting they don't know how to do fucking anything they just want
+00:55:19 to see the idea being created and then like be rewarded for it they're a fucking idea guy that
+00:55:25 that's what this this fucking ai craze feeds a idea guys who don't know how to do fucking anything
+00:55:32 and i am not interested in the least bit in their creative output yeah yeah in in theory i can imagine
+00:55:40 like oh what if what if there's a guy who's using ai generation to any and he's generating like
+00:55:46 oh really cool wacky things that like nobody's ever seen before what if the computer
+00:55:50 is spitting out like some really weird honestly like some of the most interesting ai stuff tends
+00:55:56 to be when it goes wrong and you see like the faulty decision making on of a computer on display
+00:56:02 and you see like the the problems the unique the unique ways that a computer can fail to understand
+00:56:09 how to how to put an image together or or to fail to understand a request usually when a when
+00:56:15 an ai generates an image that is what the person controlling the the the prompts and stuff wanted
+00:56:24 it just it just looks like a painting and yeah i've i've never i've never seen and i don't think
+00:56:31 i ever will see an image that like ooh an artist an artist could never have painted this unless it's
+00:56:38 like the computer just the computer fucked up in a way that like a human just wouldn't think
+00:56:45 a human wouldn't think like this uh what jumps to mind is that image maybe you saw of the
+00:56:53 it's the woman it's like a big titty anime girl but it's like her it's a big titty anime girl
+00:57:00 but coming up she's got huge cleavage right but then you look up at the cleavage and the cleavage
+00:57:06 becomes uh her legs and like her legs uh uh and like her an entire other woman is like sticking
+00:57:13 out of the neckline because it interpreted the cleavage of the boobs as like the the cleavage of
+00:57:19 like the the the the the crotch and and the legs pressed together and so it like made these this
+00:57:24 weird fucking chimera um and that's awesome you know yeah i don't know in in theory if someone
+00:57:30 were had a really great had really great aesthetic taste and they were generating images that looked
+00:57:35 really amazing and they had like lots of visual ideas going on in them ideas that i hadn't seen
+00:57:39 before and i looked at them and i go oh interesting oh interesting you know that's fine and all in
+00:57:45 practice that's not what i see out of out of the uh the ai people at at best they generate things
+00:57:54 that look like somebody painted them uh which is uh fine um next one is uh another image or link
+00:58:04 okay and this guy included the http and i appreciate that because that means i don't have to type it
+00:58:10 hey sugar tits i heard your dog jin artist ghosted you i'll draw one for you for only 500
+00:58:17 dollars i'm superius to the previous guy because i don't watch anime um is this like a pun on dojin
+00:58:27 oh it's because it's because ed ghosted it's because ed ghosted on the uh the thing yeah um
+00:58:35 kaijuku is working on it uh very slowly uh but he did show me a little bit a tiny little bit of
+00:58:43 progress there's literally like three pages left to draw and he has drawn like it took him like a
+00:58:49 month to draw like a quarter of one of them so you know we're going we're going next one is uh
+00:58:58 whatever it's another image i'm ben saint yeah this was my my legendary banger i'm ben saint tweet
+00:59:06 and then michelle is that supposed to impress me and then i guess this is me and her
+00:59:15 and i'm a chad and she's a a coffee drinking emo boy yeah true i guess definitely true um next one
+00:59:25 is another uh thing uh let's look at it the boy i don't know yeah makes like being
+00:59:38 this is good this this fucking rules man uh yeah this this is this one's 10 out of 10
+00:59:47 munchie sneering uh that's good that's good shit that's what they call the good shit all right i
+00:59:57 appreciate this one i appreciate this one a lot okay next one next one is called follow up to not
+01:00:04 my voicemail three two one go so a few months ago someone asked ben if gib was his best friend
+01:00:13 and while he said no i was surprised he did not mention munchie at all is munchie not your
+01:00:18 best friend inquiring minds would like to know i i yeah i don't think i would say that i have like
+01:00:26 a best friend that is my best friend that i would place on like a higher tier than any of my other
+01:00:31 friends i'm sorry uh yeah i mean me munchie hang out would i say that like would i definitively
+01:00:39 say like oh yeah i'm better friends with munchie than i am with gib not not really no i wouldn't
+01:00:46 uh yeah yeah man i don't believe in i don't believe in the hierarchy
+01:00:54 i'm a communist uh next one is called i thought i fixed it sincerely three two one go
+01:01:00 am i the tin can man
+01:01:04 then that that's kind of sick i'm a character base the tin can man i think you are the tin can man
+01:01:15 tom you're tom right i think your name's tom pretty sure you are the tin can man yeah
+01:01:21 this is good congratulations uh next one is called get them tiger three two one go
+01:01:27 the fire tail guy is gonna make another thing honestly pretty cool what are you
+01:01:35 who are you talking about who is the fire tail guy i have no the fire tail guy i have no idea
+01:01:42 who that is i'm sorry uh next one is called this is so sad can we eat this is so sad can we eat
+01:01:52 our green gurns uh okay there's a youtube link i usually don't look at youtube links but
+01:02:00 just for you let's let's see what what is this
+01:02:05 okay it's it's the it's the you've got to eat your greens song with the major is
+01:02:09 mad the the the ocarina of time song okay his voicemail three two one go i was replaying ocarina
+01:02:16 of time and i i i walked in the kakariko village and all that was running through my head was
+01:02:26 you've got to eat your greens and i just gonna take it i started sobbing the memories of the
+01:02:37 yesteryears of pcp all came flooding back and they'll never be the same again
+01:02:50 yeah yeah man nothing's ever the same
+01:02:56 i'm glad i'm glad it made you cry uh okay uh good good one uh
+01:03:05 kakariko village yeah that's that's that's the that's the song
+01:03:14 okay i'm almost done with this nightmare um next one is called uh will i will i even
+01:03:20 hit an hour will i even hit a goddamn hour on this episode uh might even be i'm not um maybe
+01:03:26 next one is called cake uh well there's an image and a voicemail so i'll look at the image first
+01:03:33 what would we got here it's that girl from that webcomic that no one has yet told me what the
+01:03:39 webcomic is uh holding a cake time for some k it's time for some cake my dear it's time for
+01:03:47 yep yep yep yep uh let's listen to the voicemail uh three two one go
+01:03:53 attention everybody celestia swat swat fed bare wobbly ass 50 kilometers away to the left
+01:04:02 go that direction you will see the mountains of celestia great bare wobbly ass
+01:04:17 i want it yeah i i understand i understand what you're saying uh i do want it it's good um
+01:04:37 um thanks for noticing uh won't somebody please listen somebody's gotta know what
+01:04:49 this fucking webcomic is okay somebody tell me every week that goes by i just hate myself
+01:04:57 more and more because i can't i should know what this fucking comic is called i saw it years ago
+01:05:05 i'm something awful
+01:05:10 okay next one is called brony pavia lombardi italy three two one go
+01:05:18 some bastard in the comments probably already pointed this out but i don't read those oblivion
+01:05:22 i appreciate that the backing track to homo genius was europe brony's diamond dogs i haven't
+01:05:26 thought about that song in ages europe beat brony's diamond dogs i mean okay i know who europe
+01:05:33 brony is i might not have recognized the song uh well thanks for pointing that out uh
+01:05:40 brony pavia lombardi i assume that's a real place uh you know good good uh good you know
+01:05:48 an informative uh informative comment uh appreciate it um okay well that's uh that's the last uh
+01:05:56 that's the last uh that's the last voicemail we're done uh i everyone i'm sorry i apologize
+01:06:05 profusely for making you listen to me um again but i had no choice i had no choice if i don't
+01:06:14 listen if i don't put out a procrastinator's podcast we already miss christmas we miss the
+01:06:19 christmas weekend and if i miss another one squatters writes kick in and brad garling has
+01:06:25 gets the channel back i'm sorry so i have to keep i have to keep on the ball with it i have to
+01:06:30 release content even if everyone hates it in its dog shit as as obviously is the case this week
+01:06:38 you gotta understand there's legal we gotta set legal precedent um all right but i've said all
+01:06:44 i have to say this week um read one piece catch up on one piece and then uh we will talk maybe
+01:06:51 we'll have two chapters to talk about next week um for some of that bonus shit that i can't talk
+01:06:59 about that i had to cut from this episode um become a patron patreon.com such that procrastinators
+01:07:05 get access to what like 52 53 former episodes and a new one at some point in the future um
+01:07:15 um we will we will be doing some bonus stuff when the last of that rad con shit is finally done
+01:07:22 which i can't i can't exactly say how soon but much like one piece ending we're closer to it
+01:07:28 happen we're closer to it happening than we are to the beginning uh hopefully closer than that
+01:07:36 that's that's probably still years away i probably shouldn't make that comparison
+01:07:40 um i think that's everything i have to say um um um thanks for listening i'm done i could call it
+01:07:49 yep okay uh goodbye and uh see you next week peace
