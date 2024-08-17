@@ -1,20 +1,17 @@
 const sqlite3 = require('sqlite3').verbose();
 const fs = require('fs');
 const path = require('path');
-const { JSDOM } = require('jsdom');
 
-const htmlContent = fs.readFileSync('episode-list-links.txt', 'utf8');
-// Parse the HTML content
-const dom = new JSDOM(htmlContent);
-const document = dom.window.document;
-// Extract data
-const links = document.querySelectorAll('p > a');
-const episodes = Array.from(links).map(link => {
-  const href = link.getAttribute('href');
-  const fileName = href.replace('mp3s/', '').replace('.mp3', '');
-  const innerHTML = link.innerHTML;
-  return { fileName, innerHTML };
-});
+const links = fs.readFileSync('episode-list-links.txt', 'utf8').split('\n').map(link => {
+    const pattern = /<a href="mp3s\/([^"]+)" download>(.+) \((.+)\)/;
+    const matches = link.match(pattern);
+    if (matches) {
+      const { 1: fileName, 2: title, 3: date } = matches;
+      const dateObject = new Date(`${date.substring(0, 2)}/${date.substring(3, 5)}/${date.substring(6)}`);
+      const json = { fileName, title, date: dateObject };
+      return json;
+    }
+  }).filter(link => link);
 
 
 // Create or open the database
@@ -22,20 +19,21 @@ const db = new sqlite3.Database('db_output/pcp-archive-search.db');
 
 // Create FTS table with additional columns
 db.serialize(() => {
-
   db.run(`
     CREATE TABLE IF NOT EXISTS episodes (
       id INTEGER PRIMARY KEY AUTOINCREMENT,
       fileName TEXT NOT NULL,
-      title TEXT NOT NULL
+      title TEXT NOT NULL,
+      date DATE
     )
   `);
 
   // Insert data
-  const stmt = db.prepare("INSERT INTO episodes (fileName, title) VALUES (?, ?)");
+  const stmt = db.prepare("INSERT INTO episodes (fileName, title, date) VALUES (?, ?, ?)");
 
-  episodes.forEach(episode => {
-    stmt.run(episode.fileName, episode.innerHTML);
+  links.forEach(episode => {
+    console.log(episode)
+    stmt.run(episode.fileName, episode.title, episode.date);
   });
 
   db.run("CREATE VIRTUAL TABLE IF NOT EXISTS srt USING fts5(filename, block_number, start_time, text)");
@@ -72,12 +70,12 @@ db.serialize(() => {
     stmt.finalize();
   }
 
-  // Read and insert all SRT files from the 'srt_output' directory
-  // fs.readdirSync('./srt_output').forEach(file => {
-  //   if (path.extname(file) === '.srt') {
-  //     insertData(path.join('./srt_output', file));
-  //   }
-  // });
+  // Read and insert all SRT files from the 'srt_output' directory (this takes a while. an hour?)
+  fs.readdirSync('./srt_output').forEach(file => {
+    if (path.extname(file) === '.srt') {
+      insertData(path.join('./srt_output', file));
+    }
+  });
   
   console.log('Database setup.');
 });
